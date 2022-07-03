@@ -22,7 +22,7 @@ class Utterance:
         return str(self.speaker + " " + self.text + " " + self.da_label)
 
 
-def process_transcript(transcript, moves_g, moves_f, excluded_chars, excluded_tags):
+def process_transcript(transcript, moves_g, moves_f, excluded_chars, excluded_tags, concat_per_speaker=True):
 
     # Extract speakers DA's from the 'moves' files
     moves_g = get_da_list(moves_g)
@@ -62,9 +62,35 @@ def process_transcript(transcript, moves_g, moves_f, excluded_chars, excluded_ta
     conversation_id = transcript[1].split(' ')[1].replace(';', '')
     num_utterances = len(utterances)
 
+    # Concatenate utterances so there is only one per speaker
+    if concat_per_speaker:
+      utterances = concatenate_per_speaker(utterances)
+
     dialogue = Dialogue(conversation_id, num_utterances, utterances)
     return dialogue
 
+def concatenate_per_speaker(utterances):
+  prev_utt = None
+  for utt in list(utterances):
+    # Skip empty utterances, if any
+    if len(utt.text) < 1:
+        continue
+    
+    # Initialize for the first uttr.
+    if not prev_utt:
+      prev_utt = utt
+      continue  
+    
+    # Same speaker
+    if utt.speaker == prev_utt.speaker:  
+      prev_utt.text = prev_utt.text.strip() + " " + utt.text.strip() 
+      prev_utt.da_label = prev_utt.da_label + " " + utt.da_label
+      # Remove utt from the same speaker
+      utterances.remove(utt)
+    else:
+      prev_utt = utt
+       
+  return utterances
 
 def get_da_list(moves):
     da_list = []
