@@ -1,12 +1,8 @@
-g|right|ready
-g|you start off|instruct
-g|have you got a stony desert|query_yn
-f|mmhmm|reply_y
-f|just above it the start is|check
+g|right you start off have you got a stony desert|ready instruct query_yn
+f|mmhmm just above it the start is|reply_y check
 g|right uh-huh|reply_y
 f|right|acknowledge
-g|okay|ready
-g|now you're going along left right towards the left of the page and you kind of go round the stony desert and down|instruct
+g|okay now you're going along left right towards the left of the page and you kind of go round the stony desert and down|ready instruct
 f|mmhmm|acknowledge
 g|to so you're level with the bottom of the stony desert|instruct
 f|mmhmm|acknowledge
@@ -14,22 +10,17 @@ g|and you keep going right along to the left 'til you're about an inch away from
 f|mmhmm|acknowledge
 g|eh do you have a site of a plane crash|query_yn
 f|no|reply_n
-g|ehm that should be just above your line|explain
-g|and you're going about two and a half inches up|instruct
+g|ehm that should be just above your line and you're going about two and a half inches up|explain instruct
 f|mmhmm|acknowledge
 g|still should be about an inch away from the left-hand side|instruct
 f|mmhmm|acknowledge
 g|ehm about two and a half inches straight along to the right|instruct
 f|beneath the collapsed shelter|query_yn
-g|no|reply_n
-g|it's actually above just above|instruct
+g|no it's actually above just above|reply_n instruct
 f|so i'm going above the collapsed shelter|check
 g|uh-huh|reply_y
-f|that's more than two and a half inches surely|check
-f|have you got a waterhole next to the collapsed shelter|query_yn
-g|no|reply_n
-g|right|ready
-g|and you're going above the collapsed shelter and down ehm just right next to the "r" of the collapsed shelter|instruct
+f|that's more than two and a half inches surely have you got a waterhole next to the collapsed shelter|check query_yn
+g|no right and you're going above the collapsed shelter and down ehm just right next to the "r" of the collapsed shelter|reply_n ready instruct
 f|mmhmm okay|acknowledge
 g|right|align
 f|mmhmm|reply_y
@@ -51,56 +42,36 @@ g|is it|check
 f|right have you got hot springs|query_yn
 g|no|reply_n
 f|you got elephants|query_yn
-g|oh|reply_w
-g|no|reply_n
+g|oh no|reply_w reply_n
 f|you don't have either ehm|check
 g|do you have a slate mountain|query_yn
-f|no|reply_n
-f|where's the slate mountain|query_w
-g|it should be just to the left of your line now|reply_w
-g|anyway you should be about halfway up|instruct
-f|okay just now i'm just|explain
-f|just now i'm going up you know to the left-hand side of the savannah|explain
-f|okay|align
-g|right|reply_y
-g|you|instruct
-f|i have got a site of a plane crash but it's it's near the top right|explain
-f|have you got one there no|query_yn
+f|no where's the slate mountain|reply_n query_w
+g|it should be just to the left of your line now anyway you should be about halfway up|reply_w instruct
+f|okay just now i'm just just now i'm going up you know to the left-hand side of the savannah okay|explain explain align
+g|right you|reply_y instruct
+f|i have got a site of a plane crash but it's it's near the top right have you got one there no|explain query_yn
 g|uh-huh|reply_y
 f|oh you have right okay|acknowledge
-g|yeah|reply_y
-g|now|ready
-g|you should be going along to your left|instruct
-f|above the hot springs beneath the antelopes|check
-f|have you got antelopes no|query_yn
-g|no|reply_n
-g|no you shouldn't be as far up as that|instruct
-f|yeah|ready
-f|but if i'm going up to my left from half halfway up the page surely i mean am am i supposed to be halfway up the page|check
-f|i'll tell you when i am i'm not there yet|explain
-g|right|acknowledge
-g|not quite|reply_n
-g|are your antelopes kind of ehm in the centre if you go down|query_yn
+g|yeah now you should be going along to your left|reply_y ready instruct
+f|above the hot springs beneath the antelopes have you got antelopes no|check query_yn
+g|no no you shouldn't be as far up as that|reply_n instruct
+f|yeah but if i'm going up to my left from half halfway up the page surely i mean am am i supposed to be halfway up the page i'll tell you when i am i'm not there yet|ready check explain
+g|right not quite are your antelopes kind of ehm in the centre if you go down|acknowledge reply_n query_yn
 f|yeah|reply_y
 g|uh-huh|acknowledge
 f|uh-huh|reply_y
-g|well|ready
-g|you you shouldn't be as as far as that|instruct
+g|well you you shouldn't be as as far as that|ready instruct
 f|i'm not as far up as that|explain
 g|right okay|acknowledge
 f|that that's above halfway up the page|explain
-g|uh-huh i know|acknowledge
-g|right|ready
-g|and then along to your left about|instruct
+g|uh-huh i know right and then along to your left about|acknowledge ready instruct
 f|have you got a white mountain to the left of the antelopes no|query_yn
 g|yeah|reply_y
 f|you have right so|acknowledge
 g|uh-huh|reply_y
 f|do i go along as far as that|query_yn
-g|no no|reply_n
-g|you're not you're not up there yet|instruct
-f|right okay|ready
-f|where am i then|query_w
+g|no no you're not you're not up there yet|reply_n instruct
+f|right okay where am i then|ready query_w
 g|okay you're you're down a wee bit from there|reply_w
 f|yeah okay|acknowledge
 g|down from the antelopes and you're kind of along at the right|clarify
@@ -109,120 +80,83 @@ g|yeah|reply_y
 f|how far down many inches|query_w
 g|about two|reply_w
 f|right okay|acknowledge
-g|an inch and a half|reply_w
-g|right|align
+g|an inch and a half right|reply_w align
 f|right|reply_y
 g|and you're going along to your left about an inch and a half|instruct
 f|mmhmm|acknowledge
-g|ehm you want a|instruct
-g|do you have hot wells|query_yn
+g|ehm you want a do you have hot wells|instruct query_yn
 f|no|reply_n
-g|you're wanting a a sloping line down to your left ehm about an inch and a half down a kind of forty-five degree line|instruct
-g|right|align
-f|so i'm halfway up the page|explain
-f|okay|align
-f|my line's just straight up and down at the moment|explain
-f|so i go left for how how far how far left|query_w
-f|i mean do i go beneath the antelopes i mean i i don't mean right beneath them but in underneath er you know in line with them no|query_yn
-g|right|ready
-g|see if you if you put your finger at the antelopes and go straight down|instruct
-g|right|align
+g|you're wanting a a sloping line down to your left ehm about an inch and a half down a kind of forty-five degree line right|instruct align
+f|so i'm halfway up the page okay my line's just straight up and down at the moment so i go left for how how far how far left i mean do i go beneath the antelopes i mean i i don't mean right beneath them but in underneath er you know in line with them no|explain align explain query_w query_yn
+g|right see if you if you put your finger at the antelopes and go straight down right|ready instruct align
 f|mmhmm|reply_y
 g|your line should be kind of meeting there|instruct
 f|mmhmm right okay|acknowledge
-g|right|align
-g|and then that's where it starts going down|instruct
-f|right|acknowledge
-f|right okay that's fair enough right|acknowledge
+g|right and then that's where it starts going down|align instruct
+f|right right okay that's fair enough right|acknowledge acknowledge
 g|right|align
 f|i've got hot springs doesn't say hot wells|explain
-g|well|ready
-g|maybe it's same thing|explain
+g|well maybe it's same thing|ready explain
 f|where is it like southwest of the antelopes but about three inches or so three or four inches|query_yn
 g|yeah uh-huh|reply_y
 f|right i know where that is then|acknowledge
-g|what right|ready
-g|you're going you going underneath that|instruct
-g|right|align
+g|what right you're going you going underneath that right|ready instruct align
 f|underneath that|check
 g|underneath underneath the hot wells|reply_y
 f|right okay|acknowledge
 g|ehm down again about an inch|instruct
 f|right|acknowledge
-g|and then kind of round to your left|instruct
-g|so you're about half an inch away from the side of the page|instruct
-f|mmhmm|acknowledge
-f|yeah that's it beneath the elephants on my map here|explain
+g|and then kind of round to your left so you're about half an inch away from the side of the page|instruct instruct
+f|mmhmm yeah that's it beneath the elephants on my map here|acknowledge explain
 g|right|acknowledge
 f|you don't have those do you|check
 g|no i don't have elephants|reply_n
-f|right okay|acknowledge
-f|right okay i know where you are now|acknowledge
+f|right okay right okay i know where you are now|acknowledge acknowledge
 g|right|ready
 f|i've got i've drawn the line to there right|acknowledge
 g|do you have do you have your white mountain|align
-f|yeah|reply_y
-f|but that's a that's a good good way above this where i am just now|explain
-g|right uh-huh|acknowledge
-g|well well|ready
-g|you go right up|instruct
+f|yeah but that's a that's a good good way above this where i am just now|reply_y explain
+g|right uh-huh well well you go right up|acknowledge ready instruct
 f|right|acknowledge
 g|past the side of the white mountain|instruct
 f|right|acknowledge
 g|okay|align
 f|right|reply_y
-g|ehm|ready
-g|kind of so you're level with the top of the white mountain|instruct
+g|ehm kind of so you're level with the top of the white mountain|ready instruct
 f|mmhmm that's where i am now|acknowledge
-g|and|ready
-g|maybe about two inches|instruct
+g|and maybe about two inches|ready instruct
 f|to the left of it|query_yn
-g|no no|reply_n
-g|you're wanting another two inch line straight up from there|instruct
+g|no no you're wanting another two inch line straight up from there|reply_n instruct
 f|have you got round rocks|query_yn
 g|no|reply_n
-f|you don't|acknowledge
-f|okay|ready
-f|i'll i'll draw two inches more right|acknowledge
+f|you don't okay i'll i'll draw two inches more right|acknowledge ready acknowledge
 g|right okay|acknowledge
 f|right|acknowledge
 g|and you should be not far off the top of the page|instruct
-f|not far from the top of the page right|acknowledge
-f|how far two inches|query_yn
+f|not far from the top of the page right how far two inches|acknowledge query_yn
 g|uh-huh|reply_y
 f|right okay done that|acknowledge
-g|right|align
-g|and you're about two and a half inches along to your right just a straight line|instruct
-g|do you have a lake|query_yn
+g|right and you're about two and a half inches along to your right just a straight line do you have a lake|align instruct query_yn
 f|yeah|reply_y
-g|right|acknowledge
-g|you're wanting to go kind of to the to the edge of the the left-hand side of your lake|instruct
+g|right you're wanting to go kind of to the to the edge of the the left-hand side of your lake|acknowledge instruct
 f|that's about six inches|explain
-g|no|reply_n
-g|it's not|explain
-f|so i|ready
-f|i go from the left-hand side of the page to the left-hand side of the lake|check
+g|no it's not|reply_n explain
+f|so i i go from the left-hand side of the page to the left-hand side of the lake|ready check
 g|uh-huh|reply_y
 f|just a straight line or you know|check
-g|yeah|reply_y
-g|a straight line along to your right|clarify
-f|so you don't have round rocks|check
-f|that that would be me going above the round rocks it must be|explain
-g|no i|reply_n
-g|no i don't have any rocks|reply_n
+g|yeah a straight line along to your right|reply_y clarify
+f|so you don't have round rocks that that would be me going above the round rocks it must be|check explain
+g|no i no i don't have any rocks|reply_n reply_n
 f|must be|explain
 g|and you go to the right right round your lake|instruct
 f|just follow it round|check
-g|uh-huh|reply_y
-g|well well|ready
-g|see when you get to the the bottom most part of your lake|align
+g|uh-huh well well see when you get to the the bottom most part of your lake|reply_y ready align
 f|mmhmm|reply_y
 g|instead of going up towards|instruct
 f|where it says lake|check
 g|uh-huh|reply_y
 f|mmhmm|acknowledge
-g|you just kind of you don't make it a full circle you just keep going round|instruct
-g|so that ehm your line is kind of of an inch away from the line where you started|instruct
+g|you just kind of you don't make it a full circle you just keep going round so that ehm your line is kind of of an inch away from the line where you started|instruct instruct
 f|mmhmm|acknowledge
 g|see what i mean|align
 f|right okay|acknowledge
@@ -230,10 +164,8 @@ g|mmhmm|acknowledge
 f|mmhmm|acknowledge
 g|do you have roman baths|query_yn
 f|no|reply_n
-g|right|ready
-g|your line should be going above them ehm you want to go down again maybe about three inches|instruct
-f|mmhmm|acknowledge
-f|where are the roman baths|query_w
+g|right your line should be going above them ehm you want to go down again maybe about three inches|ready instruct
+f|mmhmm where are the roman baths|acknowledge query_w
 g|roman|reply_w
 f|exactly|query_w
 g|roman baths are ehm just underneath your lake|reply_w
@@ -241,19 +173,15 @@ f|where it says lake|check
 g|uh-huh|reply_y
 f|so i draw the line beneath where it says lake|check
 g|yeah|reply_y
-f|right okay|acknowledge
-f|and down again|check
+f|right okay and down again|acknowledge check
 g|and have you got antelopes|query_yn
 f|yeah|reply_y
-g|right|ready
-g|you're wanting take your line down to the left of the antelopes|instruct
+g|right you're wanting take your line down to the left of the antelopes|ready instruct
 f|right okay|acknowledge
 g|as far as it says antelope|instruct
 f|right done that|acknowledge
 g|and then about another two inch line to your right straight along and that's you finished|instruct
 f|where's the where's the cross then near the antelopes|query_yn
-g|uh-huh|reply_y
-g|about two inches to the right well about inch and a half|clarify
+g|uh-huh about two inches to the right well about inch and a half|reply_y clarify
 f|right okay got it|acknowledge
-g|right|ready
-g|finished|align
+g|right finished|ready align

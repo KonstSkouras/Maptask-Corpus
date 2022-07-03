@@ -1,37 +1,24 @@
-g|okay ehm|ready
-g|your start is above the caravan park|instruct
+g|okay ehm your start is above the caravan park|ready instruct
 f|uh-huh|acknowledge
-g|now|ready
-g|you've to head down ehm on the left of the caravan park right beside the edge of the page|instruct
+g|now you've to head down ehm on the left of the caravan park right beside the edge of the page|ready instruct
 f|okay|acknowledge
 g|right down to|instruct
 f|at a slant or|query_yn
-g|no|reply_n
-g|just straight down|clarify
+g|no just straight down|reply_n clarify
 f|straight down right straight down|acknowledge
 g|very near about an inch away from the bottom of the page|instruct
 f|ehm over the picket fence|query_yn
 g|ehm don't know|reply_w
-f|right|ready
-f|i'll just go down it|explain
-g|right|ready
-g|just down to about an inch and then turn into the page sort of|instruct
-f|oh|acknowledge
-f|mmhmm|acknowledge
-g|to your right or whatever|instruct
-g|now|ready
-g|do you see an old mill|query_yn
-f|yeah|reply_y
-f|mill no|reply_n
-f|i have a mill wheel|explain
-g|mm well|acknowledge
-g|is it sort of down and to the left of the caravan park|query_yn
-f|uh-huh|reply_y
-f|it's at a like at a diagonal from the caravan|explain
+f|right i'll just go down it|ready explain
+g|right just down to about an inch and then turn into the page sort of|ready instruct
+f|oh mmhmm|acknowledge acknowledge
+g|to your right or whatever now do you see an old mill|instruct ready query_yn
+f|yeah mill no i have a mill wheel|reply_y reply_n explain
+g|mm well is it sort of down and to the left of the caravan park|acknowledge query_yn
+f|uh-huh it's at a like at a diagonal from the caravan|reply_y explain
 g|yeah|acknowledge
 f|right|acknowledge
-g|well right|ready
-g|you'll have to go over that then and you you go out|instruct
+g|well right you'll have to go over that then and you you go out|ready instruct
 f|so you want me to go straight along to the left and then up|check
 g|yeah that's right|reply_y
 f|okay|acknowledge
@@ -39,36 +26,25 @@ g|and go over that|instruct
 f|mmhmm|acknowledge
 g|and then turn to your right going across the page|instruct
 f|mmhmm|acknowledge
-g|now|ready
-g|can you see an abandoned cottage|query_yn
-f|yeah|reply_y
-f|but there's a forest as well|explain
-f|how far along do you want me to go|query_w
-g|ehm well|ready
-g|i want you to go like very all the way along underneath the abandoned cottage but you're still a long way down|reply_w
+g|now can you see an abandoned cottage|ready query_yn
+f|yeah but there's a forest as well how far along do you want me to go|reply_y explain query_w
+g|ehm well i want you to go like very all the way along underneath the abandoned cottage but you're still a long way down|ready reply_w
 f|uh-huh right|acknowledge
 g|uh-huh right|align
 f|right okay|reply_y
-g|now|ready
-g|is the forest in your way|query_yn
+g|now is the forest in your way|ready query_yn
 f|uh-huh|reply_y
-g|ehm right|ready
-g|if you were to go past the bottom of the abandoned cottage and then go up|instruct
+g|ehm right if you were to go past the bottom of the abandoned cottage and then go up|ready instruct
 f|mmhmm|acknowledge
 g|could you do that|query_yn
-f|uh-huh|reply_y
-f|how far up do you want me to go|query_w
+f|uh-huh how far up do you want me to go|reply_y query_w
 g|i want you to go up over the abandoned cottage|reply_w
 f|okay right|acknowledge
-g|right|ready
-g|and then you've to come down say to the bottom of it but you're you're slanting to your left like forty-five degrees|instruct
+g|right and then you've to come down say to the bottom of it but you're you're slanting to your left like forty-five degrees|ready instruct
 f|okay right|acknowledge
 g|just above a fenced meadow|query_yn
 f|ehm no|reply_n
-g|have you got that|query_yn
-g|no right okay|acknowledge
-g|well come down about forty-five degrees about|instruct
-g|two inches away from abandoned cottage|instruct
+g|have you got that no right okay well come down about forty-five degrees about two inches away from abandoned cottage|query_yn acknowledge instruct instruct
 f|mmhmm|acknowledge
 g|now you're still heading to your left|instruct
 f|mmhmm|acknowledge
@@ -76,37 +52,27 @@ g|ehm you're doing sort of a a very it's a big circle heading up towards bottom 
 f|yeah|acknowledge
 g|you see that|align
 f|so you want a big circle|check
-g|yeah|reply_y
-g|now|ready
-g|you know where the bottom sticks out|align
+g|yeah now you know where the bottom sticks out|reply_y ready align
 f|uh-huh|reply_y
-g|well|ready
-g|you've got to go up to that point and then follow it round|instruct
+g|well you've got to go up to that point and then follow it round|ready instruct
 f|right|ready
 g|so you do|instruct
 f|i'm up to this point right of the bottom of the west lake|explain
 g|uh-huh|acknowledge
 f|and then what do i do|query_w
-g|now|ready
-g|have you got a trig point|query_yn
-g|right|ready
-g|right you follow it round to where it the west lake starts to turn in again and then|instruct
+g|now have you got a trig point right right you follow it round to where it the west lake starts to turn in again and then|ready query_yn ready instruct
 f|where there's a sort of like ehm a dip a crag sort of thing there's two sort of peaks|check
-g|yeah|reply_y
-g|don't go that far|instruct
+g|yeah don't go that far|reply_y instruct
 f|right|acknowledge
 g|just go to where it before it turns to the left|instruct
 f|right okay|acknowledge
-g|right|ready
-g|and then go over the trig point|instruct
+g|right and then go over the trig point|ready instruct
 f|trig point|query_w
 g|you haven't got one|check
 f|i haven't got one|reply_n
-g|right okay|ready
-g|go to that point and then turn to your right|instruct
+g|right okay go to that point and then turn to your right|ready instruct
 f|right|acknowledge
-g|right|ready
-g|now you've got to go all the way down again like about forty-five degrees to your right|instruct
+g|right now you've got to go all the way down again like about forty-five degrees to your right|ready instruct
 f|mmhmm|acknowledge
 g|back down to the level the abandoned cottage now you should about three four inches away from that|instruct
 f|okay|acknowledge
@@ -114,37 +80,27 @@ g|have you got a monument|query_yn
 f|yeah|reply_y
 g|yeah|acknowledge
 f|i i'm directly opposite the monument|explain
-g|uh-huh|acknowledge
-g|well|ready
-g|i want you to go underneath the monument|instruct
+g|uh-huh well i want you to go underneath the monument|acknowledge ready instruct
 f|in a sort of like circle shape|check
-g|yeah|reply_y
-g|underneath it and then straight back round it again you're going halfway round monument|clarify
+g|yeah underneath it and then straight back round it again you're going halfway round monument|reply_y clarify
 f|right|acknowledge
-g|now|ready
-g|got a nuclear test site|query_yn
+g|now got a nuclear test site|ready query_yn
 f|nope|reply_n
-g|no|acknowledge
-g|right|ready
-g|east lake|align
+g|no right east lake|acknowledge ready align
 f|uh-huh|reply_y
 g|you've got to do go slightly to the right in a small curve|instruct
 f|mmhmm|acknowledge
-g|and then no no no|instruct
-g|left and down that's right|explain
+g|and then no no no left and down that's right|instruct explain
 f|left|acknowledge
 g|to the left and then head up to east lake|instruct
-f|right|acknowledge
-f|how far up to east lake|query_w
+f|right how far up to east lake|acknowledge query_w
 g|ehm almost right to it just right beside it|reply_w
 f|okay|acknowledge
 g|you should be practically in the middle you know well you're further to the to the right of|reply_w
 f|uh-huh|acknowledge
-g|east lake|reply_w
-g|now head along beside east lake|instruct
+g|east lake now head along beside east lake|reply_w instruct
 f|mmhmm|acknowledge
-g|and then about a centimetre past where it goes up you should be at the finish|instruct
-g|and that's it|instruct
+g|and then about a centimetre past where it goes up you should be at the finish and that's it|instruct instruct
 f|ehm it's sort of like parallel to the east lake|check
 g|parallel to east lake|reply_y
 f|right|acknowledge

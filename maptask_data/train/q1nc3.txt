@@ -1,272 +1,180 @@
 f|right|ready
-g|right|ready
-g|well the start is|instruct
+g|right well the start is|ready instruct
 f|i know the start it's marked down here|explain
 g|ah is it the same|check
-f|mmhmm right|reply_y
-f|the diamond mine|check
+f|mmhmm right the diamond mine|reply_y check
 g|mmhmm|reply_y
 f|right|acknowledge
 g|so you're going vertically downwards about|instruct
-f|well|ready
-f|where are we going to first|query_w
+f|well where are we going to first|ready query_w
 g|eh|query_w
 f|where are we going|query_w
 g|where are we finishing|check
-f|no|reply_n
-f|where where have we to go by|query_w
-f|i mean is have you got have you got a walled city|query_yn
-g|uh-huh|acknowledge
-g|a walk city|check
+f|no where where have we to go by i mean is have you got have you got a walled city|reply_n query_w query_yn
+g|uh-huh a walk city|acknowledge check
 f|a walled city|clarify
-g|yes|reply_y
-g|but it's further down the page|explain
+g|yes but it's further down the page|reply_y explain
 f|ehm have you got a desert have you got a desert on the right-hand side|query_yn
-g|uh-huh|reply_y
-g|there's a desert|reply_y
+g|uh-huh there's a desert|reply_y reply_y
 f|the left-hand side i mean|query_yn
 g|on the left-hand side uh-huh|reply_y
-f|uh-huh|acknowledge
-f|underneath the diamond mine|check
-g|underneath|reply_y
-g|to the left|explain
-f|uh-huh|acknowledge
-f|so do you go by a desert|query_yn
+f|uh-huh underneath the diamond mine|acknowledge check
+g|underneath to the left|reply_y explain
+f|uh-huh so do you go by a desert|acknowledge query_yn
 g|no|reply_n
-f|like|ready
-f|which side do you go round|query_w
+f|like which side do you go round|ready query_w
 g|you're going vertically downwards past the diamond mine|reply_w
 f|straight down|check
 g|you know just you're curving just curving round the diamond|reply_w
 f|uh-huh|acknowledge
 g|mine uh-huh|reply_y
-f|uh-huh|acknowledge
-f|curve round|check
-f|to your right|check
+f|uh-huh curve round to your right|acknowledge check check
 g|uh-huh|reply_y
-f|right right underneath the diamond mine|acknowledge
-f|where do i stop|query_w
-g|well do|ready
-g|have you got a graveyard sort of in the middle of the page on a level to the er diamond mine|query_yn
-f|no|reply_n
-f|i've got a fast running creek|explain
+f|right right underneath the diamond mine where do i stop|acknowledge query_w
+g|well do have you got a graveyard sort of in the middle of the page on a level to the er diamond mine|ready query_yn
+f|no i've got a fast running creek|reply_n explain
 g|a fast flowing river eh|check
-f|no|reply_n
-f|where's that|query_w
-f|mmhmm eh|acknowledge
-f|canoes|query_yn
+f|no where's that mmhmm eh canoes|reply_n query_w acknowledge query_yn
 g|where is that|query_w
-f|eh the fast running creek is at the top right-hand side of the page beside diamond mine|reply_w
-f|no|align
+f|eh the fast running creek is at the top right-hand side of the page beside diamond mine no|reply_w align
 g|the diamond mine is that on the right-hand side of your page|query_yn
 f|it's the left-hand side|explain
-g|ah|acknowledge
-g|the fast flowing river is at the top|query_w
+g|ah the fast flowing river is at the top|acknowledge query_w
 f|right|reply_w
 g|right that's i've got that|acknowledge
-f|underneath that's canoes|explain
-f|no|align
-f|have you got an apache camp|query_yn
-g|ehm i've got uh-huh|reply_y
-g|carved wooden pole|explain
-f|yeah|acknowledge
-f|no i don't have that|explain
+f|underneath that's canoes no have you got an apache camp|explain align query_yn
+g|ehm i've got uh-huh carved wooden pole|reply_y explain
+f|yeah no i don't have that|acknowledge explain
 g|er that's the that's the apache camp|explain
 f|right so anyway so at the diamond mine right|align
 g|mmhmm|reply_y
-f|and i have to curve underneath|check
-f|start go down come underneath the diamond mine|check
-g|curve underneath|reply_y
-g|have you got see between the fast flowing river and the diamond mine have you got anything|query_yn
+f|and i have to curve underneath start go down come underneath the diamond mine|check check
+g|curve underneath have you got see between the fast flowing river and the diamond mine have you got anything|reply_y query_yn
 f|nope|reply_n
 g|right so|ready
 f|got canoes|reply_w
 g|i've got a graveyard there|explain
-f|right i see|acknowledge
-f|whereabouts is that|query_w
+f|right i see whereabouts is that|acknowledge query_w
 g|eh really just right in the middle of the two the fast flowing mine fast flowing river and the diamond mine|reply_w
-f|right|ready
-f|so where've i to go have i to go round that graveyard or something|query_yn
-g|uh-huh|reply_y
-g|you've to miss the graveyard so if you|instruct
-g|right you've curved round right|align
+f|right so where've i to go have i to go round that graveyard or something|ready query_yn
+g|uh-huh you've to miss the graveyard so if you right you've curved round right|reply_y instruct align
 f|i've right i mean that i i'm still at diamond mine so i'm not sure where to go|explain
-g|mmhmm|acknowledge
-g|so|ready
-g|if you go|instruct
-g|well just start slightly going up the way|instruct
-f|mmhmm|acknowledge
-f|to the fast running creek|check
-g|and right|ready
-g|imagine there's a graveyard|instruct
-g|right|align
+g|mmhmm so if you go well just start slightly going up the way|acknowledge ready instruct instruct
+f|mmhmm to the fast running creek|acknowledge check
+g|and right imagine there's a graveyard right|ready instruct align
 f|mmhmm|reply_y
-g|right|ready
-g|just in the centre of the diamond mine|instruct
+g|right just in the centre of the diamond mine|ready instruct
 f|uh-huh|acknowledge
-g|and the fast flowing river just imagine that|instruct
-g|right|align
+g|and the fast flowing river just imagine that right|instruct align
 f|uh-huh|acknowledge
 g|and you you're going round that you're going round the graveyard|instruct
 f|like as above it|check
-g|no|reply_n
-g|below it|instruct
-f|right|acknowledge
-f|so just slightly below it then|check
+g|no below it|reply_n instruct
+f|right so just slightly below it then|acknowledge check
 g|mmhmm|reply_y
 f|to where|query_w
 g|so you're sort of curving round to the graveyard|clarify
-f|uh-huh|acknowledge
-f|right okay|acknowledge
-f|right|ready
+f|uh-huh right okay right|acknowledge acknowledge ready
 g|right|acknowledge
-f|right|ready
-f|so we're going slightly up|check
-g|you're going round the graveyard|clarify
-g|uh-huh|reply_y
+f|right so we're going slightly up|ready check
+g|you're going round the graveyard uh-huh|clarify reply_y
 f|but i can't imagine where the graveyard is right|explain
-g|i know you don't|acknowledge
-g|right|ready
-g|it's just|explain
-g|just imagine it's the same size as the diamond mine and the fast flowing river right but it's parked in the middle|instruct
-f|right right okay|acknowledge
-f|so where are we now|query_w
+g|i know you don't right it's just just imagine it's the same size as the diamond mine and the fast flowing river right but it's parked in the middle|acknowledge ready explain instruct
+f|right right okay so where are we now|acknowledge query_w
 g|so|ready
 f|so i've to go round|check
 g|if mmhmm|reply_y
-f|but where am i going after that|query_w
-f|i've got to know where i'm going this is it|explain
+f|but where am i going after that i've got to know where i'm going this is it|query_w explain
 g|you've to you're going round the top of the fast flowing river after you've avoided the graveyard|instruct
-f|right|acknowledge
-f|and i curve right round the fast flowing river then|check
+f|right and i curve right round the fast flowing river then|acknowledge check
 g|uh-huh mmhmm|reply_y
 f|where to|query_w
-g|well right|ready
-g|you go round|reply_w
-g|then|reply_w
+g|well right you go round then|ready reply_w reply_w
 f|have you got canoes|query_yn
 g|no|reply_n
 f|have you got apache camp|query_yn
-g|oh uh-huh i've got an apache camp|reply_y
-g|it's maybe|explain
+g|oh uh-huh i've got an apache camp it's maybe|reply_y explain
 f|see where you see where fast running creek is and the apache camp|align
 g|mmhmm|reply_y
-f|bang splat in the middle of that right i've got canoes|explain
-f|right|align
+f|bang splat in the middle of that right i've got canoes right|explain align
 g|i don't|explain
-f|right so|ready
-f|have you got oh you've got you know i've got to go round that so|explain
+f|right so have you got oh you've got you know i've got to go round that so|ready explain
 g|uh-huh|acknowledge
 f|so where are we|query_w
-g|so if you right|ready
-g|in line with the fast flowing river if you come down maybe one and a half inches|instruct
+g|so if you right in line with the fast flowing river if you come down maybe one and a half inches|ready instruct
 f|mmhmm|acknowledge
 g|eh have you got a carved wooden pole|query_yn
-f|yeah|reply_y
-f|but it's away down at the bottom of the page|explain
-g|oh right|acknowledge
-g|and where's your apache camp|query_w
-f|just before we're halfway down the page|reply_w
-f|have you got flat rocks|query_yn
+f|yeah but it's away down at the bottom of the page|reply_y explain
+g|oh right and where's your apache camp|acknowledge query_w
+f|just before we're halfway down the page have you got flat rocks|reply_w query_yn
 g|mmhmm|reply_y
-f|right|ready
-f|it's just above that it's about a couple of inches but up above that|reply_w
-g|yeah that's right|acknowledge
-g|so if you like curve round the|instruct
+f|right it's just above that it's about a couple of inches but up above that|ready reply_w
+g|yeah that's right so if you like curve round the|acknowledge instruct
 f|apache camp|check
-g|no|reply_n
-g|don't curve round it|instruct
-g|just you're going forty-five degree angle eh towards the bottom eh left of the page you're going that way you know|instruct
+g|no don't curve round it just you're going forty-five degree angle eh towards the bottom eh left of the page you're going that way you know|reply_n instruct instruct
 f|towards the walled city|check
 g|uh-huh|reply_y
-f|right|ready
-f|so i'm going round|check
+f|right so i'm going round|ready check
 g|and you're going round the outside of the walled city|instruct
 f|on what on what side|query_w
 g|you're going round the top of the walled city and round the left of it on the left-hand side|reply_w
-f|so|ready
-f|and that's at an angle of forty-five degrees|check
+f|so and that's at an angle of forty-five degrees|ready check
 g|no|reply_n
-f|right i see right|acknowledge
-f|so from the walled city to where i am just there it's at a forty-five degree angle to where i just came from|check
+f|right i see right so from the walled city to where i am just there it's at a forty-five degree angle to where i just came from|acknowledge check
 g|no|reply_n
 f|right see where the fast running creek is right|align
 g|yes|reply_y
 f|i've just come down a couple of inches|explain
 g|you've come down about one and a half inches|check
 f|uh-huh|reply_y
-g|right so|ready
-g|if you do it then do a forty-five degree line for maybe about three inches 'til you're probably in line with the top of the walled city|instruct
-g|that height what you're you've to come down the middle of the page take the forty-five degree line down to the middle of the page|instruct
-g|right|align
+g|right so if you do it then do a forty-five degree line for maybe about three inches 'til you're probably in line with the top of the walled city that height what you're you've to come down the middle of the page take the forty-five degree line down to the middle of the page right|ready instruct instruct align
 f|so i should be around the middle of the page|check
 g|no not the the centre no not|reply_n
-f|see where i am just now right|align
-f|i've come i've come round the top of the fast running creek|explain
+f|see where i am just now right i've come i've come round the top of the fast running creek|align explain
 g|uh-huh|acknowledge
 f|so i'm really i'd be about i'd be about an inch from the end of the page|explain
 g|that's right|acknowledge
 f|and i'm going straight down from that so still i'm an inch away from the page the end of the page|explain
-g|uh-huh|acknowledge
-g|so now you've got to take it take your line to the left 'til you come into|instruct
+g|uh-huh so now you've got to take it take your line to the left 'til you come into|acknowledge instruct
 f|towards the walled city|check
 g|uh-huh|reply_y
 f|right so i'm above the walled city now and i've curved right round it|explain
-g|yes|acknowledge
-g|mmhmm|acknowledge
+g|yes mmhmm|acknowledge acknowledge
 f|i'm just into the left so i'm down at the left-hand side of the page i'm just at the bottom of the walled city|explain
 g|the walled city is just above the halfway up the page right|align
 f|uh-huh uh-huh uh-huh|reply_y
 g|and you've you've just curved round that|align
-f|towards the left|explain
-f|uh-huh|reply_y
+f|towards the left uh-huh|explain reply_y
 g|and how far is it away from the left-hand side of the page|query_w
 f|about two inches|reply_w
-g|that's fine|acknowledge
-g|so if you've yeah you've curved round|align
+g|that's fine so if you've yeah you've curved round|acknowledge align
 f|mmhmm|reply_y
-g|right|ready
-g|are you in line with the bottom of the walled city|align
-f|bottom of it have i got to be in line with that|check
-f|have i to cut|check
-g|no|reply_n
-g|right|ready
-g|just take it down there so i can tell you how many more inches to go down|instruct
+g|right are you in line with the bottom of the walled city|ready align
+f|bottom of it have i got to be in line with that have i to cut|check check
+g|no right just take it down there so i can tell you how many more inches to go down|reply_n ready instruct
 f|so i'm at bottom where the writing is of the walled city so i'm just just in a straight line down there curve right round it 'til i'm there|check
-g|uh-huh just there yeah|reply_y
-g|so uh-huh|reply_y
+g|uh-huh just there yeah so uh-huh|reply_y reply_y
 f|and er am i going back to the right now|query_yn
-g|no|reply_n
-g|you're going straight down|instruct
+g|no you're going straight down|reply_n instruct
 f|i'm going straight down right|acknowledge
 g|in a slight curve you're taking it down maybe about to as far as a a third of the way up the page|instruct
-f|mmhmm|acknowledge
-f|i'm taking it down there|check
-g|you're|instruct
-g|uh-huh|reply_y
+f|mmhmm i'm taking it down there|acknowledge check
+g|you're uh-huh|instruct reply_y
 f|in a curve|check
 g|just a very slight curve you know really just about vertically you're going down|clarify
 f|mmhmm|acknowledge
 g|so right|align
-f|mmhmm|acknowledge
-f|so|ready
+f|mmhmm so|acknowledge ready
 g|now|ready
 f|i'm at ghost town|check
-g|no|reply_n
-g|oh i've got another carved wooden pole down the page as well|explain
-f|that's uh-huh that's where uh-huh|acknowledge
-f|i can see that|acknowledge
-g|uh-huh|acknowledge
-g|and the flat rocks i've|check
-g|in the middle of the page|check
-f|no|reply_n
-f|they're more like to the right-hand side|explain
+g|no oh i've got another carved wooden pole down the page as well|reply_n explain
+f|that's uh-huh that's where uh-huh i can see that|acknowledge acknowledge
+g|uh-huh and the flat rocks i've in the middle of the page|acknowledge check check
+f|no they're more like to the right-hand side|reply_n explain
 g|ah halfway up i mean|align
-f|mmhmm|acknowledge
-f|so see where i tell you've got a carved wooden pole and a walled city right|check
+f|mmhmm so see where i tell you've got a carved wooden pole and a walled city right|acknowledge check
 g|to the right|align
-f|see the carved wooden pole at the bottom of the page near where the three|align
-f|can you see a fort|query_yn
+f|see the carved wooden pole at the bottom of the page near where the three can you see a fort|align query_yn
 g|yes|reply_y
 f|right|ready
 g|at the|check
@@ -274,18 +182,14 @@ f|see above it that's the carved wooden pole|explain
 g|uh-huh|acknowledge
 f|and the right|explain
 g|you should be about an inch and a half above that though shouldn't be down that far yet|instruct
-f|that's what i mean uh-huh|acknowledge
-f|but but see where the carved wooden pole is and you've got see between the walled city and the carved wooden pole|align
+f|that's what i mean uh-huh but but see where the carved wooden pole is and you've got see between the walled city and the carved wooden pole|acknowledge align
 g|uh-huh|acknowledge
 f|i've got a ghost town|explain
 g|oh have you|check
 f|mmhmm|reply_y
 g|i don't have anything|explain
-f|right well|ready
-f|so where am i going from walled city|query_w
-f|i'm at the ghost town that's it right between the carved pole and the walled city i'm right in the middle of that|explain
-g|right|ready
-g|well you should curve just you you'll have to go below the|instruct
+f|right well so where am i going from walled city i'm at the ghost town that's it right between the carved pole and the walled city i'm right in the middle of that|ready query_w explain
+g|right well you should curve just you you'll have to go below the|ready instruct
 f|ghost town|query_yn
 g|uh-huh|reply_y
 f|right i aye|acknowledge
@@ -293,45 +197,31 @@ g|right just curve round it|instruct
 f|mmhmm|acknowledge
 g|and have you got a stone creek|query_yn
 f|mmhmm|reply_y
-g|where's that|query_w
-g|is that about a third of the way up the page|query_yn
-f|uh-huh mmhmm|reply_y
-f|to like right-hand side|explain
-g|right|ready
-g|well you're going above that|instruct
+g|where's that is that about a third of the way up the page|query_w query_yn
+f|uh-huh mmhmm to like right-hand side|reply_y explain
+g|right well you're going above that|ready instruct
 f|mmhmm|acknowledge
 g|and you're going up to where the flat rocks are you're just curving up|instruct
 f|mmhmm|acknowledge
 g|you're avoiding the stone creek in but you're below the flat rocks just very close to the flat rocks|instruct
 f|below the flat rocks|check
 g|uh-huh|reply_y
-f|uh-huh|acknowledge
-f|and i go underneath the flat rocks|check
-g|so it's just like a|instruct
-g|uh-huh|reply_y
-g|it's like a curve|clarify
+f|uh-huh and i go underneath the flat rocks|acknowledge check
+g|so it's just like a uh-huh it's like a curve|instruct reply_y clarify
 f|right|acknowledge
-g|and then|ready
-g|so if you take your line to the end of the flat rocks|instruct
-f|uh-huh|acknowledge
-f|there's saloon bar|query_yn
-g|then you're going|instruct
-g|no|reply_n
-f|right okay|acknowledge
-f|you got buffalo|query_yn
-g|mmhmm|reply_y
-g|that's down at the bottom right|check
-f|bottom|reply_y
-f|uh-huh bottom right uh-huh|reply_y
-g|well|ready
-g|what you're doing is you're you should be about an an inch off the end of the page|instruct
+g|and then so if you take your line to the end of the flat rocks|ready instruct
+f|uh-huh there's saloon bar|acknowledge query_yn
+g|then you're going no|instruct reply_n
+f|right okay you got buffalo|acknowledge query_yn
+g|mmhmm that's down at the bottom right|reply_y check
+f|bottom uh-huh bottom right uh-huh|reply_y reply_y
+g|well what you're doing is you're you should be about an an inch off the end of the page|ready instruct
 f|uh-huh i am just now|acknowledge
 g|the right|acknowledge
 f|uh-huh|acknowledge
 g|so you're just it's a vertical line basically down eh|instruct
 f|to the buffalo|query_yn
-g|round the the buffalos|instruct
-g|uh-huh|reply_y
+g|round the the buffalos uh-huh|instruct reply_y
 f|round the buffalos|check
 g|uh-huh|reply_y
 f|what do you mean like right round|check
@@ -340,29 +230,22 @@ f|uh-huh|acknowledge
 g|right|align
 f|uh-huh|reply_y
 g|so have you got a cattle ranch|query_yn
-f|to where|query_w
-f|no|reply_n
+f|to where no|query_w reply_n
 g|have you got|query_yn
 f|i take it it's between the fort and the buffalo|check
 g|have you got anything there|query_yn
 f|no|reply_n
-g|well|ready
-g|if you right you've curved round below the buffalo|align
-f|the buffalo|check
-f|mmhmm|reply_y
-g|if you just maybe imagine there's a cattle ranch there|instruct
-g|right|align
-g|just after the buffalo|instruct
+g|well if you right you've curved round below the buffalo|ready align
+f|the buffalo mmhmm|check reply_y
+g|if you just maybe imagine there's a cattle ranch there right just after the buffalo|instruct align instruct
 f|right between the buffalo and the fort|check
 g|between the fort uh-huh|reply_y
 f|mmhmm|acknowledge
-g|and it's more in line with the fort|explain
-g|right|align
+g|and it's more in line with the fort right|explain align
 f|uh-huh|reply_y
 g|so you know how you've curved round|align
 f|mmhmm|reply_y
-g|where the buffalos are|align
-g|you've you'll have to you know|instruct
+g|where the buffalos are you've you'll have to you know|align instruct
 f|curve round again sort of thing|check
 g|do a bump|instruct
 f|right i know where you are have to bump|acknowledge
@@ -370,8 +253,7 @@ g|in your route|instruct
 f|and you go round again to the fort|check
 g|uh mmhmm|reply_y
 f|that's the end|query_yn
-g|bump in your route and then round to the fort|reply_y
-g|and the finish is above the fort maybe about an inch above the fort|instruct
+g|bump in your route and then round to the fort and the finish is above the fort maybe about an inch above the fort|reply_y instruct
 f|so on what side on the left or right|query_w
 g|on the left-hand side|reply_w
 f|on the left-hand side of the fort|check
@@ -382,18 +264,14 @@ f|i've got to go right round the fort|check
 g|uh-huh|reply_y
 f|right|acknowledge
 g|you know you've got to go below the fort|instruct
-f|uh-huh|acknowledge
-f|right round to about the is it near the carved wooden pole then the finish|query_yn
-g|yes|reply_y
-g|it's in line with the carved wooden pole except it's an inch from the|instruct
+f|uh-huh right round to about the is it near the carved wooden pole then the finish|acknowledge query_yn
+g|yes it's in line with the carved wooden pole except it's an inch from the|reply_y instruct
 f|the fort|check
-g|no|reply_n
-g|an inch from the left-hand side of the page|instruct
+g|no an inch from the left-hand side of the page|reply_n instruct
 f|right uh-huh i'm there|acknowledge
 g|is that you|align
 f|but is the finishing point at the fort|check
-g|no|reply_n
-g|it's above|clarify
+g|no it's above|reply_n clarify
 f|right above the fort och i've just got a general gist there|acknowledge
 g|'bout an inch above the fort|clarify
 f|right okay|acknowledge

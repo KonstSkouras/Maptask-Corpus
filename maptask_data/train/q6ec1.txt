@@ -1,31 +1,20 @@
-g|right|ready
-g|top left sandy shore|instruct
+g|right top left sandy shore|ready instruct
 f|okay|acknowledge
-g|down at the bottom of it bottom left of it follow the line stream i presume it is to the top of the well|instruct
-g|you don't have a stream|query_yn
+g|down at the bottom of it bottom left of it follow the line stream i presume it is to the top of the well you don't have a stream|instruct query_yn
 f|i don't have a well|explain
-g|right|ready
-g|do you have a well|query_yn
-g|no|acknowledge
-f|right|ready
-f|i've got the sandy shore and i've got a cross saying start|explain
-g|right|acknowledge
-g|right okay|ready
-g|now down slightly to|instruct
+g|right do you have a well no|ready query_yn acknowledge
+f|right i've got the sandy shore and i've got a cross saying start|ready explain
+g|right right okay now down slightly to|acknowledge ready instruct
 f|down the middle or straight|query_w
 g|slightly sloped slightly sloped that way|reply_w
 f|to the towards the west or east|query_w
-g|right|reply_w
-g|east|reply_w
+g|right east|reply_w reply_w
 f|right okay|acknowledge
 g|but don't go down too far|instruct
 f|straight|query_yn
-g|uh-huh|reply_y
-g|and then|ready
-g|you don't have a well|check
+g|uh-huh and then you don't have a well|reply_y ready check
 f|no|reply_n
-g|right|ready
-g|so before does your stream turn to the right|query_yn
+g|right so before does your stream turn to the right|ready query_yn
 f|i don't have a stream|reply_w
 g|you don't have anything|check
 f|are we talking about the top left|align
@@ -34,161 +23,102 @@ f|right okay|acknowledge
 g|do you have anything|check
 f|no nothing at all|reply_n
 g|is your page just blank|query_yn
-f|no no|reply_n
-f|but this bit up here is|explain
-g|okay|ready
-g|right down about three centimetres|instruct
+f|no no but this bit up here is|reply_n explain
+g|okay right down about three centimetres|ready instruct
 f|uh-huh|acknowledge
 g|and then slightly to the east that way and then turn to the west and like curve round like that except it'll be the other way|instruct
 f|okay|acknowledge
-g|and then|ready
-g|after you finish the curve continue to the east|instruct
-g|do you have a house with local residents|query_yn
+g|and then after you finish the curve continue to the east do you have a house with local residents|ready instruct query_yn
 f|under crane bay|check
 g|yeah|reply_y
 f|do you see this river coming down|align
 g|the big river|check
-f|yeah|reply_y
-f|have you got an iron bridge|query_yn
-g|no|reply_n
-g|no|reply_n
-g|no|reply_n
+f|yeah have you got an iron bridge|reply_y query_yn
+g|no no no|reply_n reply_n reply_n
 f|are you going to the treasure|query_yn
-g|treasure|acknowledge
-g|a pirate ship at the bottom bottom left|query_yn
-f|no|reply_n
-f|okay never mind|instruct
-f|have you got hills|query_yn
+g|treasure a pirate ship at the bottom bottom left|acknowledge query_yn
+f|no okay never mind have you got hills|reply_n instruct query_yn
 g|yeah|reply_y
-f|right|ready
-f|where are you going above the hills|query_yn
+f|right where are you going above the hills|ready query_yn
 g|above the hills|reply_y
 f|to the east of that or what|query_yn
-g|to the east of that|reply_y
-g|nearly to the end of the hills|instruct
+g|to the east of that nearly to the end of the hills|reply_y instruct
 f|i'm just going straight down there then|query_yn
-g|no|reply_n
-g|we're just going east|clarify
-g|have you passed like have you done the curvy bit|align
+g|no we're just going east have you passed like have you done the curvy bit|reply_n clarify align
 f|well sort of yeah|reply_y
-g|right|ready
-g|and then sort of curve on to the east along the east|instruct
-f|how far down the page am i now|query_w
-f|okay|acknowledge
+g|right and then sort of curve on to the east along the east|ready instruct
+f|how far down the page am i now okay|query_w acknowledge
 g|ten centimetres|reply_w
-f|east|acknowledge
-f|i just keep going east|check
-g|east|reply_y
-g|to about couple centimetres off the top off the end of the hills|clarify
-f|we've probably got different hills|explain
-f|okay that's me|acknowledge
-g|and|ready
-g|then curve upwards|instruct
+f|east i just keep going east|acknowledge check
+g|east to about couple centimetres off the top off the end of the hills|reply_y clarify
+f|we've probably got different hills okay that's me|explain acknowledge
+g|and then curve upwards|ready instruct
 f|mmhmm|acknowledge
 g|back to the stream to where you to where you cross the stream|instruct
 f|this big thing|check
 g|do you have like two black lines and then a big stream|query_yn
-f|right|ready
-f|i'll tell you what i've got i've got this bit of water from where the start is|explain
-f|okay|align
+f|right i'll tell you what i've got i've got this bit of water from where the start is okay|ready explain align
 g|uh-huh|reply_y
 f|and i've got one big sort of river thing coming down and that's it|explain
 g|right|ready
 f|and then it splits into two|explain
-g|you've got crane bay|align
-g|at the top|align
-f|mmhmm|reply_y
-f|yeah|reply_y
-g|right|ready
-g|and you've got like the two bits round two lines round crane bay|align
+g|you've got crane bay at the top|align align
+f|mmhmm yeah|reply_y reply_y
+g|right and you've got like the two bits round two lines round crane bay|ready align
 f|uh-huh|reply_y
 g|so you cross that go up go back up and cross that|instruct
 f|how far down the river bit|query_w
 g|about two centimetres from where the two lines meet more sort of come into one|reply_w
 f|describe what you've got|instruct
-g|right|ready
-g|i've got i've got my forked stream on the page|explain
-g|right|ready
-g|have you got something saying forked stream|query_yn
-f|i have|reply_y
-f|halfway down|explain
-g|right now go up to the left from that|instruct
-g|right|align
-g|okay|ready
-g|follow the stream up|instruct
-f|but i thought we're starting at the top|query_yn
-f|follow the stream to the fork|check
-g|yeah i know|reply_y
-g|i know this is me explaining what i've got|explain
+g|right i've got i've got my forked stream on the page right have you got something saying forked stream|ready explain ready query_yn
+f|i have halfway down|reply_y explain
+g|right now go up to the left from that right okay follow the stream up|instruct align ready instruct
+f|but i thought we're starting at the top follow the stream to the fork|query_yn check
+g|yeah i know i know this is me explaining what i've got|reply_y explain
 f|oh alright okay|acknowledge
-g|on the page|explain
-g|right|ready
-g|and then when it gets to the top one bit of the stream goes up and one bit goes left and up|explain
+g|on the page right and then when it gets to the top one bit of the stream goes up and one bit goes left and up|explain ready explain
 f|one bit goes up|check
 g|it round crane bay|reply_w
-f|mine just goes straight up goes like that into crane bay|explain
-f|how do you cross it anyway|query_w
-f|have you got bridges|query_yn
-g|no|reply_n
-g|i don't have a bridge but maybe that's your bridge then that's how it's crossed|explain
-g|you got a bridge|check
+f|mine just goes straight up goes like that into crane bay how do you cross it anyway have you got bridges|explain query_w query_yn
+g|no i don't have a bridge but maybe that's your bridge then that's how it's crossed you got a bridge|reply_n explain check
 f|up at the very very top at crane bay|reply_w
-g|how many centimetres off the top of the page|query_w
-g|yeah that could be it|explain
+g|how many centimetres off the top of the page yeah that could be it|query_w explain
 f|but i've got a house just below that local residents|explain
-g|yeah|acknowledge
-g|so have i|explain
+g|yeah so have i|acknowledge explain
 f|so am i going on top of that or what|query_w
 g|mmhmm|reply_y
 f|under it|query_yn
-g|go up|instruct
-g|no|reply_n
-g|round the round to the the left of the house|instruct
+g|go up no round the round to the the left of the house|instruct reply_n instruct
 f|right okay|acknowledge
 g|and up to probably where your bridge is then|instruct
 f|right okay|acknowledge
-g|right|ready
-g|and then you go right|instruct
+g|right and then you go right|ready instruct
 f|over the bridge|check
-g|over the bridge|reply_y
-g|well i don't know i don't have the bridge but it looks over the bridge|reply_w
+g|over the bridge well i don't know i don't have the bridge but it looks over the bridge|reply_y reply_w
 f|uh-huh|acknowledge
 g|have you another bridge no|query_yn
 f|not that side|reply_n
-g|up near where that one is no|query_yn
-g|well keep going right for about four centimetres|instruct
-g|do you have a wood|query_yn
+g|up near where that one is no well keep going right for about four centimetres do you have a wood|query_yn instruct query_yn
 f|yeah|reply_y
 g|you're roughly in line with the wood or slightly|instruct
 f|okay|acknowledge
-g|sort of nearly the middle of the wood but not quite down a bit|instruct
-g|in the middle|instruct
+g|sort of nearly the middle of the wood but not quite down a bit in the middle|instruct instruct
 f|mmhmm|acknowledge
-g|right|ready
-g|now go down and round the forked stream|instruct
+g|right now go down and round the forked stream|ready instruct
 f|quite a lot|query_yn
-g|round the forked stream 'til you come to like about the "m" in stream|reply_w
-g|now|ready
-g|do you have farmed land|query_yn
+g|round the forked stream 'til you come to like about the "m" in stream now do you have farmed land|reply_w ready query_yn
 f|nope|reply_n
 g|do you have a dead tree|query_yn
 f|yeah|reply_y
 g|right in like where two streams meet you have a dead tree|check
 f|uh-huh|reply_y
-g|right|ready
-g|to the right of that across the stream there's a big bit of farmed land|explain
-g|right|align
+g|right to the right of that across the stream there's a big bit of farmed land right|ready explain align
 f|mmhmm|reply_y
-g|about seven or eight centimetres along|explain
-g|so what you've got to do now is like go round that|instruct
+g|about seven or eight centimetres along so what you've got to do now is like go round that|explain instruct
 f|in the between the farmed land and the stream or round the whole thing|query_w
-g|no|reply_n
-g|round the farmed land|reply_w
-f|right|ready
-f|so way out to east|check
-g|way out 'til about|reply_y
-g|yeah|reply_y
-g|to about two centimetres off the end the page|clarify
+g|no round the farmed land|reply_n reply_w
+f|right so way out to east|ready check
+g|way out 'til about yeah to about two centimetres off the end the page|reply_y reply_y clarify
 f|okay|acknowledge
 g|then about four centimetres down|clarify
 f|mmhmm|acknowledge
@@ -200,55 +130,35 @@ g|and then you cross the stream so's that you are actually below the dead tree|i
 f|i don't actually have anything to cross it with but|explain
 g|neither do i|explain
 f|that's okay|explain
-g|right|ready
-g|do you have pine grove|query_yn
-f|yeah|reply_y
-f|bottom right|check
+g|right do you have pine grove|ready query_yn
+f|yeah bottom right|reply_y check
 g|do you have a lagoon|query_yn
-f|no|reply_n
-f|oh where|query_w
-f|i've got green bay|explain
-g|about the middle|reply_w
-g|mm right|ready
+f|no oh where i've got green bay|reply_n query_w explain
+g|about the middle mm right|reply_w ready
 f|oh yeah i've got lagoon yeah|reply_y
 g|from where you are below the dead tree go straight down 'til you're in line with the lagoon|instruct
 f|straight down uh past the buried treasure|check
 g|which i don't have|explain
-f|never mind|acknowledge
-f|okay|acknowledge
-g|and then go west 'til you nearly reach the lagoon|instruct
-g|right|align
-g|and then down round that to the bottom the tip of the lagoon|instruct
-g|right now|ready
-g|do you have a rock fall|query_yn
+f|never mind okay|acknowledge acknowledge
+g|and then go west 'til you nearly reach the lagoon right and then down round that to the bottom the tip of the lagoon right now do you have a rock fall|instruct align instruct ready query_yn
 f|no|reply_n
 g|right you have green bay|check
 f|mmhmm|reply_y
-g|do you have ehm|query_yn
-g|right|ready
-g|green bay is a bay right see the top point of green bay the outer point|align
+g|do you have ehm right green bay is a bay right see the top point of green bay the outer point|query_yn ready align
 f|the westerly one|check
-g|yeah|reply_y
-g|westerly point the top the end bit of land|clarify
+g|yeah westerly point the top the end bit of land|reply_y clarify
 f|mmhmm|reply_y
 g|that like comes to a point right|align
 f|the bit that looks a bit like india or something|check
-g|yeah mmhmm|reply_y
-g|right|ready
-g|so you come from the bottom of the lagoon and you're wanting to go there but the wee|instruct
-g|if you look in the top line of green bay there's like a wee dent in it|align
+g|yeah mmhmm right so you come from the bottom of the lagoon and you're wanting to go there but the wee if you look in the top line of green bay there's like a wee dent in it|reply_y ready instruct align
 f|mmhmm|reply_y
 g|that's a rock fall of about three centimetres high|explain
 f|okay|acknowledge
 g|so you have to come from the bottom of the lagoon over that and then down to the tip|instruct
 f|right|acknowledge
-g|'kay|align
-g|now|ready
-g|just like|instruct
-g|do you have a pirate ship|query_yn
+g|'kay now just like do you have a pirate ship|align ready instruct query_yn
 f|yeah|reply_y
-g|right yeah and|ready
-g|you're meant to finish just at the front of the pirate ship so just like curve round|instruct
+g|right yeah and you're meant to finish just at the front of the pirate ship so just like curve round|ready instruct
 f|over the water|check
 g|yeah|reply_y
 f|anywhere in this pirate ship|query_w

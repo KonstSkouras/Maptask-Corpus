@@ -1,128 +1,80 @@
-g|right|ready
-g|go up|instruct
-g|have you got the sandy shore|query_yn
-g|right|ready
-g|you've got the start|check
+g|right go up have you got the sandy shore right you've got the start|ready instruct query_yn ready check
 f|mmhmm|reply_y
-g|now|ready
-g|do you have a well|query_yn
+g|now do you have a well|ready query_yn
 f|no|reply_n
-g|no right okay|acknowledge
-g|do you have like|query_yn
-g|right|ready
-g|you've got crane bay|check
+g|no right okay do you have like right you've got crane bay|acknowledge query_yn ready check
 f|mmhmm|reply_y
 g|so follow crane bay down for about three centimetres|instruct
 f|right|acknowledge
-g|then|ready
-g|just like at the tip of crane bay the bottom tip at the left-hand side you're there's a well|explain
+g|then just like at the tip of crane bay the bottom tip at the left-hand side you're there's a well|ready explain
 f|mmhmm|acknowledge
 g|so you want to go like round the well|instruct
 f|to the left or the right|query_w
 g|the left|reply_w
-f|left|acknowledge
-f|so i go down to the tip and then turn|check
-g|no|reply_n
-g|stay about two centimetres off the tip and then curve round to the left and down|clarify
-f|right|acknowledge
-f|so i'm going over the bay|check
-g|no|reply_n
-g|you're still on land|clarify
-f|oh the left the left sorry yes|acknowledge
-f|the left right okay|acknowledge
-g|left|acknowledge
-g|okay|align
-g|and down|clarify
+f|left so i go down to the tip and then turn|acknowledge check
+g|no stay about two centimetres off the tip and then curve round to the left and down|reply_n clarify
+f|right so i'm going over the bay|acknowledge check
+g|no you're still on land|reply_n clarify
+f|oh the left the left sorry yes the left right okay|acknowledge acknowledge
+g|left okay and down|acknowledge align clarify
 f|and down|acknowledge
 g|and then have you got the houses of local residents|query_yn
 f|ehm yes|reply_y
-g|right|ready
-g|go along 'til you're about just before it in line with the bottom of it|instruct
+g|right go along 'til you're about just before it in line with the bottom of it|ready instruct
 f|er right|acknowledge
-g|right now|ready
-g|do you have a bridge|query_yn
+g|right now do you have a bridge|ready query_yn
 f|yes|reply_y
-g|right|ready
-g|you're going up and cross the bridge|instruct
+g|right you're going up and cross the bridge|ready instruct
 f|okey-dokey|acknowledge
-g|and|ready
-g|keep going across for about five six centimetres|instruct
+g|and keep going across for about five six centimetres|ready instruct
+f|right is the woodland there is it|acknowledge check
+g|yes you're about three centimetres away from the wood|reply_y explain
 f|right|acknowledge
-f|is the woodland there is it|check
-g|yes|reply_y
-g|you're about three centimetres away from the wood|explain
-f|right|acknowledge
-g|right|ready
-g|now you want to|instruct
-g|got the forked stream|query_yn
-f|yes|reply_y
-f|there's a stream with a fork|explain
-g|right mmhmm|acknowledge
-g|now|ready
-g|continue from where you are down you're going to be going like slightly southeast 'til you get to the 'til you touch the forked stream and then curve round with the forked stream|instruct
+g|right now you want to got the forked stream|ready instruct query_yn
+f|yes there's a stream with a fork|reply_y explain
+g|right mmhmm now continue from where you are down you're going to be going like slightly southeast 'til you get to the 'til you touch the forked stream and then curve round with the forked stream|acknowledge ready instruct
 f|right|acknowledge
 g|'til the top 'til you get to the top of the fork|instruct
 f|right|acknowledge
-g|now|ready
-g|have you got a dead tree|query_yn
+g|now have you got a dead tree|ready query_yn
 f|mmhmm|reply_y
 g|you do you have farmed land|query_yn
 f|erm|ready
 g|to the right|query_yn
 f|well my farmed land's right down the bottom of the the page|reply_w
-g|no right okay|acknowledge
-g|where the dead tree is on the other side of the stream there's farmed land|explain
-g|so|ready
-g|where you are just now go right for about six centimetres|instruct
+g|no right okay where the dead tree is on the other side of the stream there's farmed land so where you are just now go right for about six centimetres|acknowledge explain ready instruct
 f|right|acknowledge
 g|and then down 'til you're in level line with the bottom of the dead tree|instruct
 f|right|acknowledge
 g|and then cut across 'til you're right below the dead tree|instruct
-f|right|ready
-f|i have to jump a stream|explain
-f|sort of i suppose that's alright|check
-g|yeah|acknowledge
-g|mmhmm that's okay|reply_y
-g|there's no bridge here either|explain
-g|right now|ready
-g|do you have a lagoon|query_yn
+f|right i have to jump a stream sort of i suppose that's alright|ready explain check
+g|yeah mmhmm that's okay there's no bridge here either right now do you have a lagoon|acknowledge reply_y explain ready query_yn
 f|yes|reply_y
-g|right|ready
-g|from where you are go straight down for about five centimetres|instruct
+g|right from where you are go straight down for about five centimetres|ready instruct
 f|ehm i've got buried treasure down there|explain
 g|do you|check
 f|mmhmm|reply_y
 g|eh whereabouts is the buried treasure|query_w
 f|eh it's just sort of parallel to the top of the lagoon|reply_w
-g|right okay|ready
-g|go down to like in line with where it actually says lagoon|instruct
+g|right okay go down to like in line with where it actually says lagoon|ready instruct
 f|right|acknowledge
 g|will that miss the buried treasure|query_yn
 f|yeah|reply_y
-g|right|acknowledge
-g|that's fine then|explain
-g|and then go left|instruct
+g|right that's fine then and then go left|acknowledge explain instruct
 f|mmhmm|acknowledge
 g|'til you reach the lagoon and then down to the bottom of the lagoon follow it round|instruct
 f|right|acknowledge
-g|right now|ready
-g|you got green bay|query_yn
+g|right now you got green bay|ready query_yn
 f|mmhmm|reply_y
-g|right|ready
-g|you're heading for the edge of green bay the land of the top left one|instruct
+g|right you're heading for the edge of green bay the land of the top left one|ready instruct
 f|mmhmm|acknowledge
-g|bit point of land|instruct
-g|but there's a rock fall above green bay|explain
+g|bit point of land but there's a rock fall above green bay|instruct explain
 f|right|acknowledge
-g|like where the wee dent is|explain
-g|see the dent|align
+g|like where the wee dent is see the dent|explain align
 f|mmhmm|reply_y
-g|so that's goes from about three centimetres up|explain
-g|so if you go from the tip of lagoon to the tip of green bay sort of avoiding the rock fall|instruct
-f|mmhmm|acknowledge
-f|so where's the rock fall is it|query_w
-g|right|ready
-g|see the like the wee curvy bit in green bay|align
+g|so that's goes from about three centimetres up so if you go from the tip of lagoon to the tip of green bay sort of avoiding the rock fall|explain instruct
+f|mmhmm so where's the rock fall is it|acknowledge query_w
+g|right see the like the wee curvy bit in green bay|ready align
 f|mmhmm|reply_y
 g|the top|align
 f|mmhmm|reply_y
@@ -134,17 +86,13 @@ g|go left and then go down|clarify
 f|okay|acknowledge
 g|to the point|clarify
 f|right|acknowledge
-g|and then|ready
-g|have you got the pirate ship|query_yn
+g|and then have you got the pirate ship|ready query_yn
 f|mmhmm|reply_y
 g|just curve from the point go right go down and curve into the right 'til you reach the tip of the pirate ship|instruct
 f|so across the bay|check
 g|yeah through the water|reply_y
 f|so i just go straight down|check
-g|straight down|reply_y
-g|and curve to the right 'til you're in line with the pirate ship|clarify
-f|right pirate ship|acknowledge
-f|right okay|acknowledge
-g|and that's you finished|instruct
-g|okay|align
+g|straight down and curve to the right 'til you're in line with the pirate ship|reply_y clarify
+f|right pirate ship right okay|acknowledge acknowledge
+g|and that's you finished okay|instruct align
 f|right|reply_y

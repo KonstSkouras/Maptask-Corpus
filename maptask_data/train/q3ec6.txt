@@ -12,67 +12,48 @@ g|go up and go across the footbridge and stop right at the end edge of the footb
 f|above the footbridge|check
 g|over the footbridge|clarify
 f|mm|acknowledge
-g|and stop right at the end of it|instruct
-g|there is a poisoned stream on mine but which you don't have|explain
+g|and stop right at the end of it there is a poisoned stream on mine but which you don't have|instruct explain
 f|right|acknowledge
-g|okay|align
-g|and so what you do is you come south immediately south at the edge of the footbridge oh for about for about an inch so that you're about an inch above the starting cross not actually above it you know but eh along and above it|instruct
+g|okay and so what you do is you come south immediately south at the edge of the footbridge oh for about for about an inch so that you're about an inch above the starting cross not actually above it you know but eh along and above it|align instruct
 f|mmhmm mmhmm|acknowledge
 g|ehm then come then come to the right of your page to the level of the 'til you're eh and then go north just eh to the left of the old temple|instruct
 f|right so i come to just approximately the level of the old temple below it then up due north|check
-g|north to the left of the of the old temple|clarify
-g|go up|instruct
+g|north to the left of the of the old temple go up|clarify instruct
 f|mmhmm|acknowledge
 g|until you are about two inches above about an inch above the abandoned truck to which should be to the left of your straight north line|instruct
 f|i have a slate mountain as well in the way|explain
-g|you have a slate mountain|acknowledge
-g|go round the slate mountain|instruct
+g|you have a slate mountain go round the slate mountain|acknowledge instruct
 f|up|check
 g|go|instruct
 f|just go straight up past it|check
-g|yeah|reply_y
-g|a curve just immediately round it|clarify
-g|and come and then come down and under the abandoned truck|instruct
+g|yeah a curve just immediately round it and come and then come down and under the abandoned truck|reply_y clarify instruct
 f|okey-dokey|acknowledge
 g|and stop at the edge of the abandoned truck|instruct
 f|to the left|check
-g|yeah|reply_y
-g|just immediately after the abandoned truck|clarify
-g|now you don't have baboons so come come due eh south for about two inches just so that you are about an inch above your footbridge like|instruct
-g|if you know right|align
-f|mmhmm|acknowledge
-f|interesting route|reply_w
+g|yeah just immediately after the abandoned truck now you don't have baboons so come come due eh south for about two inches just so that you are about an inch above your footbridge like if you know right|reply_y clarify instruct align
+f|mmhmm interesting route|acknowledge reply_w
 g|ehm go to the edge of your page|instruct
 f|mmhmm|acknowledge
 g|and you can see your white mountain is above okay|align
 f|mmhmm|reply_y
 g|go just due left of the white mountain and keep going right the way up until about the level of the bottom of the pyramid|instruct
-f|okay|acknowledge
-f|that's past the lemon grove|check
-g|past yes|reply_y
-g|which i don't have|explain
+f|okay that's past the lemon grove|acknowledge check
+g|past yes which i don't have|reply_y explain
 f|okay|acknowledge
 g|ehm go to the right|instruct
-f|above the lemon grove which you don't have right|acknowledge
-f|how far|query_w
-g|at go|instruct
-g|go to the right until the edge of the pyramid and then duck over the pyramid|instruct
+f|above the lemon grove which you don't have right how far|acknowledge query_w
+g|at go go to the right until the edge of the pyramid and then duck over the pyramid|instruct instruct
 f|mmhmm|acknowledge
 g|and come down and under the pyramid just|instruct
 f|coming round a circle|check
-g|mmhmm|reply_y
-g|until the edge of the pyramid|instruct
+g|mmhmm until the edge of the pyramid|reply_y instruct
 f|alright|acknowledge
 g|now you have a remote village but you don't have a cobbled street the cobbled street is directly above the remote village|explain
-f|okay|acknowledge
-f|so do you want me to come to the left-hand side of it or the right-hand side|query_w
-g|to the left-hand side|reply_w
-g|if you could take a line due south eh and under the remote village|instruct
+f|okay so do you want me to come to the left-hand side of it or the right-hand side|acknowledge query_w
+g|to the left-hand side if you could take a line due south eh and under the remote village|reply_w instruct
 f|mm okay mmhmm|acknowledge
 g|so you you've you've come due south and then you've come east to the right of the page|align
-f|yeah|reply_y
-f|so now|explain
-f|in the middle i'm actually directly under the remote village at the moment|explain
+f|yeah so now in the middle i'm actually directly under the remote village at the moment|reply_y explain explain
 g|go about an inch past it|instruct
 f|mmhmm|acknowledge
 g|and "x" marks the spot|instruct

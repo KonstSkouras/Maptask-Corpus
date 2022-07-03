@@ -1,182 +1,105 @@
-g|where are we starting|query_w
-g|oh okay|acknowledge
-g|eh we're starting above the telephone kiosk|instruct
+g|where are we starting oh okay eh we're starting above the telephone kiosk|query_w acknowledge instruct
 f|eh|acknowledge
 g|is that is that the same with yours|query_yn
 f|yes|reply_y
-g|right|acknowledge
-g|we go down like come round to the side of it down|instruct
+g|right we go down like come round to the side of it down|acknowledge instruct
 f|to the right-hand side or left-hand|query_w
 g|to the left-hand side towards the edge of the page|reply_w
 f|right|acknowledge
 g|is that okay same as yours yeah|align
 f|uh-huh|reply_y
-g|eh and then|ready
-g|do you have the stone circle|query_yn
+g|eh and then do you have the stone circle|ready query_yn
 f|no i've got|reply_n
-g|below well|ready
-g|i've got a stone circle directly below telephone kiosk|explain
-g|if you come down right into the corner of the page|instruct
-g|ehm|instruct
+g|below well i've got a stone circle directly below telephone kiosk if you come down right into the corner of the page ehm|ready explain instruct instruct
 f|uh-huh|acknowledge
 g|maybe half an inch or something from the bottom|instruct
 f|yeah|acknowledge
-g|into that corner|instruct
-g|then come across for|instruct
-g|well|ready
-g|have you got a farmer's gate|query_yn
+g|into that corner then come across for well have you got a farmer's gate|instruct instruct ready query_yn
 f|a broken gate|query_yn
-g|well|ready
-g|yeah same thing|reply_y
-g|ehm if you come up go along until you're at the edge the left-hand side of that and then come up to the top left-hand side of the farmer's gate|instruct
+g|well yeah same thing ehm if you come up go along until you're at the edge the left-hand side of that and then come up to the top left-hand side of the farmer's gate|ready reply_y instruct
 f|okay|acknowledge
-g|straight up from the from the bottom|instruct
-g|know what i mean|align
+g|straight up from the from the bottom know what i mean|instruct align
 f|yeah|reply_y
-g|right|acknowledge
-g|now|ready
-g|i want to head on the diagonal|instruct
-g|have you got meadow|query_yn
+g|right now i want to head on the diagonal have you got meadow|acknowledge ready instruct query_yn
 f|right down in the corner|query_yn
 g|yeah down the right-hand side|reply_y
 f|yeah|reply_y
 g|have you got anything above that|query_yn
 f|overnight accommodation|reply_w
-g|overnight accommodation i haven't got any of that|explain
-g|ehm right|ready
-g|you want come across diagonally from the top left-hand corner the farmer's gate or broken gate whatever ehm to maybe two inches above the meadow in a slight er just a very slight diagonal ehm oh to the right-hand side|instruct
+g|overnight accommodation i haven't got any of that ehm right you want come across diagonally from the top left-hand corner the farmer's gate or broken gate whatever ehm to maybe two inches above the meadow in a slight er just a very slight diagonal ehm oh to the right-hand side|explain ready instruct
 f|to the right-hand side of the meadow|check
-g|yeah|reply_y
-g|you'll end up maybe|clarify
-g|hang on about|clarify
+g|yeah you'll end up maybe hang on about|reply_y clarify clarify
 f|almost in the corner well|check
-g|about er|clarify
-g|well|ready
-g|no|reply_n
-g|about three inches|clarify
-g|you're coming above the meadow|align
+g|about er well no about three inches you're coming above the meadow|clarify ready reply_n clarify align
 f|uh-huh|reply_y
 g|eh almost maybe three inches from the edge of the page|clarify
 f|was that the top of the broken gate|check
-g|yeah|reply_y
-g|sorry did i not say that|query_yn
-f|yeah|reply_y
-f|no|reply_n
-f|i was just checking the list|explain
-f|three inches from the edge of the page|acknowledge
+g|yeah sorry did i not say that|reply_y query_yn
+f|yeah no i was just checking the list three inches from the edge of the page|reply_y reply_n explain acknowledge
 g|have you got a ruined monastery|query_yn
-f|yeah oh above|reply_y
-f|like sort of the middle of the page just about|query_yn
-g|yeah|reply_y
-g|ehm you should be just to the right-hand side of that you know like down but to the right-hand side of that|align
+f|yeah oh above like sort of the middle of the page just about|reply_y query_yn
+g|yeah ehm you should be just to the right-hand side of that you know like down but to the right-hand side of that|reply_y align
 f|yeah|reply_y
-g|now|ready
-g|you want to eh slope up eh or move up towards the right-hand side of that if there's nothing in your way|instruct
-g|okay|align
+g|now you want to eh slope up eh or move up towards the right-hand side of that if there's nothing in your way okay|ready instruct align
 f|okay|reply_y
 g|now|ready
 f|just to bottom of the ruined monastery|check
-g|yeah|reply_y
-g|well|ready
-g|come out come to the right-hand side of it and then loop round the top|instruct
-f|okay|acknowledge
-f|i've got a dutch elm on my right-hand side|explain
+g|yeah well come out come to the right-hand side of it and then loop round the top|reply_y ready instruct
+f|okay i've got a dutch elm on my right-hand side|acknowledge explain
 g|you've got what|query_w
 f|dutch elm|reply_w
-g|oh right okay|acknowledge
-g|ehm just kind of stay over from it|instruct
+g|oh right okay ehm just kind of stay over from it|acknowledge instruct
 f|so i'm going above the|check
-g|you're going above the monastery|reply_y
-g|stay quite close to it as well|clarify
+g|you're going above the monastery stay quite close to it as well|reply_y clarify
 f|right okay|acknowledge
 g|have you got a west lake|query_yn
 f|no|reply_n
-g|ah right|ready
-g|you've got a have you got a stile|query_yn
-f|yeah|reply_y
-f|and a popular tourist spot|explain
-g|popular tourist spot|acknowledge
-g|where where is that in relation to the monastery|query_w
-f|monastery|acknowledge
-f|right|ready
-f|in relation to the stile it's to the right and about an inch above it to the stile|explain
+g|ah right you've got a have you got a stile|ready query_yn
+f|yeah and a popular tourist spot|reply_y explain
+g|popular tourist spot where where is that in relation to the monastery|acknowledge query_w
+f|monastery right in relation to the stile it's to the right and about an inch above it to the stile|acknowledge ready explain
 g|oh right|acknowledge
 f|and in relation|reply_w
-g|well|ready
-g|i i haven't got that|explain
-g|hang on we'll need to deal with this west lake thing anyway|explain
-g|ehm it's directly above the farmer's gate ehm if you come down|explain
+g|well i i haven't got that hang on we'll need to deal with this west lake thing anyway ehm it's directly above the farmer's gate ehm if you come down|ready explain explain explain
 f|what is|query_w
 g|to the west lake|reply_w
-f|oh well that'll be the popular tourist spot above the stile|explain
-f|is the lake above the stile|query_yn
-g|no|reply_n
-g|the lake is above the farmer's gate in between the farmer's gate and the stile|explain
-g|ehm if you come down level on the left-hand side with the bottom of the ruined monastery|instruct
+f|oh well that'll be the popular tourist spot above the stile is the lake above the stile|explain query_yn
+g|no the lake is above the farmer's gate in between the farmer's gate and the stile ehm if you come down level on the left-hand side with the bottom of the ruined monastery|reply_n explain instruct
 f|level on the left|check
-g|okay|align
-g|if you've come you're like you've come round the top|align
+g|okay if you've come you're like you've come round the top|align align
 f|uh-huh|reply_y
 g|eh come down to the|clarify
 f|go to the bottom|check
-g|the bottom left-hand side|clarify
-g|and then just slope eh slightly down eh and come over to about an inch and a half away from the right eh the left-hand side of the page|instruct
+g|the bottom left-hand side and then just slope eh slightly down eh and come over to about an inch and a half away from the right eh the left-hand side of the page|clarify instruct
 f|okay|acknowledge
 g|eh you've got the stile yeah|check
 f|up above that|check
-g|well|ready
-g|if you stop eh at the left-hand you know down from the left-hand side of that and then go once you're there go straight up to the top left-hand side of the stile|instruct
+g|well if you stop eh at the left-hand you know down from the left-hand side of that and then go once you're there go straight up to the top left-hand side of the stile|ready instruct
 f|over the stile|check
-g|yeah over the stile|reply_y
-g|over the right-hand side and then just go almost directly up for about an inch and a half|instruct
-f|okay|acknowledge
-f|i'm going to go right through the popular tourist spot then|check
-g|well come eh|clarify
-g|that's just slightly to the right of the stile isn't it up and to the right|check
+g|yeah over the stile over the right-hand side and then just go almost directly up for about an inch and a half|reply_y instruct
+f|okay i'm going to go right through the popular tourist spot then|acknowledge check
+g|well come eh that's just slightly to the right of the stile isn't it up and to the right|clarify check
 f|uh-huh|reply_y
-g|well|ready
-g|if you come round the left-hand side of it and then over the top|clarify
-g|know what i mean|align
+g|well if you come round the left-hand side of it and then over the top know what i mean|ready clarify align
 f|come round the left-hand side of the popular tourist|check
-g|yeah|reply_y
-g|go up the left-hand side of the stile er of the popular tourist spot|clarify
+g|yeah go up the left-hand side of the stile er of the popular tourist spot|reply_y clarify
 f|right okay|acknowledge
-g|ehm i'm just assuming where that is ehm|explain
-g|and then come over the top of it and head down diagonally towards the bottom of|instruct
-g|well|ready
-g|i've got it as a dead tree you've got it as another you've what is it description yeah|explain
-f|dutch tree|explain
-f|so|ready
-f|i'm going i'm going away i'm really going back down towards the ruined monastery|check
-g|well if you come|instruct
-g|yes it's|reply_y
-g|a diagonal across the page eh to the towards to the bottom well to the right|clarify
-g|you know ehm you come round it round the right-hand side of it and back over to the to the you know the other side you know loop round it|instruct
-f|yeah okay|acknowledge
-f|right okay i'm doing that|acknowledge
-g|now|ready
-g|have you got a great viewpoint|query_yn
+g|ehm i'm just assuming where that is ehm and then come over the top of it and head down diagonally towards the bottom of well i've got it as a dead tree you've got it as another you've what is it description yeah|explain instruct ready explain
+f|dutch tree so i'm going i'm going away i'm really going back down towards the ruined monastery|explain ready check
+g|well if you come yes it's a diagonal across the page eh to the towards to the bottom well to the right you know ehm you come round it round the right-hand side of it and back over to the to the you know the other side you know loop round it|instruct reply_y clarify instruct
+f|yeah okay right okay i'm doing that|acknowledge acknowledge
+g|now have you got a great viewpoint|ready query_yn
 f|right up at the corner|query_yn
-g|eh no|reply_n
-g|i've got another one just below the east lake|explain
-f|no|reply_n
-f|it's a rocket launch pad|explain
-g|right okay|ready
-g|if eh you come round to the left top left of the of the picture of the tree right|instruct
+g|eh no i've got another one just below the east lake|reply_n explain
+f|no it's a rocket launch pad|reply_n explain
+g|right okay if eh you come round to the left top left of the of the picture of the tree right|ready instruct
 f|right aye i said it was|reply_y
-g|or is that where you are anyway yeah|align
-g|then just just just skrai straight up er until you meet the lake edge of the lake|instruct
-f|aye|ready
-f|what what part of the is it bit that's lowest down or the bit|query_w
-g|well|ready
-g|if you just go straight up from the edge of the tree and then once you get there|clarify
+g|or is that where you are anyway yeah then just just just skrai straight up er until you meet the lake edge of the lake|align instruct
+f|aye what what part of the is it bit that's lowest down or the bit|ready query_w
+g|well if you just go straight up from the edge of the tree and then once you get there|ready clarify
 f|to get to any part of the lake right|check
-g|yeah|reply_y
-g|just straight up 'til you meet that|clarify
-g|and then just go along following the lake to the left and that's us finished|instruct
+g|yeah just straight up 'til you meet that and then just go along following the lake to the left and that's us finished|reply_y clarify instruct
 f|at the great viewpoint|check
-g|yeah|reply_y
-g|oh no no|reply_n
-g|you don't need to go as far as that just to the just just kind of level with the edge of the lake|clarify
+g|yeah oh no no you don't need to go as far as that just to the just just kind of level with the edge of the lake|reply_y reply_n clarify
 f|okay|acknowledge
 g|there you go|acknowledge

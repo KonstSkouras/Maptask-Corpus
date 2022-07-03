@@ -1,5 +1,4 @@
-g|right|ready
-g|starting at sandy shore|instruct
+g|right starting at sandy shore|ready instruct
 f|mmhmm|acknowledge
 g|down|instruct
 f|hang on i missed that cross is between eh the word sandy shore and start|explain
@@ -9,8 +8,7 @@ g|eh|reply_n
 f|like on the sandy shore|query_yn
 g|no|reply_n
 f|um i've got a sort of river thing crane bay crane bay that's it|explain
-g|yeah|reply_y
-g|right that's what i've got|reply_y
+g|yeah right that's what i've got|reply_y reply_y
 f|have you got that|query_yn
 g|yeah|reply_y
 f|and it's slightly to the right of the start|check
@@ -18,31 +16,23 @@ g|yeah|reply_y
 f|right so i take it i've to stay on dry land|check
 g|uh yes|reply_y
 f|right okay fire away|acknowledge
-g|right|ready
-g|eh down and round the well to down to the bottom of the well|instruct
+g|right eh down and round the well to down to the bottom of the well|ready instruct
 f|well|check
 g|you've got a well have you not got a well|query_yn
 f|um|reply_n
 g|no you've not|acknowledge
 f|no|reply_n
-g|right okay|acknowledge
-g|go down about four inches straight down|instruct
+g|right okay go down about four inches straight down|acknowledge instruct
 f|we're talking straight down here|check
-g|yeah|reply_y
-g|we're talking big straight down here|clarify
+g|yeah we're talking big straight down here|reply_y clarify
 f|have you got local residents|query_yn
 g|yes|reply_y
 f|right will i end up level with that horizontally level with it|check
-g|yeah but not not next to them|reply_y
-g|you're about three inches away from them|clarify
+g|yeah but not not next to them you're about three inches away from them|reply_y clarify
 f|right so i'm going straight down|acknowledge
-g|well|clarify
-g|yeah|reply_y
-g|and then|instruct
-g|okay|align
+g|well yeah and then okay|clarify reply_y instruct align
 f|mmhmm|reply_y
-g|right|ready
-g|come up to the bottom left-hand side of the local residents|instruct
+g|right come up to the bottom left-hand side of the local residents|ready instruct
 f|right|acknowledge
 g|okay|align
 f|uh-huh|reply_y
@@ -50,33 +40,25 @@ g|and go up and round them now go you got to cross the the river that goes into 
 f|mmhmm|acknowledge
 g|you go up and across at the widest point|instruct
 f|an iron bridge have you got an iron bridge there|query_yn
-g|no|reply_n
-g|but i would presume you cross it|instruct
-f|yeah|acknowledge
-f|well i don't fancy swimming it anyway|explain
+g|no but i would presume you cross it|reply_n instruct
+f|yeah well i don't fancy swimming it anyway|acknowledge explain
 g|no|acknowledge
 f|am am i going in a kind of curve here|check
-g|no|reply_n
-g|you're going straight across it|clarify
-g|and then you go in to you go in and about an inch on the other side of the land|instruct
+g|no you're going straight across it and then you go in to you go in and about an inch on the other side of the land|reply_n clarify instruct
 f|alright|acknowledge
 g|okay|align
 f|to woodland|check
 g|not as far as that aye you're about it should be about an inch away|clarify
 f|alright|acknowledge
 g|no right|ready
-f|okay|acknowledge
-f|right i'm about an inch away|acknowledge
+f|okay right i'm about an inch away|acknowledge acknowledge
 g|follow the stream down|instruct
 f|mmhmm|acknowledge
-g|and then go round go round the bend|instruct
-g|about an inch beyond the apex of the bend|instruct
+g|and then go round go round the bend about an inch beyond the apex of the bend|instruct instruct
 f|uh-huh|acknowledge
 g|now you don't have farm land do you|check
-f|eh|acknowledge
-f|no|reply_n
-g|no i knew you didn't|acknowledge
-g|eh|ready
+f|eh no|acknowledge reply_n
+g|no i knew you didn't eh|acknowledge ready
 f|oo|acknowledge
 g|go eh horizontal say three inches|instruct
 f|where in which direction|query_w
@@ -87,119 +69,87 @@ f|this is once i'm beyond the apex of the curve|check
 g|yeah|reply_y
 f|how far should i be beyond the apex of the curve|query_w
 g|well should be about an inch an inch and a half down|reply_w
-f|right|acknowledge
-f|okay|acknowledge
+f|right okay|acknowledge acknowledge
 g|you've got|instruct
 f|and then horizontally|check
 g|down to the right about three inches|clarify
 f|right|acknowledge
 g|then you go down two inches straight down|instruct
 f|how far am i from the right-hand side of the page just now when i'm when i'm heading horizontally right|query_w
-g|but i|reply_w
-g|i've got|reply_w
-g|you're you're about an inch|reply_w
+g|but i i've got you're you're about an inch|reply_w reply_w reply_w
 f|right okay|acknowledge
 g|roughly eh|reply_w
 f|down|check
-g|no|reply_n
-g|you you've moved down|clarify
+g|no you you've moved down|reply_n clarify
 f|no i haven't yet|reply_n
 g|oh right|acknowledge
 f|i've gone i've gone i've gone horizontal so far after the apex of the curve and then going horizontal|explain
 g|it makes a curve|instruct
 f|i'm at the stop point just now|explain
-g|ah right|acknowledge
-g|well go down two inches|clarify
-f|right|acknowledge
-f|see the dead tree|align
-g|yeah|reply_y
-g|are you at the same level as that|align
+g|ah right well go down two inches|acknowledge clarify
+f|right see the dead tree|acknowledge align
+g|yeah are you at the same level as that|reply_y align
 f|yeah|reply_y
-g|right|acknowledge
-g|well then move right across 'til you're at the bottom of the dead tree|instruct
+g|right well then move right across 'til you're at the bottom of the dead tree|acknowledge instruct
 f|i've got a mountain stream between me and the dead tree|explain
 g|ah|acknowledge
 f|like see the gurgling brook|align
 g|no|reply_n
-f|well see|align
-f|great|acknowledge
-f|see at do you see the river that runs into crane bay|align
+f|well see great see at do you see the river that runs into crane bay|align acknowledge align
 g|yeah|reply_y
-f|follow that back|instruct
-f|see the big bulge in it at the right-hand side|align
-g|mmhmm|acknowledge
-g|mmhmm|reply_y
-f|right|ready
-f|coming back down towards the left|explain
+f|follow that back see the big bulge in it at the right-hand side|instruct align
+g|mmhmm mmhmm|acknowledge reply_y
+f|right coming back down towards the left|ready explain
 g|yeah|acknowledge
 f|the river splits in two in mine|explain
-g|yeah|acknowledge
-g|uh-huh same here|reply_y
+g|yeah uh-huh same here|acknowledge reply_y
 f|i've got a|explain
-g|it splits on either side of the tree|explain
-g|you just cross straight over that|instruct
-f|uh-huh|reply_y
-f|oh right okay|acknowledge
-g|i've got|explain
-g|i assume that's the same thing|explain
-g|cross straight over 'til you're at the bottom of the dead tree|instruct
+g|it splits on either side of the tree you just cross straight over that|explain instruct
+f|uh-huh oh right okay|reply_y acknowledge
+g|i've got i assume that's the same thing cross straight over 'til you're at the bottom of the dead tree|explain explain instruct
 f|mmhmm|acknowledge
 g|come down two and a half inches vertical|instruct
 f|is there treasure buried here|query_yn
 g|uh not on mine there's not|reply_n
-f|hang on|ready
-f|i'm underneath the dead tree just now right|align
+f|hang on i'm underneath the dead tree just now right|ready align
 g|yeah same here|reply_y
 f|back down directly two inches|check
-g|straight down aye|reply_w
-g|two two and a half no make it three|clarify
+g|straight down aye two two and a half no make it three|reply_w clarify
 f|i'm not sure i think it should be two|explain
 g|well|ready
-f|i i think you're overestimating i want to get to this treasure here|explain
-f|right right carry on|acknowledge
+f|i i think you're overestimating i want to get to this treasure here right right carry on|explain acknowledge
 g|what|query_w
 f|i'm underneath the dead tree|explain
 g|right|ready
 f|i'm going two inches straight down|check
 g|yeah|reply_y
-f|right|acknowledge
-f|right i'm to the right of the treasure buried here|explain
-g|now|ready
-g|right well go left two and a half until you approach the side of the lagoon|instruct
+f|right right i'm to the right of the treasure buried here|acknowledge explain
+g|now right well go left two and a half until you approach the side of the lagoon|ready instruct
 f|mm right i'm kind of cutting through the treasure|explain
 g|right|ready
-f|picking up lots of lovely jubbely on the way|explain
-f|right carry on|acknowledge
+f|picking up lots of lovely jubbely on the way right carry on|explain acknowledge
 g|down round to the bottom of the lagoon|instruct
 f|in a sort of following the perimeter of the lagoon|check
-g|following|clarify
-g|the yeah|reply_y
+g|following the yeah|clarify reply_y
 f|rightee-ho|acknowledge
 g|and you don't have a rock fall do you|query_yn
-f|no i don't|reply_n
-f|but i don't like the sound of it|explain
+f|no i don't but i don't like the sound of it|reply_n explain
 g|so er go to the left two inches|instruct
 f|eh right okay|acknowledge
 g|no left|clarify
 f|directly to the left|check
 g|yes|reply_y
 f|underneath the word lagoon i mean like|check
-g|no|reply_n
+g|no yeah below the word lagoon but direct to|reply_n reply_y reply_y
+f|about about an inch and a half below the word lagoon|check check
 g|yeah|reply_y
-g|below the word lagoon but direct to|reply_y
-f|about|check
-f|about an inch and a half below the word lagoon|check
-g|yeah|reply_y
-f|right|acknowledge
-f|and how far am i going left|check
+f|right and how far am i going left|acknowledge check
 g|two inches|clarify
 f|right|acknowledge
 g|then go down and down two and across three so you get to the little the headland|instruct
 f|headland|query_w
-g|point|clarify
-g|on well look see green bay|align
-f|where's that|query_w
-f|uh-huh|align
+g|point on well look see green bay|clarify align
+f|where's that uh-huh|query_w align
 g|there's a wee the the extreme sticky out bit of green bay|reply_w
 f|yeah|acknowledge
 g|see it|align
@@ -212,22 +162,15 @@ g|across and then diagonal|clarify
 f|across and then diagonally right okay|acknowledge
 g|right and then|instruct
 f|heading straight into that wee point|check
-g|yeah|reply_y
-g|then jump into the water|instruct
+g|yeah then jump into the water|reply_y instruct
 f|oh|acknowledge
 g|and go down|instruct
 f|are you doing this deliberately i'll bet that's not in the route|check
 g|no it is|reply_y
 f|eh right|acknowledge
-g|i just want to get phil wet|explain
-g|eh go go into the go into the water down two inches|instruct
-f|mm|acknowledge
-f|right am i|acknowledge
-f|hang on|ready
-f|i'm at the very very very point here|explain
+g|i just want to get phil wet eh go go into the go into the water down two inches|explain instruct
+f|mm right am i hang on i'm at the very very very point here|acknowledge acknowledge ready explain
 g|yeah|reply_y
 f|and i'm going straight down two inches|check
-g|yeah|reply_y
-g|and then to the right two inches and that's the finish at the pirate ship|instruct
-f|right|acknowledge
-f|okay hurrah|acknowledge
+g|yeah and then to the right two inches and that's the finish at the pirate ship|reply_y instruct
+f|right okay hurrah|acknowledge acknowledge

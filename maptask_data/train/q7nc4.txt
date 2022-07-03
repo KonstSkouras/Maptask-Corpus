@@ -1,218 +1,140 @@
-g|right okay ehm right|ready
-g|have you got a start point right down near the oh shit down near the bottom of the page which is above a crest falls|query_yn
+g|right okay ehm right have you got a start point right down near the oh shit down near the bottom of the page which is above a crest falls|ready query_yn
 f|yeah|reply_y
-g|right|acknowledge
-g|the start point's at about a half an inch above it|align
+g|right the start point's at about a half an inch above it|acknowledge align
 f|yeah|reply_y
-g|okay right|acknowledge
-g|oh right|ready
-g|what we need to do right is like eh|instruct
-g|above that you've roughly well above and to a wee bit to the left you've got a poison stream is that right|query_yn
-f|eh no|reply_n
-f|i've got nothing above it i've got an old temple to my right of it|explain
-g|uh-huh|acknowledge
-g|have you got anything more to the left at all|query_w
+g|okay right oh right what we need to do right is like eh above that you've roughly well above and to a wee bit to the left you've got a poison stream is that right|acknowledge ready instruct query_yn
+f|eh no i've got nothing above it i've got an old temple to my right of it|reply_n explain
+g|uh-huh have you got anything more to the left at all|acknowledge query_w
 f|a footbridge quite a bit over|reply_w
-g|right okay|acknowledge
-g|right we need to go right what we need to do is like see the crest falls we need to go like we start just above it and we move to the ehm|instruct
-g|i'll explain it to you right first|explain
+g|right okay right we need to go right what we need to do is like see the crest falls we need to go like we start just above it and we move to the ehm i'll explain it to you right first|acknowledge instruct explain
 f|okay|acknowledge
 g|move to the left about an inch and then drop down like almost at the side of the falls|instruct
 f|right|acknowledge
-g|it goes into a curve goes along the bottom of the page right to about an inch before the edge of the page and it curves right round it's almost like a kind of square circle and it cuts along and it goes it goes up level with the footbridge and goes along the footbridge|instruct
-g|okay|align
+g|it goes into a curve goes along the bottom of the page right to about an inch before the edge of the page and it curves right round it's almost like a kind of square circle and it cuts along and it goes it goes up level with the footbridge and goes along the footbridge okay|instruct align
 f|goes along the foot bridge to the side of|check
-g|yeah|reply_y
-g|like as if you're walking along the footbridge|clarify
-g|right|align
+g|yeah like as if you're walking along the footbridge right|reply_y clarify align
 f|right okay|reply_y
 g|and then it|instruct
 f|what about the banana tree does it come before the banana tree|query_yn
-g|oh|acknowledge
-g|i don't have a banana tree|explain
+g|oh i don't have a banana tree|acknowledge explain
 f|right okay|acknowledge
 g|where's the banana tree roughly|query_w
 f|it's just below the footbridge and along to my left slightly|reply_w
 g|right|acknowledge
 f|it's level with the the falls|reply_w
-g|right okay|acknowledge
-g|well what we want to kind of go round that the round the outside of that one a massive big curve|instruct
+g|right okay well what we want to kind of go round that the round the outside of that one a massive big curve|acknowledge instruct
 f|round the outside of it right okay|acknowledge
 g|okay|align
 f|okay|reply_y
 g|right|ready
 f|then back along level with the footbridge|check
-g|right you if you go right to the footbridge|clarify
-g|just sort aye if you if you think|reply_y
-f|do you want me to start drawing this or|align
-f|just yeah okay|acknowledge
+g|right you if you go right to the footbridge just sort aye if you if you think|clarify reply_y
+f|do you want me to start drawing this or just yeah okay|align acknowledge
 g|if its alright right|reply_y
-f|right|ready
-f|down to the side of the crest falls|check
-g|right|ready
-g|just right down to the bottom of it really|clarify
-g|and then|ready
+f|right down to the side of the crest falls|ready check
+g|right just right down to the bottom of it really and then|ready clarify ready
 f|right|acknowledge
 g|along the bottom and then curve up right round past banana tree|clarify
 f|right underneath the footbridge right and along|acknowledge
-g|right|ready
-g|right up to the point level with the footbridge|align
-f|yeah i'm parallel with the footbridge now|reply_y
-f|below it or above it sorry should i be|query_w
-g|eh well you actually need to go across it|reply_w
-g|right yeah as if|reply_y
-f|oh i'm going along the footbridge|check
-f|right sorry okay|acknowledge
-g|you're walking along it|clarify
-g|is that okay|align
+g|right right up to the point level with the footbridge|ready align
+f|yeah i'm parallel with the footbridge now below it or above it sorry should i be|reply_y query_w
+g|eh well you actually need to go across it right yeah as if|reply_w reply_y
+f|oh i'm going along the footbridge right sorry okay|check acknowledge
+g|you're walking along it is that okay|clarify align
 f|yeah sorry|reply_y
 g|right see once you've come like if you stop just at the side of the just at the other edge of the footbridge|instruct
 f|right|acknowledge
-g|okay|align
-g|and we've got a poisoned stream right next to that on the right-hand side|explain
-g|so we need to drop down about an inch and a half straight down after the footbridge|instruct
+g|okay and we've got a poisoned stream right next to that on the right-hand side so we need to drop down about an inch and a half straight down after the footbridge|align explain instruct
 f|straight down|check
-g|yeah straight down|reply_y
-g|'cause it's right next to it as if we're dropped down between it|clarify
+g|yeah straight down 'cause it's right next to it as if we're dropped down between it|reply_y clarify
 f|right okay|acknowledge
-g|okay|align
-g|eh drop down about an inch inch and a half|instruct
+g|okay eh drop down about an inch inch and a half|align instruct
 f|right|acknowledge
 g|and then we need to eh go to your your right about two or three inches|instruct
 f|along to the side of the old temple but below it|check
-g|yeah now we're|reply_y
-g|what's with the old temple right we're going to curve up like ehm curve to go straight up like just before the old temple|reply_w
+g|yeah now we're what's with the old temple right we're going to curve up like ehm curve to go straight up like just before the old temple|reply_y reply_w
 f|before the old temple|check
-g|yeah|reply_y
-g|so you're like glancing round it so you just go go in a curve down|clarify
-f|right|acknowledge
-f|so straight across to the old temple and then up a part|check
-g|yeah|reply_y
-g|but if you make it a curve instead of like a a sort of tight angle there|instruct
+g|yeah so you're like glancing round it so you just go go in a curve down|reply_y clarify
+f|right so straight across to the old temple and then up a part|acknowledge check
+g|yeah but if you make it a curve instead of like a a sort of tight angle there|reply_y instruct
 f|right okay|acknowledge
-g|right|ready
-g|and go about an inch above the old temple just going straight up|instruct
+g|right and go about an inch above the old temple just going straight up|ready instruct
 f|to the side of the straight the slate mountain okay|check
-g|yeah|reply_y
-g|to the left-hand side of the old temple|clarify
+g|yeah to the left-hand side of the old temple|reply_y clarify
 f|right an inch above it did you say|check
-g|okay|align
-g|aye about that|reply_y
-g|right eh|ready
-g|there's a kind of hump|instruct
-g|right|ready
-g|have you got see to the left of where you are right have you got an abandoned truck a good bit to the left|query_yn
-f|between|check
-f|yeah i have|reply_y
-f|but before that i've got a slate mountain|explain
-g|right well|ready
-g|i've got a massive big hump here so i i presume that goes round the round the top of the slate mountain|explain
+g|okay aye about that right eh there's a kind of hump right have you got see to the left of where you are right have you got an abandoned truck a good bit to the left|align reply_y ready instruct ready query_yn
+f|between yeah i have but before that i've got a slate mountain|check reply_y explain
+g|right well i've got a massive big hump here so i i presume that goes round the round the top of the slate mountain|ready explain
 f|yeah and right|acknowledge
 g|if you want to draw like draw a curve round the top of the slate mountain and go down underneath the abandoned truck|instruct
 f|far underneath it or just underneath it|query_w
-g|no|reply_n
-g|just underneath the writing|clarify
+g|no just underneath the writing|reply_n clarify
 f|right|acknowledge
 g|okay and stop just at the end of the writing abandoned truck|instruct
 f|okay|acknowledge
-g|okay|align
-g|right|ready
-g|have you got down to your bottom left-hand side of where you are a baboons|query_yn
-f|no|reply_n
-f|i don't have anything|explain
-g|right okay|acknowledge
-g|so|ready
-g|what we oh heck it's right there's a there's this kind of group of baboons right which is right near the edge but we need to kind of go down underneath them and along to about a half an inch before the edge of the page and then up again so it's like a cup-shaped|instruct
-g|thing really|instruct
+g|okay right have you got down to your bottom left-hand side of where you are a baboons|align ready query_yn
+f|no i don't have anything|reply_n explain
+g|right okay so what we oh heck it's right there's a there's this kind of group of baboons right which is right near the edge but we need to kind of go down underneath them and along to about a half an inch before the edge of the page and then up again so it's like a cup-shaped thing really|acknowledge ready instruct instruct
 f|sorry how far am i going down to|query_w
 g|you're going down about an inch below the abandoned truck|reply_w
 f|under|check
 g|right see right|ready
 f|right|acknowledge
 g|you're underneath the abandoned truck just now|align
-f|the truck|reply_y
-f|just like a|check
+f|the truck just like a|reply_y check
 g|is that right|align
 f|yeah|reply_y
 g|and you need to sort of curve straight down to about an about an inch just over an inch below that and straight down and sort of round along for about an inch and then up for about an inch so it's like a cup-shaped|instruct
 f|along to the end of the page|check
 g|to the left|clarify
 f|right|acknowledge
-g|yeah|reply_y
-g|and just before the paper say about a half an inch before the paper curve up again|instruct
+g|yeah and just before the paper say about a half an inch before the paper curve up again|reply_y instruct
 f|right|acknowledge
-g|okay|align
-g|right so|ready
-g|have you got quite a couple of inches above that a thing called white mountain|query_yn
+g|okay right so have you got quite a couple of inches above that a thing called white mountain|align ready query_yn
 f|yeah|reply_y
-g|right|acknowledge
-g|now we sort of gently slope to the right from where we are up to the left-hand side of the white mountain so you sort of|instruct
+g|right now we sort of gently slope to the right from where we are up to the left-hand side of the white mountain so you sort of|acknowledge instruct
 f|above going above the left of the mountain or underneath it|query_w
-g|no|reply_n
-g|just along the side of it along the left-hand side of the mountain|clarify
-g|okay|align
-g|and then after you the top of the mountain you go straight up for three inches|instruct
+g|no just along the side of it along the left-hand side of the mountain okay and then after you the top of the mountain you go straight up for three inches|reply_n clarify align instruct
 f|straight up towards the lemon grove|check
 g|well i don't have a lemon only|explain
 f|right we need to avoid that 'cause that's straight above the white mountain it's about two to three inches above it|explain
-g|right|acknowledge
-g|well maybe go right if if you avoid that and once you get to the top of that turn right like a sort of right angle turning to the right if you see what i mean|instruct
+g|right well maybe go right if if you avoid that and once you get to the top of that turn right like a sort of right angle turning to the right if you see what i mean|acknowledge instruct
 f|okay|acknowledge
 g|right|ready
 f|to my right yeah|check
-g|uh-huh|reply_y
-g|and about two and a half inches along from there have you got a pyramid|query_yn
+g|uh-huh and about two and a half inches along from there have you got a pyramid|reply_y query_yn
 f|pyramid yeah|reply_y
-g|right|ready
-g|we have to go round the outside of the pyramid but you go up the left-hand side down the right-hand side and underneath it right so we're almost doing a triangle|instruct
+g|right we have to go round the outside of the pyramid but you go up the left-hand side down the right-hand side and underneath it right so we're almost doing a triangle|ready instruct
 f|up and over right|acknowledge
-g|but underneath that we've got a cobbled street|explain
-g|have you got that|query_yn
-f|no|reply_n
-f|i've got a poisoned stream near there|explain
+g|but underneath that we've got a cobbled street have you got that|explain query_yn
+f|no i've got a poisoned stream near there|reply_n explain
 g|oh no like my poisoned stream's a lot more to the right but i've got a cobbled street right underneath the pyramid|explain
 f|no|reply_n
-g|right so|ready
-g|have you have you drawn round the pyramid yet|align
-f|yeah|reply_y
-f|i've drawn up above it and then down below again|explain
-g|right|acknowledge
-g|if you could go along back to your left right to the end of the pyramid|instruct
+g|right so have you have you drawn round the pyramid yet|ready align
+f|yeah i've drawn up above it and then down below again|reply_y explain
+g|right if you could go along back to your left right to the end of the pyramid|acknowledge instruct
 f|back to my left|check
-g|yeah|reply_y
-g|so it's almost as if you're drawing right round it but not quite|clarify
-f|so like a triangle|check
-f|right okay|acknowledge
+g|yeah so it's almost as if you're drawing right round it but not quite|reply_y clarify
+f|so like a triangle right okay|check acknowledge
 g|yeah uh-huh|reply_y
 f|right|acknowledge
-g|right excuse me coughing right|ready
-g|we've got have you got a remote village further down|query_yn
-f|yeah|reply_y
-f|quite a bit down|explain
-g|right okay now|ready
-g|what we have to do is sort of veer to the left just a wee bit going straight down so that you come down underneath the remote village right and once you get to the|instruct
-g|you know on the left-hand side of it|align
+g|right excuse me coughing right we've got have you got a remote village further down|ready query_yn
+f|yeah quite a bit down|reply_y explain
+g|right okay now what we have to do is sort of veer to the left just a wee bit going straight down so that you come down underneath the remote village right and once you get to the you know on the left-hand side of it|ready instruct align
 f|right|reply_y
-g|okay|align
-g|and then what we need to do is turn turn right straight right just 'til you're other side of the remote village and then that's us done|instruct
-f|right i'm down to the side of it|explain
-f|underneath the poisoned stream sort of roughly|check
-g|well eh mine's is in a different position than yours so|explain
-g|aye probably if yours is|reply_y
+g|okay and then what we need to do is turn turn right straight right just 'til you're other side of the remote village and then that's us done|align instruct
+f|right i'm down to the side of it underneath the poisoned stream sort of roughly|explain check
+g|well eh mine's is in a different position than yours so aye probably if yours is|explain reply_y
 f|so the right-hand side of my right-hand side of the remote village is where we end yeah|check
-g|yeah|reply_y
-g|but you come round the left-hand side underneath it and along to your right|clarify
+g|yeah but you come round the left-hand side underneath it and along to your right|reply_y clarify
 f|yeah|acknowledge
 g|okay|acknowledge
 f|so i'm sort of directly above the old temple is where i finish|check
-g|yeah|reply_y
-g|roughly just yeah say maybe just just short of that|reply_w
-f|right okay|acknowledge
-f|yeah well|acknowledge
+g|yeah roughly just yeah say maybe just just short of that|reply_y reply_w
+f|right okay yeah well|acknowledge acknowledge
 g|okay|align
 f|just short of it okay|acknowledge
 g|right|acknowledge
 f|and that's it finished|check
-g|yeah|reply_y
-g|you put a big cross and your name on it and that|instruct
+g|yeah you put a big cross and your name on it and that|reply_y instruct
 f|yes|acknowledge

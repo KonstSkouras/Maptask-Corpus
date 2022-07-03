@@ -1,34 +1,24 @@
 g|have you got the missionary camp at the right-hand side|query_yn
 f|yeah uh-huh|reply_y
-g|okay|ready
-g|have you got the start|query_yn
+g|okay have you got the start|ready query_yn
 f|yeah i've got the start|reply_y
 g|is it at the top of it|query_yn
 f|uh-huh|reply_y
-g|right okay|ready
-g|go to the right i think it is yeah right go to the right about two about two three centimetres|instruct
+g|right okay go to the right i think it is yeah right go to the right about two about two three centimetres|ready instruct
 f|right|acknowledge
 g|go down two three centimetres|instruct
-f|down|check
-f|towards the missionary camp|query_yn
-g|uh-huh|reply_y
-g|you're at the top and that|align
+f|down towards the missionary camp|check query_yn
+g|uh-huh you're at the top and that|reply_y align
 f|uh-huh|reply_y
 g|go right about two go right three centimetres yeah|align
-f|uh-huh|reply_y
-f|past the missionary camp|check
-g|past missionary camp|reply_y
-g|go down about two three centimetres|clarify
+f|uh-huh past the missionary camp|reply_y check
+g|past missionary camp go down about two three centimetres|reply_y clarify
 f|right|acknowledge
-g|right|acknowledge
-g|see your left-hand side have you got gorillas and trees and stuff|query_yn
+g|right see your left-hand side have you got gorillas and trees and stuff|acknowledge query_yn
 f|i've got a banana tree|reply_w
-g|right well|ready
-g|go right along to it to the bottom of it right along to the bottom|instruct
-f|right|acknowledge
-f|so i'll need to go down past the missionary camp won't i|check
-g|yeah down past the centre|reply_y
-g|right along to the|clarify
+g|right well go right along to it to the bottom of it right along to the bottom|ready instruct
+f|right so i'll need to go down past the missionary camp won't i|acknowledge check
+g|yeah down past the centre right along to the|reply_y clarify
 f|right along to the banana tree|check
 g|yeah|reply_y
 f|to the bottom of it|check
@@ -37,41 +27,29 @@ f|right|acknowledge
 g|then go round it to the top just go round it you know right to the end and then just go to the top|instruct
 f|uh-huh|acknowledge
 g|have you done that|align
-f|yeah|reply_y
-f|there's a straight river|explain
-g|uh-huh|acknowledge
-g|a rope bridge|query_yn
+f|yeah there's a straight river|reply_y explain
+g|uh-huh a rope bridge|acknowledge query_yn
 f|uh-huh|reply_y
-g|right|ready
-g|well you're supposed to cross it|instruct
+g|right well you're supposed to cross it|ready instruct
 f|cross the rope bridge|check
 g|yeah|reply_y
 f|so i need to go along toward|check
 g|along left|reply_w
-f|no right|reply_n
-f|the rope i've come to the bottom of the banana tree|explain
+f|no right the rope i've come to the bottom of the banana tree|reply_n explain
 g|right|acknowledge
 f|right|align
 g|uh-huh|reply_y
-f|then i came up towards the left of it|explain
-f|right|align
+f|then i came up towards the left of it right|explain align
 g|mmhmm|reply_y
 f|and now i'll need to go to the right to get to the rope bridge|explain
 g|right to the rope bridge|check
 f|mmhmm|reply_y
-g|you have to go|check
-g|okay right|ready
-g|just go that way okay|instruct
-g|have you got a waterfall|query_yn
-f|a|acknowledge
-f|yeah|reply_y
-f|that's right towards the other end|explain
+g|you have to go okay right just go that way okay have you got a waterfall|check ready instruct query_yn
+f|a yeah that's right towards the other end|acknowledge reply_y explain
 g|it's on the right-hand side|check
 f|uh-huh|reply_y
-g|well|ready
-g|okay cross the bridge right and go to it just go right beside it|instruct
-f|right|acknowledge
-f|cross the bridge|check
+g|well okay cross the bridge right and go to it just go right beside it|ready instruct
+f|right cross the bridge|acknowledge check
 g|uh-huh|reply_y
 f|and go to the waterfall|check
 g|yeah|reply_y
@@ -80,40 +58,23 @@ g|not to it but you know just beside it|clarify
 f|uh-huh yeah|acknowledge
 g|have you got lost steps|query_yn
 f|yeah|reply_y
-g|right well go right up to them right to the top of them but not you know to the right-hand side of them not|instruct
-g|the|instruct
+g|right well go right up to them right to the top of them but not you know to the right-hand side of them not the|instruct instruct
 f|to the right-hand side of them|check
-g|yeah|reply_y
-g|just right to the top to the righthand side|clarify
+g|yeah just right to the top to the righthand side|reply_y clarify
 f|so i need to curve up and go in a|check
 g|uh-huh|reply_y
 f|right|acknowledge
-g|right right|ready
-g|go over the top|instruct
-g|have you got fallen pillars|query_yn
-f|uh i've got right|ready
-f|see at the top of the map there's a white mountain to the left of that there's rock fall there's a ruined city and gazelles|explain
-f|oh fallen pillars yeah yeah i've got fallen pillars|reply_y
-f|at the bottom|check
-g|have you|query_yn
-g|uh-huh|reply_y
-g|have you got|query_yn
-g|well right next well it's sort of the left-hand side to lost steps|explain
-g|the fallen pillars|query_yn
-f|well|ready
-f|first i've got gazelles and then i've got fallen pillars|reply_w
-g|i see|acknowledge
-g|gazelles are on top of the lost steps|check
-f|no|reply_n
-f|they're in my map they're ehm to the left in the middle they're in the middle of the map|explain
+g|right right go over the top have you got fallen pillars|ready instruct query_yn
+f|uh i've got right see at the top of the map there's a white mountain to the left of that there's rock fall there's a ruined city and gazelles oh fallen pillars yeah yeah i've got fallen pillars at the bottom|ready explain reply_y check
+g|have you uh-huh have you got well right next well it's sort of the left-hand side to lost steps the fallen pillars|query_yn reply_y query_yn explain query_yn
+f|well first i've got gazelles and then i've got fallen pillars|ready reply_w
+g|i see gazelles are on top of the lost steps|acknowledge check
+f|no they're in my map they're ehm to the left in the middle they're in the middle of the map|reply_n explain
 g|the middle of the map|check
 f|uh-huh|reply_y
-g|well|ready
-g|never mind them right|instruct
-g|have you got to the lost steps|align
+g|well never mind them right have you got to the lost steps|ready instruct align
 f|yeah i'm at the lost steps just now|reply_y
-g|well|ready
-g|go go over go right around them|instruct
+g|well go go over go right around them|ready instruct
 f|mm|acknowledge
 g|to the fallen pillars that's to the left|instruct
 f|to the fallen pillars|check
@@ -121,92 +82,65 @@ g|mmhmm|reply_y
 f|at the bottom of the fallen pillars|check
 g|yeah|reply_y
 f|right|acknowledge
-g|right|ready
-g|if you go right to the bottom okay|align
+g|right if you go right to the bottom okay|ready align
 f|uh-huh|reply_y
 g|ehm go two three three centimetres down|instruct
 f|down|check
 g|mmhmm|reply_y
 f|right|acknowledge
-g|then|ready
-g|this is so bad|explain
-g|okay|ready
-g|are you going down right|align
+g|then this is so bad okay are you going down right|ready explain ready align
 f|mmhmm|reply_y
 g|then sort of go back up in a circle sort of thing you know just curve round to the|instruct
 f|curve round curve round the fallen pillars|check
-g|have you got|query_yn
-g|no not curve round|reply_n
-g|you're just at the bottom aren't you|align
+g|have you got no not curve round you're just at the bottom aren't you|query_yn reply_n align
 f|uh-huh|reply_y
 g|and you've gone down a bit|align
 f|uh-huh|reply_y
-g|then go right to the top not to the fallen pillars to the ancient ancient ruins|instruct
-g|have you got ancient ruins|query_yn
+g|then go right to the top not to the fallen pillars to the ancient ancient ruins have you got ancient ruins|instruct query_yn
 f|i've got a ruined city|reply_w
-g|yeah|acknowledge
-g|well|ready
-g|just go right right up there up to that|instruct
-f|right|ready
-f|i'll need to go towards the left yeah|check
+g|yeah well just go right right up there up to that|acknowledge ready instruct
+f|right i'll need to go towards the left yeah|ready check
 g|right uh-huh left|reply_y
-f|right|acknowledge
-f|and go up to the ruined city|check
+f|right and go up to the ruined city|acknowledge check
 g|yeah|reply_y
 f|whereabouts in the ruined city to the left of it or to the right of it|query_w
 g|the left of it|reply_w
 f|left of it right|acknowledge
 g|have you got stones|query_yn
 f|i've got rock fall just above the ruined city to the right|reply_w
-g|to the|query_yn
-g|ah just go up to that|instruct
+g|to the ah just go up to that|query_yn instruct
 f|right|acknowledge
 g|okay|align
 f|to the bottom of the rock fall or the top|query_w
-g|yeah|reply_y
-g|the bottom of the rock fall|reply_w
+g|yeah the bottom of the rock fall|reply_y reply_w
 f|right|acknowledge
-g|then|ready
-g|turn left|instruct
-g|have you got a white mountain|query_yn
+g|then turn left have you got a white mountain|ready instruct query_yn
 f|yeah|reply_y
-g|well|ready
-g|turn left and go right over around it from the top|instruct
+g|well turn left and go right over around it from the top|ready instruct
+f|right to the bottom of the white mountain|acknowledge query_yn
+g|uh-huh go round it to the bottom|reply_y instruct
 f|right|acknowledge
-f|to the bottom of the white mountain|query_yn
-g|uh-huh|reply_y
-g|go round it to the bottom|instruct
-f|right|acknowledge
-g|and keep on going eh|instruct
-g|have you got eh soft furnishing store|query_yn
+g|and keep on going eh have you got eh soft furnishing store|instruct query_yn
 f|soft furnishing store|check
-g|yeah|reply_y
-g|right to the bottom of the white mountain|explain
+g|yeah right to the bottom of the white mountain|reply_y explain
 f|no|reply_n
 g|what have you got|query_w
 f|white lost steps|reply_w
 g|what|query_w
-f|there's a white mountain at the top of the map|reply_w
-f|right|align
+f|there's a white mountain at the top of the map right|reply_w align
 g|uh-huh|acknowledge
 f|to at the right of the white mountain on my map the only thing i've got is lost steps|reply_w
-g|no you don't go to that right|instruct
-g|have you gone to the white mountain|align
+g|no you don't go to that right have you gone to the white mountain|instruct align
 f|uh-huh|reply_y
 g|go right round it|instruct
 f|uh-huh i've gone right round it|acknowledge
 g|have you gone right round the bottom of it|align
-f|i'm at the|explain
-f|to the bottom of it|check
-f|uh-huh|reply_y
-g|ah right round the bottom of it|clarify
-g|then go straight down to where|instruct
-g|you know where the gazelles are|align
+f|i'm at the to the bottom of it uh-huh|explain check reply_y
+g|ah right round the bottom of it then go straight down to where you know where the gazelles are|clarify instruct align
 f|uh-huh|reply_y
 g|go right down to the left of them|instruct
 f|right|acknowledge
-g|okay|align
-g|then turn left about three four centimetres|instruct
+g|okay then turn left about three four centimetres|align instruct
 f|right|acknowledge
 g|and that's you finished|instruct
 f|oh|acknowledge

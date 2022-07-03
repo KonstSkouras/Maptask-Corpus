@@ -1,7 +1,5 @@
-g|right|ready
-g|do you see the start point above the stony desert|align
-f|aye|reply_y
-f|aye|reply_y
+g|right do you see the start point above the stony desert|ready align
+f|aye aye|reply_y reply_y
 g|ehm heading towards the left for about two centimetres 'til you reach above equal to the end of the stony desert|instruct
 f|aye right|acknowledge
 g|ehm then start sloping downwards to the left|instruct
@@ -11,45 +9,34 @@ f|right|acknowledge
 g|do you see the site of the plane crash|query_yn
 f|no|reply_n
 g|no|acknowledge
-f|oh yeah i do|reply_y
-f|right up at the top|check
-g|oh|reply_n
-g|no no|reply_n
+f|oh yeah i do right up at the top|reply_y check
+g|oh no no|reply_n reply_n
 f|no you must have another one|explain
-g|right okay ehm|ready
-g|keep heading towards the in a straight line towards the the left of the page 'til you're about ehm an inch and a half away from the the left the far left-hand side of the page|instruct
+g|right okay ehm keep heading towards the in a straight line towards the the left of the page 'til you're about ehm an inch and a half away from the the left the far left-hand side of the page|ready instruct
 f|right|acknowledge
-g|and then start sloping up|instruct
-g|do you see the collapsed shelter|query_yn
+g|and then start sloping up do you see the collapsed shelter|instruct query_yn
 f|mmhmm|reply_y
-g|right ehm|ready
-g|if you start sloping upwards slightly towards the right 'til you're about parallel with the top of the collapsed shelter but still oh about an inch and a half from the left-hand side of the page|instruct
+g|right ehm if you start sloping upwards slightly towards the right 'til you're about parallel with the top of the collapsed shelter but still oh about an inch and a half from the left-hand side of the page|ready instruct
 f|right|acknowledge
 g|so that should be about three and a half inches|instruct
 f|mmhmm|acknowledge
-g|right|ready
-g|so then start heading towards the right of the page ehm over the top of the collapsed shelter about three inches|instruct
+g|right so then start heading towards the right of the page ehm over the top of the collapsed shelter about three inches|ready instruct
 f|right|acknowledge
 g|ehm so you should be just at about the end of the collapsed shelter|align
 f|aye|reply_y
 g|right so go down to just down the side of the the down the right-hand side of the collapsed shelter 'til you're equal with about the bottom of it|instruct
 f|right|acknowledge
-g|now|ready
-g|do you see the savannah|query_yn
+g|now do you see the savannah|ready query_yn
 f|aye|reply_y
-g|right ehm|ready
-g|it should be about if you a slight slope upwards to the bottom of the savannah it should be about three inches|instruct
+g|right ehm it should be about if you a slight slope upwards to the bottom of the savannah it should be about three inches|ready instruct
 f|aye|acknowledge
-g|right|ready
-g|so if you just head up towards the bottom of the savannah|instruct
+g|right so if you just head up towards the bottom of the savannah|ready instruct
 f|right|acknowledge
 g|not underneath it though|instruct
 f|right|acknowledge
-g|right mm|ready
-g|do you see the slate mountain|query_yn
+g|right mm do you see the slate mountain|ready query_yn
 f|no|reply_n
-g|no ehm never mind|acknowledge
-g|ehm once you get to the side of the head up the left-hand side of the savannah about four inches|instruct
+g|no ehm never mind ehm once you get to the side of the head up the left-hand side of the savannah about four inches|acknowledge instruct
 f|right|acknowledge
 g|ehm now about an inch and a half back to the left|instruct
 f|right|acknowledge
@@ -58,40 +45,26 @@ f|hot springs|check
 g|hot springs yeah|reply_y
 f|aye|reply_y
 g|ehm from from where you are at the moment to about the bottom of the hot springs in a sort of if you slope towards the bottom in a uh the middle halfway you know underneath the middle of them about like a forty-five degree line|instruct
-f|aye right|acknowledge
+f|aye right right|acknowledge acknowledge
+g|right and now go to the left about an inch just so that you're going under the hot wells|ready instruct
 f|right|acknowledge
-g|right|ready
-g|and now go to the left about an inch just so that you're going under the hot wells|instruct
-f|right|acknowledge
-g|then|ready
-g|another sort of diagonal slope downwards but ehm slightly steeper than forty-five degree line|instruct
-g|forty-five degrees for about an inch|instruct
-f|aye|acknowledge
-f|right|acknowledge
-g|ehm|ready
-g|right|ready
-g|then ehm|ready
-g|do you see the white mountain|query_yn
+g|then another sort of diagonal slope downwards but ehm slightly steeper than forty-five degree line forty-five degrees for about an inch|ready instruct instruct
+f|aye right|acknowledge acknowledge
+g|ehm right then ehm do you see the white mountain|ready ready ready query_yn
 f|mmhmm|reply_y
-g|right|ready
-g|well you want to curve up towards it but making where from where you are now so that it looks like the bottom of a basin curving up to the side of the white mountains it's about six or seven inches maybe not as much as that|instruct
-f|right i think so|acknowledge
-f|where is it i need to end up the left or the right side of the white mountain|query_w
+g|right well you want to curve up towards it but making where from where you are now so that it looks like the bottom of a basin curving up to the side of the white mountains it's about six or seven inches maybe not as much as that|ready instruct
+f|right i think so where is it i need to end up the left or the right side of the white mountain|acknowledge query_w
 g|ehm the left|reply_w
 f|right|acknowledge
-g|mm|ready
-g|so go up the left-hand side of the mountain as if you were climbing it|instruct
+g|mm so go up the left-hand side of the mountain as if you were climbing it|ready instruct
 f|right|acknowledge
-g|and then ehm|ready
-g|head upwards straight in a straight line to about two and a half inches|instruct
+g|and then ehm head upwards straight in a straight line to about two and a half inches|ready instruct
 f|past the round rocks|check
 g|ehm well yeah i don't have that so|explain
 f|right|acknowledge
-g|just keep going straight up|clarify
-g|ehm uh do you see the lake|query_yn
+g|just keep going straight up ehm uh do you see the lake|clarify query_yn
 f|uh-huh|reply_y
-g|right|ready
-g|if you start heading towards the lake in a straight line about three just about three inches 'til you get to the the edge of the lake|instruct
+g|right if you start heading towards the lake in a straight line about three just about three inches 'til you get to the the edge of the lake|ready instruct
 f|right|acknowledge
 g|then you're going round the lake in a clockwise direction|instruct
 f|right|acknowledge
@@ -99,23 +72,16 @@ g|but not right round it|instruct
 f|uh-huh|acknowledge
 g|do you see the roman baths|query_yn
 f|nope|reply_n
-g|no eh never mind|acknowledge
-g|ehm just come round the lake and then as if you were heading back to the left-hand side of the page but but just if you just stop where you're parallel to where you started going round the lake about an inch down from there|instruct
+g|no eh never mind ehm just come round the lake and then as if you were heading back to the left-hand side of the page but but just if you just stop where you're parallel to where you started going round the lake about an inch down from there|acknowledge instruct
 f|ah right aye right got you|acknowledge
-g|right|ready
-g|and then do you see the where the antelopes are|query_yn
+g|right and then do you see the where the antelopes are|ready query_yn
 f|uh-huh|reply_y
 g|if you just head down about three or four inches straight down and go down the left-hand side of them|instruct
 f|the left-hand side|check
 g|yeah|reply_y
 f|right|acknowledge
-g|uh-huh|reply_y
-g|just keep going straight down|clarify
-g|and then|ready
-g|so you should be just underneath the antelope|align
+g|uh-huh just keep going straight down and then so you should be just underneath the antelope|reply_y clarify ready align
 f|mmhmm|reply_y
-g|then just|ready
-g|go in a straight line towards the right about two inches and that's your finishing point|instruct
-f|right|acknowledge
-f|that's it|check
+g|then just go in a straight line towards the right about two inches and that's your finishing point|ready instruct
+f|right that's it|acknowledge check
 g|yeah|reply_y

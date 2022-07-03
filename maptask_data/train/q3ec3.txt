@@ -1,80 +1,54 @@
 g|okay have you got a start have you got a starting point|query_yn
 f|i do indeed|reply_y
-g|right|acknowledge
-g|if you move eh left to the edge of your page|instruct
+g|right if you move eh left to the edge of your page|acknowledge instruct
 f|okay|acknowledge
-g|okay|ready
-g|now go straight down ehm om|instruct
+g|okay now go straight down ehm om|ready instruct
 f|past the forest fire|check
-g|past the forest fire|reply_y
-g|eh have have you got a picnic site marked|query_yn
+g|past the forest fire eh have have you got a picnic site marked|reply_y query_yn
 f|no i don't|reply_n
-g|right|acknowledge
-g|well go straight down to the bottom of your page almost to the bottom of the page|instruct
-g|okay now|ready
-g|have you got an adventure playground marked on your map|query_yn
+g|right well go straight down to the bottom of your page almost to the bottom of the page okay now have you got an adventure playground marked on your map|acknowledge instruct ready query_yn
 f|yes i do|reply_y
-g|okay|acknowledge
-g|go along to your right and|instruct
+g|okay go along to your right and|acknowledge instruct
 f|oh right right sorry|acknowledge
-g|okay|acknowledge
-g|right|ready
-g|okay eh until you're underneath right 'til you're underneath the left-hand edge of the adventure playground|instruct
+g|okay right okay eh until you're underneath right 'til you're underneath the left-hand edge of the adventure playground|acknowledge ready instruct
 f|mm|acknowledge
 g|and go straight up past it|instruct
 f|back up due north again|check
 g|mmhmm|reply_y
 f|okey-dokey|acknowledge
 g|and stop when you're just past the adventure playground|instruct
-f|mm mm|acknowledge
-f|so i'm basically forming a rectangle here|check
+f|mm mm so i'm basically forming a rectangle here|acknowledge check
 g|almost yeah|reply_y
 f|right i'm at just to the right of the forest fire|explain
-g|okay|acknowledge
-g|now go right|instruct
-g|have you got a granite quarry marked|query_yn
-f|no|reply_n
-f|i've got one very far up middle of the page|explain
-g|middle of the right|acknowledge
-g|almost slap-bang in the middle|check
+g|okay now go right have you got a granite quarry marked|acknowledge instruct query_yn
+f|no i've got one very far up middle of the page|reply_n explain
+g|middle of the right almost slap-bang in the middle|acknowledge check
 f|mmhmm|reply_y
-g|right okay|acknowledge
-g|go right until you're underneath the right-hand edge of that just past the right-hand edge of it|instruct
-f|i've also got privately owned fields|explain
-f|you oh|explain
+g|right okay go right until you're underneath the right-hand edge of that just past the right-hand edge of it|acknowledge instruct
+f|i've also got privately owned fields you oh|explain explain
 g|will you hit them if you if you go through that|query_yn
-f|could well do|reply_w
-f|they are due right of the start and directly below the granite quarry|explain
+f|could well do they are due right of the start and directly below the granite quarry|reply_w explain
 g|right if you just if you're at the top of the right at the top of the adventure playground just eh almost touching it if you go straight right there will you miss them|query_yn
 f|mmhmm yes i will indeed|reply_y
-g|right|acknowledge
-g|if you go right along there until you're at the right-hand edge of the granite quarry|instruct
+g|right if you go right along there until you're at the right-hand edge of the granite quarry|acknowledge instruct
 f|okay|acknowledge
 g|now can you go straight up and round the top of the granite quarry|instruct
-f|right i've|acknowledge
-f|do you have a fallen cairn|query_yn
+f|right i've do you have a fallen cairn|acknowledge query_yn
 g|eh yeah|reply_y
 f|it's up to the right|explain
 g|it's up at|explain
 f|do you want me to go in between the two of these|check
-g|uh-huh|reply_y
-g|but stay quite close to the granite quarry|clarify
+g|uh-huh but stay quite close to the granite quarry|reply_y clarify
 f|i'll have to curve in 'cause privately owned fields are to the|explain
 g|yeah that's okay right|acknowledge
-f|okay|ready
-f|i'm just at the right-hand tip of the granite quarry at the top|explain
+f|okay i'm just at the right-hand tip of the granite quarry at the top|ready explain
 g|the right-hand tip|check
 f|uh-huh|reply_y
-g|okay|acknowledge
-g|well go round|instruct
-g|have you got a train crossing|query_yn
+g|okay well go round have you got a train crossing|acknowledge instruct query_yn
 f|no i don't|reply_n
 g|no|acknowledge
-f|well i do|reply_y
-f|at the very top left-hand page|reply_w
-g|ah right|acknowledge
-g|there's another i've got another one marked|explain
-g|ehm okay if you go round in a kind of semicircle round the top of the granite quarry until you're like level with the bottom of it of the actual wee wee drawing|instruct
+f|well i do at the very top left-hand page|reply_y reply_w
+g|ah right there's another i've got another one marked ehm okay if you go round in a kind of semicircle round the top of the granite quarry until you're like level with the bottom of it of the actual wee wee drawing|acknowledge explain instruct
 f|so basically i'm round the other side|check
 g|uh-huh|reply_y
 f|okay|acknowledge
@@ -84,13 +58,9 @@ g|yeah|reply_y
 f|underneath the waterfall|check
 g|i want you to go up up past on the left-hand side of the waterfall if you can|clarify
 f|but you you want me to go to underneath it|check
-g|right i want you to go|clarify
-g|i want you to go underneath it and then round the left-hand side of it from where you are now|clarify
-f|okay|acknowledge
-f|so i'm now at the left-hand side of the waterfall|explain
-f|do you wish me to go north|query_yn
-g|are you yeah|reply_y
-g|i want you to go up north to the top of the waterfall|instruct
+g|right i want you to go i want you to go underneath it and then round the left-hand side of it from where you are now|clarify clarify
+f|okay so i'm now at the left-hand side of the waterfall do you wish me to go north|acknowledge explain query_yn
+g|are you yeah i want you to go up north to the top of the waterfall|reply_y instruct
 f|right|acknowledge
 g|now go right to the edge the other right-hand edge of the waterfall|instruct
 f|um beside a public footpath|check
@@ -98,26 +68,19 @@ g|where's the public footpath in relation to the waterfall|query_w
 f|it's northeast just above it so there's a space in between the waterfall and the public footpath|reply_w
 g|can you go can you go up the left-hand side of the public footpath|query_yn
 f|i can indeed|reply_y
-g|right|acknowledge
-g|go up that|instruct
-g|until have you got corn fields marked at the top|query_yn
+g|right go up that until have you got corn fields marked at the top|acknowledge instruct query_yn
 f|yes|reply_y
-g|right|acknowledge
-g|well don't don't go up as far as the cornfields but go up in that direction|instruct
-g|okay|align
+g|right well don't don't go up as far as the cornfields but go up in that direction okay|acknowledge instruct align
 f|oh right|reply_y
-g|now can you go go right a couple of inches from that|instruct
-g|so you should be above your public footpath whatever it is|explain
-f|correct|acknowledge
-f|below the corn|check
+g|now can you go go right a couple of inches from that so you should be above your public footpath whatever it is|instruct explain
+f|correct below the corn|acknowledge check
 g|right have you got have you got a fallen you've got a fallen cairn haven't you over to the right-hand side of the page|align
 f|right at the very bottom|check
 g|no|reply_n
 f|eh sorry in the middle i mean|check
 g|in up sort of to the right-hand northeast of the granite quarry|clarify
 f|uh-huh|acknowledge
-g|right|acknowledge
-g|can you go see from where you are now can you go directly eh southeast to the bottom of the fallen cairn|instruct
+g|right can you go see from where you are now can you go directly eh southeast to the bottom of the fallen cairn|acknowledge instruct
 f|the bottom of it|check
 g|uh-huh|reply_y
 f|underneath it|check
@@ -125,31 +88,20 @@ g|go underneath it yeah|reply_y
 f|okay|acknowledge
 g|right and come up the the right-hand side of the fallen cairn go like north up the right-hand side of it|instruct
 f|how far up|query_w
-g|eh just stop at the top of it|clarify
-g|'til i see what you've got|reply_w
+g|eh just stop at the top of it 'til i see what you've got|clarify reply_w
 f|right|acknowledge
 g|right have you got limestone cliffs above where you are now|query_yn
-f|no|reply_n
-f|no|reply_n
-g|no|acknowledge
-g|okay right|ready
-g|come round almost circle the fallen cairn and almost back to like where it would join your line|instruct
+f|no no|reply_n reply_n
+g|no okay right come round almost circle the fallen cairn and almost back to like where it would join your line|acknowledge ready instruct
 f|i have a lion country if that's any use|explain
 g|you've got what|query_w
 f|a lion country|clarify
-g|lion country no|acknowledge
-g|right can you go straight can you go straight north from where you are now to the bottom of the east lake|query_yn
-g|is have you got a lake at the top there|query_yn
-f|yes i do|reply_y
-f|the lion country's slightly in the way it's slightly to the left how|explain
-f|whereabouts in east lake do you want me to join|query_w
-g|well you you've got the limestone cliffs|query_yn
-g|have you no you don't|acknowledge
-f|no i don't|reply_n
-f|there's three points on the east lake the on the bottom|explain
+g|lion country no right can you go straight can you go straight north from where you are now to the bottom of the east lake is have you got a lake at the top there|acknowledge query_yn query_yn
+f|yes i do the lion country's slightly in the way it's slightly to the left how whereabouts in east lake do you want me to join|reply_y explain query_w
+g|well you you've got the limestone cliffs have you no you don't|query_yn acknowledge
+f|no i don't there's three points on the east lake the on the bottom|reply_n explain
 g|mmhmm|acknowledge
-f|do you how far do you want me to|query_w
-f|whereabouts on|query_w
+f|do you how far do you want me to whereabouts on|query_w query_w
 g|well just go about the middle of the sort of bottom line if you can head for the middle of the bottom line|clarify
 f|so that's basically to the right of the lake|check
 g|no|reply_n
@@ -158,23 +110,18 @@ g|yeah well but don't go too eh yeah on the right|reply_y
 f|there's two sort of coastlines on the bottom of the east lake if you like one comes down one goes sort of across a bit|align
 g|mmhmm|reply_y
 f|do you wish me to join the west|check
-g|right|acknowledge
-g|you've got the one that's coming more almost like almost eh horizontal|clarify
-f|all right|acknowledge
-f|you want me to|check
+g|right you've got the one that's coming more almost like almost eh horizontal|acknowledge clarify
+f|all right you want me to|acknowledge check
 g|head for the middle of that if you can|clarify
-f|okay|acknowledge
-f|that's going past lion country to the right|explain
+f|okay that's going past lion country to the right|acknowledge explain
 g|right that's fine|acknowledge
 f|okay|acknowledge
 g|now eh if you go follow the line of the lake follow the line of the lake left|instruct
-f|going west|check
-f|right|acknowledge
+f|going west right|check acknowledge
 g|and eh just stop when you're just past the bottom like the corner|instruct
 f|mm|acknowledge
 g|and that should be the finish|explain
 f|so that's almost below|check
 g|almost below the the like of the bit that goes up the top corner|clarify
-f|oh right|acknowledge
-f|okey-dokey|acknowledge
+f|oh right okey-dokey|acknowledge acknowledge
 g|that's you|explain

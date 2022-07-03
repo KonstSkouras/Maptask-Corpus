@@ -1,143 +1,90 @@
-g|right er|ready
-g|the start is above an extinct volcano|explain
-g|do you have that on your map|query_yn
+g|right er the start is above an extinct volcano do you have that on your map|ready explain query_yn
 f|uh-huh right i've got that right|reply_y
-g|okay|acknowledge
-g|and about one and a half centimetres above the peak of the extinct volcano|align
+g|okay and about one and a half centimetres above the peak of the extinct volcano|acknowledge align
 f|straight up the way|check
 g|is the start yeah you got that on your map okay|align
-f|yeah i've got that|reply_y
-f|a big cross right|explain
+f|yeah i've got that a big cross right|reply_y explain
 g|and go four centimetres along to your left|instruct
 f|right|acknowledge
-g|and slope|instruct
-g|no it doesn't|explain
-g|erm about|ready
-g|six centimetres down|instruct
+g|and slope no it doesn't erm about six centimetres down|instruct explain ready instruct
 f|straight down|check
 g|yeah straight down|reply_y
 f|how far up from the bottom of the page then|query_w
 g|erm er you should be about three centimetres above the bottom of the page|reply_w
 f|right|acknowledge
-g|and do you have a tribal settlement|query_yn
-g|no you don't|reply_n
-g|go along to your left until you're directly under the rope bridge|instruct
+g|and do you have a tribal settlement no you don't go along to your left until you're directly under the rope bridge|query_yn reply_n instruct
 f|right|acknowledge
-g|okay|align
-g|and go along four centimetres to your left again|instruct
+g|okay and go along four centimetres to your left again|align instruct
 f|right|acknowledge
-g|er up vertically seven centimetres just straight up|instruct
-g|and curve to your right until you go across the rope bridge|instruct
-g|and go across the rope bridge er stop at the end|instruct
-g|eh curve down going right again er go down by about three centimetres|instruct
-g|do you have an obstacle near you|query_yn
+g|er up vertically seven centimetres just straight up and curve to your right until you go across the rope bridge and go across the rope bridge er stop at the end eh curve down going right again er go down by about three centimetres do you have an obstacle near you|instruct instruct instruct instruct query_yn
 f|there's a machete|reply_w
-g|a machete|acknowledge
-g|are we just underneath it|query_yn
+g|a machete are we just underneath it|acknowledge query_yn
 f|right|reply_y
 g|will we hit it if we go along|query_yn
-f|no|reply_n
-f|i'm just underneath it|clarify
-g|no just underneath it|acknowledge
-g|well|ready
-g|go along seven centimetres|instruct
+f|no i'm just underneath it|reply_n clarify
+g|no just underneath it well go along seven centimetres|acknowledge ready instruct
 f|to the right|query_yn
-g|to the right yeah|reply_y
-g|and do you have a collapsed shelter yeah|query_yn
+g|to the right yeah and do you have a collapsed shelter yeah|reply_y query_yn
 f|mmhmm|reply_y
 g|are you to the left of that just|query_yn
 f|er right|reply_y
-g|right|ready
-g|just to the left of that|acknowledge
-g|and go directly up about ten centimetres|instruct
+g|right just to the left of that and go directly up about ten centimetres|ready acknowledge instruct
 f|to about halfway up the page|check
-g|yeah|reply_y
-g|er do you have an obstacle|query_yn
+g|yeah er do you have an obstacle|reply_y query_yn
 f|there's a crevasse to the left|reply_w
-g|a crevasse|acknowledge
-g|well|ready
-g|curve round above the crevasse then and|instruct
+g|a crevasse well curve round above the crevasse then and|acknowledge ready instruct
 f|how far over now|query_w
-g|erm just stop just when you're just above the left of the crevasse|reply_w
-g|and er there's forty-five degree slope|instruct
-g|do you have a saxon barn|query_yn
+g|erm just stop just when you're just above the left of the crevasse and er there's forty-five degree slope do you have a saxon barn|reply_w instruct query_yn
 f|mmhmm|reply_y
 g|er slope underneath it from the top of the crevasse|instruct
-f|down towards that|check
-f|right|acknowledge
-g|to just underneath the right-hand side of the saxon barn and go along three centimetres under the saxon barn|instruct
-g|and do you have pelicans|query_yn
-f|right|acknowledge
-f|no|reply_n
+f|down towards that right|check acknowledge
+g|to just underneath the right-hand side of the saxon barn and go along three centimetres under the saxon barn and do you have pelicans|instruct query_yn
+f|right no|acknowledge reply_n
 g|go down and along well this is a slope of about twenty degrees|instruct
 f|to the left|query_yn
-g|erm to your left yeah|reply_y
-g|and go down five centimetres|instruct
-g|okay|align
+g|erm to your left yeah and go down five centimetres okay|reply_y instruct align
 f|right|acknowledge
 g|along six centimetres to your left|instruct
 f|that's near about the edge of the page then|check
-g|oh right|ready
-g|you should be about a couple of centimetres just just beside the page just off the page|reply_w
-g|and|ready
-g|you've got white mountain there haven't you|query_yn
+g|oh right you should be about a couple of centimetres just just beside the page just off the page and you've got white mountain there haven't you|ready reply_w ready query_yn
 f|mmhmm|reply_y
-g|well|ready
-g|go up from where you are five centimetres and then on a slope along up to the white mountain and you should be one centimetre away from the white mountain until you're level with the peak one centimetre away from top the of the peak and in line with it|instruct
+g|well go up from where you are five centimetres and then on a slope along up to the white mountain and you should be one centimetre away from the white mountain until you're level with the peak one centimetre away from top the of the peak and in line with it|ready instruct
 f|so around the top of it|check
-g|er you don't go around the top you stop on your when you reach the top|reply_w
-g|do you have a golden beach|query_yn
+g|er you don't go around the top you stop on your when you reach the top do you have a golden beach|reply_w query_yn
 f|no|reply_n
-g|no right|acknowledge
-g|have you put that in now you're just one centimetre to the left of the peak of the white mountain yeah|align
-f|no|reply_n
-f|mmhmm|reply_y
+g|no right have you put that in now you're just one centimetre to the left of the peak of the white mountain yeah|acknowledge align
+f|no mmhmm|reply_n reply_y
 g|and go up seven centimetres|instruct
 f|straight up|query_yn
 g|yeah straight up|reply_y
 f|right|acknowledge
 g|and is there a slate mountain to the right|query_yn
-f|uh-huh|reply_y
-f|to the right uh-huh|reply_y
+f|uh-huh to the right uh-huh|reply_y reply_y
 g|are you directly opposite it right just about|query_yn
 f|mmhmm|reply_y
-g|well and|ready
-g|go go along until you're one centimetre from the base of the slate mountain|instruct
-g|and er follow the slope of the slate mountain one centimetre away again|instruct
+g|well and go go along until you're one centimetre from the base of the slate mountain and er follow the slope of the slate mountain one centimetre away again|ready instruct instruct
 f|what do you mean|query_w
 g|you're one centimetre to the left of the slate mountain go up er the slope|clarify
 f|straight up the way|query_yn
-g|no|reply_n
-g|follow the slope of the mountain|clarify
+g|no follow the slope of the mountain|reply_n clarify
 f|up to the top of the mountain|check
-g|yeah|reply_y
-g|and over and round it|instruct
+g|yeah and over and round it|reply_y instruct
 f|right|acknowledge
-g|okay|align
-g|and you just erm come just under to the right-hand side about two centimetres under the slate mountain|instruct
+g|okay and you just erm come just under to the right-hand side about two centimetres under the slate mountain|align instruct
 f|right|acknowledge
-g|to the right-hand side of the slate mountain yeah|align
-g|go|instruct
-g|erm do you have any obstacles near you|query_yn
-f|well|ready
-f|there's submerged rocks to the left and below that there's a secret valley then there's golden beach to the right|reply_w
-g|to the left okay|acknowledge
-g|er go along to your left until you're just underneath the left-hand side of the slate mountain|instruct
+g|to the right-hand side of the slate mountain yeah go erm do you have any obstacles near you|align instruct query_yn
+f|well there's submerged rocks to the left and below that there's a secret valley then there's golden beach to the right|ready reply_w
+g|to the left okay er go along to your left until you're just underneath the left-hand side of the slate mountain|acknowledge instruct
 f|right|acknowledge
-g|and go|instruct
-g|er how close are you to the rocks whatever|query_w
+g|and go er how close are you to the rocks whatever|instruct query_w
 f|ehm about three four centimetres above them|reply_w
 g|above it er to your is it to your left yeah|query_yn
 f|mmhmm|reply_y
-g|right|acknowledge
-g|do you have a secret valley|query_yn
+g|right do you have a secret valley|acknowledge query_yn
 f|mmhmm|reply_y
-g|well|ready
-g|you go straight down to the left well slope slightly to the left of the secret valley and curve round to the bottom of it yeah and to the "s" right go down to the "s" of secret|instruct
+g|well you go straight down to the left well slope slightly to the left of the secret valley and curve round to the bottom of it yeah and to the "s" right go down to the "s" of secret|ready instruct
 f|right|acknowledge
-g|you're just underneath that yeah|align
-g|and along five centimetres and that's finish|instruct
+g|you're just underneath that yeah and along five centimetres and that's finish|align instruct
 f|what to the right|query_yn
-g|to the right yeah|reply_y
-g|okay that's it okay|explain
+g|to the right yeah okay that's it okay|reply_y explain
 f|right|acknowledge

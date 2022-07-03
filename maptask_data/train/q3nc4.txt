@@ -1,36 +1,28 @@
-g|okay|ready
-g|the start's above the crest falls|explain
+g|okay the start's above the crest falls|ready explain
 f|right|acknowledge
 g|you start there and go to the left|instruct
 f|mmhmm|acknowledge
-g|a bit and then down by the side of the crest falls|instruct
-g|and then along roughly horizontally to about an inch from the left-hand side of the page then go up|instruct
+g|a bit and then down by the side of the crest falls and then along roughly horizontally to about an inch from the left-hand side of the page then go up|instruct instruct
 f|an inch from the left-hand side of the page|check
 g|yeah|reply_y
 f|past the banana tree|check
 g|well i've not got a banana tree on mine|explain
-f|okay|ready
-f|and then to where|query_w
+f|okay and then to where|ready query_w
 g|and then go up the way by about four inches three inches|reply_w
 f|three inches okay|acknowledge
 g|have you got baboons marked on yours|query_yn
 f|no|reply_n
-g|no right|acknowledge
-g|have you got a footbridge marked|query_yn
+g|no right have you got a footbridge marked|acknowledge query_yn
 f|i have|reply_y
-g|okay|acknowledge
-g|well turn right so that you go across the footbridge|instruct
+g|okay well turn right so that you go across the footbridge|acknowledge instruct
 f|turn right so i go across the footbridge right|acknowledge
-g|and watch out beyond it|instruct
-g|have you got a poisoned stream marked|query_yn
+g|and watch out beyond it have you got a poisoned stream marked|instruct query_yn
 f|no|reply_n
-g|no right|acknowledge
-g|well just beyond the footbridge is a poisoned stream|explain
+g|no right well just beyond the footbridge is a poisoned stream|acknowledge explain
 f|right|acknowledge
 g|so and are you on the footbridge footbridge|align
 f|mmhmm|reply_y
-g|okay|acknowledge
-g|well go to the end of the footbridge|instruct
+g|okay well go to the end of the footbridge|acknowledge instruct
 f|right|acknowledge
 g|and then down|instruct
 f|straight down|check
@@ -40,44 +32,31 @@ g|bit more than an inch|instruct
 f|right|acknowledge
 g|eh now go horizontally along towards your right|instruct
 f|for how long|query_w
-g|about three inches|clarify
-g|have you got an old temple marked|query_yn
+g|about three inches have you got an old temple marked|clarify query_yn
 f|i do|reply_y
-g|right okay|acknowledge
-g|well you go up the left-hand side of the old temple as you see it|instruct
+g|right okay well you go up the left-hand side of the old temple as you see it|acknowledge instruct
 f|straight up or|query_yn
 g|straight up yeah|reply_y
-f|curve round|query_yn
-f|okay|ready
-g|okay eh|acknowledge
-g|now have you got something marked eh just above the old temple or to the left of the old temple|query_w
+f|curve round okay|query_yn ready
+g|okay eh now have you got something marked eh just above the old temple or to the left of the old temple|acknowledge query_w
 f|i've got slate mountain|reply_w
-g|slate mountain okay|acknowledge
-g|well go above that and round|instruct
+g|slate mountain okay well go above that and round|acknowledge instruct
 f|straight up|check
 g|still going to your left|instruct
 f|still going to my left|check
 g|well you're straight up just beyond the old temple|align
 f|uh-huh|reply_y
-g|okay|acknowledge
-g|now you're wanting to go left|clarify
-g|have you got an abandoned truck marked|query_yn
+g|okay now you're wanting to go left have you got an abandoned truck marked|acknowledge clarify query_yn
 f|uh-huh|reply_y
-g|right|acknowledge
-g|well you're wanting to go just below that but missing out any obstacles|instruct
+g|right well you're wanting to go just below that but missing out any obstacles|acknowledge instruct
 f|right so i'm going underneath this mountain and along to the abandoned truck not underneath the mountain above the mountain|check
-g|that there are|instruct
-g|above the mountain yeah|reply_y
+g|that there are above the mountain yeah|instruct reply_y
 f|so it's to the right of the mountain that i'm going|check
-g|no it's to the|reply_n
-g|the abandoned truck's to the left of the old temple|explain
-f|yes|acknowledge
-f|but the the mountain's between the abandoned truck and the old temple|explain
-g|right okay|acknowledge
-g|so is the the mountain roughly level with the abandoned truck|query_yn
+g|no it's to the the abandoned truck's to the left of the old temple|reply_n explain
+f|yes but the the mountain's between the abandoned truck and the old temple|acknowledge explain
+g|right okay so is the the mountain roughly level with the abandoned truck|acknowledge query_yn
 f|more or less yes|reply_y
-g|more or less okay|acknowledge
-g|go above the the mountain|instruct
+g|more or less okay go above the the mountain|acknowledge instruct
 f|right|acknowledge
 g|and then dip down under the abandoned truck|instruct
 f|okay|acknowledge
@@ -85,78 +64,56 @@ g|so you're under the abandoned truck|align
 f|i'm under the abandoned truck|reply_y
 g|go along to the left-hand edge of the abandoned truck|instruct
 f|right|acknowledge
-g|and then down by|instruct
-g|have you got baboons marked|query_yn
+g|and then down by have you got baboons marked|instruct query_yn
 f|no|reply_n
-g|no okay|acknowledge
-g|go eh about an inch down after the abandoned truck|instruct
+g|no okay go eh about an inch down after the abandoned truck|acknowledge instruct
 f|right|acknowledge
 g|inch and a half say|instruct
 f|okay|ready
 g|eh and then horizontally along 'til about half an inch from the left-hand side of the page|instruct
 f|okey-doke|ready
-g|okay|acknowledge
-g|now go vertically up|instruct
-g|have you got white mountain marked|query_yn
+g|okay now go vertically up have you got white mountain marked|acknowledge instruct query_yn
 f|i do|reply_y
-g|you do okay|acknowledge
-g|go up to the left-hand side of white mountain|instruct
+g|you do okay go up to the left-hand side of white mountain|acknowledge instruct
 f|do you want me to come in the page at all|query_yn
-g|yes|reply_y
-g|just a wee bit so that you are not far from white mountain when you go past it|reply_w
-g|then go up beyond white mountain|instruct
+g|yes just a wee bit so that you are not far from white mountain when you go past it then go up beyond white mountain|reply_y reply_w instruct
 f|on its left-hand side|check
-g|eh yeah it's on its left-hand side|reply_y
-g|'til you're about eh two and a half inches from the top of the page and just about above white mountain|instruct
-f|right|acknowledge
-f|ehm have you got a lemon grove marked|query_yn
+g|eh yeah it's on its left-hand side 'til you're about eh two and a half inches from the top of the page and just about above white mountain|reply_y instruct
+f|right ehm have you got a lemon grove marked|acknowledge query_yn
 g|no|reply_n
-f|right|acknowledge
-f|two and a half inches from the top of the page|check
+f|right two and a half inches from the top of the page|acknowledge check
 g|yeah roughly|reply_y
 f|and above white mountain|check
 g|have you got a pyramid marked|query_yn
 f|uh-huh|reply_y
-g|right okay|acknowledge
-g|well go horizontally along and over the top of the pyramid and down the other side of the pyramid|instruct
-g|have you got cobbled street marked|query_yn
+g|right okay well go horizontally along and over the top of the pyramid and down the other side of the pyramid have you got cobbled street marked|acknowledge instruct query_yn
 f|no|reply_n
-g|no okay|acknowledge
-g|well go underneath the pyramid|instruct
+g|no okay well go underneath the pyramid|acknowledge instruct
 f|horizontally|check
-g|yes|reply_y
-g|that's so so that'll be you moving to your left|clarify
+g|yes that's so so that'll be you moving to your left|reply_y clarify
 f|right|acknowledge
 g|and then to the edge of the pyramid|instruct
 f|okay|acknowledge
-g|the left-hand edge|instruct
-g|and then go down at a bit of an angle|instruct
+g|the left-hand edge and then go down at a bit of an angle|instruct instruct
 f|which way|query_w
 g|slightly acute angle|clarify
 f|southwest|check
 g|yes that way yeah|reply_y
-f|okay|acknowledge
-f|for how long|query_w
+f|okay for how long|acknowledge query_w
 g|for just a wee bit just maybe a couple of inches|clarify
 f|right|acknowledge
-g|and then go down|instruct
-g|have you got remote village marked|query_yn
+g|and then go down have you got remote village marked|instruct query_yn
 f|uh-huh|reply_y
-g|right okay|acknowledge
-g|well you're wanting to go down just to the left of remote village|instruct
+g|right okay well you're wanting to go down just to the left of remote village|acknowledge instruct
 f|okay|acknowledge
 g|and then underneath remote village|instruct
 f|right that doesn't have to be in a straight line or anything|query_yn
-g|eh aye|reply_y
-g|fairly horizontal|clarify
-g|and the finish is just southeast of remote village|explain
-f|oh i do have a poisoned stream marked|explain
-f|sorry|query_w
+g|eh aye fairly horizontal and the finish is just southeast of remote village|reply_y clarify explain
+f|oh i do have a poisoned stream marked sorry|explain query_w
 g|well there's two poisoned streams marked|explain
 f|uh-huh|acknowledge
 g|yeah|acknowledge
 f|so the finish is where|query_w
 g|it's just southeast of the remote village|clarify
-f|southeast of the remote village so it's there|acknowledge
-f|okay|ready
+f|southeast of the remote village so it's there okay|acknowledge ready
 g|okay that's you finished|explain

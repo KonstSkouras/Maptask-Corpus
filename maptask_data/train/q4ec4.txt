@@ -1,140 +1,93 @@
 g|right eh from start position you move down past the camera shop to the bottom left corner|instruct
-f|right right|acknowledge
-f|the camera shop's directly below the start position right|check
-g|yes|reply_y
-g|you move down to past the left-hand side of the camera shop|instruct
+f|right right the camera shop's directly below the start position right|acknowledge check
+g|yes you move down to past the left-hand side of the camera shop|reply_y instruct
 f|no right|acknowledge
 g|and have you got parked van marked there beneath the camera shop|query_yn
-f|no|reply_n
-f|it's just allotments to the eh right|explain
+f|no it's just allotments to the eh right|reply_n explain
 g|no|acknowledge
 f|and slightly below|clarify
-g|you move|instruct
-g|well approximately three inches below the camera shop you make an arc and then move up up and around the left-hand side of the allotments|instruct
+g|you move well approximately three inches below the camera shop you make an arc and then move up up and around the left-hand side of the allotments|instruct instruct
 f|and where do i stop|query_w
 g|stop just at the the top right corner of the allotments just above that little shed|clarify
-f|right|acknowledge
-f|right|ready
+f|right right|acknowledge ready
 g|then you move in an angle sloping slightly upwards to approximately a third of the way across the page from the right and stop|instruct
 f|so what is this eh there's a flight museum here on the|query_w
 g|it's not marked on my map|reply_w
-f|oh right|acknowledge
-f|ehm it's eh on the same level as the start position basically|explain
+f|oh right ehm it's eh on the same level as the start position basically|acknowledge explain
 g|slightly below approximately on level with the top of the camera shop|instruct
-f|right|acknowledge
-f|so you make an angle and that's a straight line|check
+f|right so you make an angle and that's a straight line|acknowledge check
 g|a straight line yes|reply_y
-f|right|acknowledge
-f|from there to just above the camera shop|check
-g|yeah|reply_y
-g|approximately two thirds away from the right-hand side of the page|clarify
+f|right from there to just above the camera shop|acknowledge check
+g|yeah approximately two thirds away from the right-hand side of the page|reply_y clarify
 f|uh from the right-hand side of the page|check
-g|no sorry|reply_n
-g|one third away from the right-hand side of the page|clarify
-f|right|acknowledge
-f|that's just below the flight museum|explain
-f|okay|align
-g|well|instruct
-g|have you got yacht club marked bottom right corner|query_yn
+g|no sorry one third away from the right-hand side of the page|reply_n clarify
+f|right that's just below the flight museum okay|acknowledge explain align
+g|well have you got yacht club marked bottom right corner|instruct query_yn
 f|yes uh-huh|reply_y
 g|well it's just slightly to the left of the yacht club on a level with the camera shop roof|clarify
-f|okay|acknowledge
-f|and where do we go after that|query_w
-g|you turn straight up the page and make a straight line which curves over and around top of the disused monastery|reply_w
-g|have you got that mark|query_yn
+f|okay and where do we go after that|acknowledge query_w
+g|you turn straight up the page and make a straight line which curves over and around top of the disused monastery have you got that mark|reply_w query_yn
 f|what on top of the monastery|check
 g|above the monastery|clarify
 f|and uh right okay that's okay|acknowledge
 g|to the left up the to the right and then curves over to the left|clarify
-f|right|acknowledge
-f|so we're going from like above the allotments to just above the yacht club no just above but ehm about|check
+f|right so we're going from like above the allotments to just above the yacht club no just above but ehm about|acknowledge check
 g|approximately three inches|clarify
 f|same level as the camera shop basically|check
-g|three four inches|clarify
-g|yeah|reply_y
+g|three four inches yeah|clarify reply_y
 f|and then eh from there going to disused monastery|check
 g|yes|reply_y
 f|right|acknowledge
 g|curving around the top of the disused monastery|clarify
-f|yeah right|acknowledge
-f|right|ready
-f|so curve around the disused monastery then where|query_w
+f|yeah right right so curve around the disused monastery then where|acknowledge ready query_w
 g|and stop on the level with the base of it then the curve reverses itself and goes approximately like it was before and then goes vertically up the side of the the alpine garden|reply_w
-f|right|acknowledge
-f|could you just say that again|query_w
+f|right could you just say that again|acknowledge query_w
 g|right from the disused monastery the left-hand side of disused monastery the curve makes a dip rather than a rise a trough|clarify
 f|right|acknowledge
 g|and stops level with the left-hand side of the alpine garden|clarify
-f|right|acknowledge
-f|so it's a a curve eh pointing upwards to get to the disused monastery|check
-g|no|reply_n
-g|a curve going down the way uh|clarify
-f|that's what i mean|explain
-f|i mean eh the apex of the curve is higher than the two base points basically|check
+f|right so it's a a curve eh pointing upwards to get to the disused monastery|acknowledge check
+g|no a curve going down the way uh|reply_n clarify
+f|that's what i mean i mean eh the apex of the curve is higher than the two base points basically|explain check
 g|yes|reply_y
-f|right|acknowledge
-f|and then a the reverse of the concavity of the thing to come round to the alpine garden|check
-g|yeah|reply_y
-g|you stop on a level with the disused monastery to slightly to the left of the alpine garden|clarify
-f|right|acknowledge
-f|right|ready
-g|then you go up vertically 'til just above the alpine garden|instruct
-g|then you go right to the end of the alpine garden|instruct
-g|then vertically again to the top of the youth hostel|instruct
+f|right and then a the reverse of the concavity of the thing to come round to the alpine garden|acknowledge check
+g|yeah you stop on a level with the disused monastery to slightly to the left of the alpine garden|reply_y clarify
+f|right right|acknowledge ready
+g|then you go up vertically 'til just above the alpine garden then you go right to the end of the alpine garden then vertically again to the top of the youth hostel|instruct instruct instruct
 f|there is no youth hostel|explain
 g|then about three inches|clarify
 f|where was the youth hostel|query_w
 g|youth hostel was upwards and to the right of the alpine garden if you go up from four inches from where you stopped at the alpine garden vertically|reply_w
-f|right|acknowledge
-f|right i think i know where it is|acknowledge
-f|right ehm where where would i be going after that|query_w
+f|right right i think i know where it is right ehm where where would i be going after that|acknowledge acknowledge query_w
 g|after where|query_w
 f|after the this youth hostel|reply_w
-g|after youth hostel|query_w
-g|you'd be going an inch to your right and then a diagonal line sloping at approximately eh what'd it be now hundred and thirty five degrees from vertical|reply_w
-f|right|acknowledge
-f|eh can you give me a name of an object i'll be going to|query_w
+g|after youth hostel you'd be going an inch to your right and then a diagonal line sloping at approximately eh what'd it be now hundred and thirty five degrees from vertical|query_w reply_w
+f|right eh can you give me a name of an object i'll be going to|acknowledge query_w
 g|the telephone box|reply_w
-f|right okay uh right|acknowledge
-f|so i go up just below just to below the parked van|check
-f|have you got a parked van|query_yn
-g|no|reply_n
-g|you go to about two inches below the parked van|instruct
-f|right|acknowledge
-f|right|ready
-f|and then from there|check
+f|right okay uh right so i go up just below just to below the parked van have you got a parked van|acknowledge check query_yn
+g|no you go to about two inches below the parked van|reply_n instruct
+f|right right and then from there|acknowledge ready check
 g|you go|instruct
 f|so it's|check
 g|two inches right from that and then a straight line diagonally 'til underneath the telephone box|instruct
-f|right|acknowledge
-f|all right|acknowledge
-f|underneath the telephone telephone box|check
+f|right all right underneath the telephone telephone box|acknowledge acknowledge check
 g|yes|reply_y
 f|right|acknowledge
-g|not directly underneath it|clarify
-g|you're going to draw a you're going to have to draw a straight line adding on to that that passes underneath the telephone box|clarify
-f|right right okay|acknowledge
-f|okay|ready
+g|not directly underneath it you're going to draw a you're going to have to draw a straight line adding on to that that passes underneath the telephone box|clarify clarify
+f|right right okay okay|acknowledge ready
 g|then there's a straight line going under the telephone box|instruct
 f|right|acknowledge
 g|and a vertical line going up the right-hand side of the telephone box|instruct
 f|and where does it go to|query_w
-g|it stops about level with the top of the telephone box|reply_w
-g|then there's a sort of exponential curve that goes up to your right from that point and it starts to become vertical to the left of the telephone box on a line left of the telephone box|instruct
+g|it stops about level with the top of the telephone box then there's a sort of exponential curve that goes up to your right from that point and it starts to become vertical to the left of the telephone box on a line left of the telephone box|reply_w instruct
 f|and where's it going to is it going to the level crossing|query_yn
-g|it's going|reply_w
-g|not marked on my map|explain
-g|it's going to the right to the left of the thatched mud hut and|reply_w
+g|it's going not marked on my map it's going to the right to the left of the thatched mud hut and|reply_w explain reply_w
 f|i don't have a thatched mud hut|explain
 g|no|acknowledge
 f|have you got an east lake|query_yn
-g|yes|reply_y
-g|it stops approximately on a line through the middle of the east lake|reply_w
-f|mm right|acknowledge
-f|ehm well i've got a level crossing just below the the the ehm east lake|explain
+g|yes it stops approximately on a line through the middle of the east lake|reply_y reply_w
+f|mm right ehm well i've got a level crossing just below the the the ehm east lake|acknowledge explain
 g|it'll probably mean go through that then|instruct
-f|through the level crossing|acknowledge
-f|ehm aren't we meant to eh avoid obstacles|query_yn
+f|through the level crossing ehm aren't we meant to eh avoid obstacles|acknowledge query_yn
 g|avoid them|check
 f|yeah|reply_y
 g|right ehm|acknowledge
@@ -142,34 +95,24 @@ f|i need to go ehm where where is it going is it going to eh eh parked van or so
 g|ehm no|reply_n
 f|eh where|query_w
 g|it's going to the right of the parked van underneath the the very left-hand point of the east lake|reply_w
-f|right|acknowledge
-f|so it's between ehm|query_yn
-g|it's on a level with the picket fence|clarify
-g|have you got that top left corner|query_yn
+f|right so it's between ehm|acknowledge query_yn
+g|it's on a level with the picket fence have you got that top left corner|clarify query_yn
 f|yeah i've got that|reply_y
 g|the finish point is on a level with that underneath the most left point of the east lake|clarify
-f|right|acknowledge
-f|i'll go round it the level crossing|explain
-f|okay|align
+f|right i'll go round it the level crossing okay|acknowledge explain align
 g|right|reply_y
 f|is it a straight line or a curve|query_w
-g|it curves|reply_w
-g|eh if the telephone box is there it curves up and then goes like that|clarify
+g|it curves eh if the telephone box is there it curves up and then goes like that|reply_w clarify
 f|right|acknowledge
 g|from that's from seen from my point of view|clarify
 f|and that's from the right-hand side of the telephone box|query_yn
 g|from the right-hand side of the telephone box it goes to the left-hand point|clarify
-f|right|acknowledge
-f|well i can't do an exponential so|explain
+f|right well i can't do an exponential so|acknowledge explain
 g|that's the path marked there|explain
-f|i'll see what i can do|explain
-f|right|ready
+f|i'll see what i can do right|explain ready
 g|that you at the finish point|align
 f|i'm just at the eh left-hand bottom corner of the east lake|reply_w
-g|the left-hand corner|acknowledge
-g|you go just about an inch to your left|instruct
+g|the left-hand corner you go just about an inch to your left|acknowledge instruct
 f|right|acknowledge
-g|and that's the finish point|instruct
-g|on a level with the picket fence|instruct
-f|right|acknowledge
-f|on a level with the picket fence|check
+g|and that's the finish point on a level with the picket fence|instruct instruct
+f|right on a level with the picket fence|acknowledge check

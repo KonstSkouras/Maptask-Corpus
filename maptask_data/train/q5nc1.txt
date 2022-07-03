@@ -1,51 +1,32 @@
-g|ehm can you see a caravan park|query_yn
-g|your route is to your left of that|instruct
+g|ehm can you see a caravan park your route is to your left of that|query_yn instruct
 f|left|check
 g|left i think|reply_y
 f|i'm going to end up off the paper if i go left|explain
-g|no|reply_n
-g|you have to go round that side though|clarify
-f|oh right right|acknowledge
-f|going left|acknowledge
-g|and|ready
-g|then you go ahead mm you should see an old mill on your left again|instruct
-g|if you're going down if you're going down|instruct
-f|eh no|reply_n
-f|aye you forgot to tell me to go down|explain
+g|no you have to go round that side though|reply_n clarify
+f|oh right right going left|acknowledge acknowledge
+g|and then you go ahead mm you should see an old mill on your left again if you're going down if you're going down|ready instruct instruct
+f|eh no aye you forgot to tell me to go down|reply_n explain
 g|no but you go down|instruct
 f|right|acknowledge
 g|ehm turn to your left|instruct
 f|i can't go left i havenae got to the old mill yet|explain
-g|no|reply_n
-g|you don't go to the old mill|instruct
+g|no you don't go to the old mill|reply_n instruct
 f|i can't go any further left i'm right beside the paper|explain
-g|okay|ready
-g|from the beginning you go down|instruct
-g|right|align
+g|okay from the beginning you go down right|ready instruct align
 f|yeah right i've done that|reply_y
-g|right|ready
-g|then you turn left at the bottom of the paper or turn|instruct
+g|right then you turn left at the bottom of the paper or turn|ready instruct
 f|so you want me to go right down to the bottom of the paper and then turn left|check
-g|mmhmm|reply_y
-g|but turn left as if you're walking down|clarify
+g|mmhmm but turn left as if you're walking down|reply_y clarify
 f|what|query_w
-g|turn into the paper|clarify
-g|okay|align
-g|don't turn off the paper|clarify
+g|turn into the paper okay don't turn off the paper|clarify align clarify
 f|right|reply_y
-g|okay|ready
-g|then head along slightly and then turn left again|instruct
-f|have i got left and right mixed up here|check
-f|no i haven't|reply_n
-f|i can't go any further left i'm right at the left-hand side of the paper right i'm about a centimetre away from it|explain
-g|oh|acknowledge
-g|well|ready
-g|if you can't can't turn left turn right|instruct
+g|okay then head along slightly and then turn left again|ready instruct
+f|have i got left and right mixed up here no i haven't i can't go any further left i'm right at the left-hand side of the paper right i'm about a centimetre away from it|check reply_n explain
+g|oh well if you can't can't turn left turn right|acknowledge ready instruct
 f|right that's a good idea|acknowledge
 g|yeah|acknowledge
 f|right|acknowledge
-g|and then|ready
-g|when you see the old mill above you|instruct
+g|and then when you see the old mill above you|ready instruct
 f|mmhmm|acknowledge
 g|turn up the way and you're going past the old mill|instruct
 f|right|acknowledge
@@ -53,93 +34,63 @@ g|with it on your|instruct
 f|left|query_yn
 g|right|reply_w
 f|right|check
-g|right yes oh yeah|reply_y
-g|you've got to go round with it on your right-hand side|clarify
+g|right yes oh yeah you've got to go round with it on your right-hand side|reply_y clarify
 f|with it on your right-hand side|check
 g|yeah|reply_y
 f|oh hell back i go right|acknowledge
 g|right okay|align
 f|mmhmm|reply_y
-g|now|ready
-g|you go round the top of the mill|instruct
+g|now you go round the top of the mill|ready instruct
 f|mmhmm|acknowledge
-g|and ehm|ready
-g|continue heading towards your right past the mill|instruct
+g|and ehm continue heading towards your right past the mill|ready instruct
 f|right|acknowledge
 g|you should see um a fenced meadow down at the bottom|query_yn
 f|aye|reply_y
-g|okay|ready
-g|ehm|ready
-g|now|ready
-g|if you're heading along that way turn up left|instruct
-g|you should see an abandoned cottage up the way|explain
-f|no wait a minute|ready
-f|do you want me to go past the fenced meadow|query_yn
+g|okay ehm now if you're heading along that way turn up left you should see an abandoned cottage up the way|ready ready ready instruct explain
+f|no wait a minute do you want me to go past the fenced meadow|ready query_yn
 g|eh|query_yn
 f|or just look at it|query_yn
-g|don't go near no|reply_n
-g|don't go near either of the fenced meadows|instruct
+g|don't go near no don't go near either of the fenced meadows|reply_n instruct
 f|can only see one fenced meadow|explain
-g|there are two|explain
-g|there's one above the caravan park and one over from the old mill|explain
-f|nah|explain
-f|no it's no on my map|explain
+g|there are two there's one above the caravan park and one over from the old mill|explain explain
+f|nah no it's no on my map|explain explain
 g|oh well okay|acknowledge
 f|there's only the one at there's only the one at the bottom|explain
 g|oh well right|acknowledge
 f|right do you want me go along along like beside the fenced meadow and then go up or do you want me to go up before i get to the fenced meadow|query_w
-g|ehm don't know|reply_w
-g|i want you to go up just as you get to the fenced meadow but don't go near it|clarify
-g|okay|align
+g|ehm don't know i want you to go up just as you get to the fenced meadow but don't go near it okay|reply_w clarify align
 f|right|reply_y
 g|right|align
 f|here i am at the abandoned cottage|explain
-g|you're at the abandoned cottage|acknowledge
-g|the abandoned cottage is on your left|align
-g|is that correct|align
+g|you're at the abandoned cottage the abandoned cottage is on your left is that correct|acknowledge align align
 f|yeah|reply_y
-g|right okay|ready
-g|go round the top of the abandoned cottage|instruct
+g|right okay go round the top of the abandoned cottage|ready instruct
 f|right|acknowledge
-g|and you come|instruct
-g|oh i'll have to take this off|explain
-g|right|ready
-g|you come down slightly to your left if you're heading that way|instruct
-g|but you don't have another fenced meadow|check
+g|and you come oh i'll have to take this off right you come down slightly to your left if you're heading that way but you don't have another fenced meadow|instruct explain ready instruct check
 f|nope|reply_n
 g|nope|acknowledge
 f|just an empty space|explain
-g|mm|acknowledge
-g|okay anyway now|ready
-g|you should see west lake|query_yn
+g|mm okay anyway now you should see west lake|acknowledge ready query_yn
 f|aye|reply_y
 g|head up towards west lake|instruct
 f|aye|acknowledge
-g|now|ready
-g|when you get there you're going to have to go very close to it but round the side of it|instruct
-f|right|acknowledge
-f|which which way round the side clockwise or anticlockwise|query_w
-g|erm towards towards the trig point|reply_w
-g|do you see that|query_yn
+g|now when you get there you're going to have to go very close to it but round the side of it|ready instruct
+f|right which which way round the side clockwise or anticlockwise|acknowledge query_w
+g|erm towards towards the trig point do you see that|reply_w query_yn
 f|the what|query_w
 g|the trig point|reply_w
 f|what's a trig point|query_w
 g|can you see a trig point|query_yn
 f|i don't know what a trig point is|reply_w
-g|there should should be marked on your map|explain
-g|is it not|query_yn
+g|there should should be marked on your map is it not|explain query_yn
 f|what something with trig point written beside it|check
-g|yeah|reply_y
-g|yeah|reply_y
+g|yeah yeah|reply_y reply_y
 f|nope|reply_n
-g|it's near the lake|explain
-g|it's not|check
+g|it's near the lake it's not|explain check
 f|nope|reply_n
-g|okay|ready
-g|you have to go round|reply_w
+g|okay you have to go round|ready reply_w
 f|clock well just say clockwise or anticlockwise|instruct
-g|anticlockwise|reply_w
-g|anticlockwise|reply_w
+g|anticlockwise anticlockwise|reply_w reply_w
 f|anticlockwise|acknowledge
 g|on the the right-hand side of the lake|reply_w
 f|right|acknowledge
@@ -149,84 +100,56 @@ g|no no|reply_n
 f|right|acknowledge
 g|right|acknowledge
 f|where do i stop then|query_w
-g|see when it starts turning up to the left|align
-g|you turn to the right|reply_w
-g|you know what i mean|align
+g|see when it starts turning up to the left you turn to the right you know what i mean|align reply_w align
 f|eh like|ready
 g|you go round the side of the lake|clarify
-f|like there's like there's two rabbit ears|explain
-f|and when you get to the one on the|check
+f|like there's like there's two rabbit ears and when you get to the one on the|explain check
 g|yeah|reply_y
 f|right you have to start going right|check
-g|yes|reply_y
-g|yeah|reply_y
+g|yes yeah|reply_y reply_y
 f|right i think so aye right|acknowledge
 g|you go right|clarify
 f|right|acknowledge
-g|okay|align
-g|now|ready
-g|you have to go back down the way near the abandoned cottage again don't cross the pass path that you've been on already|instruct
-f|right|acknowledge
-f|do i just follow that path though|query_yn
-g|ehm well you shouldn't be near the path really|reply_w
-g|you have to go down to that level again you know back to the the stage of the abandoned cottage|clarify
+g|okay now you have to go back down the way near the abandoned cottage again don't cross the pass path that you've been on already|align ready instruct
+f|right do i just follow that path though|acknowledge query_yn
+g|ehm well you shouldn't be near the path really you have to go down to that level again you know back to the the stage of the abandoned cottage|reply_w clarify
 f|right|acknowledge
 g|can you see a monument|query_yn
 f|aye|reply_y
-g|right|ready
-g|you have to go round the monument with it on your ehm left-hand side|instruct
+g|right you have to go round the monument with it on your ehm left-hand side|ready instruct
 f|right|acknowledge
-g|okay|align
-g|so you've got the monument enclosed in your path|instruct
+g|okay so you've got the monument enclosed in your path|align instruct
 f|well sort of aye|reply_y
-g|yeah|align
-g|okay now|ready
-g|you see a nuclear test site|query_yn
+g|yeah okay now you see a nuclear test site|align ready query_yn
 f|nope|reply_n
-g|you don't oh dear|acknowledge
-g|ehm okay|ready
-g|continue go round the monument|instruct
+g|you don't oh dear ehm okay continue go round the monument|acknowledge ready instruct
 f|mmhmm|acknowledge
 g|until almost the top of his head|instruct
 f|oh i've gone past that right|explain
-g|have you gone past it|check
-g|so you should have like a semicircle round the monument|align
+g|have you gone past it so you should have like a semicircle round the monument|check align
 f|aye|reply_y
-g|right now|ready
-g|you have to veer slightly to your left|instruct
-f|left|check
-f|right|acknowledge
+g|right now you have to veer slightly to your left|ready instruct
+f|left right|check acknowledge
 g|just slightly|clarify
 f|right|acknowledge
-g|and then|ready
-g|go up straight up towards east lake|instruct
+g|and then go up straight up towards east lake|ready instruct
 f|right|acknowledge
-g|uh-huh|align
-g|now|ready
-g|sticking quite close to east lake|instruct
+g|uh-huh now sticking quite close to east lake|align ready instruct
 f|right|acknowledge
-g|can you see the finish|query_yn
-g|yeah|query_yn
-f|no|reply_n
-f|i i don't think i've got a finish on mine|explain
-g|you don't have a finish|acknowledge
-g|can you see farmed land|query_yn
+g|can you see the finish yeah|query_yn query_yn
+f|no i i don't think i've got a finish on mine|reply_n explain
+g|you don't have a finish can you see farmed land|acknowledge query_yn
 f|aye|reply_y
-g|well|ready
-g|stick closely to east lake it's on your right-hand side and just go past the bit that's jutting out|instruct
-f|hang on|ready
-f|you want me to go round the right-hand side of east lake|check
+g|well stick closely to east lake it's on your right-hand side and just go past the bit that's jutting out|ready instruct
+f|hang on you want me to go round the right-hand side of east lake|ready check
 g|no i want you to go left but the east lake should be on your right-hand side|clarify
 f|oh right aye|acknowledge
 g|okay|align
 f|aye|reply_y
-g|now|ready
-g|just where it turns up just carry on the path you are for a few more steps and you should be finished|instruct
-f|uh-huh|acknowledge
-f|right|acknowledge
+g|now just where it turns up just carry on the path you are for a few more steps and you should be finished|ready instruct
+f|uh-huh right|acknowledge acknowledge
 g|should have come to the finish|instruct
 f|i think so|acknowledge
 g|yeah|acknowledge
-f|looks like your route home from the "q" "m" on a thursday night|explain
-f|that's that i think then|acknowledge
+f|looks like your route home from the "q" "m" on a thursday night that's that i think then|explain acknowledge
 g|yeah|acknowledge

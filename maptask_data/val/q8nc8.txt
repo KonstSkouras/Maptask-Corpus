@@ -1,37 +1,21 @@
 g|ehm do you have the start yeah|query_yn
 f|uh-huh right|reply_y
 g|and the diamond mine|query_yn
-f|in the up at|check
-f|uh-huh|reply_y
-f|up at the top to the left of the diamond mind|check
+f|in the up at uh-huh up at the top to the left of the diamond mind|check reply_y check
 g|yeah|reply_y
 f|mine right|acknowledge
-g|ah right|acknowledge
-g|if you come down to the just below the "d" in the diamond|instruct
-f|okay|acknowledge
-f|straight down|check
-g|yeah|reply_y
-g|and then along|instruct
-g|do you have the springboks|query_yn
+g|ah right if you come down to the just below the "d" in the diamond|acknowledge instruct
+f|okay straight down|acknowledge check
+g|yeah and then along do you have the springboks|reply_y instruct query_yn
 f|no|reply_n
-g|no|acknowledge
-g|do you have the highest viewpoint|query_yn
-f|uh-huh|reply_y
-f|over in the right|explain
-f|uh-huh|reply_y
-g|yeah|acknowledge
-g|right|ready
-g|if you move up very slightly to the right along to the right|instruct
-g|yeah|ready
-g|did i say that yeah|query_yn
-g|up very slightly to the right|instruct
-f|right wait a minute|ready
-f|i'm i've to go along the bottom of the diamond diamond mine first|check
+g|no do you have the highest viewpoint|acknowledge query_yn
+f|uh-huh over in the right uh-huh|reply_y explain reply_y
+g|yeah right if you move up very slightly to the right along to the right yeah did i say that yeah up very slightly to the right|acknowledge ready instruct ready query_yn instruct
+f|right wait a minute i'm i've to go along the bottom of the diamond diamond mine first|ready check
 g|uh-huh yeah|reply_y
 f|right|acknowledge
 g|yeah|acknowledge
-f|so i'm|check
-f|right|acknowledge
+f|so i'm right|check acknowledge
 g|ehm from the "e" in mine|instruct
 f|uh-huh|acknowledge
 g|i go another maybe six centimetres in the same direction|instruct
@@ -40,117 +24,78 @@ g|and then move if you move around and up to the left almost vertically but not 
 f|around|check
 g|uh-huh|reply_y
 f|so right i'm i'm at the moment i'm about halfway between the diamond mine and the highest viewpoint|align
-g|yeah right|reply_y
-g|if you go along another maybe two or three centimetres then|instruct
+g|yeah right if you go along another maybe two or three centimetres then|reply_y instruct
 f|right|acknowledge
 g|and then up and around to the left almost vertically but not quite|instruct
 f|right oh|acknowledge
 g|'til you get to about level with the bottom of the mountain or hill|instruct
 f|oh right okay mmhmm|acknowledge
-g|okay|align
-g|and then just move around the top about a centimetre space between the your route and the mountain if you just go right around to the|instruct
+g|okay and then just move around the top about a centimetre space between the your route and the mountain if you just go right around to the|align instruct
 f|so wait a minute i'm going right round the top of the mountain then|check
 g|uh-huh uh-huh|reply_y
 f|a just curving right round|check
-g|yeah|reply_y
-g|until you get to the bottom of the mountain at the right-hand side|clarify
-g|you got that yeah|align
+g|yeah until you get to the bottom of the mountain at the right-hand side you got that yeah|reply_y clarify align
 f|uh-huh|reply_y
-g|right|ready
-g|now move down about six centimetres|instruct
+g|right now move down about six centimetres|ready instruct
 f|just just straight down|check
 g|just vertically down yeah|reply_y
 f|have you got the overgrown gully|query_yn
 g|no|reply_n
-f|all right|acknowledge
-f|have you got the safari truck|query_yn
-g|yeah|reply_y
-g|and if when you stop you should be about two centimetres above the safari truck|instruct
-f|to the right of it|query_yn
-f|oh|acknowledge
-g|yeah|reply_y
-g|yeah|reply_y
-f|right|acknowledge
-f|right|acknowledge
-g|and move down about forty-five degrees to the left|instruct
-g|do you have the field station|query_yn
+f|all right have you got the safari truck|acknowledge query_yn
+g|yeah and if when you stop you should be about two centimetres above the safari truck|reply_y instruct
+f|to the right of it oh|query_yn acknowledge
+g|yeah yeah|reply_y reply_y
+f|right right|acknowledge acknowledge
+g|and move down about forty-five degrees to the left do you have the field station|instruct query_yn
 f|no oh|reply_n
-g|no|acknowledge
-g|if you move down about seven centimetres to the left|instruct
-f|right|acknowledge
-f|going across the top of the safari truck|check
+g|no if you move down about seven centimetres to the left|acknowledge instruct
+f|right going across the top of the safari truck|acknowledge check
 g|yeah yeah|reply_y
 f|so going down but to the left at the same time|check
-g|mmhmm|reply_y
-g|when you stop you should be about two centimetres from safari truck and a wee bit below it|clarify
+g|mmhmm when you stop you should be about two centimetres from safari truck and a wee bit below it|reply_y clarify
 f|right|acknowledge
-g|okay|ready
-g|and now just move along to the left|instruct
+g|okay and now just move along to the left|ready instruct
 f|in what way horizontal straight across|query_yn
-g|yeah|reply_y
-g|do you have the banana tree|query_yn
+g|yeah do you have the banana tree|reply_y query_yn
 f|uh-huh|reply_y
-g|right|ready
-g|if you move along and round the top of that|instruct
-f|right okay|acknowledge
-f|so is it straight across|check
+g|right if you move along and round the top of that|ready instruct
+f|right okay so is it straight across|acknowledge check
 g|mmhmm|reply_y
 f|and then round|check
-g|the top of the banana tree|reply_y
-g|and down on the left-hand side of it|instruct
+g|the top of the banana tree and down on the left-hand side of it|reply_y instruct
 f|mmhmm|acknowledge
 g|for about twenty centimetres|instruct
-f|all right|acknowledge
-f|so a good bit down then|check
+f|all right so a good bit down then|acknowledge check
 g|yeah|reply_y
 f|have you got the|query_yn
 g|do you have the gold mine|query_yn
 f|no|reply_n
-g|no|acknowledge
-g|yeah|reply_y
-g|about twenty centimetres then|clarify
-f|i've got the rock fall|explain
-f|have you got that|query_yn
+g|no yeah about twenty centimetres then|acknowledge reply_y clarify
+f|i've got the rock fall have you got that|explain query_yn
 g|no|reply_n
-f|oh|acknowledge
-f|right eh right just that's quite a lot then twenty centimetres i draw the line|explain
-f|where|query_w
-f|right|acknowledge
-f|have you got the great lake|query_yn
+f|oh right eh right just that's quite a lot then twenty centimetres i draw the line where right have you got the great lake|acknowledge explain query_w acknowledge query_yn
 g|no i don't have|reply_n
 f|oh right|acknowledge
 g|yes sorry i do|reply_y
 f|so i'm am i still a good bit above the great lake|query_yn
 g|you're about i'd say about ten fifteen centimetres above the great lake|reply_w
-f|right okay|acknowledge
-f|okay|acknowledge
-g|right ehm|ready
-g|if you move along|instruct
-g|do you have the rope bridge|query_yn
-f|ehm uh-huh|reply_y
-f|i've got one over at the right about halfway down the page|explain
-g|uh-huh that's right|acknowledge
-g|if you move along horizontally about three or four centimetres|instruct
+f|right okay okay|acknowledge acknowledge
+g|right ehm if you move along do you have the rope bridge|ready instruct query_yn
+f|ehm uh-huh i've got one over at the right about halfway down the page|reply_y explain
+g|uh-huh that's right if you move along horizontally about three or four centimetres|acknowledge instruct
 f|mmhmm|acknowledge
 g|and then once you've done that move up to the rope bridge just from where you are to the rope bridge and then cross it|instruct
-f|sort of diagonally|check
-f|right|acknowledge
-f|right|acknowledge
+f|sort of diagonally right right|check acknowledge acknowledge
 g|do you have the giraffes|query_yn
-f|uh-huh|reply_y
-f|i've also got some crocodiles|explain
+f|uh-huh i've also got some crocodiles|reply_y explain
 g|ehm once you've crossed the rope bridge if you move out in the same direction|instruct
 f|mmhmm|acknowledge
 g|curving round a little to maybe two centimetres or so|instruct
-f|right|acknowledge
-f|mmhmm|acknowledge
+f|right mmhmm|acknowledge acknowledge
 g|and then move vertically down to the giraffes|instruct
-f|right|acknowledge
-f|okay|ready
-f|so i'm at the the right of the giraffes|align
+f|right okay so i'm at the the right of the giraffes|acknowledge ready align
 g|mmhmm|reply_y
-f|okay so|ready
-f|what do i do now|query_w
+f|okay so what do i do now|ready query_w
 g|ehm you you should be around about at the "s" in giraffe about a centimetre below it|instruct
 f|okay|acknowledge
 g|and then curve round slightly for about four five centimetres|instruct
@@ -158,16 +103,11 @@ f|what going going left|query_yn
 g|going left sorry yeah|reply_y
 f|so curving up the way|query_yn
 g|no curving down|reply_n
-f|right|acknowledge
-f|have you got the disused warehouse|query_yn
+f|right have you got the disused warehouse|acknowledge query_yn
 g|no i don't|reply_n
-f|right|ready
-f|am i going quite near the bottom of the page here then|query_yn
-g|no|reply_n
-g|once you once you've moved you should be about maybe five centimetres from bottom of page|reply_w
-g|and start to curve up the way instead but still going left|instruct
-f|right|acknowledge
-f|i think i'm probably to go underneath the warehouse then|explain
+f|right am i going quite near the bottom of the page here then|ready query_yn
+g|no once you once you've moved you should be about maybe five centimetres from bottom of page and start to curve up the way instead but still going left|reply_n reply_w instruct
+f|right i think i'm probably to go underneath the warehouse then|acknowledge explain
 g|mmhmm|acknowledge
 f|right|acknowledge
 g|and move that down almost vertically down but not quite for about two centimetres|instruct
@@ -177,19 +117,12 @@ f|at the moment i'm about level with the great lake but about two three centimet
 g|mm that's about okay|acknowledge
 f|right|acknowledge
 g|if you come down so you're about a centimetre below the great lake and just move underneath the great lake|instruct
-f|so i'm going back down again|check
-f|oh right go underneath it|acknowledge
-f|so just straight across then to the left|check
-g|straight across|reply_y
-g|until you get to the "g"|instruct
-f|i'll just score that wee bit out then|explain
-f|uh-huh|acknowledge
-g|and if you curve up to the left ehm about five centimetres|instruct
-g|do you have the rock fall|query_yn
+f|so i'm going back down again oh right go underneath it so just straight across then to the left|check acknowledge check
+g|straight across until you get to the "g"|reply_y instruct
+f|i'll just score that wee bit out then uh-huh|explain acknowledge
+g|and if you curve up to the left ehm about five centimetres do you have the rock fall|instruct query_yn
 f|uh-huh|reply_y
-g|right|ready
-g|you should you should finish about two centimetres below the rock fall and about five centimetres to the left of the rock fall|instruct
-f|right|acknowledge
-f|that's the finish then|check
+g|right you should you should finish about two centimetres below the rock fall and about five centimetres to the left of the rock fall|ready instruct
+f|right that's the finish then|acknowledge check
 g|yeah|acknowledge
 f|right|acknowledge

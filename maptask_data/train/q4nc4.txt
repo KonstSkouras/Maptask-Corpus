@@ -1,121 +1,82 @@
 g|right neil|align
-f|okay right|reply_y
-f|where are we going|query_w
+f|okay right where are we going|reply_y query_w
 g|start|reply_w
-f|where am i starting|query_w
-f|oh right i've got it yeah i've found the start|explain
+f|where am i starting oh right i've got it yeah i've found the start|query_w explain
 g|have you got the start just above|query_yn
 f|yeah i've found it uh-huh|reply_y
 g|have you got a camera shop below it no|query_yn
 f|yes|reply_y
 g|you have|check
 f|yes|reply_y
-g|right a camera shop|acknowledge
-g|right|acknowledge
-g|head due south from that just down for about twelve centimetres|instruct
-g|have you got a parked van at the bottom|query_yn
+g|right a camera shop right head due south from that just down for about twelve centimetres have you got a parked van at the bottom|acknowledge acknowledge instruct query_yn
 f|so wait a minute i've got to go round the i've got|check
 g|go round|clarify
 f|round the|check
 g|go round the left hand side of the camera shop in between the edge of the page and the camera shop|clarify
 f|left-hand side of the camera shop right|check
 g|right|align
-f|right|acknowledge
-f|i don't have a parked van at the bottom|reply_n
-g|you don't have a parked van|acknowledge
-g|well go down aim towards the bottom and stay about two centimetres up from the bottom of the page|instruct
-f|right|ready
-f|i've got a yacht club on the far right-hand side|explain
-g|a yacht club|acknowledge
-g|right|ready
-g|so you go down to just|instruct
-g|see where the the words yacht club are|align
+f|right i don't have a parked van at the bottom|acknowledge reply_n
+g|you don't have a parked van well go down aim towards the bottom and stay about two centimetres up from the bottom of the page|acknowledge instruct
+f|right i've got a yacht club on the far right-hand side|ready explain
+g|a yacht club right so you go down to just see where the the words yacht club are|acknowledge ready instruct align
 f|uh-huh|reply_y
-g|just go sort of go down towards the bottom of the page and draw a line towards the yacht club for about three centimetres underneath where the if you drew a line right across the bottom of the page it the line would end up under yacht club|instruct
-g|right do you see what i'm|align
-f|are we doing that under|check
-f|so i want to go down|check
-g|no|reply_n
-g|don't don't go along to the yacht club though|clarify
+g|just go sort of go down towards the bottom of the page and draw a line towards the yacht club for about three centimetres underneath where the if you drew a line right across the bottom of the page it the line would end up under yacht club right do you see what i'm|instruct align
+f|are we doing that under so i want to go down|check check
+g|no don't don't go along to the yacht club though|reply_n clarify
 f|but i want to go straight down to there|check
-g|right|ready
-g|you go down the side of the camera shop right for about twelve centimetres and do a sort of a "u" shape for and the bottom of the "u" shape should be about three centimetres long|clarify
-g|right do you know what i'm meaning|align
+g|right you go down the side of the camera shop right for about twelve centimetres and do a sort of a "u" shape for and the bottom of the "u" shape should be about three centimetres long right do you know what i'm meaning|ready clarify align
 f|three centimetres long|check
 g|right|reply_y
 f|and what i'm doing it at yacht club i'm going i'm going|check
 g|no all right okay|ready
 f|i'm going i'm going right i'm going right towards the yacht club|check
-g|we'll we'll|instruct
-g|we'll forget about the yacht club just now|instruct
+g|we'll we'll we'll forget about the yacht club just now|instruct instruct
 f|no but but that's how far down i want to come|check
-g|yeah uh-huh uh-huh|reply_y
-g|down towards aye where the yacht club is right|clarify
-f|right|acknowledge
-f|right okay|acknowledge
+g|yeah uh-huh uh-huh down towards aye where the yacht club is right|reply_y clarify
+f|right right okay|acknowledge acknowledge
 g|but forget the yacht club 'cause you're nowhere near that you're at the other side of the page|instruct
-f|right i know that yeah|acknowledge
-f|right|acknowledge
+f|right i know that yeah right|acknowledge acknowledge
 g|eh so we're going down it's now you do|instruct
 f|so i take it i'm trying to miss a parked van that's at the bottom of the page here|check
-g|right uh-huh|acknowledge
-g|there's a parked van|explain
+g|right uh-huh there's a parked van|acknowledge explain
 f|right|acknowledge
-g|and you're sort of you're sort of|instruct
-g|you've worked it out already|explain
+g|and you're sort of you're sort of you've worked it out already|instruct explain
 f|i've got it|acknowledge
 g|eh we're doing a "u" shape round the parked van but it's a sort of three see if you imagine a "u" right the stems of the "u" the vertical bits are sort of three centimetres between|instruct
 f|see if i go right down if i go right down the bottom and turn right will i miss it|query_yn
 g|yes|reply_y
 f|right okay i'll|acknowledge
-g|aye|acknowledge
-g|right go right down to the bottom|instruct
+g|aye right go right down to the bottom|acknowledge instruct
 f|right|acknowledge
-g|turn right for three centimetres|instruct
-g|okay|align
+g|turn right for three centimetres okay|instruct align
 f|right|reply_y
-g|three or four centimetres|instruct
-g|okay|align
+g|three or four centimetres okay|instruct align
 f|right|acknowledge
-g|now you're heading back up sort of two|instruct
-g|have you got allotments|query_yn
-f|allotments|acknowledge
-f|yeah|reply_y
-g|right|acknowledge
-g|you're going up to the sort of left-hand top left-hand side of the allotments|instruct
+g|now you're heading back up sort of two have you got allotments|instruct query_yn
+f|allotments yeah|acknowledge reply_y
+g|right you're going up to the sort of left-hand top left-hand side of the allotments|acknowledge instruct
 f|right|acknowledge
-g|from the bottom|instruct
-g|right|align
-g|that should be a a straight line up the way|instruct
+g|from the bottom right that should be a a straight line up the way|instruct align instruct
 f|right okay|acknowledge
 g|okay|align
 f|i'll come along a wee bit just so i can make sure i miss that right okay|explain
-g|right okay|acknowledge
-g|so you've got a sort of "u" shape so far except it only|explain
+g|right okay so you've got a sort of "u" shape so far except it only|acknowledge explain
 f|right okay right|acknowledge
 g|right okay|acknowledge
-f|got it|acknowledge
-f|mm|acknowledge
+f|got it mm|acknowledge acknowledge
 g|you're up at the top left-hand side of the allotments okay|align
 f|fine|reply_y
 g|now see your yacht club|align
 f|yeah|reply_y
-g|eh go to the left-hand side of the yacht club and up about six centimetres|instruct
-g|right|align
-f|right|acknowledge
-f|so i've got to go underneath the flight museum|query_yn
-f|have you got that|query_yn
-g|no|reply_n
-g|i've not got a flight museum right|explain
-f|right|acknowledge
-f|so i've got|check
+g|eh go to the left-hand side of the yacht club and up about six centimetres right|instruct align
+f|right so i've got to go underneath the flight museum have you got that|acknowledge query_yn query_yn
+g|no i've not got a flight museum right|reply_n explain
+f|right so i've got|acknowledge check
 g|so you're you're going diagonally sort of north northeast it's not it's it's a sort of two o'clock almost three o'clock from the allotments over|instruct
 f|what side of the allotments am i at am i at the left-hand side of the|query_w
-g|you're at the top|clarify
-g|the left-hand side top|clarify
+g|you're at the top the left-hand side top|clarify clarify
 f|right okay|acknowledge
-g|right|align
-g|so you're going over the top of the allotments right now|clarify
+g|right so you're going over the top of the allotments right now|align clarify
 f|and down to the yacht club|check
 g|eh no no|reply_n
 f|down to|check
@@ -125,12 +86,9 @@ g|you're going up the way to the see if you draw a line up the left-hand side of
 f|oh right okay|acknowledge
 g|right|align
 f|so i'm going|check
-g|you're only going about i would say about two centimetres up from the allotments if you know what i mean|clarify
-g|do you see what i mean|align
+g|you're only going about i would say about two centimetres up from the allotments if you know what i mean do you see what i mean|clarify align
 f|two centimetres up from the allotments|check
-g|but you're|clarify
-g|up from the allotments but along about twelve centimetres|clarify
-g|okay|align
+g|but you're up from the allotments but along about twelve centimetres okay|clarify clarify align
 f|oh my god|acknowledge
 g|right are we starting|align
 f|can we do it in straight lines|query_yn
@@ -138,29 +96,23 @@ g|right aye right see|ready
 f|'cause straight|explain
 g|you're at the top left-hand side of the allotments are you there|align
 f|yeah right|reply_y
-g|right okay|acknowledge
-g|see if you drew a straight line just east for about twelve thirteen centimetres|instruct
-g|okay|align
+g|right okay see if you drew a straight line just east for about twelve thirteen centimetres okay|acknowledge instruct align
 f|east|check
 g|right|reply_y
 f|right okay right|acknowledge
 g|just go go up about a centimetre from the edge of that so you're sort of going diagonally up that way if you know what i mean from it's about twelve or thirteen centimetres|instruct
-f|i'm going right|explain
-f|right okay right|acknowledge
+f|i'm going right right okay right|explain acknowledge
 g|not directly east but up a wee bit gradually aiming up the way|instruct
-f|i've got that|explain
-f|yeah right got it got it right okay right|acknowledge
+f|i've got that yeah right got it got it right okay right|explain acknowledge
 g|okay|align
 f|i'm and i've just come to the left-hand side of the the yacht club|check
-g|right|ready
-g|yes|reply_y
+g|right yes|ready reply_y
 f|right okay|acknowledge
 g|but you're about thirteen fourteen centimetres up the page|align
 f|not as many as that|reply_n
 g|you're not oh|check
 f|i'm about six|reply_w
-g|oh no|acknowledge
-g|see your see your line from the top left-hand side of the allotments|align
+g|oh no see your see your line from the top left-hand side of the allotments|acknowledge align
 f|where is it in relation to like the west lake|query_w
 g|i've not got a west lake|reply_w
 f|have you not|check
@@ -168,175 +120,120 @@ g|no|reply_n
 f|disused monastery|query_yn
 g|i've got a disused monastery aye|reply_y
 f|where are we in relation to that|query_w
-g|right|ready
-g|in relation to that we're due south about ten ten twelve centimetres|clarify
+g|right in relation to that we're due south about ten ten twelve centimetres|ready clarify
 f|cannae be due south|explain
-g|have you got a disused|query_yn
-g|is is your is your|query_yn
+g|have you got a disused is is your is your|query_yn query_yn
 f|we're not due south|explain
 g|is your disused monastery in the centre of the page|query_yn
 f|yeah right in the centre|reply_y
-g|right hold on have you got a|query_yn
-g|right start from again start the beginning|instruct
+g|right hold on have you got a right start from again start the beginning|query_yn instruct
 f|where's your yacht club|query_w
 g|where's my yacht club|acknowledge
 f|far right|query_w
 g|away over at the bottom|reply_w
-f|right|acknowledge
-f|okay|acknowledge
+f|right okay|acknowledge acknowledge
 g|right at the bottom right-hand side|reply_w
 f|okay right|acknowledge
-g|we've got the same map haven't we|query_yn
-g|it's my fault i know what|explain
+g|we've got the same map haven't we it's my fault i know what|query_yn explain
 f|paul this is this is lousy|explain
 g|i know what you're meaning|explain
 f|right|ready
-g|right|ready
-g|can we go back to the allotments|align
+g|right can we go back to the allotments|ready align
 f|yeah right we're back at the allotments okay|acknowledge
-g|are you at the top|align
-g|you're at the you're just at the side of the allotments right|align
+g|are you at the top you're at the you're just at the side of the allotments right|align align
 f|right okay|acknowledge
 g|okay|align
 f|right|acknowledge
-g|right|acknowledge
-g|see the allotments|align
-g|just draw a line right over the top of that east right|instruct
+g|right see the allotments just draw a line right over the top of that east right|acknowledge align instruct
 f|right okay|acknowledge
 g|right over to stay about six centimetres from the edge of the page right east just go straight east|instruct
 f|right okay right|acknowledge
-g|forget about getting it up a wee bit|instruct
-g|right|align
+g|forget about getting it up a wee bit right|instruct align
 f|uh-huh okay|reply_y
-g|right|acknowledge
-g|so that's where we are we're about i would say we're if you you could we're about six centimetres from the edge of the page from the right-hand edge of the page and about six or seven centimetres up from the bottom as well|explain
-g|right|align
+g|right so that's where we are we're about i would say we're if you you could we're about six centimetres from the edge of the page from the right-hand edge of the page and about six or seven centimetres up from the bottom as well right|acknowledge explain align
 f|right okay|reply_y
 g|correct|align
 f|right fine right|reply_y
-g|right|acknowledge
-g|oh dear|ready
-g|draw draw a line from there|instruct
-g|you've got a disused monastery right|align
+g|right oh dear draw draw a line from there you've got a disused monastery right|acknowledge ready instruct align
 f|yeah|reply_y
 g|you're going from where you are just now just straight up and round the top of the monastery like a wee hill over the top of the monastery right going from the right-hand side of the monastery over to the left-hand side|instruct
-f|right okay|acknowledge
-f|right fine|acknowledge
+f|right okay right fine|acknowledge acknowledge
 g|okay|align
 f|got you|acknowledge
-g|now you're coming down and you're doing the exact same hump again except invert it and you're going up|instruct
-g|have you got an alpine garden|query_yn
+g|now you're coming down and you're doing the exact same hump again except invert it and you're going up have you got an alpine garden|instruct query_yn
 f|have i hell|reply_n
-g|you've not|check
-g|right|acknowledge
-f|no|reply_n
-f|oh yeah i do yeah i do|reply_y
+g|you've not right|check acknowledge
+f|no oh yeah i do yeah i do|reply_n reply_y
 g|you do have an alpine garden|check
 f|uh-huh|reply_y
-g|well you're doing a sort of hump you're just going up the side of the alpine garden|instruct
-g|right|align
-g|up the left-hand side sorry|instruct
+g|well you're doing a sort of hump you're just going up the side of the alpine garden right up the left-hand side sorry|instruct align instruct
 f|up the left-hand side of it|check
-g|the left-hand side of the alpine garden|clarify
-g|so you should have|instruct
+g|the left-hand side of the alpine garden so you should have|clarify instruct
 f|so i'm going across underneath the alpine garden|check
-g|right uh-huh|reply_y
-g|you're going across to underneath the left-hand side of the alpine garden then you're going straight up|clarify
-g|okay|align
+g|right uh-huh you're going across to underneath the left-hand side of the alpine garden then you're going straight up okay|reply_y clarify align
 f|okay|reply_y
-g|just to the top of just to the top left-hand bit of the alpine garden|clarify
-g|have you got a youth hostel|query_yn
-f|okay|acknowledge
-f|no|reply_n
-g|you've not|check
-g|right|acknowledge
-g|the youth hostel is about it's a couple of centimetres to the left eh to the right and a couple of centimetres above the alpine garden right so it's very|explain
+g|just to the top of just to the top left-hand bit of the alpine garden have you got a youth hostel|clarify query_yn
+f|okay no|acknowledge reply_n
+g|you've not right the youth hostel is about it's a couple of centimetres to the left eh to the right and a couple of centimetres above the alpine garden right so it's very|check acknowledge explain
 f|couple of centimetres to the right and a couple of centimetres above|check
 g|above right|reply_y
 f|right|acknowledge
-g|so it's sort of|clarify
-g|now you're going eh i would say about you're at the left-hand side of the alpine garden go across about two centimetres right just east|instruct
+g|so it's sort of now you're going eh i would say about you're at the left-hand side of the alpine garden go across about two centimetres right just east|clarify instruct
 f|the left-hand|check
-g|right|acknowledge
-g|you're you're at the top left of the alpine garden|align
+g|right you're you're at the top left of the alpine garden|acknowledge align
 f|right okay i'm here right|reply_y
 g|or have you drawn another line|align
 f|i've got it no i'm at the top|reply_w
 g|right|acknowledge
 f|top left of the alpine garden|reply_w
-g|top left of the alpine garden|acknowledge
-g|draw a line about two centimetres right but just directly across|instruct
-g|okay|align
+g|top left of the alpine garden draw a line about two centimetres right but just directly across okay|acknowledge instruct align
 f|so i'm coming into about the middle of the alpine garden|check
-g|eh uh-huh|reply_y
-g|over to the|clarify
-g|you see the wee two two wee bricks at the edge of the alpine garden|align
-g|there's two wee|explain
-g|two i don't know what they are is it bricks or is it grass right whatever it is och well it's two centimetres along anyway yes|explain
+g|eh uh-huh over to the you see the wee two two wee bricks at the edge of the alpine garden there's two wee two i don't know what they are is it bricks or is it grass right whatever it is och well it's two centimetres along anyway yes|reply_y clarify align explain explain
 f|to the middle of the alpine garden|check
-g|aye|reply_y
-g|just a wee bit to the right of middle|clarify
+g|aye just a wee bit to the right of middle|reply_y clarify
 f|right|acknowledge
 g|sort of two thirds of the way along|clarify
 f|right got it|acknowledge
 g|eh right|align
 f|got you|reply_y
-g|and then you're going up about four centimetres directly north right about four centimetres|instruct
-g|okay|align
-g|so you should be from the you should be round about above the letter "e" or "n" of garden eh about six centimetres or something is that right|align
+g|and then you're going up about four centimetres directly north right about four centimetres okay so you should be from the you should be round about above the letter "e" or "n" of garden eh about six centimetres or something is that right|instruct align align
 f|yeah right okay fine yeah|reply_y
 g|okay|acknowledge
 f|we're not we're not bad we're a wee bit|explain
 g|eh a wee bit|acknowledge
 f|eh a wee bit a wee bit inside it|explain
-g|no it's it's my fault|explain
-g|eh right so you're up there eh go right for about three centimetres|instruct
-f|right|acknowledge
-f|to underneath the parked van|check
-f|under the parked|query_yn
+g|no it's it's my fault eh right so you're up there eh go right for about three centimetres|explain instruct
+f|right to underneath the parked van under the parked|acknowledge check query_yn
 g|underneath the uh-huh underneath the parked van|reply_y
 f|what what letter am i under|query_w
-g|go go right|instruct
-g|you should be under the letter "d"|reply_w
+g|go go right you should be under the letter "d"|instruct reply_w
 f|right okay|acknowledge
 g|right under the letter "d"|reply_w
-f|right|acknowledge
-f|i'm under "d"|explain
-g|right|acknowledge
-g|have you got a telephone box|query_yn
-f|ehm yeah|reply_y
-f|but it's away down on the right-hand side|explain
-g|right okay|acknowledge
-g|you're doing a massive diagonal sort of south east|instruct
-g|right|align
+f|right i'm under "d"|acknowledge explain
+g|right have you got a telephone box|acknowledge query_yn
+f|ehm yeah but it's away down on the right-hand side|reply_y explain
+g|right okay you're doing a massive diagonal sort of south east right|acknowledge instruct align
 f|okay|reply_y
 g|right to the bottom right to the letter "t" from where you are|instruct
 f|to the letter "t"|check
 g|to the letter "t" of telephone box|reply_y
 f|okay|acknowledge
-g|right|align
-g|and then you're just going right drawing a line right underneath as if you're underlining telephone box and back up the right-hand side up the way now i'll tell you about that in a minute|instruct
+g|right and then you're just going right drawing a line right underneath as if you're underlining telephone box and back up the right-hand side up the way now i'll tell you about that in a minute|align instruct
 f|up right|acknowledge
-g|right so you're going up|instruct
-g|have you got a thatched thatched mud hut|query_yn
+g|right so you're going up have you got a thatched thatched mud hut|instruct query_yn
 f|i've got no thatched mud huts anywhere|reply_n
-g|you've not|acknowledge
-g|there's a thatched mud hut about|explain
+g|you've not there's a thatched mud hut about|acknowledge explain
 f|apart from at home|explain
 g|you've got a mud hut|explain
 f|right|acknowledge
 g|you've got a mud hut about six centimetres above the telephone box directly above it|explain
 f|directly above it okay|acknowledge
-g|right|align
-g|eh so what you're doing is sort of drawing|instruct
+g|right eh so what you're doing is sort of drawing|align instruct
 f|so i'm missing it then|check
-g|if you if you can imagine an "s" round the thatched mud hut and the telephone box right|instruct
-g|if if oh forget|instruct
-f|oh wow|acknowledge
-f|oh groovy|acknowledge
+g|if you if you can imagine an "s" round the thatched mud hut and the telephone box right if if oh forget|instruct instruct
+f|oh wow oh groovy|acknowledge acknowledge
 g|you've not got the mud huts|query_yn
-f|i've got it yeah|reply_y
-f|i've got a level crossing|explain
+f|i've got it yeah i've got a level crossing|reply_y explain
 g|right|ready
 f|have you got a a level crossing|query_yn
 g|i have not no i've not|reply_n
@@ -345,72 +242,46 @@ g|right hold on where are you just now|query_w
 f|right|acknowledge
 g|you're at the bottom of "x" oh right are you up a bit|query_w
 f|i i've just come up a wee bit|reply_w
-g|you've come up a wee bit|acknowledge
-g|well i would go up from the "x" right you're going up about three centimetres|instruct
-g|okay|align
+g|you've come up a wee bit well i would go up from the "x" right you're going up about three centimetres okay|acknowledge instruct align
 f|to the top of the telephone box|check
 g|to the top of the telephone box right|reply_y
 f|right fine|reply_y
 g|and then you're sort of going diagonally across about eh i would say exactly sort of what's it north i don't know what's the one northwest|instruct
 f|northwest uh-huh|acknowledge
 g|if you go exactly northwest for about three centimetres four centimetres four centimetres right|instruct
-f|yeah|acknowledge
-f|right|acknowledge
-g|exactly northwest for four centimetres you should end up above the letter round about "t" or "e" of telephone box about eight centimetres above it|instruct
-g|is that right see where i am|align
+f|yeah right|acknowledge acknowledge
+g|exactly northwest for four centimetres you should end up above the letter round about "t" or "e" of telephone box about eight centimetres above it is that right see where i am|instruct align
 f|okay i've got it yeah|reply_y
-g|"t" or "e"|align
-g|then go|instruct
-g|have you got the east lake up at the top|query_yn
+g|"t" or "e" then go have you got the east lake up at the top|align instruct query_yn
 f|i've got the east lake yeah|reply_y
-g|you have got the east lake|check
-g|have you got a finish|query_yn
-g|you haven't got a|check
+g|you have got the east lake have you got a finish you haven't got a|check query_yn check
 f|no i don't no|reply_n
-g|right okay|acknowledge
-g|eh where are you just now|query_w
-g|you're at oh you're beside my thatched mud hut|reply_w
-g|eh you're going up just go directly north to the side of the east lake under the letter "k" "e" you know "k" or "e" in east lake|instruct
-g|just to the edge of the east lake right|instruct
+g|right okay eh where are you just now you're at oh you're beside my thatched mud hut eh you're going up just go directly north to the side of the east lake under the letter "k" "e" you know "k" or "e" in east lake just to the edge of the east lake right|acknowledge query_w reply_w instruct instruct
 f|am i doing an "s" round telephone|check
 g|an "f"|check
-f|an "s"|clarify
-f|i've only got half an "s"|explain
-g|an "s"|acknowledge
-g|uh-huh|reply_y
-g|yeah aye|acknowledge
-g|you're not going the other you're aye|instruct
-f|right|acknowledge
-f|so i'm going up towards "k" or "e"|check
-g|you're only doing|instruct
-g|"k" or "e"|reply_y
-g|just directly north to "k" or "e"|clarify
+f|an "s" i've only got half an "s"|clarify explain
+g|an "s" uh-huh yeah aye you're not going the other you're aye|acknowledge reply_y acknowledge instruct
+f|right so i'm going up towards "k" or "e"|acknowledge check
+g|you're only doing "k" or "e" just directly north to "k" or "e"|instruct reply_y clarify
 f|right okay i can right|acknowledge
 g|and you're about half a centimetre away from the edge of the east lake the bottom edge of it|clarify
 f|right|acknowledge
 g|okay|align
 f|right okay|reply_y
-g|and then i would say you're about three four centimetres|instruct
-g|you're following the edge of the east lake right up for about a centimetre beyond the left-hand edge of it|instruct
-g|see where it gets pointy|align
+g|and then i would say you're about three four centimetres you're following the edge of the east lake right up for about a centimetre beyond the left-hand edge of it see where it gets pointy|instruct instruct align
 f|so i'm going up i'm going up the so i'm going over to the left here|check
-g|yes|reply_y
-g|you're going over to the over to the left over to the corner|clarify
+g|yes you're going over to the over to the left over to the corner|reply_y clarify
 f|and over to the the|check
-g|and about a centimetre beyond the corner keeping the same contour as the lake same edge of it|instruct
-g|right|align
+g|and about a centimetre beyond the corner keeping the same contour as the lake same edge of it right|instruct align
 f|okay|reply_y
 g|and that's the finish that's it about a centimetre beyond the edge of that|instruct
 f|right|acknowledge
 g|sorry about the mess here in your diagram|explain
-f|we're there|acknowledge
-f|so the parked van didn't come in|query_yn
+f|we're there so the parked van didn't come in|acknowledge query_yn
 g|eh the parked van was nothing to do with it|reply_w
 f|and the picket fence|query_yn
 g|eh the picket fence no that was another red herring|reply_w
 f|and the west lake|query_yn
-g|eh the west i've not got a west lake|reply_w
-g|your yacht club should be absolutely|explain
+g|eh the west i've not got a west lake your yacht club should be absolutely|reply_w explain
 f|the yacht club's away out of it as well yeah okay|explain
-g|right that's okay that's good|acknowledge
-g|i think we're roughly in the same area|explain
+g|right that's okay that's good i think we're roughly in the same area|acknowledge explain
