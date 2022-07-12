@@ -109,7 +109,7 @@ f|well which which|ready query_w
 g|right okay you see my boat house is to the left of the concealed hideout|ready explain
 f|well mine's to the right and below it|ready explain
 g|right okay sorry that's the wrong one you don't wanna go anywhere near that one right|ready explain instruct align
-f|right so will i do a "u"-turn|acknowledge query_yn
+f|right so will i do a u-turn|acknowledge query_yn
 g|uh-huh just just scrub that bit out then and go back up to the concealed hideout|reply_y instruct
 f|okay|acknowledge
 g|right so so we'll say we're at the bottom right-hand corner of the concealed hideout|ready align
@@ -151,7 +151,7 @@ f|ah you still i still don't know where your boat house is|reply_w
 g|uh-huh but right have oh god right where are you now again|acknowledge ready query_w
 f|i'm right crane bay there's two sort of little inlets in it at the top of it|align
 g|mmhmm|reply_y
-f|above bay and above the "c" of crane right|align
+f|above bay and above the c of crane right|align
 g|mmhmm|reply_y
 f|see where i mean|align
 g|right|reply_y
@@ -164,7 +164,7 @@ g|to the left|reply_w
 f|right|acknowledge
 g|straight down and then left|reply_w
 f|mmhmm mmhmm|acknowledge acknowledge
-g|okay so you're you're sort of on on the corner on the bit that juts out now above the "c" of crane|ready align
+g|okay so you're you're sort of on on the corner on the bit that juts out now above the c of crane|ready align
 f|right|reply_y
 g|is that right|align
 f|uh-huh|reply_y

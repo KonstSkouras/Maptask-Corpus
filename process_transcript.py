@@ -39,6 +39,9 @@ def process_transcript(transcript, moves_g, moves_f, excluded_chars, excluded_ta
         # Get the utterance text
         text = transcript[line].split("\t")[1]
 
+        # Eclude the " char that may create probles in training.
+        if(any(char is '"' for char in text)):
+            text = text.replace('"', '')
         # Check just in case excluded chars are in text
         if any(char in excluded_chars for char in text):
             # Tokenise text and remove incomplete words i.e. 'th--'

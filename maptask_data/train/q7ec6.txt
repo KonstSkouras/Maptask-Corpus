@@ -30,7 +30,7 @@ g|at the bottom of that line right|instruct align
 f|uh-huh|reply_y
 g|across from that i finished that line there|instruct
 f|got it|acknowledge
-g|right and now curve round ehm see where to the bottom of the "c" of crest right you know where the "c" is|acknowledge ready instruct align
+g|right and now curve round ehm see where to the bottom of the c of crest right you know where the c is|acknowledge ready instruct align
 f|yeah|reply_y
 g|well maybe go two inches to the west of that|instruct
 f|mmhmm|acknowledge
@@ -52,7 +52,7 @@ g|down|clarify
 f|just a shallow curve|check
 g|uh-huh to where i told you the to two inches to the|reply_y clarify
 f|yeah|acknowledge
-g|west of "c" to that point|clarify
+g|west of c to that point|clarify
 f|right just shallow wee curve|acknowledge check
 g|uh-huh right a positive gradient|reply_y clarify
 f|right|acknowledge
@@ -104,7 +104,7 @@ g|right|align
 f|i can't do that it's the banana tree|explain
 g|right okay you'll have to go round them then now go up to where go slightly curving|acknowledge instruct instruct instruct
 f|mmhmm|acknowledge
-g|ehm until you're at the "f" not to the "f" but on a level with the "f"|instruct
+g|ehm until you're at the f not to the f but on a level with the f|instruct
 f|how far west of it|query_w
 g|and end up on the same sort of the same vertical|instruct
 f|mmhmm as the tree trunk|acknowledge explain
@@ -154,7 +154,7 @@ g|for about an inch and a half so you're still above the start point|instruct al
 f|yeah|reply_y
 g|right eh you have an old temple|acknowledge query_yn
 f|yeah|reply_y
-g|now see where the "m" of|align
+g|now see where the m of|align
 f|yeah|reply_y
 g|stream is|align
 f|no i've no got stream|reply_n explain
@@ -162,10 +162,10 @@ g|oh sorry right|acknowledge
 f|i'll need be on the mountain somewhere|explain
 g|okay right on this level|acknowledge ready instruct
 f|right|acknowledge
-g|draw a line straight over 'til you're above the "s" of start|instruct
-f|right due east above "s" in start|acknowledge
+g|draw a line straight over 'til you're above the s of start|instruct
+f|right due east above s in start|acknowledge
 g|right|acknowledge
-f|i'm about a half an inch above the "s"|explain
+f|i'm about a half an inch above the s|explain
 g|so you'll be about right and from there draw in a curve to the the base see the base bit of the old temple|instruct acknowledge instruct align
 f|yeah|reply_y
 g|looks as if it's brick or something|align
@@ -187,7 +187,7 @@ f|yeah|reply_y
 g|well just draw a wee curve joining those two points|clarify
 f|what kind of curve though 'cause i mean i'm walking downwards|query_w explain
 g|well as if|reply_w
-f|an "n" curve or a "u" curve know what i mean|query_w align
+f|an n curve or a u curve know what i mean|query_w align
 g|you'll see right say imagine a clock face|clarify
 f|right|acknowledge
 g|between three o'clock and six o'clock|clarify
@@ -200,7 +200,7 @@ g|from six 'til three|clarify
 f|right i've got it right i'm right at the very side of the old temple and right on the side of it|acknowledge ready check check
 g|uh-huh right now go straight up straight north until about an inch above the top of the temple that'll be you near the mountain|acknowledge acknowledge instruct align
 f|got you yeah i'm a quarter of the way up the mountain halfway up the mountain nearly|acknowledge reply_y explain
-g|right now don't draw a line but say go in a an inch and a half how far are you how far are you from the "k" of abandoned truck|acknowledge ready instruct align query_w
+g|right now don't draw a line but say go in a an inch and a half how far are you how far are you from the k of abandoned truck|acknowledge ready instruct align query_w
 f|i'm about right i'm on a level with that|reply_w
 g|uh-huh|acknowledge
 f|and i'm about three inches to the right of it|reply_w
@@ -213,9 +213,9 @@ f|remote village you got a remote village|query_yn
 g|not that high up|clarify
 f|not that well i'm about an inch below|acknowledge explain
 g|well|ready
-f|the "v" in that|explain
+f|the v in that|explain
 g|no maybe take it down another inch then|clarify
-f|all right so about so that'll be me about two inches below the "v" in village|acknowledge check
+f|all right so about so that'll be me about two inches below the v in village|acknowledge check
 g|uh-huh|reply_y
 f|right|acknowledge
 g|and about an inch above the top of the truck at the most|clarify
@@ -228,17 +228,17 @@ g|now from where you are just now on the line connect those two points|instruct
 f|where i am just now|check
 g|to the right you're just an inch above the old temple|instruct ready align
 f|yeah|reply_y
-g|go to that point two inches below the "v" of village|clarify
+g|go to that point two inches below the v of village|clarify
 f|mmhmm straight|acknowledge check
-g|uh-huh and now say a three quarters of a centimetre below the "k" of truck|reply_y ready align
+g|uh-huh and now say a three quarters of a centimetre below the k of truck|reply_y ready align
 f|yeah|reply_y
 g|now go down to there three quarters of a centimetre uh-huh|reply_y
 f|so it's me going round the old mountain|check
-g|directly below the "k"|clarify
+g|directly below the k|clarify
 f|right|acknowledge
 g|now go how far you'll be about three quarters of a centimetre below the word abandoned truck the words|align
 f|yeah|reply_y
-g|go straight across 'til you're under the "a" by the same distance|instruct
+g|go straight across 'til you're under the a by the same distance|instruct
 f|yeah|acknowledge
 g|now do you have baboons|query_yn
 f|no|reply_n
@@ -252,28 +252,28 @@ g|right in fact to be safe make it half an inch to get round these baboons now h
 f|nope|reply_n
 g|right from here go up to go straight up to avoid the baboons|acknowledge ready instruct
 f|straight up how far|acknowledge query_w
-g|ehm to about the where you started off to make that a "u" shape that bit of path you know how you've come down and along|ready reply_w align
+g|ehm to about the where you started off to make that a u shape that bit of path you know how you've come down and along|ready reply_w align
 f|uh-huh well i've come down i've went above slate mountain down by the abandoned truck|reply_y explain
-g|uh-huh right from the "a" of abandoned truck|acknowledge ready align
+g|uh-huh right from the a of abandoned truck|acknowledge ready align
 f|aye|acknowledge
 g|you've went down|align
 f|uh-huh|reply_y
 g|and then along|align
 f|yeah|reply_y
-g|now go back up to about that level to make it a "u" shape|clarify
+g|now go back up to about that level to make it a u shape|clarify
 f|right so if there's just a wee totty bit of monkeys or baboons or whatever you call them|acknowledge check
 g|in that space there|clarify
 f|so you want like nine o'clock 'til twelve o'clock|check
 g|it's maybe about a couple of inches wide make sure you're ehm|clarify explain
 f|i go north and then across a bit eh|check
-g|make sure you're still at least two inches from the gap that down that "u" shape will be at least two inches at all points right so just go up to make that a "u" and you're about half an inch from the side of the paper|clarify align clarify align
+g|make sure you're still at least two inches from the gap that down that u shape will be at least two inches at all points right so just go up to make that a u and you're about half an inch from the side of the paper|clarify align clarify align
 f|yeah|reply_y
 g|uh-huh|acknowledge
-f|so i want to go where am i ending up beside the "a" again|check
-g|well just go straight up until you're on the level of where you at "a" below "a" three quarters of a centimetre below "a"|clarify
+f|so i want to go where am i ending up beside the a again|check
+g|well just go straight up until you're on the level of where you at a below a three quarters of a centimetre below a|clarify
 f|right|acknowledge
 g|right from there draw a line straight to the bottom left-hand starting point of white mountain maybe just to about half a centimetre to the the left of it|ready instruct
-f|right that's me level with the "a" and then up to the bottom left-hand bit of white mountain|acknowledge check
+f|right that's me level with the a and then up to the bottom left-hand bit of white mountain|acknowledge check
 g|uh-huh|reply_y
 f|how am i far from it|query_w
 g|where about|reply_w
@@ -324,7 +324,7 @@ g|about an inch out from there put a dot and join those two points and the|instr
 f|right immediately below that i've got a poisoned scream stream about two centimetres below it|acknowledge explain
 g|two centimetres the poisoned stream in this one is a bit further below that see i've got two poisoned streams on this map|acknowledge explain
 f|mm|acknowledge
-g|now from there draw a slightly sloping curve again to below the "d" of pyramid right just slope it round the natural way it would go|ready instruct instruct
+g|now from there draw a slightly sloping curve again to below the d of pyramid right just slope it round the natural way it would go|ready instruct instruct
 f|mmhmm|acknowledge
 g|right curve it round|align instruct
 f|curve it round with the like that or like that|query_w
@@ -332,8 +332,8 @@ g|to below the right where you are just now remember you do drew the test tube e
 f|is it an arc curve uh-huh|query_yn reply_y
 g|it would be like the bottom half of that test tube|reply_w
 f|so it's like that|check
-g|uh-huh to below the "d" right do you have a cobbled street|reply_y clarify ready query_yn
-f|got that's about a no it's about a centimetre below the "d"|explain reply_n explain
+g|uh-huh to below the d right do you have a cobbled street|reply_y clarify ready query_yn
+f|got that's about a no it's about a centimetre below the d|explain reply_n explain
 g|right from there go carry on straight across until you're below the far left-hand base point of the pyramid|acknowledge instruct
 f|yeah|acknowledge
 g|right|acknowledge
@@ -358,9 +358,9 @@ g|so just draw|clarify
 f|dead on the level of it uh-huh|check
 g|uh-huh|reply_y
 f|right got you|acknowledge acknowledge
-g|now from there draw another curve until you're below the "r" of about a centimetre below the "r" of remote|ready instruct
+g|now from there draw another curve until you're below the r of about a centimetre below the r of remote|ready instruct
 f|uh-huh|acknowledge
-g|right and then go straight across to below the "e" of village|align instruct
+g|right and then go straight across to below the e of village|align instruct
 f|uh-huh|acknowledge
 g|and then go about an inch further than that on the same level and that's your finishing point|instruct
 f|so that'll be just about below the pyramid the extreme right-hand edge|check

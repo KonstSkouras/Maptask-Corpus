@@ -1,16 +1,16 @@
 g|right ehm the diamond mine the the diamond mine is like just eh to the the the right of you there|ready explain
 f|right i've got the diamond mine i've got the start and the diamond mine|acknowledge explain
-g|right now just go down beside the left-hand side of the diamond mine and eh just to below the words the first "d" there|acknowledge instruct
+g|right now just go down beside the left-hand side of the diamond mine and eh just to below the words the first d there|acknowledge instruct
 f|right|acknowledge
-g|then draw a line ehm a kind of go from there eh to just below the "s" of springboks|instruct
+g|then draw a line ehm a kind of go from there eh to just below the s of springboks|instruct
 f|don't have springboks|explain
-g|you don't have that's right ehm okay right in that case just draw a horizontal line to just below the eh to the the left of the "h" of highest viewpoint|acknowledge ready instruct
+g|you don't have that's right ehm okay right in that case just draw a horizontal line to just below the eh to the the left of the h of highest viewpoint|acknowledge ready instruct
 f|horizontal|check
 g|yes horizontal right|reply_y
 f|hold on right|acknowledge
 g|now we're going to go round eh highest viewpoint okay so eh|instruct align instruct
 f|a curve or|check
-g|it well we can do it in a well just go eh vertically up to the "h"|clarify
+g|it well we can do it in a well just go eh vertically up to the h|clarify
 f|right|acknowledge
 g|then make a curve round to the eh like a semicircle right|instruct align
 f|okay|acknowledge

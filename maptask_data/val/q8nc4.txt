@@ -64,15 +64,15 @@ g|then have you got a telephone box|query_yn
 f|nope|reply_n
 g|no ehm right down and right diagonally|acknowledge ready instruct
 f|have you got the level crossing oh i have got the telephone box|query_yn explain
-g|phone box oh ehm go from where you are to directly 'til you're below the "t" of the telephone box|acknowledge instruct
+g|phone box oh ehm go from where you are to directly 'til you're below the t of the telephone box|acknowledge instruct
 f|mmhmm right have you not got the level crossing|acknowledge acknowledge query_yn
 g|nope|reply_n
 f|well anyway so|ready
 g|i've not got that|reply_n
 f|i go from|check
 g|go from|clarify
-f|below the parked van straight down to the "t" of the|check
-g|below the "t" of the telephone box|clarify
+f|below the parked van straight down to the t of the|check
+g|below the t of the telephone box|clarify
 f|right okay|acknowledge acknowledge
 g|okay then along below the words telephone box|ready instruct
 f|uh-huh|acknowledge

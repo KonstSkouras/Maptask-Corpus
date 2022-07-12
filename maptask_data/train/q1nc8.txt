@@ -20,7 +20,7 @@ g|no it's actually above just above|reply_n instruct
 f|so i'm going above the collapsed shelter|check
 g|uh-huh|reply_y
 f|that's more than two and a half inches surely have you got a waterhole next to the collapsed shelter|check query_yn
-g|no right and you're going above the collapsed shelter and down ehm just right next to the "r" of the collapsed shelter|reply_n ready instruct
+g|no right and you're going above the collapsed shelter and down ehm just right next to the r of the collapsed shelter|reply_n ready instruct
 f|mmhmm okay|acknowledge
 g|right|align
 f|mmhmm|reply_y

@@ -58,7 +58,7 @@ g|a ghost town so you're going to that's not on my map you've got to avoid that 
 f|okay|acknowledge
 g|so go south down past the walled city underneath your ghost town and then slightly up sort of northeast direction between the flat rocks and the stone creek|instruct
 f|between well it'd be better if i between the walled city and the ghost town no to go underneath it above it or have you got something else there|acknowledge ready explain query_yn
-g|i've not got anything between the carved wooden pole and the walled city but the map shows a curve a "c"-shaped curve|reply_n explain
+g|i've not got anything between the carved wooden pole and the walled city but the map shows a curve a c-shaped curve|reply_n explain
 f|right score that out|acknowledge explain
 g|right|align
 f|right|reply_y

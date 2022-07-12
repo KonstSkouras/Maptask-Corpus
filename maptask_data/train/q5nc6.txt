@@ -2,13 +2,13 @@ g|okay you're starting at the ehm left-hand side of the cliffs|ready instruct in
 f|yeah i've got a start point|acknowledge explain
 g|right got start point|check
 f|mmhmm|reply_y
-g|right oh you're going to do a backward "s" okay you're going to do a backward "s" you|acknowledge instruct align instruct
+g|right oh you're going to do a backward s okay you're going to do a backward s you|acknowledge instruct align instruct
 f|right|acknowledge
 g|right you're going to go down slightly for about a centimetre|ready instruct
-f|is this before or after the backward "s"|query_w
+f|is this before or after the backward s|query_w
 g|this is before it|reply_w
 f|right|acknowledge
-g|i'm explaining how to do the backward "s"|explain
+g|i'm explaining how to do the backward s|explain
 f|right go downwards for about a centimetre|ready check check
 g|for a centimetre right you're going to ehm follow ehm a line it's diagonal it's like a five o'clock line do you know what i'm talking about|reply_y instruct instruct align
 f|yeah|reply_y

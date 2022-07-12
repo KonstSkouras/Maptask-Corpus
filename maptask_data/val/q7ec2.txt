@@ -1,4 +1,4 @@
-g|right greg you've got the start with the "x"|ready align
+g|right greg you've got the start with the x|ready align
 f|top left-hand corner|check
 g|yeah|reply_y
 f|yes|reply_y
@@ -43,10 +43,10 @@ f|mmhmm|acknowledge
 g|and you want to come across you want to come down about two inches again just below where it says eh seven beeches|instruct
 f|right|acknowledge
 g|well that'll be about a centimetre below the beech trees|explain
-f|mmhmm so finish up next to the "s" of seven|acknowledge check
+f|mmhmm so finish up next to the s of seven|acknowledge check
 g|basically yes|reply_y
 f|okay|acknowledge
-g|right on my drawing i've got a chapel that's about an inch long on the on the map it starts directly below the "s" and eh we've got to go round this in sort of a circular direction you're going to be moving east and then back and finishing about under the second beech tree the right-hand beech tree so you want to what you want to do is you're going down about two inches again but you've got a eh a net move east of about an inch so from the "s" you've got about two inches down and one inch two inches south and about one inch east and you want to come round eh about about one inch one inch east and one inch south and do a curve|explain instruct
+g|right on my drawing i've got a chapel that's about an inch long on the on the map it starts directly below the s and eh we've got to go round this in sort of a circular direction you're going to be moving east and then back and finishing about under the second beech tree the right-hand beech tree so you want to what you want to do is you're going down about two inches again but you've got a eh a net move east of about an inch so from the s you've got about two inches down and one inch two inches south and about one inch east and you want to come round eh about about one inch one inch east and one inch south and do a curve|explain instruct
 f|curve that one|check
 g|right curve it and then you want to go in a southwest of there like direction until you meet the eh the what i what i i initially said okay this is complicated|reply_y instruct align explain
 f|how about|query_w
@@ -65,7 +65,7 @@ f|to finish under the second beech tree i would have to go southeast if i only m
 g|well make it one and a half inch sorry one and a half inch east|clarify
 f|what's one and a half|query_w
 g|you what you want to do is you want to clear the eh first movement round the chapel will have to clear the beech trees and then come down again to under the first ts on the right-hand beech tree|clarify
-f|right i'll try and describe it to you what i think i've come down from to the "s" i'm at the "s" just now|ready explain explain
+f|right i'll try and describe it to you what i think i've come down from to the s i'm at the s just now|ready explain explain
 g|right|acknowledge
 f|of seven i'll continue down but curving round to my right|explain
 g|yeah|acknowledge
@@ -96,19 +96,19 @@ g|left-hand side whitewashed eh well we're going we're going to go round the rig
 f|right|acknowledge
 g|okay so you want to come do you have crane bay|align instruct query_yn
 f|yes|reply_y
-g|well what my map does it does this test tube thing round the reclaimed fields then it heads south towards the you've got a lower right-hand tip and then you've got two tips off crane bay on the right-hand side which are just about on the same level can you see that just above the "b" of crane bay so i want to come round the reclaimed fields and you're heading west and then you head south and you follow the line of crane bay yeah|instruct explain align instruct align
+g|well what my map does it does this test tube thing round the reclaimed fields then it heads south towards the you've got a lower right-hand tip and then you've got two tips off crane bay on the right-hand side which are just about on the same level can you see that just above the b of crane bay so i want to come round the reclaimed fields and you're heading west and then you head south and you follow the line of crane bay yeah|instruct explain align instruct align
 f|right okay so will i move down to nearer reclaimed fields|acknowledge query_yn
 g|move down to nearer reclaimed fields go round it|reply_y instruct
 f|right right under what letter will i finish the test tube shape|acknowledge query_w
-g|eh just past the "r" just past the the drawing of the reclaimed fields|reply_w
+g|eh just past the r just past the the drawing of the reclaimed fields|reply_w
 f|that that would be me right over at the whitewashed cottage then next to that|explain
 g|just to the left-hand side well don't go that far then come about an inch before it|reply_w instruct
-f|right and it's that'll be about under the the "c" of reclaimed|acknowledge check
+f|right and it's that'll be about under the the c of reclaimed|acknowledge check
 g|okay that'll do fine yes|reply_y
 f|right|acknowledge
 g|have you got that|align
 f|uh-huh|reply_y
-g|well just below that south of that there's a point just above the "b" of crane bay|explain
+g|well just below that south of that there's a point just above the b of crane bay|explain
 f|mmhmm like a wee sort of an a wee bay bit in it|acknowledge check check
 g|a wee point there's a a smiley face and then there's a|clarify explain
 f|there's no smiley face|reply_n
@@ -189,7 +189,7 @@ f|right|acknowledge
 g|and then you want to go up to the the mid portion of the chestnut tree to finish just below where the the eh the leaf-line starts|instruct
 f|over at the tree itself|query_yn
 g|well you're about half an inch away from it|reply_w
-f|so i'm here just now above the "c" of chestnut|ready explain
+f|so i'm here just now above the c of chestnut|ready explain
 g|yeah you want to go up like about|acknowledge clarify
 f|due north|check
 g|due north about half just where the wee bump in the tree is|clarify

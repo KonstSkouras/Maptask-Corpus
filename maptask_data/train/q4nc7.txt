@@ -12,17 +12,17 @@ g|no|reply_n
 f|oh right have you got the rope bridge|acknowledge query_yn
 g|uh-huh|reply_y
 f|right where do i go across to|acknowledge query_w
-g|right you're just heading down to the left diagonally down to the bottom of the extinct volcano 'til you're about a centimetre left of the "e" in extinct volcano|clarify
+g|right you're just heading down to the left diagonally down to the bottom of the extinct volcano 'til you're about a centimetre left of the e in extinct volcano|clarify
 f|ah|acknowledge
-g|okay see your "e"|ready align
+g|okay see your e|ready align
 f|mmhmm|reply_y
 g|right go along about a centimetre and draw a dot|ready clarify
 f|to the left|check
 g|uh-huh to the left|reply_y
-f|above the "e"|check
+f|above the e|check
 g|no|reply_n
 f|oh right|acknowledge
-g|just across from the "e"|clarify
+g|just across from the e|clarify
 f|okay|acknowledge
 g|okay|align
 f|just a centimetre and draw a dot|check
@@ -39,7 +39,7 @@ f|to where|query_w
 g|to that dot that i've just given you about a centimetre from the extinct volcano|reply_w
 f|right oh right|acknowledge acknowledge
 g|okay|align
-f|what to the left of the "e"|check
+f|what to the left of the e|check
 g|uh-huh|reply_y
 f|oh right okay|acknowledge
 g|so you're going down that way and right keep on going down 'til you're about three centimetres from the bottom of the page|instruct
@@ -104,9 +104,9 @@ g|and stop|instruct
 f|okay|acknowledge
 g|right and then you're going to keep on going right but you're going to go straight for about six centimetres have you got a collapsed shelter|ready instruct query_yn
 f|uh-huh|reply_y
-g|right just under the "o" of the collapsed shelter you're going straight right|ready instruct
+g|right just under the o of the collapsed shelter you're going straight right|ready instruct
 f|oh right so oh right|acknowledge
-g|until you're underneath the "o" of the collapsed shelter you're about two centimetres below the "o" of the collapsed shelter actually|instruct
+g|until you're underneath the o of the collapsed shelter you're about two centimetres below the o of the collapsed shelter actually|instruct
 f|is there not a squiggly line there 'cause i've got a machete in between the rope bridge and the collapsed shelter i couldn't go straight across|check explain
 g|uh-huh that's why you're going down|reply_y clarify
 f|oh right okay|acknowledge
@@ -120,7 +120,7 @@ g|and instead of going straight across to the collapsed shelter|clarify
 f|uh-huh|acknowledge
 g|i'm taking you down right and then across|clarify
 f|okay|acknowledge
-g|okay i'm taking you down a wee bit down a wee "u" shape|clarify
+g|okay i'm taking you down a wee bit down a wee u shape|clarify
 f|is it not a couple of inches|check
 g|aye it's a couple of inches across to the collapsed shelter but you're only going down about a couple of er you're only going down about an inch|reply_y clarify
 f|i'm going down more than that|explain
@@ -131,24 +131,24 @@ f|okay|align
 g|then you've gone along right|align
 f|uh-huh|reply_y
 g|until you're about|align
-f|to the "o" of the collapsed shelter|reply_w
-g|uh-huh but you're down below the "o"|acknowledge align
+f|to the o of the collapsed shelter|reply_w
+g|uh-huh but you're down below the o|acknowledge align
 f|uh-huh okay right|reply_y
 g|okay|align
 f|okay i'll draw in that|reply_y acknowledge
 g|okay|align
 f|uh-huh|reply_y
-g|right now i want you to go right through the "o" of the collapsed shelter|ready instruct
+g|right now i want you to go right through the o of the collapsed shelter|ready instruct
 f|right through it|check
 g|uh-huh well you know what i mean you know as though you're going up that way|reply_y clarify
 f|uh-huh okay|acknowledge acknowledge
 g|and i want you to go up there for about three inches|instruct
-f|what am i oh right am i actually going through the letter "o"|check
+f|what am i oh right am i actually going through the letter o|check
 g|uh-huh|reply_y
 f|okay right|acknowledge
 g|so i know exactly where you are|explain
 f|okay right|acknowledge
-g|okay go through the "o" of the collapsed shelter|align instruct
+g|okay go through the o of the collapsed shelter|align instruct
 f|uh-huh|acknowledge
 g|and go up have you got a saxon barn to your left hand side|instruct query_yn
 f|uh-huh uh-huh|reply_y reply_y
@@ -160,7 +160,7 @@ g|okay|align
 f|okay|reply_y
 g|and now you now you're up here|instruct
 f|mmhmm|acknowledge
-g|now i want you to right you're going to see at the "n" of the saxon barn|instruct align
+g|now i want you to right you're going to see at the n of the saxon barn|instruct align
 f|mmhmm|reply_y
 g|right if you want to draw a dot there|instruct
 f|okay|acknowledge
@@ -180,15 +180,15 @@ g|okay|align
 f|it's just a like is it a kind of curvy hump|check
 g|uh-huh|reply_y
 f|okay then|acknowledge
-g|you're going up and then you're going down just to underneath this point "n"|clarify
+g|you're going up and then you're going down just to underneath this point n|clarify
 f|right okay|acknowledge
 g|underneath the saxon barn okay|clarify align
 f|okay|reply_y
 g|that'll probably miss your crevasse|explain
 f|uh-huh|acknowledge
-g|right you're underneath the "n" of the saxon barn now|align
+g|right you're underneath the n of the saxon barn now|align
 f|uh-huh|reply_y
-g|right just underline saxon barn to the go left until you're underneath the "s"|ready instruct
+g|right just underline saxon barn to the go left until you're underneath the s|ready instruct
 f|okay right okay|acknowledge acknowledge
 g|okay right have you got a group of pelicans|align query_yn
 f|no|reply_n
@@ -198,7 +198,7 @@ g|well to the left i've got a bunch of pelicans|explain
 f|right okay|acknowledge
 g|so do you see what i'm going to you've got the white mountain up above the saxon barn|instruct query_yn
 f|uh-huh|reply_y
-g|well what we're going to do is we're going down and we're doing a "u" shape to miss these pelicans|instruct
+g|well what we're going to do is we're going down and we're doing a u shape to miss these pelicans|instruct
 f|okay|acknowledge
 g|so what you're doing is you're|instruct
 f|are they in a straight are they like horizontal to the saxon barn|check
@@ -214,7 +214,7 @@ g|and then like you make a triangle out of it|align
 f|right okay|reply_y
 g|that's where the pelicans are|clarify
 f|okay right okay|acknowledge
-g|so you want to draw a "u" shape underneath these pelicans|instruct
+g|so you want to draw a u shape underneath these pelicans|instruct
 f|do you|check
 g|so see from where you are at the saxon barn|align
 f|uh-huh|reply_y
@@ -224,7 +224,7 @@ g|okay and then you go along for about an inch|align instruct
 f|mmhmm mmhmm|reply_y acknowledge
 g|and then we're going to go straight up to the white mountain|instruct
 f|okay|acknowledge
-g|okay so you've made a kind of "u" shape|align
+g|okay so you've made a kind of u shape|align
 f|uh-huh|reply_y
 g|to miss these pelicans|align
 f|uh-huh|reply_y
@@ -298,7 +298,7 @@ g|you've done that|align
 f|uh-huh|reply_y
 g|and then go along right as though you're underlining the secret valley|instruct
 f|right okay|acknowledge
-g|and see just about a centimetre from the "y"|align
+g|and see just about a centimetre from the y|align
 f|uh-huh|reply_y
 g|along to your right|align
 f|uh-huh|reply_y
@@ -307,7 +307,7 @@ f|is it|check
 g|uh-huh|reply_y
 f|is that it|check
 g|that's it|reply_y
-f|just a centimetre from the "y" on the right|check
+f|just a centimetre from the y on the right|check
 g|uh-huh|reply_y
 f|okay|acknowledge
 g|and that's your finish|clarify

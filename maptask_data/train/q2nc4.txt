@@ -95,7 +95,7 @@ f|yeah|reply_y
 g|okay|acknowledge
 f|and there's a gold mine directly beneath it|explain
 g|no i don't have that|reply_n
-f|okay i'm below the word i'm below the letter "w"|acknowledge explain
+f|okay i'm below the word i'm below the letter w|acknowledge explain
 g|okay move slightly more to the right 'til you're about an inch away from the edge of the page|acknowledge instruct
 f|okay|acknowledge
 g|do you have a noose at the bottom of the page|query_yn

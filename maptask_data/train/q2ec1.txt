@@ -30,26 +30,26 @@ g|right now follow the line of the river right down to the fork|ready instruct
 f|to the dead tree|query_yn
 g|just above the dead tree before the fork|clarify
 f|okay i'm there|acknowledge
-g|right now i want you to go to your left and do a sort of "c" quite a a wide "c" round some supposed i've got farmed land have you got farmed land|ready instruct explain query_yn
+g|right now i want you to go to your left and do a sort of c quite a a wide c round some supposed i've got farmed land have you got farmed land|ready instruct explain query_yn
 f|no|reply_n
 g|no well do a|instruct
 f|have i got to cross this babbling brook cross it|query_yn
-g|not again you've cross it further down you've got to do a wide "c" just above the fork do a wide "c" so that you're coming across the river at you know underneath the dead tree|reply_n clarify
+g|not again you've cross it further down you've got to do a wide c just above the fork do a wide c so that you're coming across the river at you know underneath the dead tree|reply_n clarify
 f|i'm coming oh right i see okay|check acknowledge
 g|right under the dead tree go directly south for about five maybe seven centimetres|ready instruct
 f|to the treasure|query_yn
 g|i don't have that|reply_w
 f|oh|acknowledge
 g|right then go to your right for about the same maybe five centimetres till you come to the lagoon do you have the lagoon|align instruct query_yn
-f|yeah but it's to my left unless that "c" wasn't big enough|reply_y explain check
+f|yeah but it's to my left unless that c wasn't big enough|reply_y explain check
 g|uh-huh you should have crossed one of the does your the river fork into one goes into the lagoon and the other one goes off the page|acknowledge clarify query_yn
 f|goes to a mountain stream|check
 g|right okay|acknowledge
 f|mmhmm|reply_y
-g|is your "c" on the side of the stream or on the side of the lagoon|query_w
+g|is your c on the side of the stream or on the side of the lagoon|query_w
 f|it's in the middle like it comes out in between the two of them|reply_w
 g|oh heck your river's different from mine|acknowledge explain
-f|you want to you want my path to be a large enough "c" so as it goes down|check
+f|you want to you want my path to be a large enough c so as it goes down|check
 g|it and it crosses over the the mountain stream and then goes directly south underneath the dead tree is the dead tree in between the fork|clarify query_yn
 f|mmhmm right maybe so|reply_y acknowledge
 g|right right so you're going south then see i come to the lagoon then when i go south and then i go left which would mean you going right|acknowledge ready clarify
@@ -57,7 +57,7 @@ f|you don't have treasure buried underneath your dead tree|check
 g|no|reply_n
 f|no do you have hills to your the left of the dead tree and just up a bit|check query_yn
 g|yes|reply_y
-f|okay so how close do you want that "c" to take me towards the hills|acknowledge query_w
+f|okay so how close do you want that c to take me towards the hills|acknowledge query_w
 g|not close at all|reply_w
 f|not close at all|check
 g|it's over the other side of the river is yours on this side of the river|explain query_yn
@@ -72,18 +72,18 @@ g|are you on the other side of the river from the the hills|align
 f|yes|reply_y
 g|right|acknowledge
 f|same side as the woodlands|check
-g|right that's right so at the top of just before the fork in the river do a "c" to the the same side don't don't cross the river at that point|reply_y instruct
+g|right that's right so at the top of just before the fork in the river do a c to the the same side don't don't cross the river at that point|reply_y instruct
 f|yes|acknowledge
-g|do the do a "c" so that it|clarify
+g|do the do a c so that it|clarify
 f|don't cross the river|check
-g|it it's like a backwards "c"|instruct
+g|it it's like a backwards c|instruct
 f|right i've not crossed|acknowledge
 g|do you see what i mean|align
 f|backwards|check
 g|round that way instead of round that way|clarify
-f|like an "e" no oh yeah like a backwards|check reply_n acknowledge
-g|well a back a back like do a backwards "c" there sorry|clarify
-f|yeah i've got a backwards "c" yeah|acknowledge acknowledge
+f|like an e no oh yeah like a backwards|check reply_n acknowledge
+g|well a back a back like do a backwards c there sorry|clarify
+f|yeah i've got a backwards c yeah|acknowledge acknowledge
 g|and cross the river under the dead tree for the first or the second time if you don't count if you count the one at the top|instruct
 f|under the dead tree so|check
 g|just just south of the dead tree|clarify
@@ -106,7 +106,7 @@ g|yes right take the line from the base of the lagoon from the point of the lago
 f|right|acknowledge
 g|do you have a pirate ship and the finish cross|query_yn
 f|pirate ship's right down the the the southern|reply_w
-g|right now do a sort of "l" shape bringing you down to the pirate ship from where you are|acknowledge instruct
+g|right now do a sort of l shape bringing you down to the pirate ship from where you are|acknowledge instruct
 f|without going in the water|query_yn
 g|going in the water|reply_n
 f|going in the water|check

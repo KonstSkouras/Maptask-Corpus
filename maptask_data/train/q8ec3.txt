@@ -4,10 +4,10 @@ g|right starting at the top left of the right|align
 f|right right|reply_y
 g|if you come down sort of south southeast you got a burnt forest|instruct query_yn
 f|aye|reply_y
-g|now come down round the left of the burnt forest so that you're just about underneath the "b"|instruct
+g|now come down round the left of the burnt forest so that you're just about underneath the b|instruct
 f|right hold on|acknowledge
 g|oh right|acknowledge
-f|right i'm just below the "b"|ready explain
+f|right i'm just below the b|ready explain
 g|right now come down to the other direction now and have you got a ravine|acknowledge instruct query_yn
 f|yes|reply_y
 g|right if you see the bottom of the ravine then take a line across to the left-hand side of the page right|acknowledge instruct align
@@ -86,7 +86,7 @@ g|well aye if you sort of miss out the go round the avalanche|reply_y clarify
 f|right i will|acknowledge
 g|which i presume and you should be at the right of the concealed hideout|instruct
 f|right i'm at the right of it|acknowledge explain
-g|right now go underneath it so that you're just underneath the "c" you horizontally are down to the bottom of the concealed hideout and along so that you're just about under the "c"|acknowledge instruct
+g|right now go underneath it so that you're just underneath the c you horizontally are down to the bottom of the concealed hideout and along so that you're just about under the c|acknowledge instruct
 f|the sea|check
 g|of concealed sorry|clarify
 f|oh sorry i thought you were talking about|explain
@@ -94,7 +94,7 @@ g|okay do you have a boat house|align query_yn
 f|eh it's away down to the right aye|explain reply_y
 g|oh there's two boathouses ah|explain
 f|right|acknowledge
-g|well i've got another boat house if you maybe two centimetres more past the "c"|explain instruct
+g|well i've got another boat house if you maybe two centimetres more past the c|explain instruct
 f|to the left|check
 g|yeah|reply_y
 f|right|acknowledge
@@ -102,9 +102,9 @@ g|right and do you have crane bay marked|ready query_yn
 f|mmhmm|reply_y
 g|and eh is is it curved|query_yn
 f|aye|reply_y
-g|where about up above the "b" of bay|query_yn query_yn
+g|where about up above the b of bay|query_yn query_yn
 f|aye mmhmm|reply_y reply_y
-g|well follow that curve round until you get above the "r" vertically down from the boat house and curve round 'til you get to the "r"|instruct
+g|well follow that curve round until you get above the r vertically down from the boat house and curve round 'til you get to the r|instruct
 f|right|acknowledge
 g|right|align
 f|got it|acknowledge
@@ -142,4 +142,4 @@ g|it's about a centimetre inland|explain
 f|right|acknowledge
 g|and but you have to curve round the washed stones or whatever you've got there|instruct
 f|right i will|acknowledge
-g|presumably "x" marks the spot|instruct
+g|presumably x marks the spot|instruct

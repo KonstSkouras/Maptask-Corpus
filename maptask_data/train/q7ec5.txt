@@ -21,7 +21,7 @@ f|so i'm going between the picnic site and the adventure playground|check
 g|yeah|reply_y
 f|okey-dokey here we go|acknowledge
 g|so your line so far's gone in a wee sort of|ready query_w
-f|well it's like a "q" with a wee extra bit i've added on|reply_w
+f|well it's like a q with a wee extra bit i've added on|reply_w
 g|you're now you're above the just go up just above the adventure playground|instruct
 f|mmhmm|acknowledge
 g|and start going right across the page to the east ehm at a five degree angle can you do that just a wee angle|instruct
@@ -86,7 +86,7 @@ g|right|reply_y
 f|towards the lake|check
 g|have you got oh you don't have limestone cliffs do you eh you you start going up sort of parallel to the line you just drew round for just a couple of inches|query_yn instruct
 f|right|acknowledge
-g|then you go you go north straight up to just below the east lake and you should be up to about about the "k" below the "k" in lake|instruct
+g|then you go you go north straight up to just below the east lake and you should be up to about about the k below the k in lake|instruct
 f|mmhmm|acknowledge
 g|and then you skirt the lake along going west just skirt along the lake|instruct
 f|right|acknowledge

@@ -20,11 +20,11 @@ g|right come to the left|ready instruct
 f|right so i go underneath the cliffs|ready check
 g|no don't go underneath the cliffs|reply_n
 f|no no right|check acknowledge acknowledge
-g|no no no it's like a backward "s" shape you're forming|reply_n instruct
+g|no no no it's like a backward s shape you're forming|reply_n instruct
 f|mm yeah think i know|acknowledge
 g|right|align
 f|yeah okay|reply_y
-g|so at at the bottom of the sort of backward "s" have you got that far|ready instruct align
+g|so at at the bottom of the sort of backward s have you got that far|ready instruct align
 f|i don't know|reply_w
 g|right okay right from the start you're going to go down slightly to the right and form a curve an outward curve|ready instruct
 f|to the right to the right okay|acknowledge

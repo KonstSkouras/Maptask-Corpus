@@ -70,7 +70,7 @@ f|past the gazelles|check
 g|at the what|query_w
 f|gazelles i've got they're about halfway down that diagonal line doesn't matter right i'm at the fallen pillars|reply_w explain ready explain
 g|fallen pillars|acknowledge
-f|just underneath the "s"|explain
+f|just underneath the s|explain
 g|fallen pillars okay you have to go right from there right right have you got ancient ruins|acknowledge ready instruct query_yn
 f|i've got ruined city it's probably the same thing|reply_w explain
 g|well just go right to the top there from there you have to go up to the ancient end|ready instruct instruct

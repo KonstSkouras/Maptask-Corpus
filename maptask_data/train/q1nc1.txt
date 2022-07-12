@@ -268,15 +268,15 @@ g|and you've gone straight up|align
 f|mmhmm|reply_y
 g|to the bottom of west lake see directly underneath it where it says west lake|align align
 f|mmhmm oh i didn't actually i didn't actually go there|reply_y acknowledge explain
-g|see the see see west lake see where the "e" is|align
+g|see the see see west lake see where the e is|align
 f|yeah mmhmm|reply_y reply_y
 g|directly under that you can then you see a curve going round to your right it's like a sort of bottom of a circle or something it's quite it's quite rounded|explain
 f|yeah i know the i know the bit the bottom right-hand side this is you're talking about|acknowledge check
 g|mmhmm|reply_y
-f|you you talking about the "e" in lake|check
+f|you you talking about the e in lake|check
 g|mmhmm|reply_y
 f|right|acknowledge
-g|oh god i forgot about that right you go down and just start right see where the "e" in lake is right and go down to the bottom of that start tracing around that then towards your right|explain ready instruct ready align instruct
+g|oh god i forgot about that right you go down and just start right see where the e in lake is right and go down to the bottom of that start tracing around that then towards your right|explain ready instruct ready align instruct
 f|we're going right now|check
 g|uh-huh oh sorry have you been going right up the other side|reply_y query_yn
 f|i thought we were i thought you were going left|explain explain
@@ -319,7 +319,7 @@ f|but i'd be in the lake then|explain
 g|no you wouldn't be in the lake you shouldn't|reply_n explain
 f|i stop drawing the curve right|check
 g|mmhmm you haven't gone right round the lake have you|reply_y align
-f|no i i started from the "e" in the lake right and eh traced it round the right-hand side and and up the side of west lake okay|reply_n explain align explain align
+f|no i i started from the e in the lake right and eh traced it round the right-hand side and and up the side of west lake okay|reply_n explain align explain align
 g|uh-huh|reply_y
 f|and i've stopped where the first eh the first bit rises|explain
 g|uh-huh|acknowledge

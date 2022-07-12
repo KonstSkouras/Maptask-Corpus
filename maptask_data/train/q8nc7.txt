@@ -7,7 +7,7 @@ f|right go down down the left-hand side of the extinct volcano|acknowledge check
 g|uh-huh|reply_y
 f|right along and down 'til i'm about a centimetre below it|acknowledge check
 g|uh-huh|reply_y
-f|that's about just down from the "e" down and along from the "e"|check
+f|that's about just down from the e down and along from the e|check
 g|uh-huh that's right|reply_y
 f|okay|acknowledge
 g|and then do you have a tribal settlement|ready query_yn

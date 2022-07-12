@@ -57,7 +57,7 @@ f|no|reply_n
 g|no|acknowledge
 f|i'm i'm at the moment i'm underneath overnight accommodation and just almost in the i'm just in the beginning of the meadow|explain
 g|i don't have that i don't have overnight accommodation|explain explain
-f|right well that's just eh if you take the the left of the meadow and go straight up to eh then the overnight accommodation is straight up from the left of the meadow and it's just slightly above the well it's actually in a line with the start writing if you put a wee "x" there for overnight accommodation|ready explain instruct
+f|right well that's just eh if you take the the left of the meadow and go straight up to eh then the overnight accommodation is straight up from the left of the meadow and it's just slightly above the well it's actually in a line with the start writing if you put a wee x there for overnight accommodation|ready explain instruct
 g|yeah well that's that'll be that's probably where you should go then if that's overnight accommodation probably want go there|ready instruct instruct
 f|oh where's your map say to go|ready query_w
 g|it doesn't say go anywhere it just it turns turns northwards|reply_w

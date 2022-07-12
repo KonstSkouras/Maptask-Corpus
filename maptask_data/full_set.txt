@@ -18,22 +18,22 @@ g|continue straight up north|instruct
 f|mmhmm|acknowledge
 g|and then we're going to turn to the west on a curvature right sort of|instruct
 f|okay|acknowledge
-g|"s" bend and immediately below that bend there is an abandoned cottage|explain
+g|s bend and immediately below that bend there is an abandoned cottage|explain
 f|mmhmm okay|acknowledge acknowledge
-g|and we're passing above the top of that we're going to continue in that sort of "s" shape a big wide "s"|instruct instruct
+g|and we're passing above the top of that we're going to continue in that sort of s shape a big wide s|instruct instruct
 f|mmhmm|acknowledge
 g|and on the sort of mmhmm top erm left of that again below it there's a fenced meadow but you're passing on the top of that okay right okay|explain instruct align ready
 f|okay|reply_y
-g|we've gone from the abandoned cottage right and we're on the sort of "s" shape yeah|align
+g|we've gone from the abandoned cottage right and we're on the sort of s shape yeah|align
 f|right|reply_y
-g|right and then at the top of the "s" we're turning north|acknowledge instruct
+g|right and then at the top of the s we're turning north|acknowledge instruct
 f|mmhmm|acknowledge
 g|okay we're going straight due north at the top there there's a west lake|align instruct explain
 f|okay|acknowledge
 g|which we're going to pass on the south erm southeast side|instruct
 f|mmhmm|acknowledge
-g|and we're going to do that in a curve almost a half "u" shape|instruct
-f|half "u" shape to the southeast|check
+g|and we're going to do that in a curve almost a half u shape|instruct
+f|half u shape to the southeast|check
 g|yeah yeah the southeast|reply_y reply_y
 f|right okay|acknowledge
 g|and continue up north slightly|instruct
@@ -48,7 +48,7 @@ g|and turn round by a monument on the outside of the monument|instruct
 f|outside of the monument|check
 g|yeah and then a very slight turning up again north sort of northwest|reply_y instruct
 f|mmhmm|acknowledge
-g|very slight curve sort of very slight "s"-shaped just a slight curve and then going to proceed up north again on the right-hand side there's a nuclear test site before right before reaching the top of that northbound and then you're going to turn back west and above that there's an east lake|instruct explain instruct explain
+g|very slight curve sort of very slight s-shaped just a slight curve and then going to proceed up north again on the right-hand side there's a nuclear test site before right before reaching the top of that northbound and then you're going to turn back west and above that there's an east lake|instruct explain instruct explain
 f|oh right okay|acknowledge
 g|yeah and that's the finish|acknowledge instruct
 f|mmhmm slightly different|acknowledge explain
@@ -244,10 +244,10 @@ f|carved wooden pole stone creek flat rocks|explain
 g|right okay right what you do then is you go south from the walled city|ready instruct
 f|right|acknowledge
 g|and you follow a sort of curve ehm how do you describe the last south sort of from go in a|instruct query_yn instruct
-f|an "s"|explain
-g|sort of "c" shape to cover the bottom of a "c" right from when you pass down below the walled city|instruct align instruct
+f|an s|explain
+g|sort of c shape to cover the bottom of a c right from when you pass down below the walled city|instruct align instruct
 f|right i right wait|acknowledge
-g|go in a "c"-shaped curve|instruct
+g|go in a c-shaped curve|instruct
 f|right from|check
 g|right and then go between the flat rocks and the stone creek okay can you do that you pass in a pass|align instruct align instruct
 f|right i i'm at the walled city right|acknowledge explain
@@ -315,18 +315,18 @@ g|below the buffalo|acknowledge
 f|right|acknowledge
 g|right at about at the level of the top of the fort right in line with the top of the fort|align instruct
 f|okay pass straight across|acknowledge query_yn
-g|no don't pass straight across right just curve downwards in a a "u" slight "u" a very very very slight curve and then pass upwards in a like an upside-down "u" because you want to avoid the cattle ranch which lies between the fort and the buffalo there's a cattle there's a cattle ranch|reply_n instruct explain
+g|no don't pass straight across right just curve downwards in a a u slight u a very very very slight curve and then pass upwards in a like an upside-down u because you want to avoid the cattle ranch which lies between the fort and the buffalo there's a cattle there's a cattle ranch|reply_n instruct explain
 f|right there's a cattle ranch between your buffalo and your fort|ready check
 g|that's right|reply_y
-f|right so i've got to go along and uh over a "u" shape right|ready check
+f|right so i've got to go along and uh over a u shape right|ready check
 g|you've go up and over the cattle ranch|clarify
 f|and then to the along to the fort|check
 g|then down uh-huh that's right|clarify reply_y
-f|right hang on hang on right right i'm doing my "u" now right|acknowledge explain
+f|right hang on hang on right right i'm doing my u now right|acknowledge explain
 g|right and then down underneath the fort sort of um to your left|acknowledge instruct
 f|right|acknowledge
 g|mmhmm over the cattle ranch right|align
-f|over the over the "u" right down and then down to the left and then south|check reply_y check
+f|over the over the u right down and then down to the left and then south|check reply_y check
 g|and then travel south and then|clarify
 f|before i reach the fort or on the other side|check
 g|before you reach the fort|clarify
@@ -475,7 +475,7 @@ g|a ghost town so you're going to that's not on my map you've got to avoid that 
 f|okay|acknowledge
 g|so go south down past the walled city underneath your ghost town and then slightly up sort of northeast direction between the flat rocks and the stone creek|instruct
 f|between well it'd be better if i between the walled city and the ghost town no to go underneath it above it or have you got something else there|acknowledge ready explain query_yn
-g|i've not got anything between the carved wooden pole and the walled city but the map shows a curve a "c"-shaped curve|reply_n explain
+g|i've not got anything between the carved wooden pole and the walled city but the map shows a curve a c-shaped curve|reply_n explain
 f|right score that out|acknowledge explain
 g|right|align
 f|right|reply_y
@@ -596,7 +596,7 @@ g|okay|align
 f|mmhmm|reply_y
 g|right and we're going to go and straight down south with the caravan park on your right-hand side|ready instruct
 f|okay|acknowledge
-g|okay and you're going to go down and then you're going to do a "u" shape|align instruct
+g|okay and you're going to go down and then you're going to do a u shape|align instruct
 f|uh-huh|acknowledge
 g|and we're going to come up and we're going to have the old|instruct
 f|ehm are we just going are we going to go below the picket fence|query_yn
@@ -616,13 +616,13 @@ g|but continue past that|instruct
 f|so i'm going down below the picket fence|check
 g|right we've come down from a caravan park|ready align
 f|mmhmm|reply_y
-g|and we're doing a "u" shape|align
+g|and we're doing a u shape|align
 f|mmhmm|reply_y
 g|okay on the and then you're going to proceed north right|align
-f|hang on where's the "u" shape just underneath the mill just underneath the caravan park|query_yn query_yn
+f|hang on where's the u shape just underneath the mill just underneath the caravan park|query_yn query_yn
 g|no no yeah|reply_n reply_y
 f|right|acknowledge
-g|the caravan park is directly above the the base of the "u"|explain
+g|the caravan park is directly above the the base of the u|explain
 f|above right you're okay right|acknowledge acknowledge
 g|right okay|align
 f|right right|reply_y
@@ -654,7 +654,7 @@ g|and then turn and keep it on your left-hand side and the abandoned cottage|ins
 f|right|acknowledge
 g|okay|align
 f|uh-huh|reply_y
-g|and then when you get to the abandoned cottage do a slight sort of "c" shape round the top of the abandoned cottage|instruct instruct
+g|and then when you get to the abandoned cottage do a slight sort of c shape round the top of the abandoned cottage|instruct instruct
 f|uh-huh uh-huh|acknowledge acknowledge
 g|okay|align
 f|uh-huh|reply_y
@@ -664,28 +664,28 @@ g|yeah|reply_y
 f|right|acknowledge
 g|uh-huh|acknowledge
 f|mmhmm|acknowledge
-g|right and then turn that "c" shape right so you're coming down come slightly down sort of south|acknowledge ready instruct align instruct
+g|right and then turn that c shape right so you're coming down come slightly down sort of south|acknowledge ready instruct align instruct
 f|mmhmm|acknowledge
 g|southwest or just slightly and then you're going to pass above a fenced meadow do you have a fenced meadow|instruct instruct query_yn
 f|and my fenced meadow is away down the right-hand corner below the forest|reply_w
 g|so you only have one fenced meadow|check
 f|uh-huh|reply_y
-g|right okay well just continue on that right you've done that "c" shape right and as if you're going to do a very wide "u" now okay|ready instruct align instruct align
+g|right okay well just continue on that right you've done that c shape right and as if you're going to do a very wide u now okay|ready instruct align instruct align
 f|right okay|reply_y
 g|and just ignore if you've not got a fenced meadow there then that's okay i do|explain
 f|right there's nothing on my left i've there's nothing to my left of the abandoned cottage|ready explain
-g|right okay right but just do that "c" that "c"|acknowledge ready instruct
-f|the "c" over the cottage|check
+g|right okay right but just do that c that c|acknowledge ready instruct
+f|the c over the cottage|check
 g|yeah|reply_y
 f|right|acknowledge
-g|and then turn round and almost in a sort of big wide "u" and go back up again|ready instruct
+g|and then turn round and almost in a sort of big wide u and go back up again|ready instruct
 f|right uh-huh right|acknowledge acknowledge
 g|and you're going to come up and you're going to have a west lake|instruct query_yn
 f|uh-huh|acknowledge
 g|right so you're going to almost follow the course of that right that west lake to the east the east side of it you're going to follow the the course of it|ready instruct
 f|just just coming in at the base of it then|check
-g|yeah just at the base and then follow the course of it round sort of a "u" an "s" shape|reply_y clarify
-f|as if it's a very very big wide "u" so i'm going to avoid|check
+g|yeah just at the base and then follow the course of it round sort of a u an s shape|reply_y clarify
+f|as if it's a very very big wide u so i'm going to avoid|check
 g|yeah|reply_y
 f|so that i so i'm avoiding something at the|check
 g|well you've got a trig point do you have a trig point|ready query_yn
@@ -698,14 +698,14 @@ g|so you're going to do a sort of and just follow the contour of that lake round
 f|mmhmm|reply_y
 g|until you're almost at the top of the east hand coast right|instruct align
 f|mmhmm|reply_y
-g|and then turn back round again in another sort of "c" or top of the "u"|instruct
+g|and then turn back round again in another sort of c or top of the u|instruct
 f|mmhmm|acknowledge
 g|right and then you're going to come straight down at forty-five degrees|ready instruct
 f|mmhmm|acknowledge
 g|sort of southeast|instruct
 f|see see sorry where i where i leave the top the east of the west lake|align
 g|right|reply_y
-f|i'm doing a "c" shape and i'm am i going over the top of the farmed land|align query_yn
+f|i'm doing a c shape and i'm am i going over the top of the farmed land|align query_yn
 g|you're going over the no no no you're staying well below that|reply_w reply_n clarify
 f|oh right|acknowledge
 g|so in between it would be in between farmed land and i have a trig point|clarify
@@ -724,7 +724,7 @@ g|relationship line okay|instruct align
 f|right|reply_y
 g|and then you come to that monument|instruct
 f|right|acknowledge
-g|and turn round that monument in a "u" shape|instruct
+g|and turn round that monument in a u shape|instruct
 f|eh er just underneath it then|check
 g|yeah just|reply_y
 f|right|acknowledge
@@ -732,7 +732,7 @@ g|yeah keeping the monument on your inside|reply_y clarify
 f|right okay|acknowledge
 g|okay and then above the monument you have well i have a nuclear test site|acknowledge explain
 f|no i don't|reply_n explain
-g|no you don't right okay er what you want to do is a a very slight "s"-shaped curve just above the monument right|acknowledge ready instruct align
+g|no you don't right okay er what you want to do is a a very slight s-shaped curve just above the monument right|acknowledge ready instruct align
 f|okay|reply_y
 g|well just curve round you have the monument don't you|ready instruct check
 f|yeah|reply_y
@@ -1160,15 +1160,15 @@ g|and you've gone straight up|align
 f|mmhmm|reply_y
 g|to the bottom of west lake see directly underneath it where it says west lake|align align
 f|mmhmm oh i didn't actually i didn't actually go there|reply_y acknowledge explain
-g|see the see see west lake see where the "e" is|align
+g|see the see see west lake see where the e is|align
 f|yeah mmhmm|reply_y reply_y
 g|directly under that you can then you see a curve going round to your right it's like a sort of bottom of a circle or something it's quite it's quite rounded|explain
 f|yeah i know the i know the bit the bottom right-hand side this is you're talking about|acknowledge check
 g|mmhmm|reply_y
-f|you you talking about the "e" in lake|check
+f|you you talking about the e in lake|check
 g|mmhmm|reply_y
 f|right|acknowledge
-g|oh god i forgot about that right you go down and just start right see where the "e" in lake is right and go down to the bottom of that start tracing around that then towards your right|explain ready instruct ready align instruct
+g|oh god i forgot about that right you go down and just start right see where the e in lake is right and go down to the bottom of that start tracing around that then towards your right|explain ready instruct ready align instruct
 f|we're going right now|check
 g|uh-huh oh sorry have you been going right up the other side|reply_y query_yn
 f|i thought we were i thought you were going left|explain explain
@@ -1211,7 +1211,7 @@ f|but i'd be in the lake then|explain
 g|no you wouldn't be in the lake you shouldn't|reply_n explain
 f|i stop drawing the curve right|check
 g|mmhmm you haven't gone right round the lake have you|reply_y align
-f|no i i started from the "e" in the lake right and eh traced it round the right-hand side and and up the side of west lake okay|reply_n explain align explain align
+f|no i i started from the e in the lake right and eh traced it round the right-hand side and and up the side of west lake okay|reply_n explain align explain align
 g|uh-huh|reply_y
 f|and i've stopped where the first eh the first bit rises|explain
 g|uh-huh|acknowledge
@@ -1988,7 +1988,7 @@ g|but not don't go down just go along don't go don't go down where it it really 
 f|right okay|acknowledge acknowledge
 g|so you're at the top left-hand side of crane bay right just northwest of where it says crane|align
 f|uh-huh|reply_y
-g|or the where the "c" is|align
+g|or the where the c is|align
 f|uh-huh|reply_y
 g|i've got wheatfields in line with where it says bay okay about an inch or so to the left of crane bay itself just in line in fact beneath where the other wheatfields were that i that i was telling you about|explain
 f|mmhmm right okay|acknowledge acknowledge
@@ -2427,7 +2427,7 @@ g|brrrr see where ehm the very bottom curve of it is|align
 f|uh-huh|reply_y
 g|can you make it like see where you are now you're about an inch away from the abandoned cottage right can you make a sort of a wide circle sort of a half circle towards the ehm bottom of that point that curve of west lake|instruct align instruct
 f|mmhmm|reply_y
-g|right see where the "e" is in west lake|align
+g|right see where the e is in west lake|align
 f|mmhmm|reply_y
 g|in lake eh go it's right underneath there you know i'm talking about that point where it starts to curve like it's to there eh you need a kind of wide a half circle|align instruct align instruct
 f|yes a|reply_y query_w
@@ -2453,7 +2453,7 @@ g|okay|align
 f|right i've done that|reply_y
 g|so you've and like you follow the curve of west lake right see where that see where i told you to go to stop at|align ready align
 f|you know so i'm like i'm really kind of doubling back on myself a bit|ready check
-g|uh-huh you've got you're following to the to the right-hand side you're going right round the right-hand side see right see when you come to the right see right imagine you're at the that point okay underneath the "e"|reply_y instruct
+g|uh-huh you've got you're following to the to the right-hand side you're going right round the right-hand side see right see when you come to the right see right imagine you're at the that point okay underneath the e|reply_y instruct
 f|right i've done|ready explain
 g|right|align
 f|yes|reply_y
@@ -2539,17 +2539,17 @@ g|so go straight draw the line to you know where your see that curve that you're
 f|mmhmm|reply_y
 g|right|align
 f|ah i went a bit further 'cause i thought you said|explain
-g|uh-huh right and just and go from there go straight up towards the east lake so you should be directly under the the "e" in lake|acknowledge ready instruct
+g|uh-huh right and just and go from there go straight up towards the east lake so you should be directly under the the e in lake|acknowledge ready instruct
 f|no my monument's more to the right of the page than that the east lake's|reply_n explain
-g|uh-huh see the "e" in the word lake|acknowledge align
-f|oh the word the "e" in the word|acknowledge
-g|the word "e"|align
+g|uh-huh see the e in the word lake|acknowledge align
+f|oh the word the e in the word|acknowledge
+g|the word e|align
 f|right|reply_y
 g|in the lake right see directly underneath that on the on the coast line of that if you know what i mean the edge of it|align align
 f|mmhmm|reply_y
 g|make a dot there right|instruct
-f|directly underneath the "e"|check check
-g|underneath the "e" underneath the "e" make a dot right beside the lake and from the monument the guy's hand on the monument draw a line from that okay to the east lake and then just follow the curve of the east lake|clarify reply_y clarify instruct align instruct
+f|directly underneath the e|check check
+g|underneath the e underneath the e make a dot right beside the lake and from the monument the guy's hand on the monument draw a line from that okay to the east lake and then just follow the curve of the east lake|clarify reply_y clarify instruct align instruct
 f|right|acknowledge
 g|so you follow the curve of the east lake to the left sorry i've thought it was to the left|instruct explain
 f|right right|acknowledge acknowledge
@@ -2557,14 +2557,14 @@ g|right so eh you know the bottom left of the east lake|align ready align
 f|uh-huh|reply_y
 g|about in a centimetre away from that keep drawing a line and then finish it okay|instruct align
 f|the say that again|query_w instruct
-g|see the "e" in the east|align
+g|see the e in the east|align
 f|yes|reply_y
 g|the letter the word east underneath that draw a line about an inch away from that okay keep following the coast line but don't don't go up don't go up vertically|align clarify clarify
 f|right don't go up|acknowledge acknowledge
 g|you just go straight along that except carry the line on|clarify
 f|uh-huh how far|acknowledge query_w
 g|for about another centimetre and just draw a cross|reply_w instruct
-f|a centimetre from the "e"|check
+f|a centimetre from the e|check
 g|mmhmm|reply_y
 f|is that all right|check acknowledge
 g|mmhmm but see where the east lake is see that that kind of line you followed|reply_y align
@@ -2596,7 +2596,7 @@ g|no it's actually above just above|reply_n instruct
 f|so i'm going above the collapsed shelter|check
 g|uh-huh|reply_y
 f|that's more than two and a half inches surely have you got a waterhole next to the collapsed shelter|check query_yn
-g|no right and you're going above the collapsed shelter and down ehm just right next to the "r" of the collapsed shelter|reply_n ready instruct
+g|no right and you're going above the collapsed shelter and down ehm just right next to the r of the collapsed shelter|reply_n ready instruct
 f|mmhmm okay|acknowledge
 g|right|align
 f|mmhmm|reply_y
@@ -2793,26 +2793,26 @@ g|right now follow the line of the river right down to the fork|ready instruct
 f|to the dead tree|query_yn
 g|just above the dead tree before the fork|clarify
 f|okay i'm there|acknowledge
-g|right now i want you to go to your left and do a sort of "c" quite a a wide "c" round some supposed i've got farmed land have you got farmed land|ready instruct explain query_yn
+g|right now i want you to go to your left and do a sort of c quite a a wide c round some supposed i've got farmed land have you got farmed land|ready instruct explain query_yn
 f|no|reply_n
 g|no well do a|instruct
 f|have i got to cross this babbling brook cross it|query_yn
-g|not again you've cross it further down you've got to do a wide "c" just above the fork do a wide "c" so that you're coming across the river at you know underneath the dead tree|reply_n clarify
+g|not again you've cross it further down you've got to do a wide c just above the fork do a wide c so that you're coming across the river at you know underneath the dead tree|reply_n clarify
 f|i'm coming oh right i see okay|check acknowledge
 g|right under the dead tree go directly south for about five maybe seven centimetres|ready instruct
 f|to the treasure|query_yn
 g|i don't have that|reply_w
 f|oh|acknowledge
 g|right then go to your right for about the same maybe five centimetres till you come to the lagoon do you have the lagoon|align instruct query_yn
-f|yeah but it's to my left unless that "c" wasn't big enough|reply_y explain check
+f|yeah but it's to my left unless that c wasn't big enough|reply_y explain check
 g|uh-huh you should have crossed one of the does your the river fork into one goes into the lagoon and the other one goes off the page|acknowledge clarify query_yn
 f|goes to a mountain stream|check
 g|right okay|acknowledge
 f|mmhmm|reply_y
-g|is your "c" on the side of the stream or on the side of the lagoon|query_w
+g|is your c on the side of the stream or on the side of the lagoon|query_w
 f|it's in the middle like it comes out in between the two of them|reply_w
 g|oh heck your river's different from mine|acknowledge explain
-f|you want to you want my path to be a large enough "c" so as it goes down|check
+f|you want to you want my path to be a large enough c so as it goes down|check
 g|it and it crosses over the the mountain stream and then goes directly south underneath the dead tree is the dead tree in between the fork|clarify query_yn
 f|mmhmm right maybe so|reply_y acknowledge
 g|right right so you're going south then see i come to the lagoon then when i go south and then i go left which would mean you going right|acknowledge ready clarify
@@ -2820,7 +2820,7 @@ f|you don't have treasure buried underneath your dead tree|check
 g|no|reply_n
 f|no do you have hills to your the left of the dead tree and just up a bit|check query_yn
 g|yes|reply_y
-f|okay so how close do you want that "c" to take me towards the hills|acknowledge query_w
+f|okay so how close do you want that c to take me towards the hills|acknowledge query_w
 g|not close at all|reply_w
 f|not close at all|check
 g|it's over the other side of the river is yours on this side of the river|explain query_yn
@@ -2835,18 +2835,18 @@ g|are you on the other side of the river from the the hills|align
 f|yes|reply_y
 g|right|acknowledge
 f|same side as the woodlands|check
-g|right that's right so at the top of just before the fork in the river do a "c" to the the same side don't don't cross the river at that point|reply_y instruct
+g|right that's right so at the top of just before the fork in the river do a c to the the same side don't don't cross the river at that point|reply_y instruct
 f|yes|acknowledge
-g|do the do a "c" so that it|clarify
+g|do the do a c so that it|clarify
 f|don't cross the river|check
-g|it it's like a backwards "c"|instruct
+g|it it's like a backwards c|instruct
 f|right i've not crossed|acknowledge
 g|do you see what i mean|align
 f|backwards|check
 g|round that way instead of round that way|clarify
-f|like an "e" no oh yeah like a backwards|check reply_n acknowledge
-g|well a back a back like do a backwards "c" there sorry|clarify
-f|yeah i've got a backwards "c" yeah|acknowledge acknowledge
+f|like an e no oh yeah like a backwards|check reply_n acknowledge
+g|well a back a back like do a backwards c there sorry|clarify
+f|yeah i've got a backwards c yeah|acknowledge acknowledge
 g|and cross the river under the dead tree for the first or the second time if you don't count if you count the one at the top|instruct
 f|under the dead tree so|check
 g|just just south of the dead tree|clarify
@@ -2869,7 +2869,7 @@ g|yes right take the line from the base of the lagoon from the point of the lago
 f|right|acknowledge
 g|do you have a pirate ship and the finish cross|query_yn
 f|pirate ship's right down the the the southern|reply_w
-g|right now do a sort of "l" shape bringing you down to the pirate ship from where you are|acknowledge instruct
+g|right now do a sort of l shape bringing you down to the pirate ship from where you are|acknowledge instruct
 f|without going in the water|query_yn
 g|going in the water|reply_n
 f|going in the water|check
@@ -3153,7 +3153,7 @@ g|yeah you're going to actually go through the rift valley like the rift valley'
 f|yeah|reply_y
 g|you're going to go and you're going to come right through you're going to like intersect right almost at the midpoint of the rift valley|instruct
 f|right go through the centre i'll just take it up and go through the centre yeah|ready check acknowledge
-g|yeah like right through the sort of midpoint like through the it's like a "u" and you're going right through the midpoint you want to be down into the "u" as though you were going if you know what i mean|reply_y clarify
+g|yeah like right through the sort of midpoint like through the it's like a u and you're going right through the midpoint you want to be down into the u as though you were going if you know what i mean|reply_y clarify
 f|right okay erm i'm not that so i should be below there when i'm taking the line up|acknowledge query_yn
 g|yeah below and then like into the rift valley|reply_y clarify
 f|okay right|ready
@@ -3167,7 +3167,7 @@ g|right you've got in you're above the rift valley first of all right|ready alig
 f|was i|query_w
 g|yeah above the rift valley you go above the rift valley and then you start coming down as in into the rift valley and you intersect like the line of the rift valley in the midpoint|reply_y clarify instruct
 f|right mm that's not where i am now right so where hang on right so|acknowledge explain query_w
-g|your rift valley is "u"-shaped yeah|align
+g|your rift valley is u-shaped yeah|align
 f|yeah in a like as the two ends are pointing up towards top of the page|reply_y align
 g|yeah|reply_y
 f|right and i was supposed to start above it there and come down through it|ready check
@@ -3246,7 +3246,7 @@ f|mmhmm i'm well i've got it at the moment i'm slightly below it but|reply_y rep
 g|you've got a gold mine a gold mine you got a gold mine below that|check
 f|yeah|reply_y
 g|far below it directly below it|query_yn query_yn
-f|not directly below it just just below the "u" if you take it down from the hideout er that that's just that's just at the left-hand side|reply_n explain
+f|not directly below it just just below the u if you take it down from the hideout er that that's just that's just at the left-hand side|reply_n explain
 g|aye that'll be where my that'll be where my stone labs that'll be where my stone slabs are|ready explain explain
 f|but are your stone slabs not kind of at the other side of that|check
 g|i would imagine|explain
@@ -3589,13 +3589,13 @@ g|and the lagoon on the other the lagoon right|query_yn
 f|yes|reply_y
 g|well on the you're on the side of the mountain stream aren't you|ready align
 f|yeah yeah|reply_y
-g|right well i want you to do a a backwards "c" as if you're you're going round farmland and cutting the river cutting across the stream just below the dead tree|ready instruct
+g|right well i want you to do a a backwards c as if you're you're going round farmland and cutting the river cutting across the stream just below the dead tree|ready instruct
 f|right okay|acknowledge acknowledge
 g|so that stop when you get to the bottom of the dead tree|instruct
 f|so remind me what i'm i'm i've got to go underneath the dead tree|check
 g|no from where you are right just at the fork before the fork of the river|reply_n clarify clarify
 f|yeah yes|acknowledge acknowledge
-g|i want you to do a a backwards "c"|clarify
+g|i want you to do a a backwards c|clarify
 f|right|reply_y
 g|right cutting just at don't cross the river the other way from the river|align clarify
 f|yeah okay|acknowledge
@@ -3641,11 +3641,11 @@ g|right now beside the pirate ship i've got a cross like for the finish|ready ex
 f|beside the pirate ship|check
 g|yeah just to the left of the|reply_y clarify
 f|so do i have to go round the outside of green bay|query_yn
-g|no what you do is you do an "l" shape in the water|reply_n instruct
+g|no what you do is you do an l shape in the water|reply_n instruct
 f|in the water|check
 g|to get to it just to get to the pirate ship|instruct
 f|by the so i'm going to the pirate ship|check
-g|you're going you're doing an "l" shape to the pirate ship|clarify
+g|you're going you're doing an l shape to the pirate ship|clarify
 f|yeah i've got you okay|acknowledge
 g|there that's the finish|clarify
 f|is that that's the end right|check
@@ -4017,14 +4017,14 @@ g|excellent eh no i don't have a rocket launch pad on mine but i don't think tha
 f|no|acknowledge
 g|right okay do you have east lake written on the east lake|acknowledge ready query_yn
 f|uh-huh yeah|reply_y
-g|yeah see where the "e" is|check align
+g|yeah see where the e is|check align
 f|uh-huh|reply_y
-g|erm if you draw a line if you are just about directly beneath that "e"|instruct
+g|erm if you draw a line if you are just about directly beneath that e|instruct
 f|mmhmm|acknowledge
-g|okay draw a line up to the water's edge maybe just to the right of that "e"|instruct
+g|okay draw a line up to the water's edge maybe just to the right of that e|instruct
 f|straight up|check
 g|straight up yeah|reply_y
-f|just slightly to the right of the "e"|check
+f|just slightly to the right of the e|check
 g|mmhmm until you're just like virtually on the water's edge|reply_y clarify
 f|mmhmm|acknowledge
 g|okay|align
@@ -4037,12 +4037,12 @@ g|yeah if if your line is pointing you're not we're not going to take it that fa
 f|uh-huh|acknowledge
 g|and you're still underneath the east lake then that's you|explain
 f|right right got you|acknowledge acknowledge
-g|"x" marks the spot and we're finished|explain
+g|x marks the spot and we're finished|explain
 f|so where am i going now to the great viewpoint|check
 g|that's you no that's you|explain explain
 g|right neil erm at the bottom right-hand corner of your map do you have a missionary camp|ready query_yn
 f|yeah|reply_y
-g|about half an inch above it we've got an "x" marking start have you got that|explain query_yn
+g|about half an inch above it we've got an x marking start have you got that|explain query_yn
 f|yes yes|reply_y reply_y
 g|right erm now i want you to take a route about one inch directly west if the top of the page is north and the left-hand side of the page is west i want you to go about one inch west|acknowledge instruct explain instruct
 f|okay|acknowledge
@@ -4234,7 +4234,7 @@ g|the same distance now you're going into a curve have you got a soft furnishing
 f|no|reply_n
 g|well that's directly below the white mountain about an inch so we've got about an inch to play with here|explain
 f|right|acknowledge
-g|so i want you to curve round underneath the white mountain and then when when your curve is underneath the "n" of mountain make it into a straight line eh going left about two inches|instruct instruct
+g|so i want you to curve round underneath the white mountain and then when when your curve is underneath the n of mountain make it into a straight line eh going left about two inches|instruct instruct
 f|uh-huh so going left straight horizontal left two inches|acknowledge check
 g|yeah until you're under the base of the white mountain|reply_y clarify
 f|right|acknowledge
@@ -4249,7 +4249,7 @@ f|right|acknowledge
 g|now go straight down about three inches|instruct
 f|okay|acknowledge
 g|and curve round to the right just just a small curve the the length of the curve should be about two centimetres|instruct
-f|right is it an an a "u"-turn or a|acknowledge query_w
+f|right is it an an a u-turn or a|acknowledge query_w
 g|well have you got gazelles on yours|query_yn
 f|yeah|reply_y
 g|right okay curve round the left-hand side of the gazelles|acknowledge instruct
@@ -4364,7 +4364,7 @@ f|yeah|reply_y
 g|okay|acknowledge
 f|and there's a gold mine directly beneath it|explain
 g|no i don't have that|reply_n
-f|okay i'm below the word i'm below the letter "w"|acknowledge explain
+f|okay i'm below the word i'm below the letter w|acknowledge explain
 g|okay move slightly more to the right 'til you're about an inch away from the edge of the page|acknowledge instruct
 f|okay|acknowledge
 g|do you have a noose at the bottom of the page|query_yn
@@ -4468,7 +4468,7 @@ g|yeah my route kind of circles round nothing in particular so i i assume that's
 f|mmhmm|acknowledge
 g|erm i suppose you'll be curving round eh well head towards the bottom left-hand corner the of the page for about an inch|instruct
 f|mmhmm|acknowledge
-g|and then perform a "u"-turn as it were about and head eh|instruct
+g|and then perform a u-turn as it were about and head eh|instruct
 f|okay round the flamingoes|acknowledge check
 g|yeah|reply_y
 f|okay|acknowledge
@@ -4927,7 +4927,7 @@ g|now on my map that should be that's like up from the stile|explain
 f|right|acknowledge
 g|okay now if you're at that point do you have a a dead tree it's an elm tree down to your|align query_yn
 f|yeah right over the other side of the page|reply_y check
-g|okay now see there the letter "d"|acknowledge align
+g|okay now see there the letter d|acknowledge align
 f|mmhmm|reply_y
 g|that one oh i've got dead tree you've got elm tree|explain
 f|i've got dutch elm|explain
@@ -4951,9 +4951,9 @@ g|up the way so that see the third branch from the left|reply_y clarify align
 f|uh-huh|reply_y
 g|until you're say above that that's your half circle|clarify
 f|okay|acknowledge
-g|okay you've done a "u" turn now if you draw like a kind let's see see where you have the east lake at the top|align ready instruct ready align
+g|okay you've done a u turn now if you draw like a kind let's see see where you have the east lake at the top|align ready instruct ready align
 f|yeah|reply_y
-g|right if you draw a line if you go from the "e" in lake down the way okay|instruct align
+g|right if you draw a line if you go from the e in lake down the way okay|instruct align
 f|okay|reply_y
 g|on to the edge of the lake|instruct
 f|right|acknowledge
@@ -5088,7 +5088,7 @@ g|uh-huh|reply_y
 f|directly directly west of your cattle stockade|query_yn
 g|correct|reply_y
 f|that's in the middle of the two|reply_w
-g|right my map deviates here so i presume that's why you must have an obstacle so what i want you to do is go west as far left as the just the edge of the "c" of the cattle stockade|acknowledge explain instruct
+g|right my map deviates here so i presume that's why you must have an obstacle so what i want you to do is go west as far left as the just the edge of the c of the cattle stockade|acknowledge explain instruct
 f|mmhmm|reply_y
 g|then do you have to go up to avoid the|query_yn
 f|well if there's a very very thin line i i can go up though yes|reply_w
@@ -5132,7 +5132,7 @@ g|understand what i mean|align
 f|right so basically just due north to the level of the|check
 g|correct|reply_y
 f|right|acknowledge
-g|and that's your "x" that's your finish|explain
+g|and that's your x that's your finish|explain
 f|is it|check
 f|yeah|reply_y
 g|right have you got a starting point at this this is kenneth have you got a starting point at the top left of your map corner right eh could you move about due south from that starting point about eh four inches|query_yn explain query_yn acknowledge instruct
@@ -5359,8 +5359,8 @@ g|right go east and go north west of the old you know go north just to the west 
 f|do you go go right go to the right|check check
 g|ah yeah and go up to the left of the north temple of the old temple go north to the left of the old temple|reply_y clarify
 f|right|acknowledge
-g|go keep going up 'til you're about an inch below the "x" marks finish which i don't know if you have|instruct explain
-f|i don't have "x" marks finished how far above the old temple|explain query_w
+g|go keep going up 'til you're about an inch below the x marks finish which i don't know if you have|instruct explain
+f|i don't have x marks finished how far above the old temple|explain query_w
 g|right can you see the remote village|acknowledge align
 f|yeah|reply_y
 g|do you have the remote village|query_yn
@@ -5437,7 +5437,7 @@ g|come down just past the remote village|instruct
 f|right|acknowledge
 g|and go to your right|instruct
 f|how far|query_w
-g|just past the remote village and mark "x" 'cause that's us finished a complete trial|reply_w instruct
+g|just past the remote village and mark x 'cause that's us finished a complete trial|reply_w instruct
 f|right right right that's it|acknowledge acknowledge acknowledge
 g|okay eh you've got a starting point|ready align
 f|just above a forest fire site of a forest fire|reply_w
@@ -5581,7 +5581,7 @@ g|so you you've you've come due south and then you've come east to the right of 
 f|yeah so now in the middle i'm actually directly under the remote village at the moment|reply_y explain explain
 g|go about an inch past it|instruct
 f|mmhmm|acknowledge
-g|and "x" marks the spot|instruct
+g|and x marks the spot|instruct
 g|right the start is at the top left-hand side of your page|ready query_yn
 f|mmhmm|reply_y
 g|there is a diamond mine to the right|query_yn
@@ -5746,7 +5746,7 @@ g|okay ehm shall we call eh north ehm the top of the page|acknowledge query_yn
 f|right okay that's fine|reply_y
 g|okay ehm go straight down south past the diamond mine 'til you get just to where the words diamond mine start|acknowledge instruct
 f|mm okay|acknowledge
-g|go round ehm horizontally underneath diamond mine and along past the graveyard sort of up in a sort of slightly diagonal line to where the "d" is in the graveyard okay|instruct align
+g|go round ehm horizontally underneath diamond mine and along past the graveyard sort of up in a sort of slightly diagonal line to where the d is in the graveyard okay|instruct align
 f|eh graveyard|acknowledge
 g|have you got the graveyard written down|query_yn
 f|no i don't have a graveyard on this one|reply_n
@@ -5843,7 +5843,7 @@ g|right you've you've come from vast meadow right|ready reply_w align
 f|mmhmm|reply_y
 g|and there's an outcrop of land well you're not going quite on to that|instruct
 f|right|acknowledge
-g|right you're going up to the next corner above vast meadow just sort of diagonally opposite the "c" of crane bay right you've got to turn to your left up the way do you want me to run by that one again|align instruct ready clarify query_yn
+g|right you're going up to the next corner above vast meadow just sort of diagonally opposite the c of crane bay right you've got to turn to your left up the way do you want me to run by that one again|align instruct ready clarify query_yn
 f|yeah if you could|reply_y
 g|right where've we got to vast meadow|align
 f|uh-huh|reply_y
@@ -5865,7 +5865,7 @@ g|uh-huh towards the coast|reply_y
 f|right|acknowledge
 g|it's not really towards the coast it's sort of what would it be northeastwards no it wouldn't be northeastwards if you were coming that way it would be northwestwards|clarify
 f|right|acknowledge
-g|ehm along above where it says crane bay you keep quite close to the coast and above the "e" of crane bay you're making a ninety degree turn to your left again|instruct
+g|ehm along above where it says crane bay you keep quite close to the coast and above the e of crane bay you're making a ninety degree turn to your left again|instruct
 f|right|acknowledge
 g|towards the reclaimed fields|instruct
 f|right|acknowledge
@@ -5889,7 +5889,7 @@ g|that's just a habit of mine to start at the bottom of a map and work my way up
 f|right|ready
 g|okay okay|ready ready
 f|bit young for a missus|explain
-g|yes right this is lindsey and melanie number "n" "a" "q" three "c" two plus minus four "d" "u" right if you'd like to start at the beginning|acknowledge explain instruct
+g|yes right this is lindsey and melanie number n a q three c two plus minus four d u right if you'd like to start at the beginning|acknowledge explain instruct
 f|at at the start|check
 g|at the start which is above the haystack|clarify
 f|okay|acknowledge
@@ -5947,7 +5947,7 @@ g|ehm head down at a southwesterly angle towards vast meadow and the attractive 
 f|yes|acknowledge
 g|right you should be in between them you head down in a straight line between vast meadow and attractive cliffs|align instruct
 f|a straight line between them|check
-g|uh-huh until about the "a" of vast meadow|reply_y instruct
+g|uh-huh until about the a of vast meadow|reply_y instruct
 f|what okay|query_w acknowledge
 g|right and again the same sort of southwesterly angle down to where it says attractive cliffs|align instruct
 f|okay|acknowledge
@@ -5978,7 +5978,7 @@ g|curve round it draw one in|instruct instruct
 f|where is it|query_w
 g|it's at the bottom of the map the bottom left-hand corner and if you go underneath that|reply_w instruct
 f|okay|ready
-g|underneath it and come back up to the other side of it in a "u" shape|instruct
+g|underneath it and come back up to the other side of it in a u shape|instruct
 f|right|acknowledge
 g|then go up past the the left of the adventure playground|instruct
 f|right|acknowledge
@@ -6000,13 +6000,13 @@ g|right and stop and then go up northwards|instruct instruct
 f|right|acknowledge
 g|straight up for a wee bit 'til you get to the granite quarry okay|instruct
 f|right|acknowledge
-g|granite is it names and everything again okay right this is melanie and valerie and the number is "n" "a" "q" three "c" three minus plus one "a" "f" right so we're at the start|clarify query_w ready explain instruct
+g|granite is it names and everything again okay right this is melanie and valerie and the number is n a q three c three minus plus one a f right so we're at the start|clarify query_w ready explain instruct
 f|mmhmm|reply_y
 g|and head down towards the bottom of the page going past the left of the site of forest fire|instruct
 f|right|acknowledge
 g|go down and go underneath the picnic site|instruct
 f|uh-huh|acknowledge
-g|and come back up the other side making a "u" round it|instruct
+g|and come back up the other side making a u round it|instruct
 f|mmhmm|acknowledge
 g|and then keep going up past the left-hand side of the adventure playground|instruct
 f|mmhmm|acknowledge
@@ -6217,10 +6217,10 @@ g|well it's eh gosh|acknowledge
 f|how many inches down from the forest fire should i go|query_w
 g|well it's a couple of inches from the bottom of the page|reply_w
 f|right 'kay|acknowledge acknowledge
-g|so ehm i want you to do a "u" round it|clarify
-f|do a "u" round it|check
+g|so ehm i want you to do a u round it|clarify
+f|do a u round it|check
 g|yeah to come back up ehm on the right-hand side of it okay|reply_y clarify align
-f|so are you going down the way the way i would normally write a "u"|check
+f|so are you going down the way the way i would normally write a u|check
 g|am i what|query_w
 f|are you underneath it or above it|check
 g|well if you started off and you came down the page you went underneath it and go back up the other side of it upwards|reply_y
@@ -6525,7 +6525,7 @@ g|and when you get to that curve of crane bay stick closely to it|instruct
 f|okay|acknowledge
 g|for until you get to that corner|instruct
 f|which corner|query_w
-g|you see where the just opposite the "c" of crane bay diagonally opposite|clarify
+g|you see where the just opposite the c of crane bay diagonally opposite|clarify
 f|towards the north of it or to the|check
 g|uh-huh|reply_y
 f|right|acknowledge
@@ -7356,7 +7356,7 @@ g|right so if you go over the top of the crevasse and down the side of it then u
 f|you want me to draw underneath the saxon barn|check
 g|yes|reply_y
 f|uh-huh okay where will i stop|reply_y query_w
-g|and stop ehm beside the "s"|reply_w
+g|and stop ehm beside the s|reply_w
 f|of saxon|check
 g|saxon|reply_y
 f|okay|acknowledge
@@ -7408,7 +7408,7 @@ g|that's in the top left-hand corner yeah|reply_w
 f|okay okay right|acknowledge acknowledge
 g|kind of are you over the mountain|align
 f|you want me to go over it|check
-g|just go over it and stop at the other side and curve right round underneath it so that you're about a centimetre underneath the "s"|clarify
+g|just go over it and stop at the other side and curve right round underneath it so that you're about a centimetre underneath the s|clarify
 f|mmhmm|acknowledge
 g|and you got a secret valley|query_yn
 f|yeah|reply_y
@@ -7416,26 +7416,26 @@ g|can you go down from there down the left-hand side of the secret valley|instru
 f|mmhmm|acknowledge
 g|and are you underneath the secret valley|align
 f|hold on you want me to be underneath the secret valley|check
-g|go draw a straight line to the end of just about a centimetre away from the "y" and that's the finish|clarify
+g|go draw a straight line to the end of just about a centimetre away from the y and that's the finish|clarify
 f|underneath it|check
-g|underneath the "y" of secret valley|clarify
-f|a centimetre down from the "y" yeah|check
+g|underneath the y of secret valley|clarify
+f|a centimetre down from the y yeah|check
 g|mmhmm|reply_y
 f|okay|acknowledge
 g|that's it|explain
 g|right ehm the diamond mine the the diamond mine is like just eh to the the the right of you there|ready explain
 f|right i've got the diamond mine i've got the start and the diamond mine|acknowledge explain
-g|right now just go down beside the left-hand side of the diamond mine and eh just to below the words the first "d" there|acknowledge instruct
+g|right now just go down beside the left-hand side of the diamond mine and eh just to below the words the first d there|acknowledge instruct
 f|right|acknowledge
-g|then draw a line ehm a kind of go from there eh to just below the "s" of springboks|instruct
+g|then draw a line ehm a kind of go from there eh to just below the s of springboks|instruct
 f|don't have springboks|explain
-g|you don't have that's right ehm okay right in that case just draw a horizontal line to just below the eh to the the left of the "h" of highest viewpoint|acknowledge ready instruct
+g|you don't have that's right ehm okay right in that case just draw a horizontal line to just below the eh to the the left of the h of highest viewpoint|acknowledge ready instruct
 f|horizontal|check
 g|yes horizontal right|reply_y
 f|hold on right|acknowledge
 g|now we're going to go round eh highest viewpoint okay so eh|instruct align instruct
 f|a curve or|check
-g|it well we can do it in a well just go eh vertically up to the "h"|clarify
+g|it well we can do it in a well just go eh vertically up to the h|clarify
 f|right|acknowledge
 g|then make a curve round to the eh like a semicircle right|instruct align
 f|okay|acknowledge
@@ -7598,11 +7598,11 @@ g|have you got a collapsed shelter|query_yn
 f|yes i have that's|reply_y
 g|right you're going to go along until you're underneath the collapsed shelter|ready reply_w
 f|right i'll be underneath it by about two or three centimetres|check
-g|uh-huh just a little below the "o" actually|reply_y
+g|uh-huh just a little below the o actually|reply_y
 f|right okay|acknowledge
 g|okay then you're going to start going up north again|ready instruct
 f|okay|acknowledge
-g|and put your line through the "o"|instruct
+g|and put your line through the o|instruct
 f|okay|acknowledge
 g|and you're going to go up there for about about ehm let me see about ten centimetres up|instruct
 f|okay past the crevasse on the right on the left have you not got a crevasse|acknowledge check query_yn
@@ -7616,8 +7616,8 @@ g|you know if you go up and then come back down and have you got a saxon barn|in
 f|okay yes|reply_y
 g|right well you're just going to go up and come down underneath the words saxon barn|acknowledge instruct
 f|so do a sort of semicircle to the saxon barn|check
-g|uh-huh yeah that'd be so you've just drawn your line just under the "s" of the saxon bar|reply_y align
-f|okay just under the "s"|reply_y check
+g|uh-huh yeah that'd be so you've just drawn your line just under the s of the saxon bar|reply_y align
+f|okay just under the s|reply_y check
 g|uh-huh and have you got pelicans|reply_y query_yn
 f|i haven't no i've not|reply_n
 g|right so you're going to go down ehm south|acknowledge instruct
@@ -7715,8 +7715,8 @@ f|okay|acknowledge
 g|and then can you see you just draw a straight line to the finish|align
 f|to the finish no i've not got a finish|reply_n explain
 g|well the finish is actually you know where it says secret valley it's just about a centimetre along from that and down a wee bit that's where the|instruct align instruct
-f|right from the edge of the letter "y"|reply_y query_yn
-g|uh-huh it's about a centimetre along from the letter "y" and about a centimetre down that's your finishing cross|reply_y instruct
+f|right from the edge of the letter y|reply_y query_yn
+g|uh-huh it's about a centimetre along from the letter y and about a centimetre down that's your finishing cross|reply_y instruct
 f|right okay|acknowledge
 g|and that's the end|instruct
 f|that's the end|acknowledge
@@ -8005,7 +8005,7 @@ f|right i get what you mean now at the top of the burnt right okay right|acknowl
 g|mmhmm and you finish your curve at where's the start you know parallel ehm just parallel no no no no just down from start|reply_y clarify
 f|right okay okay i've got it i've got it i've got it|reply_y
 g|okay and it's like parallel to the ravine the bottom of it is like well not parallel but on the same line as the ravine|align align
-f|ah right on the straight line i've it's kind of like as though it's just dubbed directly above the "a"|acknowledge explain
+f|ah right on the straight line i've it's kind of like as though it's just dubbed directly above the a|acknowledge explain
 g|what|query_w
 f|sorry on you go right i've drawn this line|reply_w explain
 g|right is it is it stopping just down from start in a straight line from start|acknowledge align
@@ -8020,13 +8020,13 @@ g|it should stop at you know doing the just in a straight line from the ravine r
 f|right i've got it|acknowledge
 g|in a straight line to like a straight line across like|instruct
 f|towards the pine grove you got a pine grove|check query_yn
-g|no uh-huh yeah yeah no not across to there vertical right a vertical line this is quite good vertical line and stop just where the "r" is in forest down from forest do you know what i mean|reply_y reply_n clarify align
+g|no uh-huh yeah yeah no not across to there vertical right a vertical line this is quite good vertical line and stop just where the r is in forest down from forest do you know what i mean|reply_y reply_n clarify align
 f|oh wait a minute a vertical line|check
 g|mmhmm|reply_y
 f|you mean i'm going down towards the ravine i'll be in the ravine|check
 g|oh no no a horizontal line right a vertical a horizontal line mmhmm|reply_n clarify clarify reply_y
 f|towards the right and where do i stop|check query_w
-g|just down from where the "r" is okay|reply_w align
+g|just down from where the r is okay|reply_w align
 f|from pine grove|check
 g|mmhmm|reply_y
 f|right okay|acknowledge
@@ -8035,12 +8035,12 @@ f|oh i'm not allowed to move right|explain explain
 g|go up again ehm you know how you got the ravine just go up and past the ravine have you got the remote village no|instruct query_yn
 f|i'm i'm really past the ravine by now i'm at the pine grove i'm at at towards the right-hand side of the page|explain explain
 g|well go back don't pass the don't pass the ravine|instruct
-f|oh the "r" of the ravine|check
+f|oh the r of the ravine|check
 g|pardon|query_w
-f|i thought you meant the "r" of the pine grove|clarify
+f|i thought you meant the r of the pine grove|clarify
 g|no|reply_n
 f|right wait a|instruct
-g|don't pass the ravine okay it's the "r" of the burnt forest i was talking about|instruct explain
+g|don't pass the ravine okay it's the r of the burnt forest i was talking about|instruct explain
 f|oh so you this line was only about two centimetres long|check
 g|uh-huh yeah|reply_y
 f|right right i'm not past the ravine|acknowledge ready explain
@@ -8075,12 +8075,12 @@ f|can you do this aye|query_yn reply_y
 g|i think you can|reply_y
 f|right|acknowledge
 g|right vertically down 'til you're like in a straight okay|instruct align
-f|right i'm at right i know what you mean now right i'm at the ravine and then i go along to where it says "r" of the ravine|ready explain reply_y explain check
-g|no you go along to where it says "r" of the burnt forest|reply_n clarify
+f|right i'm at right i know what you mean now right i'm at the ravine and then i go along to where it says r of the ravine|ready explain reply_y explain check
+g|no you go along to where it says r of the burnt forest|reply_n clarify
 f|oh right|acknowledge
 g|a horizontal line okay|clarify align
 f|right okay|reply_y
-g|just in line with the "r" of the burnt forest|clarify
+g|just in line with the r of the burnt forest|clarify
 f|oh right i've got you now right i've got that|acknowledge
 g|and then you go up a vertical line|instruct
 f|to the top of the ravine|check
@@ -8141,7 +8141,7 @@ f|to your right|check
 g|uh-huh go round it and include it in the line|reply_y clarify
 f|right i'm just drawing my line underneath the word concealed hideout now|explain
 g|oh good right you have you done that yeah drawn it underneath|acknowledge align
-f|uh-huh i've drawn my line and it's just i'm just at the down below the "t" of concealed hideout|reply_y clarify clarify
+f|uh-huh i've drawn my line and it's just i'm just at the down below the t of concealed hideout|reply_y clarify clarify
 g|oh right okay well draw a a horizontal line over have you got the boat house|acknowledge instruct query_yn
 f|uh-huh|reply_y
 g|over to the boat house right|instruct align
@@ -8168,11 +8168,11 @@ g|okay that's good right draw it over to the other have you got another boat hou
 f|i've only got one boat house|reply_w
 g|oh right well i've got two i've got one parallel to the concealed hideout well just about|acknowledge explain explain
 f|oh right i've not|acknowledge explain
-g|well what you could do is draw a line underneath the concealed hideout until you get right see the "b" of crane bay|instruct align
+g|well what you could do is draw a line underneath the concealed hideout until you get right see the b of crane bay|instruct align
 f|uh-huh|reply_y
-g|well until you stop at the "b"|instruct
+g|well until you stop at the b|instruct
 f|oh right i've gone along too far then|acknowledge explain
-g|uh-huh stop at the "b"|acknowledge instruct
+g|uh-huh stop at the b|acknowledge instruct
 f|right okay|acknowledge
 g|and then go right down horizontal i mean vertical go right down you know how you've got that have you got the crane bay have you got the actual outline of it|instruct query_yn
 f|to what uh-huh|query_w reply_y
@@ -8347,7 +8347,7 @@ g|just go sort of go down towards the bottom of the page and draw a line towards
 f|are we doing that under so i want to go down|check check
 g|no don't don't go along to the yacht club though|reply_n clarify
 f|but i want to go straight down to there|check
-g|right you go down the side of the camera shop right for about twelve centimetres and do a sort of a "u" shape for and the bottom of the "u" shape should be about three centimetres long right do you know what i'm meaning|ready clarify align
+g|right you go down the side of the camera shop right for about twelve centimetres and do a sort of a u shape for and the bottom of the u shape should be about three centimetres long right do you know what i'm meaning|ready clarify align
 f|three centimetres long|check
 g|right|reply_y
 f|and what i'm doing it at yacht club i'm going i'm going|check
@@ -8365,7 +8365,7 @@ g|right uh-huh there's a parked van|acknowledge explain
 f|right|acknowledge
 g|and you're sort of you're sort of you've worked it out already|instruct explain
 f|i've got it|acknowledge
-g|eh we're doing a "u" shape round the parked van but it's a sort of three see if you imagine a "u" right the stems of the "u" the vertical bits are sort of three centimetres between|instruct
+g|eh we're doing a u shape round the parked van but it's a sort of three see if you imagine a u right the stems of the u the vertical bits are sort of three centimetres between|instruct
 f|see if i go right down if i go right down the bottom and turn right will i miss it|query_yn
 g|yes|reply_y
 f|right okay i'll|acknowledge
@@ -8383,7 +8383,7 @@ g|from the bottom right that should be a a straight line up the way|instruct ali
 f|right okay|acknowledge
 g|okay|align
 f|i'll come along a wee bit just so i can make sure i miss that right okay|explain
-g|right okay so you've got a sort of "u" shape so far except it only|acknowledge explain
+g|right okay so you've got a sort of u shape so far except it only|acknowledge explain
 f|right okay right|acknowledge
 g|right okay|acknowledge
 f|got it mm|acknowledge acknowledge
@@ -8519,7 +8519,7 @@ g|sort of two thirds of the way along|clarify
 f|right got it|acknowledge
 g|eh right|align
 f|got you|reply_y
-g|and then you're going up about four centimetres directly north right about four centimetres okay so you should be from the you should be round about above the letter "e" or "n" of garden eh about six centimetres or something is that right|instruct align align
+g|and then you're going up about four centimetres directly north right about four centimetres okay so you should be from the you should be round about above the letter e or n of garden eh about six centimetres or something is that right|instruct align align
 f|yeah right okay fine yeah|reply_y
 g|okay|acknowledge
 f|we're not we're not bad we're a wee bit|explain
@@ -8529,17 +8529,17 @@ g|no it's it's my fault eh right so you're up there eh go right for about three 
 f|right to underneath the parked van under the parked|acknowledge check query_yn
 g|underneath the uh-huh underneath the parked van|reply_y
 f|what what letter am i under|query_w
-g|go go right you should be under the letter "d"|instruct reply_w
+g|go go right you should be under the letter d|instruct reply_w
 f|right okay|acknowledge
-g|right under the letter "d"|reply_w
-f|right i'm under "d"|acknowledge explain
+g|right under the letter d|reply_w
+f|right i'm under d|acknowledge explain
 g|right have you got a telephone box|acknowledge query_yn
 f|ehm yeah but it's away down on the right-hand side|reply_y explain
 g|right okay you're doing a massive diagonal sort of south east right|acknowledge instruct align
 f|okay|reply_y
-g|right to the bottom right to the letter "t" from where you are|instruct
-f|to the letter "t"|check
-g|to the letter "t" of telephone box|reply_y
+g|right to the bottom right to the letter t from where you are|instruct
+f|to the letter t|check
+g|to the letter t of telephone box|reply_y
 f|okay|acknowledge
 g|right and then you're just going right drawing a line right underneath as if you're underlining telephone box and back up the right-hand side up the way now i'll tell you about that in a minute|align instruct
 f|up right|acknowledge
@@ -8553,7 +8553,7 @@ g|you've got a mud hut about six centimetres above the telephone box directly ab
 f|directly above it okay|acknowledge
 g|right eh so what you're doing is sort of drawing|align instruct
 f|so i'm missing it then|check
-g|if you if you can imagine an "s" round the thatched mud hut and the telephone box right if if oh forget|instruct instruct
+g|if you if you can imagine an s round the thatched mud hut and the telephone box right if if oh forget|instruct instruct
 f|oh wow oh groovy|acknowledge acknowledge
 g|you've not got the mud huts|query_yn
 f|i've got it yeah i've got a level crossing|reply_y explain
@@ -8563,9 +8563,9 @@ g|i have not no i've not|reply_n
 f|right so i've got to miss i|check
 g|right hold on where are you just now|query_w
 f|right|acknowledge
-g|you're at the bottom of "x" oh right are you up a bit|query_w
+g|you're at the bottom of x oh right are you up a bit|query_w
 f|i i've just come up a wee bit|reply_w
-g|you've come up a wee bit well i would go up from the "x" right you're going up about three centimetres okay|acknowledge instruct align
+g|you've come up a wee bit well i would go up from the x right you're going up about three centimetres okay|acknowledge instruct align
 f|to the top of the telephone box|check
 g|to the top of the telephone box right|reply_y
 f|right fine|reply_y
@@ -8573,19 +8573,19 @@ g|and then you're sort of going diagonally across about eh i would say exactly s
 f|northwest uh-huh|acknowledge
 g|if you go exactly northwest for about three centimetres four centimetres four centimetres right|instruct
 f|yeah right|acknowledge acknowledge
-g|exactly northwest for four centimetres you should end up above the letter round about "t" or "e" of telephone box about eight centimetres above it is that right see where i am|instruct align
+g|exactly northwest for four centimetres you should end up above the letter round about t or e of telephone box about eight centimetres above it is that right see where i am|instruct align
 f|okay i've got it yeah|reply_y
-g|"t" or "e" then go have you got the east lake up at the top|align instruct query_yn
+g|t or e then go have you got the east lake up at the top|align instruct query_yn
 f|i've got the east lake yeah|reply_y
 g|you have got the east lake have you got a finish you haven't got a|check query_yn check
 f|no i don't no|reply_n
-g|right okay eh where are you just now you're at oh you're beside my thatched mud hut eh you're going up just go directly north to the side of the east lake under the letter "k" "e" you know "k" or "e" in east lake just to the edge of the east lake right|acknowledge query_w reply_w instruct instruct
-f|am i doing an "s" round telephone|check
-g|an "f"|check
-f|an "s" i've only got half an "s"|clarify explain
-g|an "s" uh-huh yeah aye you're not going the other you're aye|acknowledge reply_y acknowledge instruct
-f|right so i'm going up towards "k" or "e"|acknowledge check
-g|you're only doing "k" or "e" just directly north to "k" or "e"|instruct reply_y clarify
+g|right okay eh where are you just now you're at oh you're beside my thatched mud hut eh you're going up just go directly north to the side of the east lake under the letter k e you know k or e in east lake just to the edge of the east lake right|acknowledge query_w reply_w instruct instruct
+f|am i doing an s round telephone|check
+g|an f|check
+f|an s i've only got half an s|clarify explain
+g|an s uh-huh yeah aye you're not going the other you're aye|acknowledge reply_y acknowledge instruct
+f|right so i'm going up towards k or e|acknowledge check
+g|you're only doing k or e just directly north to k or e|instruct reply_y clarify
 f|right okay i can right|acknowledge
 g|and you're about half a centimetre away from the edge of the east lake the bottom edge of it|clarify
 f|right|acknowledge
@@ -8648,12 +8648,12 @@ g|uh-huh okay|acknowledge align
 f|okay right|reply_y
 g|and it's a vertical line yeah|check
 f|yeah mmhmm okay|reply_y acknowledge
-g|yeah right that's good and then you you draw horizontally just and stop where the "t" is of forest okay|acknowledge instruct align
+g|yeah right that's good and then you you draw horizontally just and stop where the t is of forest okay|acknowledge instruct align
 f|forest oh right okay|check acknowledge
 g|burnt forest|clarify
 f|so okay fine|acknowledge
 g|okay and then|align ready
-f|so i'm level with ravine and coming across to to the "t" of forest|check
+f|so i'm level with ravine and coming across to to the t of forest|check
 g|uh-huh that's right and then|reply_y
 f|okay|acknowledge
 g|you go up|instruct
@@ -8694,14 +8694,14 @@ g|uh-huh|reply_y
 f|the pine grove|check
 g|uh-huh okay|reply_y align
 f|and then whereabouts after that|query_w
-g|you go down until just underneath right see "p" of pine grove|instruct align
+g|you go down until just underneath right see p of pine grove|instruct align
 f|yeah|reply_y
 g|just go down|instruct
 f|so i don't i'm going down the left-hand side of pine grove|check
 g|uh-huh that's right|reply_y
-f|and to to the "p"|check
+f|and to to the p|check
 g|uh-huh okay|reply_y
-f|so i want to be right at the "p"|check
+f|so i want to be right at the p|check
 g|well sort of|reply_w
 f|right okay|acknowledge
 g|about a centimetre away from it okay|clarify
@@ -8745,11 +8745,11 @@ f|yeah|reply_y
 g|have you got one just|query_yn
 f|it's directly below me now it's to the right of the concealed hideout|reply_w
 g|eh|acknowledge
-f|i'm i'm just i'll tell you where i am i'm at the "t" of concealed hideout|explain
+f|i'm i'm just i'll tell you where i am i'm at the t of concealed hideout|explain
 g|uh-huh good good right well i've got two boathouses right i think you you've only got one 'cause lynn only had one|acknowledge acknowledge explain
 f|i've got one and it's on the right-hand side of the page ehm which|explain query_w
 g|is it just below concealed hideout|query_yn
-f|it's it's directly it's it's directly below the "t" of concealed hideout|reply_y
+f|it's it's directly it's it's directly below the t of concealed hideout|reply_y
 g|quite a bit down|query_yn
 f|ehm not that far it's about i don't know|reply_n
 g|how many|query_w
@@ -8778,16 +8778,16 @@ g|uh-huh|reply_y
 f|see if i go down to the bay|query_yn
 g|uh-huh|acknowledge
 f|and just go along the shore will i miss everything|query_yn
-g|right i'll tell you what right you're you're under "t" just now|ready align
-f|yeah i'm just at "t" uh-huh|reply_y
+g|right i'll tell you what right you're you're under t just now|ready align
+f|yeah i'm just at t uh-huh|reply_y
 g|okay|acknowledge
 f|yeah|reply_y
-g|well right see the "b" of bay|align
-f|the "b" of bay|check
+g|well right see the b of bay|align
+f|the b of bay|check
 g|uh-huh|reply_y
 f|okay|reply_y
 g|right go up right just go oh right|ready instruct
-f|head for "b" of bay|check
+f|head for b of bay|check
 g|no no no no no no no no|reply_n
 f|oh|acknowledge
 g|right ehm go underneath the word concealed bay just draw a horizontal line underneath it okay|ready instruct align
@@ -8802,8 +8802,8 @@ g|and then draw ehm go over another two centimetres|instruct
 f|okay|acknowledge
 g|okay and stop|align instruct
 f|one two right okay|acknowledge
-g|okay and then go right down and you should be like vertical with the "b" of bay|ready instruct
-f|right that's yeah that's where i am okay right so i'm coming straight straight down to the "b" of|reply_y check
+g|okay and then go right down and you should be like vertical with the b of bay|ready instruct
+f|right that's yeah that's where i am okay right so i'm coming straight straight down to the b of|reply_y check
 g|oh that's great that's great uh-huh|acknowledge reply_y
 f|bay right okay|acknowledge
 g|but not go through not go uu-uu|clarify
@@ -8829,7 +8829,7 @@ f|i want to go to the tilled land that looks quite cool|explain
 g|the what|query_w
 f|the tilled land have you got tilled land it's away up the top somewhere|reply_w query_yn
 g|oh right it's just totally out of nowhere right what you could do is you could just follow right go you know your bump know how i've told you to draw that curve|acknowledge reply_w ready instruct ready align
-f|yeah uh-huh there's a bump just above "c"|reply_y explain
+f|yeah uh-huh there's a bump just above c|reply_y explain
 g|uh-huh uh-huh|acknowledge acknowledge
 f|right okay|acknowledge acknowledge
 g|right just draw round it|ready instruct
@@ -8857,11 +8857,11 @@ f|yeah|reply_y
 g|ehm it's like|explain
 f|level with them|query_yn
 g|level with them|acknowledge
-f|on the shore below is it below any of the letters in pebbled shore like the "p" maybe|query_yn query_yn
-g|ehm it's underneath the uh-huh the "p" or the it's underneath the the "e" and the "b"|reply_w
+f|on the shore below is it below any of the letters in pebbled shore like the p maybe|query_yn query_yn
+g|ehm it's underneath the uh-huh the p or the it's underneath the the e and the b|reply_w
 f|aye i'm going to just|acknowledge
 g|so that's where the finish is|explain
-f|going to i'm just going to dodge this i'm going to do a wee "s" round here|explain
+f|going to i'm just going to dodge this i'm going to do a wee s round here|explain
 g|right okay|align acknowledge
 f|and go down to the|explain
 g|you go but don't right see your washed stones|ready align
@@ -8880,7 +8880,7 @@ g|uh-huh|acknowledge
 f|yeah yeah|acknowledge
 g|but you go round your washed stones|clarify
 f|washed stones right|explain acknowledge
-g|"e" they should be to the right|clarify
+g|e they should be to the right|clarify
 f|okay|acknowledge
 g|so you should have like you take a wide line do you know what i mean|clarify align
 f|yeah yeah i've got it uh-huh|reply_y
@@ -8927,7 +8927,7 @@ g|uh-huh uh-huh right okay|acknowledge align
 f|right okay|reply_y
 g|you've just really got a straight line down from the start missing the camera shop|instruct
 f|right aye right i've got it|acknowledge
-g|okay eh now i've got a parked van here so i'm just trying to go round it you're sort of doing a "u" shape back round past where my parked van is so just go east for about four five centimetres|instruct
+g|okay eh now i've got a parked van here so i'm just trying to go round it you're sort of doing a u shape back round past where my parked van is so just go east for about four five centimetres|instruct
 f|right okay|reply_y
 g|right so you're going aiming towards the yacht club but you're going nowhere near as far as that right|align instruct align
 f|right so i'm just like below the allotments just now|acknowledge check
@@ -8937,7 +8937,7 @@ g|all right|acknowledge
 f|just before it i'm not actually touched the allotments yet|reply_w
 g|all right that's good that's good because what you're doing is you're going up the side of the allotments|acknowledge clarify
 f|right okay i'm just|acknowledge
-g|so you're doing you're continuing that "u" shape from where you were at the start you're sort of going back up heading north towards the side of the allotments right|instruct align
+g|so you're doing you're continuing that u shape from where you were at the start you're sort of going back up heading north towards the side of the allotments right|instruct align
 f|right|reply_y
 g|see the wee black house at the left-hand side of the allotments|align
 f|am i just going straight up|check
@@ -8947,7 +8947,7 @@ g|right so you're at the you're at the|align
 f|i'm at the wee black house now at the left of the allotments|explain
 g|at the wee black house that's brilliant that's brilliant|acknowledge
 f|right|acknowledge
-g|so have you got a sort of "u"-shaped a sort of half "u" shape|align
+g|so have you got a sort of u-shaped a sort of half u shape|align
 f|yeah|reply_y
 g|right that's okay that's fine|acknowledge
 f|okay|acknowledge
@@ -8986,14 +8986,14 @@ f|and have you got a telephone box further up|query_yn
 g|i've got it aye that's a way up at the uh-huh|reply_y
 f|ah i'm just like underneath the telephone box about like about fourteen centimetres away from the telephone box|explain
 g|are you directly underneath that are you as far|check
-f|it's no no i'm underneath ah well i'm about nearly underneath the "t"|reply_w reply_w
+f|it's no no i'm underneath ah well i'm about nearly underneath the t|reply_w reply_w
 g|a wee bit aye right that's fine that's fine|acknowledge acknowledge
 f|right is that where i should be|query_yn
 g|that's great actually that's exactly it|reply_y
 f|right okay|acknowledge
 g|right you've got a disused monastery|ready check
 f|uh-huh|reply_y
-g|haven't you see from where you are just now under the "t" away down a wee bit fifteen centimetres down|check align
+g|haven't you see from where you are just now under the t away down a wee bit fifteen centimetres down|check align
 f|uh-huh|reply_y
 g|you're going up and you're just doing a wee hill over the monastery from the right of the monastery over to the left right you're just doing a big bump right over it do you see what i mean|instruct ready instruct align
 f|right so i i i go up do i go up straight first|query_yn
@@ -9009,7 +9009,7 @@ g|eh now you've got a have you got an alpine garden|query_yn
 f|uh-huh|reply_y
 g|you have right all you're doing is you're sort of doing see that wee bump you've got over the monastery at the moment|acknowledge align
 f|yeah|reply_y
-g|you're sort of doing that in reverse and going up towards the alpine garden so you do the bump in reverse and end up just going straight north up the left-hand side of the alpine garden do you see what i mean so that if you turned the sheet on its side it'd be a big "s"|instruct align instruct
+g|you're sort of doing that in reverse and going up towards the alpine garden so you do the bump in reverse and end up just going straight north up the left-hand side of the alpine garden do you see what i mean so that if you turned the sheet on its side it'd be a big s|instruct align instruct
 f|right right okay|reply_y acknowledge
 g|right|align
 f|but i've have you got a west lake|query_yn
@@ -9025,7 +9025,7 @@ g|yes that's right|reply_y
 f|right okay|acknowledge
 g|that's exactly have you got a picket fence at the top|query_yn
 f|uh-huh|reply_y
-g|you're sort of under the "n" or "c" or something of the picket fence but you're about about ten centimetres down well|clarify
+g|you're sort of under the n or c or something of the picket fence but you're about about ten centimetres down well|clarify
 f|yeah now that's|acknowledge
 g|you're just at the top left of the alpine garden|align
 f|that's right|acknowledge
@@ -9043,13 +9043,13 @@ g|your yacht club should be nothing as well at the moment that should be in the 
 f|right okay|acknowledge
 g|eh you've got the alpine garden at the top eh you're at the top left of the alpine garden right|align
 f|right that's me|reply_y
-g|you're under "n" or "c" or something like that of picket fence|align
+g|you're under n or c or something like that of picket fence|align
 f|uh-huh right|reply_y reply_y
 g|eh what you're doing now is you're going along to the right just above the top of the alpine garden whatever those if that's weeds or something eh you're going along for two to three centimetres okay|instruct align
 f|right so i'm going to the right of the alpine garden the top of it|check
 g|uh-huh to the right uh-huh the top just straight across right|reply_y reply_y
 f|right okay|acknowledge
-g|and you should be above the "d" end above the "d" of garden but you're on top of the you know|clarify
+g|and you should be above the d end above the d of garden but you're on top of the you know|clarify
 f|right that's me|acknowledge
 g|right and then you're going just due north for three another three or four centimetres right|align instruct align
 f|right eh have you got a level crossing to the right|reply_y query_yn
@@ -9071,33 +9071,33 @@ g|right okay eh now go right for about two centimetres okay|acknowledge instruct
 f|right okay|reply_y
 g|just a straight line right for two centimetres|instruct
 f|so have you got this parked van|query_yn
-g|yeah you should be under the under the letter "v" i think round about "v"|reply_y reply_w
+g|yeah you should be under the under the letter v i think round about v|reply_y reply_w
 f|what what letter right okay that's me|query_w acknowledge
 g|right okay so you're about two to three centimetres below the parked van at the moment|align
 f|uh-huh that's me|reply_y
 g|just right right you've got that point there now you've got your telephone box right|ready check
 f|aye|reply_y
-g|see the letter "t"|align
+g|see the letter t|align
 f|uh-huh|reply_y
 g|draw a line from where you are at the moment diagonally right down it's a southeast|instruct
 f|uh-huh|acknowledge
 g|it's a big massive diagonal line it's about fifteen centimetres long or something like that|instruct
 f|right down to the|check
-g|right down to the letter "t" right down to the bottom|instruct
+g|right down to the letter t right down to the bottom|instruct
 f|to the top of it or the bottom of it right okay|check acknowledge
-g|to the bottom of it sorry just underneath the letter "t" okay|clarify clarify align
+g|to the bottom of it sorry just underneath the letter t okay|clarify clarify align
 f|right that's me|acknowledge
 g|right and then all you|ready instruct
 f|this looks quite nice|explain
 g|frame it and|instruct
 f|i'm quite pleased|acknowledge
 g|oh you should have seen neil's we had to start all over again you know|explain
-f|had to do that with dawn anyway right we're at the bottom of the "t"|acknowledge ready align
-g|we're underneath the letter "t" at the moment go along just sort of underline telephone box just a a fraction underneath telephone underline it right to the letter "x"|align instruct
+f|had to do that with dawn anyway right we're at the bottom of the t|acknowledge ready align
+g|we're underneath the letter t at the moment go along just sort of underline telephone box just a a fraction underneath telephone underline it right to the letter x|align instruct
 f|right|acknowledge
 g|right|align
 f|right okay|acknowledge
-g|and you just go to the edge of the letter "x" right|instruct align
+g|and you just go to the edge of the letter x right|instruct align
 f|right|reply_y
 g|you're on the right-hand side of it|align
 f|uh-huh|reply_y
@@ -9113,13 +9113,13 @@ g|right uh-huh|reply_y
 f|away at the top of the page yeah|query_yn reply_y
 g|eh well what you're wanting to do is you see the bottom of the east lake the the line that's going down sort of diagonally sort of|align
 f|uh-huh the bottom right-hand corner|reply_y check
-g|uh-huh well you're wanting see the "k" of lake|reply_y align
+g|uh-huh well you're wanting see the k of lake|reply_y align
 f|uh-huh|reply_y
-g|you're wanting to end up just about half a centimetre away from the bottom of the lake itself but underneath the letter "k" right|instruct align
+g|you're wanting to end up just about half a centimetre away from the bottom of the lake itself but underneath the letter k right|instruct align
 f|right okay|reply_y
 g|but don't draw a straight diagonal line okay because you want to from where you are just now you're above the telephone box that right|instruct align align
 f|right uh-huh i'm above the telephone box|reply_y reply_y
-g|you're wanting to sort of go it's a sort of curve aiming to the left and then going straight north do you know what i mean it's like the left-hand side of a "u" or something like that right|instruct align
+g|you're wanting to sort of go it's a sort of curve aiming to the left and then going straight north do you know what i mean it's like the left-hand side of a u or something like that right|instruct align
 f|right|reply_y
 g|you're at the bottom of|instruct
 f|have have you got this oh you've not got this level crossing on have you|query_yn check
@@ -9127,18 +9127,18 @@ g|i've not got a level crossing no|reply_y
 f|right okay so whereabouts is this mud this thatched mud hut|acknowledge query_w
 g|eh so you're thatched mud hut it's directly above the telephone box at the moment so that's what you're trying to avoid if you can imagine a thatched mud hut sort of halfway between the telephone box and the bottom right-hand corner of the east lake right you're sort of going left|ready reply_w instruct reply_y
 f|right so i'm wanting to go left|acknowledge check
-g|and then north up to just below the "k" but on the don't go into the lake just stay outside it|clarify
+g|and then north up to just below the k but on the don't go into the lake just stay outside it|clarify
 f|right okay i kind of right i see that's that there right|acknowledge reply_y
 g|right do you sort of see where i'm going|align align
 f|i know you're going|reply_y
-g|so you should have a sort of a "u" shape there|instruct
+g|so you should have a sort of a u shape there|instruct
 f|but i've got this stupid level crossing|explain
 g|oh forget it oh you can you can walk across that|instruct
 f|right i'll just go up this side of it right i think i've missed it|acknowledge reply_w
 g|right right okay|align align
 f|right|reply_y
 g|and then you're so you're just underneath the bottom|align
-f|i'm about i'm about under the "k"|align
+f|i'm about i'm about under the k|align
 g|right that's right|reply_y
 f|i'm not in the lake though|align
 g|that's right just you know the bottom of the lake it's sort of going diagonally|reply_y align
@@ -9173,17 +9173,17 @@ g|no|reply_n
 f|oh right have you got the rope bridge|acknowledge query_yn
 g|uh-huh|reply_y
 f|right where do i go across to|acknowledge query_w
-g|right you're just heading down to the left diagonally down to the bottom of the extinct volcano 'til you're about a centimetre left of the "e" in extinct volcano|clarify
+g|right you're just heading down to the left diagonally down to the bottom of the extinct volcano 'til you're about a centimetre left of the e in extinct volcano|clarify
 f|ah|acknowledge
-g|okay see your "e"|ready align
+g|okay see your e|ready align
 f|mmhmm|reply_y
 g|right go along about a centimetre and draw a dot|ready clarify
 f|to the left|check
 g|uh-huh to the left|reply_y
-f|above the "e"|check
+f|above the e|check
 g|no|reply_n
 f|oh right|acknowledge
-g|just across from the "e"|clarify
+g|just across from the e|clarify
 f|okay|acknowledge
 g|okay|align
 f|just a centimetre and draw a dot|check
@@ -9200,7 +9200,7 @@ f|to where|query_w
 g|to that dot that i've just given you about a centimetre from the extinct volcano|reply_w
 f|right oh right|acknowledge acknowledge
 g|okay|align
-f|what to the left of the "e"|check
+f|what to the left of the e|check
 g|uh-huh|reply_y
 f|oh right okay|acknowledge
 g|so you're going down that way and right keep on going down 'til you're about three centimetres from the bottom of the page|instruct
@@ -9265,9 +9265,9 @@ g|and stop|instruct
 f|okay|acknowledge
 g|right and then you're going to keep on going right but you're going to go straight for about six centimetres have you got a collapsed shelter|ready instruct query_yn
 f|uh-huh|reply_y
-g|right just under the "o" of the collapsed shelter you're going straight right|ready instruct
+g|right just under the o of the collapsed shelter you're going straight right|ready instruct
 f|oh right so oh right|acknowledge
-g|until you're underneath the "o" of the collapsed shelter you're about two centimetres below the "o" of the collapsed shelter actually|instruct
+g|until you're underneath the o of the collapsed shelter you're about two centimetres below the o of the collapsed shelter actually|instruct
 f|is there not a squiggly line there 'cause i've got a machete in between the rope bridge and the collapsed shelter i couldn't go straight across|check explain
 g|uh-huh that's why you're going down|reply_y clarify
 f|oh right okay|acknowledge
@@ -9281,7 +9281,7 @@ g|and instead of going straight across to the collapsed shelter|clarify
 f|uh-huh|acknowledge
 g|i'm taking you down right and then across|clarify
 f|okay|acknowledge
-g|okay i'm taking you down a wee bit down a wee "u" shape|clarify
+g|okay i'm taking you down a wee bit down a wee u shape|clarify
 f|is it not a couple of inches|check
 g|aye it's a couple of inches across to the collapsed shelter but you're only going down about a couple of er you're only going down about an inch|reply_y clarify
 f|i'm going down more than that|explain
@@ -9292,24 +9292,24 @@ f|okay|align
 g|then you've gone along right|align
 f|uh-huh|reply_y
 g|until you're about|align
-f|to the "o" of the collapsed shelter|reply_w
-g|uh-huh but you're down below the "o"|acknowledge align
+f|to the o of the collapsed shelter|reply_w
+g|uh-huh but you're down below the o|acknowledge align
 f|uh-huh okay right|reply_y
 g|okay|align
 f|okay i'll draw in that|reply_y acknowledge
 g|okay|align
 f|uh-huh|reply_y
-g|right now i want you to go right through the "o" of the collapsed shelter|ready instruct
+g|right now i want you to go right through the o of the collapsed shelter|ready instruct
 f|right through it|check
 g|uh-huh well you know what i mean you know as though you're going up that way|reply_y clarify
 f|uh-huh okay|acknowledge acknowledge
 g|and i want you to go up there for about three inches|instruct
-f|what am i oh right am i actually going through the letter "o"|check
+f|what am i oh right am i actually going through the letter o|check
 g|uh-huh|reply_y
 f|okay right|acknowledge
 g|so i know exactly where you are|explain
 f|okay right|acknowledge
-g|okay go through the "o" of the collapsed shelter|align instruct
+g|okay go through the o of the collapsed shelter|align instruct
 f|uh-huh|acknowledge
 g|and go up have you got a saxon barn to your left hand side|instruct query_yn
 f|uh-huh uh-huh|reply_y reply_y
@@ -9321,7 +9321,7 @@ g|okay|align
 f|okay|reply_y
 g|and now you now you're up here|instruct
 f|mmhmm|acknowledge
-g|now i want you to right you're going to see at the "n" of the saxon barn|instruct align
+g|now i want you to right you're going to see at the n of the saxon barn|instruct align
 f|mmhmm|reply_y
 g|right if you want to draw a dot there|instruct
 f|okay|acknowledge
@@ -9341,15 +9341,15 @@ g|okay|align
 f|it's just a like is it a kind of curvy hump|check
 g|uh-huh|reply_y
 f|okay then|acknowledge
-g|you're going up and then you're going down just to underneath this point "n"|clarify
+g|you're going up and then you're going down just to underneath this point n|clarify
 f|right okay|acknowledge
 g|underneath the saxon barn okay|clarify align
 f|okay|reply_y
 g|that'll probably miss your crevasse|explain
 f|uh-huh|acknowledge
-g|right you're underneath the "n" of the saxon barn now|align
+g|right you're underneath the n of the saxon barn now|align
 f|uh-huh|reply_y
-g|right just underline saxon barn to the go left until you're underneath the "s"|ready instruct
+g|right just underline saxon barn to the go left until you're underneath the s|ready instruct
 f|okay right okay|acknowledge acknowledge
 g|okay right have you got a group of pelicans|align query_yn
 f|no|reply_n
@@ -9359,7 +9359,7 @@ g|well to the left i've got a bunch of pelicans|explain
 f|right okay|acknowledge
 g|so do you see what i'm going to you've got the white mountain up above the saxon barn|instruct query_yn
 f|uh-huh|reply_y
-g|well what we're going to do is we're going down and we're doing a "u" shape to miss these pelicans|instruct
+g|well what we're going to do is we're going down and we're doing a u shape to miss these pelicans|instruct
 f|okay|acknowledge
 g|so what you're doing is you're|instruct
 f|are they in a straight are they like horizontal to the saxon barn|check
@@ -9375,7 +9375,7 @@ g|and then like you make a triangle out of it|align
 f|right okay|reply_y
 g|that's where the pelicans are|clarify
 f|okay right okay|acknowledge
-g|so you want to draw a "u" shape underneath these pelicans|instruct
+g|so you want to draw a u shape underneath these pelicans|instruct
 f|do you|check
 g|so see from where you are at the saxon barn|align
 f|uh-huh|reply_y
@@ -9385,7 +9385,7 @@ g|okay and then you go along for about an inch|align instruct
 f|mmhmm mmhmm|reply_y acknowledge
 g|and then we're going to go straight up to the white mountain|instruct
 f|okay|acknowledge
-g|okay so you've made a kind of "u" shape|align
+g|okay so you've made a kind of u shape|align
 f|uh-huh|reply_y
 g|to miss these pelicans|align
 f|uh-huh|reply_y
@@ -9459,7 +9459,7 @@ g|you've done that|align
 f|uh-huh|reply_y
 g|and then go along right as though you're underlining the secret valley|instruct
 f|right okay|acknowledge
-g|and see just about a centimetre from the "y"|align
+g|and see just about a centimetre from the y|align
 f|uh-huh|reply_y
 g|along to your right|align
 f|uh-huh|reply_y
@@ -9468,7 +9468,7 @@ f|is it|check
 g|uh-huh|reply_y
 f|is that it|check
 g|that's it|reply_y
-f|just a centimetre from the "y" on the right|check
+f|just a centimetre from the y on the right|check
 g|uh-huh|reply_y
 f|okay|acknowledge
 g|and that's your finish|clarify
@@ -9476,31 +9476,31 @@ g|okay paul we're starting top left|ready instruct
 f|right you've got a diamond mine|align
 g|i've got a diamond mine|reply_y
 f|okay|acknowledge
-g|okay drop straight down to the "d" of|instruct
+g|okay drop straight down to the d of|instruct
 f|right that's okay right okay right|acknowledge
-g|okay this is very difficult drop drop straight straight down the side of the diamond mine to to the "d" of diamond mine|acknowledge explain instruct
+g|okay this is very difficult drop drop straight straight down the side of the diamond mine to to the d of diamond mine|acknowledge explain instruct
 f|okay okay just below it|acknowledge acknowledge check
 g|just below it yeah and then you're going to go right drawing a line underneath diamond mine|reply_y instruct
 f|hold on hold on my pen's run out oh no it's working|explain
 g|okay you're going to draw you're going to underline diamond mine|instruct
-f|underline it right so right underline it along to the "e"|acknowledge check
-g|underline it underline it along to the "e"|clarify
+f|underline it right so right underline it along to the e|acknowledge check
+g|underline it underline it along to the e|clarify
 f|of diamond pen's not working very well|check explain
 g|okay|align
 f|right|reply_y
-g|right and continue the line until you're until you're directly below the "h" of highest viewpoint|instruct
+g|right and continue the line until you're until you're directly below the h of highest viewpoint|instruct
 f|of highest viewpoint right so i've just got an an east line a right-hand a line going to the right all the way from|check acknowledge check
-g|a line going going to the right towards the "h" and stop at the "h" under no underneath the "h" don't|clarify clarify
+g|a line going going to the right towards the h and stop at the h under no underneath the h don't|clarify clarify
 f|okey-doke okay but i'm out|acknowledge acknowledge explain
 g|just go go right don't go up yet|clarify
-f|right i'm about two centimetres from the "h" below it|acknowledge check
-g|yeah you're below the "h" yeah|reply_y
+f|right i'm about two centimetres from the h below it|acknowledge check
+g|yeah you're below the h yeah|reply_y
 f|right below it okay|acknowledge
 g|okay then go straight up to the seagulls|acknowledge instruct
 f|straight up to the seagulls which one the top one|acknowledge query_w
 g|there's see how there's seagulls on the top left of the mountain there|align
 f|okay|acknowledge
-g|just just bypassing the just skirting the "h" go straight up to the seagulls|instruct
+g|just just bypassing the just skirting the h go straight up to the seagulls|instruct
 f|okay|acknowledge
 g|okay and then turn right and and go along the the|align instruct
 f|so i'm just going over the top of the hill|check
@@ -9545,7 +9545,7 @@ f|right skirt it to the left or right|acknowledge query_w
 g|'cause i i don't have an overgrown gully|explain
 f|okay|acknowledge
 g|so skirt it and and come back so that you're directly above the right-hand wheel of the safari truck|instruct
-f|okay right above where that wee "t" sort of handlebar type thing is|acknowledge check
+f|okay right above where that wee t sort of handlebar type thing is|acknowledge check
 g|yeah yeah that one yeah|reply_y
 f|of the safari truck right okay|check acknowledge
 g|got it uh-huh|align
@@ -9554,7 +9554,7 @@ g|okay|align
 f|okay i'm right above the|reply_y explain
 g|right you're right you now need to turn left|ready instruct
 f|okay i'm directly in line with the field station at this|explain
-g|right that's fine okay you you want to turn left and head towards the field station but don't right wait a minute and and stop when you are at er when you're directly below the "t" of highest viewpoint the the "t" of highest|acknowledge instruct
+g|right that's fine okay you you want to turn left and head towards the field station but don't right wait a minute and and stop when you are at er when you're directly below the t of highest viewpoint the the t of highest|acknowledge instruct
 f|right okay|acknowledge
 g|stop|instruct
 f|so just doing a straight line|check
@@ -9567,7 +9567,7 @@ f|okay|align
 g|ehm okay now you're aye just wait a minute i'm just at a complete blank where we are right we're|ready ready align explain explain
 f|eh we're just at the safari truck the top left-hand corner of it|explain
 g|you're just at the you're just at the left of the right okay ehm you|explain acknowledge ready
-f|under "t"|explain
+f|under t|explain
 g|you don't have a field station in the middle do you|query_yn
 f|no i don't|reply_n
 g|you've got a banana tree|query_yn
@@ -9633,7 +9633,7 @@ f|mmhmm so have i|acknowledge explain
 g|and that's the final that's the final obstacle on my map|explain
 f|right okay so i'm at the bottom of the giraffes just now|acknowledge check
 g|you're at the bottom of the giraffes|reply_y
-f|i'm in line with the letter "s" of giraffes that's where my last line is|explain
+f|i'm in line with the letter s of giraffes that's where my last line is|explain
 g|yeah that's fine right basically the the great lake's down at the bottom|acknowledge explain
 f|mmhmm left-hand side|acknowledge align
 g|so you basically all you have to do is head left towards the the bottom of the great lake and go underneath the great lake|reply_w reply_w
@@ -10210,8 +10210,8 @@ g|well you slope down with the pine forest on your right|instruct
 f|pine forest on my right|check
 g|aha so don't go round the pine forest just like pass down by it|instruct
 f|so i'm cut right okay|check acknowledge
-g|right and then just where the word pine forest is just stop at the "p"|align align instruct
-f|right right stop at the "p" right|acknowledge acknowledge acknowledge
+g|right and then just where the word pine forest is just stop at the p|align align instruct
+f|right right stop at the p right|acknowledge acknowledge acknowledge
 g|right and then sort of loop round a wee bit more don't don't draw your line in the same angle sort of make it a bit flatter and then draw another wee loop|align instruct
 f|a bit flatter what on the same does this have have i to cross a stream|check query_yn
 g|what|query_w
@@ -10240,13 +10240,13 @@ g|all right right just come in two centimetres towards the middle|acknowledge re
 f|okay|acknowledge
 g|from the bakery|instruct
 f|right|acknowledge
-g|right and then are you sort of above the "e" in crane bay|align
+g|right and then are you sort of above the e in crane bay|align
 f|yes|reply_y
 g|right well go down towards the coast|acknowledge instruct
 f|alright|acknowledge
 g|right and then follow the crane bay round the coast|align instruct
 f|okay what's the direction|acknowledge query_w
-g|to the to the left it's towards the "c" of crane bay|clarify
+g|to the to the left it's towards the c of crane bay|clarify
 f|okay right|acknowledge
 g|right and eh then it's sort of have you got wheatfields|align instruct query_yn
 f|yes but they're up the top|reply_y explain
@@ -10375,14 +10375,14 @@ g|now you should be going along the bottom of the paper now|align
 f|yes|reply_y
 g|now do you is there a cattle ranch|query_yn
 f|no|reply_n
-g|"o" "k" corral no|query_yn acknowledge
+g|o k corral no|query_yn acknowledge
 f|no|reply_n
 g|well there's obviously you've no got a cattle ranch|ready explain
 f|mmhmm|reply_y
 g|so you head for the fort|instruct
 f|head for the fort|acknowledge
 g|uh-huh|acknowledge
-f|for the "u" "s" cavalry|explain
+f|for the u s cavalry|explain
 g|i think the apaches will be after you so you better hurry|explain
 f|okay|acknowledge
 g|right and the buffalo and all|ready explain
@@ -10401,7 +10401,7 @@ g|mmhmm alles gemacht|reply_y explain
 f|i want to know why i didnae get in the saloon bar|explain
 g|right you start at the top left|instruct
 f|uh-huh|acknowledge
-g|right eh right right you've got cliffs to the right so you sort of slope down towards the "c" of cliffs|align ready instruct
+g|right eh right right you've got cliffs to the right so you sort of slope down towards the c of cliffs|align ready instruct
 f|mmhmm|acknowledge
 g|right and then underneath the you don't have a forge underneath the cliff what is there nothing|align query_yn
 f|just says sandstone cliffs|reply_w
@@ -10418,7 +10418,7 @@ f|right|acknowledge
 g|but it's like but to the left of the pine tree and below the cliffs right so it's like a loop|explain
 f|mmhmm|acknowledge
 g|okay so you're ending up just like to the left of the old pine tree|align instruct
-f|i'm directly under the "b" of green bay up here|explain explain
+f|i'm directly under the b of green bay up here|explain explain
 g|oh it's upside down my crane bay's at the bottom right|explain explain
 f|green bay i green bay i said|clarify
 g|i haven't got one|explain
@@ -10435,7 +10435,7 @@ g|right then have you got a pine forest on the right|align query_yn
 f|uh-huh|reply_y
 g|yeah|check
 f|uh-huh|reply_y
-g|right slope down towards the "p" of pine forest|ready instruct
+g|right slope down towards the p of pine forest|ready instruct
 f|i don't go round it i've i i don't go above it|check
 g|no no just keep the pine forest at it outwith it|reply_y clarify
 f|right|acknowledge
@@ -10443,7 +10443,7 @@ g|right and then below that what've you got|align query_w
 f|a forest stream|reply_w
 g|right so you right i haven't got a forest stream right so|instruct explain
 f|right i've got a bakery|explain
-g|uh-huh right so like you've got to eventually right see from the "p" of the pine forest you're going to go out in a sort of wee lump like a nose|acknowledge ready instruct
+g|uh-huh right so like you've got to eventually right see from the p of the pine forest you're going to go out in a sort of wee lump like a nose|acknowledge ready instruct
 f|round the bakery|check
 g|no but right first before you come to the bakery do another wee lump|reply_n clarify
 f|why|query_w
@@ -10461,11 +10461,11 @@ g|right right i've got a canal there have you|align explain query_yn
 f|right no|acknowledge reply_n
 g|right okay right see after your two centimetres you should be above have you got crane bay|acknowledge align query_yn
 f|uh-huh|reply_y
-g|above the "e" in crane bay|align
+g|above the e in crane bay|align
 f|oh well i'm miles above that right|reply_y
 g|right|align
 f|right right|acknowledge reply_y
-g|so you go down towards "e"|instruct
+g|so you go down towards e|instruct
 f|right|acknowledge
 g|down to the coast right then you follow the coastline round|instruct align instruct
 f|how far|query_w
@@ -10477,11 +10477,11 @@ g|vertically right just about where about where it slopes down|reply_w
 f|mmhmm|acknowledge
 g|right and then eh have you got wheatfields to the left of that|align query_yn
 f|dead high up to the left|check
-g|no sort of in line with the "n" and the "e" of crane bay|reply_n clarify
+g|no sort of in line with the n and the e of crane bay|reply_n clarify
 f|no|reply_n
 g|oh right okay well i have right so just go down have you got a rocket warehouse|acknowledge explain instruct query_yn
 f|uh-huh|reply_y
-g|right go slope down and then above right you slope down to maybe two centimetres above the rocket warehouse and two centimetres in from the bay just say in line with the "c"|instruct
+g|right go slope down and then above right you slope down to maybe two centimetres above the rocket warehouse and two centimetres in from the bay just say in line with the c|instruct
 f|oh right|acknowledge
 g|right a wee diagonal line there and then you go horizontally across the top of the rocket warehouse|instruct instruct
 f|right|acknowledge
@@ -10559,7 +10559,7 @@ f|okay|acknowledge
 g|okay do you come to another fenced meadow|align query_yn
 f|does that not i'm going to be crossing my path see when it see when you said the abandoned cottage|check explain align
 g|yes|reply_y
-f|so you go round the the side of the abandoned cottage where the "a" of the abandoned is|check
+f|so you go round the the side of the abandoned cottage where the a of the abandoned is|check
 g|yeah no you're round the other|reply_y reply_n explain
 f|the other side oh dear|acknowledge
 g|the abandoned cottage should always be on your left|explain
@@ -10903,7 +10903,7 @@ f|uh-huh right|acknowledge acknowledge
 g|should have come to the finish|instruct
 f|i think so|acknowledge
 g|yeah|acknowledge
-f|looks like your route home from the "q" "m" on a thursday night that's that i think then|explain acknowledge
+f|looks like your route home from the q m on a thursday night that's that i think then|explain acknowledge
 g|yeah|acknowledge
 g|right ehm starting above the stony desert ehm move downwards to the right to the sorry to the left move downwards to the left|ready instruct instruct
 f|straight down|check
@@ -11171,11 +11171,11 @@ g|right come to the left|ready instruct
 f|right so i go underneath the cliffs|ready check
 g|no don't go underneath the cliffs|reply_n
 f|no no right|check acknowledge acknowledge
-g|no no no it's like a backward "s" shape you're forming|reply_n instruct
+g|no no no it's like a backward s shape you're forming|reply_n instruct
 f|mm yeah think i know|acknowledge
 g|right|align
 f|yeah okay|reply_y
-g|so at at the bottom of the sort of backward "s" have you got that far|ready instruct align
+g|so at at the bottom of the sort of backward s have you got that far|ready instruct align
 f|i don't know|reply_w
 g|right okay right from the start you're going to go down slightly to the right and form a curve an outward curve|ready instruct
 f|to the right to the right okay|acknowledge
@@ -11443,13 +11443,13 @@ g|okay you're starting at the ehm left-hand side of the cliffs|ready instruct in
 f|yeah i've got a start point|acknowledge explain
 g|right got start point|check
 f|mmhmm|reply_y
-g|right oh you're going to do a backward "s" okay you're going to do a backward "s" you|acknowledge instruct align instruct
+g|right oh you're going to do a backward s okay you're going to do a backward s you|acknowledge instruct align instruct
 f|right|acknowledge
 g|right you're going to go down slightly for about a centimetre|ready instruct
-f|is this before or after the backward "s"|query_w
+f|is this before or after the backward s|query_w
 g|this is before it|reply_w
 f|right|acknowledge
-g|i'm explaining how to do the backward "s"|explain
+g|i'm explaining how to do the backward s|explain
 f|right go downwards for about a centimetre|ready check check
 g|for a centimetre right you're going to ehm follow ehm a line it's diagonal it's like a five o'clock line do you know what i'm talking about|reply_y instruct instruct align
 f|yeah|reply_y
@@ -11867,7 +11867,7 @@ g|sort of nearly the middle of the wood but not quite down a bit in the middle|i
 f|mmhmm|acknowledge
 g|right now go down and round the forked stream|ready instruct
 f|quite a lot|query_yn
-g|round the forked stream 'til you come to like about the "m" in stream now do you have farmed land|reply_w ready query_yn
+g|round the forked stream 'til you come to like about the m in stream now do you have farmed land|reply_w ready query_yn
 f|nope|reply_n
 g|do you have a dead tree|query_yn
 f|yeah|reply_y
@@ -13103,7 +13103,7 @@ f|no|reply_n
 g|no|acknowledge
 f|i'm i'm at the moment i'm underneath overnight accommodation and just almost in the i'm just in the beginning of the meadow|explain
 g|i don't have that i don't have overnight accommodation|explain explain
-f|right well that's just eh if you take the the left of the meadow and go straight up to eh then the overnight accommodation is straight up from the left of the meadow and it's just slightly above the well it's actually in a line with the start writing if you put a wee "x" there for overnight accommodation|ready explain instruct
+f|right well that's just eh if you take the the left of the meadow and go straight up to eh then the overnight accommodation is straight up from the left of the meadow and it's just slightly above the well it's actually in a line with the start writing if you put a wee x there for overnight accommodation|ready explain instruct
 g|yeah well that's that'll be that's probably where you should go then if that's overnight accommodation probably want go there|ready instruct instruct
 f|oh where's your map say to go|ready query_w
 g|it doesn't say go anywhere it just it turns turns northwards|reply_w
@@ -13380,7 +13380,7 @@ f|past the gazelles|check
 g|at the what|query_w
 f|gazelles i've got they're about halfway down that diagonal line doesn't matter right i'm at the fallen pillars|reply_w explain ready explain
 g|fallen pillars|acknowledge
-f|just underneath the "s"|explain
+f|just underneath the s|explain
 g|fallen pillars okay you have to go right from there right right have you got ancient ruins|acknowledge ready instruct query_yn
 f|i've got ruined city it's probably the same thing|reply_w explain
 g|well just go right to the top there from there you have to go up to the ancient end|ready instruct instruct
@@ -13810,7 +13810,7 @@ g|right now you want to keep curving down to well basically keep curving down 't
 f|a what|query_w
 g|you've not got a swan pond|check
 f|no|reply_n
-g|right well you want to keep curving down you're at the bottom right of the noose you want to curve down so you're just ehm sort of a few centimetres five centimetres from maybe above the end you know the writing at the bottom the "n" "a" "q" "c" "6" stuff|ready instruct align
+g|right well you want to keep curving down you're at the bottom right of the noose you want to curve down so you're just ehm sort of a few centimetres five centimetres from maybe above the end you know the writing at the bottom the n a q c 6 stuff|ready instruct align
 f|yeah|reply_y
 g|you want to be just above that and your level is about roughly the middle of the saloon bar has your level|instruct
 f|right i'm there|acknowledge
@@ -13827,8 +13827,8 @@ f|right|acknowledge
 g|and from there you want to curve eh so you're underneath the saloon bar|instruct
 f|underneath it|check
 g|yeah|reply_y
-f|right i'm underneath the "o"|acknowledge explain
-g|and then right you're underneath the "o" right well basically this is the bit i messed up a bit last time the finish is just keeping going to your left and curving up past the saloon bar and it's a few it's about three or maybe four centimetres out five centimetres out from the left-hand side of your page and it's just above the roof of the saloon bar and that's the finish|ready acknowledge ready explain instruct
+f|right i'm underneath the o|acknowledge explain
+g|and then right you're underneath the o right well basically this is the bit i messed up a bit last time the finish is just keeping going to your left and curving up past the saloon bar and it's a few it's about three or maybe four centimetres out five centimetres out from the left-hand side of your page and it's just above the roof of the saloon bar and that's the finish|ready acknowledge ready explain instruct
 g|right ehm have you got the start yeah|ready query_yn
 f|yeah|reply_y
 g|at the sandy shore|query_yn
@@ -14045,9 +14045,9 @@ g|right what you you do is go about two centimetres up diagonally from where you
 f|mmhmm|acknowledge
 g|right go up about two centimetres diagonally|ready instruct
 f|mmhmm|acknowledge
-g|and then 'til and then straight up to the lake you should be just about under the "e" of the lake|ready instruct
-f|under the "e" of the lake|check
-g|under "e" it says east lake|clarify
+g|and then 'til and then straight up to the lake you should be just about under the e of the lake|ready instruct
+f|under the e of the lake|check
+g|under e it says east lake|clarify
 f|okay yeah fine|acknowledge
 g|right at the bottom of the lake|ready instruct
 f|mmhmm|acknowledge
@@ -14202,7 +14202,7 @@ f|oh right so it's there just makes a slight|acknowledge explain
 g|so all that that you've got going up past the gallows in|explain
 f|it is rubbish|explain
 g|everything is just the tourist route right so|explain acknowledge
-g|right greg you've got the start with the "x"|ready align
+g|right greg you've got the start with the x|ready align
 f|top left-hand corner|check
 g|yeah|reply_y
 f|yes|reply_y
@@ -14247,10 +14247,10 @@ f|mmhmm|acknowledge
 g|and you want to come across you want to come down about two inches again just below where it says eh seven beeches|instruct
 f|right|acknowledge
 g|well that'll be about a centimetre below the beech trees|explain
-f|mmhmm so finish up next to the "s" of seven|acknowledge check
+f|mmhmm so finish up next to the s of seven|acknowledge check
 g|basically yes|reply_y
 f|okay|acknowledge
-g|right on my drawing i've got a chapel that's about an inch long on the on the map it starts directly below the "s" and eh we've got to go round this in sort of a circular direction you're going to be moving east and then back and finishing about under the second beech tree the right-hand beech tree so you want to what you want to do is you're going down about two inches again but you've got a eh a net move east of about an inch so from the "s" you've got about two inches down and one inch two inches south and about one inch east and you want to come round eh about about one inch one inch east and one inch south and do a curve|explain instruct
+g|right on my drawing i've got a chapel that's about an inch long on the on the map it starts directly below the s and eh we've got to go round this in sort of a circular direction you're going to be moving east and then back and finishing about under the second beech tree the right-hand beech tree so you want to what you want to do is you're going down about two inches again but you've got a eh a net move east of about an inch so from the s you've got about two inches down and one inch two inches south and about one inch east and you want to come round eh about about one inch one inch east and one inch south and do a curve|explain instruct
 f|curve that one|check
 g|right curve it and then you want to go in a southwest of there like direction until you meet the eh the what i what i i initially said okay this is complicated|reply_y instruct align explain
 f|how about|query_w
@@ -14269,7 +14269,7 @@ f|to finish under the second beech tree i would have to go southeast if i only m
 g|well make it one and a half inch sorry one and a half inch east|clarify
 f|what's one and a half|query_w
 g|you what you want to do is you want to clear the eh first movement round the chapel will have to clear the beech trees and then come down again to under the first ts on the right-hand beech tree|clarify
-f|right i'll try and describe it to you what i think i've come down from to the "s" i'm at the "s" just now|ready explain explain
+f|right i'll try and describe it to you what i think i've come down from to the s i'm at the s just now|ready explain explain
 g|right|acknowledge
 f|of seven i'll continue down but curving round to my right|explain
 g|yeah|acknowledge
@@ -14300,19 +14300,19 @@ g|left-hand side whitewashed eh well we're going we're going to go round the rig
 f|right|acknowledge
 g|okay so you want to come do you have crane bay|align instruct query_yn
 f|yes|reply_y
-g|well what my map does it does this test tube thing round the reclaimed fields then it heads south towards the you've got a lower right-hand tip and then you've got two tips off crane bay on the right-hand side which are just about on the same level can you see that just above the "b" of crane bay so i want to come round the reclaimed fields and you're heading west and then you head south and you follow the line of crane bay yeah|instruct explain align instruct align
+g|well what my map does it does this test tube thing round the reclaimed fields then it heads south towards the you've got a lower right-hand tip and then you've got two tips off crane bay on the right-hand side which are just about on the same level can you see that just above the b of crane bay so i want to come round the reclaimed fields and you're heading west and then you head south and you follow the line of crane bay yeah|instruct explain align instruct align
 f|right okay so will i move down to nearer reclaimed fields|acknowledge query_yn
 g|move down to nearer reclaimed fields go round it|reply_y instruct
 f|right right under what letter will i finish the test tube shape|acknowledge query_w
-g|eh just past the "r" just past the the drawing of the reclaimed fields|reply_w
+g|eh just past the r just past the the drawing of the reclaimed fields|reply_w
 f|that that would be me right over at the whitewashed cottage then next to that|explain
 g|just to the left-hand side well don't go that far then come about an inch before it|reply_w instruct
-f|right and it's that'll be about under the the "c" of reclaimed|acknowledge check
+f|right and it's that'll be about under the the c of reclaimed|acknowledge check
 g|okay that'll do fine yes|reply_y
 f|right|acknowledge
 g|have you got that|align
 f|uh-huh|reply_y
-g|well just below that south of that there's a point just above the "b" of crane bay|explain
+g|well just below that south of that there's a point just above the b of crane bay|explain
 f|mmhmm like a wee sort of an a wee bay bit in it|acknowledge check check
 g|a wee point there's a a smiley face and then there's a|clarify explain
 f|there's no smiley face|reply_n
@@ -14393,7 +14393,7 @@ f|right|acknowledge
 g|and then you want to go up to the the mid portion of the chestnut tree to finish just below where the the eh the leaf-line starts|instruct
 f|over at the tree itself|query_yn
 g|well you're about half an inch away from it|reply_w
-f|so i'm here just now above the "c" of chestnut|ready explain
+f|so i'm here just now above the c of chestnut|ready explain
 g|yeah you want to go up like about|acknowledge clarify
 f|due north|check
 g|due north about half just where the wee bump in the tree is|clarify
@@ -14440,7 +14440,7 @@ g|right|acknowledge
 f|and i've got a waterfall to the left of the granite quarry|explain
 g|i've got a waterfall as well|explain
 f|so you want to go round it|check
-g|well you curve right round it and then down so it's like a "u"-shape curve you curve round and down over the top of the granite quarry|clarify
+g|well you curve right round it and then down so it's like a u-shape curve you curve round and down over the top of the granite quarry|clarify
 f|round right|check acknowledge
 g|and then|instruct
 f|to the bottom of the waterfall|query_yn
@@ -14466,7 +14466,7 @@ g|right then you're going north|acknowledge instruct
 f|uh right|acknowledge
 g|you miss it by about two inches then you go have you got cornfields at the top of the page|instruct query_yn
 f|yeah|reply_y
-g|you go along to about the word the letter "n" below the cornfields|instruct
+g|you go along to about the word the letter n below the cornfields|instruct
 f|how far below them should i be about an inch|query_yn
 g|er about an inch and a half somewhere around there er and then you you cut down about er southeast across the page|reply_w instruct
 f|to where lion country|query_yn
@@ -14520,10 +14520,10 @@ g|to that to that line and then a cut up north past the the limestone cliffs and
 f|so from fallen cairn you want me to go north|ready check
 g|you want to get north somehow up to about|reply_y instruct
 f|yeah i can do that|acknowledge
-g|i start going parallel along i mean skirting along east lake about the line comes up to about the "a" below the "a" and where the east lake's written and then go i skirt along the lake to the finish|instruct instruct
+g|i start going parallel along i mean skirting along east lake about the line comes up to about the a below the a and where the east lake's written and then go i skirt along the lake to the finish|instruct instruct
 f|yeah so north up to the bottom right-hand corner of east lake if i can do that yeah|acknowledge check
-g|mm up to about the "k" whenever you can get there|reply_w
-f|so right i'm not going through the lion country that way so it's just off north for me right i'm at just below the "k" and i skirt along east lake|ready explain ready check
+g|mm up to about the k whenever you can get there|reply_w
+f|so right i'm not going through the lion country that way so it's just off north for me right i'm at just below the k and i skirt along east lake|ready explain ready check
 g|uh skirt along east lake to the finish which is just|reply_y
 f|just|acknowledge
 g|right|align
@@ -14544,7 +14544,7 @@ g|go west|instruct
 f|okey-dokey|acknowledge
 g|until you've just got past the edge of the crest falls|instruct
 f|right|acknowledge
-g|and then come down until you reach a an angle maybe just past south towards west slightly past until you reach the bottom of crest falls and a level with the "c" and maybe about an inch to west of the "c"|ready instruct
+g|and then come down until you reach a an angle maybe just past south towards west slightly past until you reach the bottom of crest falls and a level with the c and maybe about an inch to west of the c|ready instruct
 f|mm okey-dokey|acknowledge acknowledge
 g|right and then go due west until about two centimetres from the edge of the paper|align instruct
 f|right|acknowledge
@@ -14588,7 +14588,7 @@ g|and then back down at the same angle to well the opposite angle anyway to get 
 f|right|acknowledge
 g|and then go straight across the bottom of the abandoned truck|instruct
 f|mmhmm|acknowledge
-g|until you're just below the "a"|instruct
+g|until you're just below the a|instruct
 f|right|acknowledge
 g|now have you got baboons|ready query_yn
 f|no|reply_n
@@ -14600,7 +14600,7 @@ g|and then due west for about two inches uh then|ready instruct ready
 f|right|acknowledge
 g|do you have a white mountain further up|query_yn
 f|yes uh-huh|reply_y reply_y
-g|right now well the best thing to do first of all would be come back up to where you were at the "a" and the come up to make that a "u" shape|acknowledge ready instruct
+g|right now well the best thing to do first of all would be come back up to where you were at the a and the come up to make that a u shape|acknowledge ready instruct
 f|mmhmm|acknowledge
 g|and then draw a line straight between this point and maybe about half a centimetre to the west of the bottom of the white mountain|ready instruct
 f|right|acknowledge
@@ -14628,7 +14628,7 @@ g|right below the pyramid there's a cobbled street and|ready explain
 f|directly below it|query_yn
 g|ehm it's below the western side of the pyramid|reply_w
 f|right so it'll be mmhmm|acknowledge acknowledge
-g|now from where you are just now draw a curved line 'til you're below the "d" of pyramid|ready instruct
+g|now from where you are just now draw a curved line 'til you're below the d of pyramid|ready instruct
 f|right|acknowledge
 g|and then straight across until you're just below the point of the pyramid at the western tip|instruct
 f|right|acknowledge
@@ -14640,12 +14640,12 @@ g|and just to where the the thick lines at the remote village drawing are|instru
 f|yeah|acknowledge
 g|just about a centimetre to the west of the thick line and stop there|instruct
 f|right|acknowledge
-g|now curve round draw a curve until you're below the "r" of remote|ready instruct
+g|now curve round draw a curve until you're below the r of remote|ready instruct
 f|mmhmm|acknowledge
-g|and then straight across until you're below the "e"|ready instruct
-f|the "e" in remote|query_yn
-g|the "e" in village sorry|explain
-f|"e" in village right|acknowledge acknowledge
+g|and then straight across until you're below the e|ready instruct
+f|the e in remote|query_yn
+g|the e in village sorry|explain
+f|e in village right|acknowledge acknowledge
 g|and then go straight across another inch and that's the finish|ready instruct
 f|okey-dokey there we go have i missed anything|acknowledge query_yn
 g|ready dave|align
@@ -14671,7 +14671,7 @@ f|so i'm going between the picnic site and the adventure playground|check
 g|yeah|reply_y
 f|okey-dokey here we go|acknowledge
 g|so your line so far's gone in a wee sort of|ready query_w
-f|well it's like a "q" with a wee extra bit i've added on|reply_w
+f|well it's like a q with a wee extra bit i've added on|reply_w
 g|you're now you're above the just go up just above the adventure playground|instruct
 f|mmhmm|acknowledge
 g|and start going right across the page to the east ehm at a five degree angle can you do that just a wee angle|instruct
@@ -14736,7 +14736,7 @@ g|right|reply_y
 f|towards the lake|check
 g|have you got oh you don't have limestone cliffs do you eh you you start going up sort of parallel to the line you just drew round for just a couple of inches|query_yn instruct
 f|right|acknowledge
-g|then you go you go north straight up to just below the east lake and you should be up to about about the "k" below the "k" in lake|instruct
+g|then you go you go north straight up to just below the east lake and you should be up to about about the k below the k in lake|instruct
 f|mmhmm|acknowledge
 g|and then you skirt the lake along going west just skirt along the lake|instruct
 f|right|acknowledge
@@ -14777,7 +14777,7 @@ g|at the bottom of that line right|instruct align
 f|uh-huh|reply_y
 g|across from that i finished that line there|instruct
 f|got it|acknowledge
-g|right and now curve round ehm see where to the bottom of the "c" of crest right you know where the "c" is|acknowledge ready instruct align
+g|right and now curve round ehm see where to the bottom of the c of crest right you know where the c is|acknowledge ready instruct align
 f|yeah|reply_y
 g|well maybe go two inches to the west of that|instruct
 f|mmhmm|acknowledge
@@ -14799,7 +14799,7 @@ g|down|clarify
 f|just a shallow curve|check
 g|uh-huh to where i told you the to two inches to the|reply_y clarify
 f|yeah|acknowledge
-g|west of "c" to that point|clarify
+g|west of c to that point|clarify
 f|right just shallow wee curve|acknowledge check
 g|uh-huh right a positive gradient|reply_y clarify
 f|right|acknowledge
@@ -14851,7 +14851,7 @@ g|right|align
 f|i can't do that it's the banana tree|explain
 g|right okay you'll have to go round them then now go up to where go slightly curving|acknowledge instruct instruct instruct
 f|mmhmm|acknowledge
-g|ehm until you're at the "f" not to the "f" but on a level with the "f"|instruct
+g|ehm until you're at the f not to the f but on a level with the f|instruct
 f|how far west of it|query_w
 g|and end up on the same sort of the same vertical|instruct
 f|mmhmm as the tree trunk|acknowledge explain
@@ -14901,7 +14901,7 @@ g|for about an inch and a half so you're still above the start point|instruct al
 f|yeah|reply_y
 g|right eh you have an old temple|acknowledge query_yn
 f|yeah|reply_y
-g|now see where the "m" of|align
+g|now see where the m of|align
 f|yeah|reply_y
 g|stream is|align
 f|no i've no got stream|reply_n explain
@@ -14909,10 +14909,10 @@ g|oh sorry right|acknowledge
 f|i'll need be on the mountain somewhere|explain
 g|okay right on this level|acknowledge ready instruct
 f|right|acknowledge
-g|draw a line straight over 'til you're above the "s" of start|instruct
-f|right due east above "s" in start|acknowledge
+g|draw a line straight over 'til you're above the s of start|instruct
+f|right due east above s in start|acknowledge
 g|right|acknowledge
-f|i'm about a half an inch above the "s"|explain
+f|i'm about a half an inch above the s|explain
 g|so you'll be about right and from there draw in a curve to the the base see the base bit of the old temple|instruct acknowledge instruct align
 f|yeah|reply_y
 g|looks as if it's brick or something|align
@@ -14934,7 +14934,7 @@ f|yeah|reply_y
 g|well just draw a wee curve joining those two points|clarify
 f|what kind of curve though 'cause i mean i'm walking downwards|query_w explain
 g|well as if|reply_w
-f|an "n" curve or a "u" curve know what i mean|query_w align
+f|an n curve or a u curve know what i mean|query_w align
 g|you'll see right say imagine a clock face|clarify
 f|right|acknowledge
 g|between three o'clock and six o'clock|clarify
@@ -14947,7 +14947,7 @@ g|from six 'til three|clarify
 f|right i've got it right i'm right at the very side of the old temple and right on the side of it|acknowledge ready check check
 g|uh-huh right now go straight up straight north until about an inch above the top of the temple that'll be you near the mountain|acknowledge acknowledge instruct align
 f|got you yeah i'm a quarter of the way up the mountain halfway up the mountain nearly|acknowledge reply_y explain
-g|right now don't draw a line but say go in a an inch and a half how far are you how far are you from the "k" of abandoned truck|acknowledge ready instruct align query_w
+g|right now don't draw a line but say go in a an inch and a half how far are you how far are you from the k of abandoned truck|acknowledge ready instruct align query_w
 f|i'm about right i'm on a level with that|reply_w
 g|uh-huh|acknowledge
 f|and i'm about three inches to the right of it|reply_w
@@ -14960,9 +14960,9 @@ f|remote village you got a remote village|query_yn
 g|not that high up|clarify
 f|not that well i'm about an inch below|acknowledge explain
 g|well|ready
-f|the "v" in that|explain
+f|the v in that|explain
 g|no maybe take it down another inch then|clarify
-f|all right so about so that'll be me about two inches below the "v" in village|acknowledge check
+f|all right so about so that'll be me about two inches below the v in village|acknowledge check
 g|uh-huh|reply_y
 f|right|acknowledge
 g|and about an inch above the top of the truck at the most|clarify
@@ -14975,17 +14975,17 @@ g|now from where you are just now on the line connect those two points|instruct
 f|where i am just now|check
 g|to the right you're just an inch above the old temple|instruct ready align
 f|yeah|reply_y
-g|go to that point two inches below the "v" of village|clarify
+g|go to that point two inches below the v of village|clarify
 f|mmhmm straight|acknowledge check
-g|uh-huh and now say a three quarters of a centimetre below the "k" of truck|reply_y ready align
+g|uh-huh and now say a three quarters of a centimetre below the k of truck|reply_y ready align
 f|yeah|reply_y
 g|now go down to there three quarters of a centimetre uh-huh|reply_y
 f|so it's me going round the old mountain|check
-g|directly below the "k"|clarify
+g|directly below the k|clarify
 f|right|acknowledge
 g|now go how far you'll be about three quarters of a centimetre below the word abandoned truck the words|align
 f|yeah|reply_y
-g|go straight across 'til you're under the "a" by the same distance|instruct
+g|go straight across 'til you're under the a by the same distance|instruct
 f|yeah|acknowledge
 g|now do you have baboons|query_yn
 f|no|reply_n
@@ -14999,28 +14999,28 @@ g|right in fact to be safe make it half an inch to get round these baboons now h
 f|nope|reply_n
 g|right from here go up to go straight up to avoid the baboons|acknowledge ready instruct
 f|straight up how far|acknowledge query_w
-g|ehm to about the where you started off to make that a "u" shape that bit of path you know how you've come down and along|ready reply_w align
+g|ehm to about the where you started off to make that a u shape that bit of path you know how you've come down and along|ready reply_w align
 f|uh-huh well i've come down i've went above slate mountain down by the abandoned truck|reply_y explain
-g|uh-huh right from the "a" of abandoned truck|acknowledge ready align
+g|uh-huh right from the a of abandoned truck|acknowledge ready align
 f|aye|acknowledge
 g|you've went down|align
 f|uh-huh|reply_y
 g|and then along|align
 f|yeah|reply_y
-g|now go back up to about that level to make it a "u" shape|clarify
+g|now go back up to about that level to make it a u shape|clarify
 f|right so if there's just a wee totty bit of monkeys or baboons or whatever you call them|acknowledge check
 g|in that space there|clarify
 f|so you want like nine o'clock 'til twelve o'clock|check
 g|it's maybe about a couple of inches wide make sure you're ehm|clarify explain
 f|i go north and then across a bit eh|check
-g|make sure you're still at least two inches from the gap that down that "u" shape will be at least two inches at all points right so just go up to make that a "u" and you're about half an inch from the side of the paper|clarify align clarify align
+g|make sure you're still at least two inches from the gap that down that u shape will be at least two inches at all points right so just go up to make that a u and you're about half an inch from the side of the paper|clarify align clarify align
 f|yeah|reply_y
 g|uh-huh|acknowledge
-f|so i want to go where am i ending up beside the "a" again|check
-g|well just go straight up until you're on the level of where you at "a" below "a" three quarters of a centimetre below "a"|clarify
+f|so i want to go where am i ending up beside the a again|check
+g|well just go straight up until you're on the level of where you at a below a three quarters of a centimetre below a|clarify
 f|right|acknowledge
 g|right from there draw a line straight to the bottom left-hand starting point of white mountain maybe just to about half a centimetre to the the left of it|ready instruct
-f|right that's me level with the "a" and then up to the bottom left-hand bit of white mountain|acknowledge check
+f|right that's me level with the a and then up to the bottom left-hand bit of white mountain|acknowledge check
 g|uh-huh|reply_y
 f|how am i far from it|query_w
 g|where about|reply_w
@@ -15071,7 +15071,7 @@ g|about an inch out from there put a dot and join those two points and the|instr
 f|right immediately below that i've got a poisoned scream stream about two centimetres below it|acknowledge explain
 g|two centimetres the poisoned stream in this one is a bit further below that see i've got two poisoned streams on this map|acknowledge explain
 f|mm|acknowledge
-g|now from there draw a slightly sloping curve again to below the "d" of pyramid right just slope it round the natural way it would go|ready instruct instruct
+g|now from there draw a slightly sloping curve again to below the d of pyramid right just slope it round the natural way it would go|ready instruct instruct
 f|mmhmm|acknowledge
 g|right curve it round|align instruct
 f|curve it round with the like that or like that|query_w
@@ -15079,8 +15079,8 @@ g|to below the right where you are just now remember you do drew the test tube e
 f|is it an arc curve uh-huh|query_yn reply_y
 g|it would be like the bottom half of that test tube|reply_w
 f|so it's like that|check
-g|uh-huh to below the "d" right do you have a cobbled street|reply_y clarify ready query_yn
-f|got that's about a no it's about a centimetre below the "d"|explain reply_n explain
+g|uh-huh to below the d right do you have a cobbled street|reply_y clarify ready query_yn
+f|got that's about a no it's about a centimetre below the d|explain reply_n explain
 g|right from there go carry on straight across until you're below the far left-hand base point of the pyramid|acknowledge instruct
 f|yeah|acknowledge
 g|right|acknowledge
@@ -15105,9 +15105,9 @@ g|so just draw|clarify
 f|dead on the level of it uh-huh|check
 g|uh-huh|reply_y
 f|right got you|acknowledge acknowledge
-g|now from there draw another curve until you're below the "r" of about a centimetre below the "r" of remote|ready instruct
+g|now from there draw another curve until you're below the r of about a centimetre below the r of remote|ready instruct
 f|uh-huh|acknowledge
-g|right and then go straight across to below the "e" of village|align instruct
+g|right and then go straight across to below the e of village|align instruct
 f|uh-huh|acknowledge
 g|and then go about an inch further than that on the same level and that's your finishing point|instruct
 f|so that'll be just about below the pyramid the extreme right-hand edge|check
@@ -15117,7 +15117,7 @@ g|okey-dokey right so your start's away up in the top you got you got a wee cros
 f|uh-huh|reply_y
 g|right have you got the diamond mine|ready query_yn
 f|yes i have|reply_y
-g|well if you come down down the west side of that and hang a left right underneath it right underneath the "d" of the diamond|ready instruct
+g|well if you come down down the west side of that and hang a left right underneath it right underneath the d of the diamond|ready instruct
 f|right to what point will i draw a|acknowledge query_w
 g|eh go along you've not got the graveyard sure you've not|reply_w query_yn
 f|no|reply_n
@@ -15167,10 +15167,10 @@ g|yeah well you go right you're you're at your totem pole on your map i think it
 f|uh-huh at the bottom i'm below the trout farm|reply_y explain
 g|yeah right well if you go along underneath your totem pole for about an inch it may aye may be just over an inch|acknowledge instruct
 f|until the other side of the totem pole|check
-g|mmhmm then head up towards the trout farm with your line coming down there going up to the "t" the first "t" then have you've not got the fort sure you haven't the cavalry|reply_y instruct query_yn
+g|mmhmm then head up towards the trout farm with your line coming down there going up to the t the first t then have you've not got the fort sure you haven't the cavalry|reply_y instruct query_yn
 f|no no|reply_n reply_n
 g|well if you go along after the trout farm if you|ready instruct
-f|right i'll go up to how far from the "t"|ready check
+f|right i'll go up to how far from the t|ready check
 g|right right underneath it|reply_w
 f|right|acknowledge
 g|now i'd say if you go along east about two inches then|ready instruct ready
@@ -15179,10 +15179,10 @@ g|eh if you move it higher up give it a wee bit further than that|reply_w
 f|right okay|acknowledge
 g|then you've got the cattle stockade|ready query_yn
 f|uh-huh away down the bottom|reply_y explain
-g|yeah well if you go straight down passing that on the east side just right until you come to the "e"|ready instruct
+g|yeah well if you go straight down passing that on the east side just right until you come to the e|ready instruct
 f|right|acknowledge
-g|then go westerly under it until you come to the "c" the "c" in cattle|ready instruct
-f|oh the "c" of cattle|acknowledge
+g|then go westerly under it until you come to the c the c in cattle|ready instruct
+f|oh the c of cattle|acknowledge
 g|yeah right i'd presume that you've got something between the bandit territory and the cattle stockade|acknowledge ready query_w
 f|yes a parched river bed|reply_y reply_w
 g|judging yeah well if you drive over the top of that just over the top of it and then come down the other side underneath the bandit territory then have you got the wee cross for your finish|query_w acknowledge ready instruct ready query_yn
@@ -15190,7 +15190,7 @@ f|no|reply_n
 g|no well about an inch to the left of the wee tree an inch and a half to the left of the wee tree that the bandit's lying up against|acknowledge ready explain
 f|mmhmm|acknowledge
 g|your wee your finish sign's there eh if you go under your bandit territory and up to it|explain instruct
-f|right i'm under the "b" of bandit just now|ready explain
+f|right i'm under the b of bandit just now|ready explain
 g|you just go straight up to your wee cross|instruct
 f|about how far up about an uh an inch|query_w
 g|it's about prr an inch inch or so|reply_w
@@ -15199,7 +15199,7 @@ g|there we go and that's us one map complete|explain
 f|that's it|acknowledge
 g|you done this one before|query_yn
 f|no|reply_n
-g|oh super you'll have no chapel okay "a" "q" "7" "c" "8" plus minus "4" "u" david|acknowledge explain explain
+g|oh super you'll have no chapel okay a q 7 c 8 plus minus 4 u david|acknowledge explain explain
 f|and mark|explain
 g|right you've got the start point|ready align
 f|yeah|reply_y
@@ -15215,7 +15215,7 @@ g|well take about a couple of inches well about an inch a couple of inches just 
 f|so you go if i curve from the start round to|check
 g|so you're doing it's like a it's like|clarify clarify
 f|just along and|check
-g|a backwards "c"|clarify
+g|a backwards c|clarify
 f|mm|acknowledge
 g|just beside the haystack meets the haystack just about about half a centimetre from the haystack and comes out to below the start line just below the level of the carpenter's house right you've got|clarify ready instruct
 f|you got the|acknowledge
@@ -15244,7 +15244,7 @@ f|so we're down below the carpenter's house about half a centimetre|check
 g|on the level yeah but across below the start see what i mean|instruct reply_y clarify align
 f|oh away round here below the start|check
 g|yeah so it's that's the level you're going to|reply_y clarify
-f|ah right so it sort of curves round like that backwards "c" as you've said|acknowledge check
+f|ah right so it sort of curves round like that backwards c as you've said|acknowledge check
 g|it's not it's just to the it's to the left of the haystack it's just a really shallow thing|reply_n clarify
 f|doesn't sound like what i've got|explain
 g|right you right we'll start again then you've got the start line right|ready clarify ready instruct align
@@ -15311,9 +15311,9 @@ g|well right from the start you're starting directly below the start point is wh
 f|right shallow curve i've got i go down just and curve round the haystack|ready reply_y check
 g|well not round you want to finish below the starting point you go down you curve past you curve past the haystack|reply_n clarify
 f|so just a wee|check
-g|it's like a an inverted "c"|clarify
+g|it's like a an inverted c|clarify
 f|so i'm curving back like|check
-g|it's like a "c" the wrong way round|clarify
+g|it's like a c the wrong way round|clarify
 f|well i'm just curving back in|check
 g|yeah you're coming round to to below the start point which is also on a level below the carpenter's house that's to tell you where to stop|reply_y clarify
 f|all right so i'm actually i'm starting here and i'm finishing|acknowledge check
@@ -15355,17 +15355,17 @@ g|not an inch above them well you want to be about call it half an inch above th
 f|right so i'll just|acknowledge
 g|right|align
 f|right okay|reply_y
-g|and from that point there you want to go about it's just off south to below the "s" in seven beeches|instruct
+g|and from that point there you want to go about it's just off south to below the s in seven beeches|instruct
 f|just off south|acknowledge
-g|it's southeast you want to be going right just below the "s"|align
-f|southeast mmhmm right down that way just below the "s" wait a minute|reply_y explain
+g|it's southeast you want to be going right just below the s|align
+f|southeast mmhmm right down that way just below the s wait a minute|reply_y explain
 g|right|align
-f|just below the "s"|acknowledge
+f|just below the s|acknowledge
 g|now eh you've got reclaimed fields down below that|ready query_yn
 f|yeah i have|reply_y
 g|down below well in between the seven beeches and the reclaimed fields i've got a chapel okay|acknowledge ready explain align
 f|mm right i don't have that|reply_y explain
-g|so eh what i need to do is i need to go round it again an inverted "c" well it's no an inverted "c" it's the other way about opposite "c"|ready instruct
+g|so eh what i need to do is i need to go round it again an inverted c well it's no an inverted c it's the other way about opposite c|ready instruct
 f|right|acknowledge
 g|and you need to go around it so eh|instruct
 f|so i sort of curve underneath seven beeches and round and then over to back to where i started from|check
@@ -15381,32 +15381,32 @@ g|well eh we'll call it just about two inches maybe a bit more call it two and a
 f|mmhmm|acknowledge
 g|and that's where you want to finish up|instruct
 f|right|acknowledge
-g|so to do that you'll need to take from the "s" and go round like from twelve o'clock to three o'clock|instruct
+g|so to do that you'll need to take from the s and go round like from twelve o'clock to three o'clock|instruct
 f|yeah around|acknowledge
 g|and go out an inch|instruct
 f|and then and then back in again|explain explain
-g|from the "s" and then back into that point i told you|instruct instruct
+g|from the s and then back into that point i told you|instruct instruct
 f|yeah|acknowledge
 g|right|align
 f|got that|reply_y
 g|now you want to go like the end of a test tube like that way you want to go round the reclaimed fields like that have you got crane bay|ready instruct query_yn
 f|crane bay yeah|reply_y
-g|you see the the most northerly tip above the "b"|align
+g|you see the the most northerly tip above the b|align
 f|over the right yeah|reply_y
-g|well you want to come round the test round the reclaimed fields and the test tube sort of shape to about oh i don't know about an inch and a half above the "b"|ready instruct
-f|an inch above the "b"|acknowledge check
-g|above the "b" yeah well|reply_y ready
+g|well you want to come round the test round the reclaimed fields and the test tube sort of shape to about oh i don't know about an inch and a half above the b|ready instruct
+f|an inch above the b|acknowledge check
+g|above the b yeah well|reply_y ready
 f|so the point right|acknowledge
 g|no above the point sorry above the tip|reply_n reply_w reply_w
 f|have you got whitewashed cottage|query_yn
 g|no|reply_n
 f|no so i'll have to miss that so if i come round in my curve and then i'm going along and then curving back round the same way|acknowledge explain ready check
 g|yeah so the shape will be you'll be going east and then you'll be going down|reply_y clarify
-f|a kind of inverted in a "s" a backwards "s"|check
+f|a kind of inverted in a s a backwards s|check
 g|it's not well|reply_n clarify
 f|sort of|ready
 g|it's just like that shape you want to do so you're going east and then you're going that curve and then you're going west until you're above that tip|clarify clarify
-f|ah well the whole thing in together like from the seven beeches round it's like an "c" and then and it's like a normal "c" sort of right i'll try and an inch and a half above there i'll have to draw it a bit squint so i'm so i'm coming down on the right-hand the left-hand side of the reclaimed fields|ready explain explain check
+f|ah well the whole thing in together like from the seven beeches round it's like an c and then and it's like a normal c sort of right i'll try and an inch and a half above there i'll have to draw it a bit squint so i'm so i'm coming down on the right-hand the left-hand side of the reclaimed fields|ready explain explain check
 g|yeah|reply_y
 f|and i've sort of curved round to about there|check
 g|so you've got you've gone round the reclaimed fields|check
@@ -15439,7 +15439,7 @@ g|that's right|reply_y
 f|right|acknowledge
 g|so it's about that sort of angle|clarify
 f|uh-huh|acknowledge
-g|now you want to go due west until you're above the "a" in attractive cliffs|ready instruct
+g|now you want to go due west until you're above the a in attractive cliffs|ready instruct
 f|right|acknowledge
 g|and then take it down about about the same angle as you took from the south to the west tip take that down to the bottom just on the same level as attractive cliffs so you're doing down that angle and it's about an inch long shall we say|instruct instruct
 f|right right|acknowledge acknowledge
@@ -15545,14 +15545,14 @@ g|yeah it's just come down 'til you're about ehm two two to three inches above t
 f|right|acknowledge
 g|okay|align
 f|right|reply_y
-g|ehm go along to like level with the "b" from the bandit territory|instruct
+g|ehm go along to like level with the b from the bandit territory|instruct
 f|okay|acknowledge
 g|if you know what i mean if you just walk up and then start going back up the way again to the outside of a gold mine have you got a gold mine|instruct instruct query_yn
 f|i've got a i've got right i've came down to an inch two inches above the great rock right|reply_w ready explain
 g|right|acknowledge
 f|to the right of the great rock and then above the great rock i've got a totem pole and then i've got a gold mine|explain reply_w
 g|right go right up to like beside the gold mine|acknowledge instruct
-f|right but see what about the "b" what did you say about the "b" in the bandit territory|acknowledge query_w
+f|right but see what about the b what did you say about the b in the bandit territory|acknowledge query_w
 g|sort of curved out the way i just meant like that was how far out you were to go to|instruct reply_w
 f|oh above the great rock|check
 g|yeah|reply_y
@@ -15695,12 +15695,12 @@ f|how how long do you want that diagonal to be|query_w
 g|ah well it has to go east right about two inches and then come down about an inch and a half|ready reply_w
 f|right an inch and a half|acknowledge
 g|so it it doesn't go directly from it's sort of like more like a slope|ready clarify
-f|so almost like half a "zed" shape you know like a letter "zed"|ready check check
+f|so almost like half a zed shape you know like a letter zed|ready check check
 g|mmhmm|reply_y
 f|right okay i've done that|acknowledge
-g|you mean "zee"|query_yn
-f|yeah i mean "zed"|reply_y
-g|"zed" okay|acknowledge
+g|you mean zee|query_yn
+f|yeah i mean zed|reply_y
+g|zed okay|acknowledge
 f|to me eh|reply_y
 g|so now so alright here we are|ready align
 f|right|acknowledge
@@ -15846,7 +15846,7 @@ g|and then you drop down about an inch and a half|instruct
 f|uh-huh|acknowledge
 g|then you go to the right about an inch and a little bloop up|instruct instruct
 f|what right|query_w acknowledge
-g|then you just go bloop and like about tiny tiny bit up and draw an "x" and we're done it should be right to the left of the chestnut tree|instruct
+g|then you just go bloop and like about tiny tiny bit up and draw an x and we're done it should be right to the left of the chestnut tree|instruct
 f|oh|acknowledge
 g|you're making me pick my nose|explain
 f|well we we might be in the chestnut trees might be in different position is it a bloop like a kind of round bit|explain check
@@ -15870,7 +15870,7 @@ g|is the eh is the spaceship right to the left of the tree|query_yn
 f|no it's just above the tree|reply_n reply_w
 g|oh no you should be|reply_n
 f|it's above it's well my tree might be different than your tree|explain
-g|okay well just just go to the right about an inch and then draw an "x" and we'll be done|acknowledge ready instruct
+g|okay well just just go to the right about an inch and then draw an x and we'll be done|acknowledge ready instruct
 f|right|acknowledge
 g|i got to see your map|explain
 f|right|acknowledge
@@ -15945,7 +15945,7 @@ g|yeah sort of over the granite quarry in the direction of the waterfall just if
 f|do you okay keep below it|check
 g|mmhmm not too far though|reply_y clarify
 f|okay|acknowledge
-g|and then if you go up to the "w" of the waterfall and then straight up just about couple of no a centimetre away to the left of the "w" of waterfall straight up to the top of the waterfall|instruct
+g|and then if you go up to the w of the waterfall and then straight up just about couple of no a centimetre away to the left of the w of waterfall straight up to the top of the waterfall|instruct
 f|okay i see|acknowledge
 g|and when you get to the top of the waterfall oh you should just go up above the waterfall about five centimetres two inches|instruct
 f|okay|acknowledge
@@ -16192,7 +16192,7 @@ g|right so if you can take up where you left off and|ready instruct
 f|right the granite quarry|acknowledge
 g|go to the left and sort of go under the waterfall about an inch below the waterfall|instruct
 f|in a curve or just straight|query_w
-g|sort of in a slight curve below it and then up again past the "w" right up to the top of the the waterfall keeping to the sort of left of the waterfall|reply_w instruct
+g|sort of in a slight curve below it and then up again past the w right up to the top of the the waterfall keeping to the sort of left of the waterfall|reply_w instruct
 f|past oh right okay|acknowledge
 g|and can you sort of stop just above the waterfall|instruct
 f|right yeah that's where i stopped so|acknowledge explain
@@ -16511,7 +16511,7 @@ f|yeah i do uh-huh|reply_y
 g|okay just trace along the outer ridge of that to the right|ready instruct
 f|mmhmm|acknowledge
 g|to the bottom 'til your 'til your pen is on the left bottom of it|instruct
-f|sort of at the "r" of the reclaimed|check
+f|sort of at the r of the reclaimed|check
 g|yeah yeah but a little more to the left|reply_y clarify
 f|right okay right okay|acknowledge acknowledge
 g|okay and then you drop down and do you have a bay|ready instruct query_yn
@@ -16523,14 +16523,14 @@ f|right right i've got a whitewashed cottage have you got that|acknowledge ackno
 g|mm-mm|reply_n
 f|is it right you come down and there's sort of it's got crane bay|ready align
 g|yeah|reply_y
-f|and above the "c" there's a point and to the left of the "c" there's a point is it the what point is it is it the one|align query_w
-g|um right to the diagonally up from the "c"|reply_w
+f|and above the c there's a point and to the left of the c there's a point is it the what point is it is it the one|align query_w
+g|um right to the diagonally up from the c|reply_w
 f|right okay|acknowledge
 g|okay and then you just you go left and down|ready instruct
 f|mmhmm|acknowledge
 g|and do you have attractive cliffs|query_yn
 f|uh-huh|reply_y
-g|okay just trace along the top of the attractive cliffs 'til you're around where the "a" is|ready instruct
+g|okay just trace along the top of the attractive cliffs 'til you're around where the a is|ready instruct
 f|right okay right|acknowledge acknowledge
 g|and then you just slope down to the left for about an inch and then|instruct ready
 f|okay|acknowledge
@@ -16850,10 +16850,10 @@ g|right starting at the top left of the right|align
 f|right right|reply_y
 g|if you come down sort of south southeast you got a burnt forest|instruct query_yn
 f|aye|reply_y
-g|now come down round the left of the burnt forest so that you're just about underneath the "b"|instruct
+g|now come down round the left of the burnt forest so that you're just about underneath the b|instruct
 f|right hold on|acknowledge
 g|oh right|acknowledge
-f|right i'm just below the "b"|ready explain
+f|right i'm just below the b|ready explain
 g|right now come down to the other direction now and have you got a ravine|acknowledge instruct query_yn
 f|yes|reply_y
 g|right if you see the bottom of the ravine then take a line across to the left-hand side of the page right|acknowledge instruct align
@@ -16932,7 +16932,7 @@ g|well aye if you sort of miss out the go round the avalanche|reply_y clarify
 f|right i will|acknowledge
 g|which i presume and you should be at the right of the concealed hideout|instruct
 f|right i'm at the right of it|acknowledge explain
-g|right now go underneath it so that you're just underneath the "c" you horizontally are down to the bottom of the concealed hideout and along so that you're just about under the "c"|acknowledge instruct
+g|right now go underneath it so that you're just underneath the c you horizontally are down to the bottom of the concealed hideout and along so that you're just about under the c|acknowledge instruct
 f|the sea|check
 g|of concealed sorry|clarify
 f|oh sorry i thought you were talking about|explain
@@ -16940,7 +16940,7 @@ g|okay do you have a boat house|align query_yn
 f|eh it's away down to the right aye|explain reply_y
 g|oh there's two boathouses ah|explain
 f|right|acknowledge
-g|well i've got another boat house if you maybe two centimetres more past the "c"|explain instruct
+g|well i've got another boat house if you maybe two centimetres more past the c|explain instruct
 f|to the left|check
 g|yeah|reply_y
 f|right|acknowledge
@@ -16948,9 +16948,9 @@ g|right and do you have crane bay marked|ready query_yn
 f|mmhmm|reply_y
 g|and eh is is it curved|query_yn
 f|aye|reply_y
-g|where about up above the "b" of bay|query_yn query_yn
+g|where about up above the b of bay|query_yn query_yn
 f|aye mmhmm|reply_y reply_y
-g|well follow that curve round until you get above the "r" vertically down from the boat house and curve round 'til you get to the "r"|instruct
+g|well follow that curve round until you get above the r vertically down from the boat house and curve round 'til you get to the r|instruct
 f|right|acknowledge
 g|right|align
 f|got it|acknowledge
@@ -16988,7 +16988,7 @@ g|it's about a centimetre inland|explain
 f|right|acknowledge
 g|and but you have to curve round the washed stones or whatever you've got there|instruct
 f|right i will|acknowledge
-g|presumably "x" marks the spot|instruct
+g|presumably x marks the spot|instruct
 g|erm are you at the cross at the start|ready align
 f|okay yeah|reply_y
 g|right so go er about two inches to your ehm to your left at a sort of angle|ready instruct
@@ -17045,7 +17045,7 @@ g|it sort of curves round|reply_w
 f|curves round okay right|acknowledge
 g|and then then|instruct
 f|along to your right|check
-g|it's like an "s" shape right but not like a steep "s" shape like a sort of er sort of stretched out "s" shape|instruct
+g|it's like an s shape right but not like a steep s shape like a sort of er sort of stretched out s shape|instruct
 f|right|acknowledge
 g|a wee bit ehm 'til you're about er halfway down the page when you get to the bottom curve that comes back out the way|instruct
 f|erm do i go along right|query_yn
@@ -17135,9 +17135,9 @@ g|well it's sort of directly above the alpine garden except a bit to the right s
 f|slightly to the right okay directly above it how much|acknowledge query_w
 g|well where are you just now|ready query_w
 f|erm about one centimetre from the side of the alpine garden that's above it and along one|reply_w
-g|right go along a wee bit until see the "d" of the alpine garden on the in between the "d" of the see where it says alpine garden|ready instruct align
+g|right go along a wee bit until see the d of the alpine garden on the in between the d of the see where it says alpine garden|ready instruct align
 f|yeah|reply_y
-g|right just look at that the in between the "d" and "e" just put a straight line straight above that right|ready instruct align
+g|right just look at that the in between the d and e just put a straight line straight above that right|ready instruct align
 f|okay right|reply_y
 g|about er maybe ffffphhhhh ten centimetres|instruct
 f|right ten centimetres okay and|acknowledge ready
@@ -17195,8 +17195,8 @@ g|no left|reply_n
 f|okay|acknowledge
 g|right erm burnt forest right|ready align
 f|yeah right beside the start|reply_y explain
-g|go down diagonally so you're just next to the "b"|instruct
-f|just next to the "b" okay|acknowledge
+g|go down diagonally so you're just next to the b|instruct
+f|just next to the b okay|acknowledge
 g|right|align
 f|diagonally|check
 g|yeah right|reply_y ready
@@ -17216,7 +17216,7 @@ f|yeah|reply_y
 g|right we're going to the cross between vertical down start and horizontal right|acknowledge instruct align
 f|right|reply_y
 g|right|acknowledge
-f|from the start down to the "b" of the burnt forest right|check
+f|from the start down to the b of the burnt forest right|check
 g|right then we're going to curve round to where the bottom of the ravine and the vertical from the start meet|reply_y clarify
 f|which direction curve round|query_yn acknowledge
 g|okay|align
@@ -17263,9 +17263,9 @@ g|the right hand side|align
 f|yeah|reply_y
 g|that's where we're trying to go okay|instruct align
 f|okay|reply_y
-g|so if you sort of curve round an inverted "s" shape|ready instruct
-f|an inverted "s"|acknowledge
-g|yeah well it's like a "2" right|instruct align
+g|so if you sort of curve round an inverted s shape|ready instruct
+f|an inverted s|acknowledge
+g|yeah well it's like a 2 right|instruct align
 f|right|reply_y
 g|so that you miss the avalanche|instruct
 f|miss the avalanche okay|acknowledge
@@ -17273,30 +17273,30 @@ g|and end up at the bottom of the concealed well the side of the concealed hideo
 f|okay|acknowledge
 g|okay|align
 f|right yeah|reply_y
-g|now curve round until you're under the "c" of concealed hideout|ready instruct
-f|curve round 'til er i'm just under the "c"|acknowledge
+g|now curve round until you're under the c of concealed hideout|ready instruct
+f|curve round 'til er i'm just under the c|acknowledge
 g|right then two centimetres further left|align instruct
 f|yeah further left|reply_y acknowledge
 g|right|align
 f|okay left to whereabouts|reply_y check
-g|now so you're now two centimetres to the left of "c" just about underneath it|ready ready clarify clarify
-f|oh "c"|acknowledge
+g|now so you're now two centimetres to the left of c just about underneath it|ready ready clarify clarify
+f|oh c|acknowledge
 g|okay|align
-f|is this along to my left directly along two centimetres along from the "c"|check
+f|is this along to my left directly along two centimetres along from the c|check
 g|yeah|reply_y
 f|okay|reply_y
 g|okay|align
 f|yeah|reply_y
 g|right now see crane bay right|acknowledge ready align
 f|yes|reply_y
-g|there's a there's a curved bit just above the letters crane er "e" "b" alright|align
+g|there's a there's a curved bit just above the letters crane er e b alright|align
 f|yeah|reply_y
-g|the curved bit right and see the peninsula around where "r" is above "r" the corner|align
+g|the curved bit right and see the peninsula around where r is above r the corner|align
 f|yeah|reply_y
-g|go vertically down and then follow the curve round until you get above "r"|instruct
+g|go vertically down and then follow the curve round until you get above r|instruct
 f|okay|acknowledge
-g|the "r" bit okay|align
-f|okay right above "r"|reply_y acknowledge
+g|the r bit okay|align
+f|okay right above r|reply_y acknowledge
 g|right well on the on the on land you're still on land aren't you|ready instruct align
 f|yeah yeah it's alright i'm on land yeah|reply_y
 g|you shouldn't be in the sea yet no right do you have a coconut palm|align query_yn
@@ -17441,7 +17441,7 @@ f|have you got the alpine garden|query_yn
 g|uh-huh but over the top of it and curve down like to like see where the writing disused monastery is|reply_y clarify align
 f|right|reply_y
 g|go to your like don't draw anything here right just go to your left a wee bit over|instruct
-f|i've got it right i'm just at the "d" right i'm not drawing|acknowledge explain
+f|i've got it right i'm just at the d right i'm not drawing|acknowledge explain
 g|and then just go about two centimetres over|instruct
 f|right|acknowledge
 g|right so where you are other side of disused monastery right you curve round|ready instruct
@@ -17526,10 +17526,10 @@ g|no have you got youth hostel no|reply_n query_yn
 f|nope|reply_n
 g|right|acknowledge
 f|i'll need to go round the youth hostel now right i'm over the top alpine garden|explain
-g|right above the "d" sort of the "d" of alpine garden it just goes|ready instruct
-f|i'm actually above well by the "n" but it doesnae matter it doesnae make that accurate|explain
+g|right above the d sort of the d of alpine garden it just goes|ready instruct
+f|i'm actually above well by the n but it doesnae matter it doesnae make that accurate|explain
 g|well you need to go round the youth hostel so you go straight up the top right no no straight up and then|ready instruct
-f|from the "d"|check
+f|from the d|check
 g|mmhmm|reply_y
 f|right i'll go back a bit then how far you got the picket fence|acknowledge explain query_w query_yn
 g|uh-huh|reply_y
@@ -17554,11 +17554,11 @@ g|aye right|reply_y
 f|you've got the disused monastery|explain
 g|aye so i have right right from where you are go|reply_y acknowledge acknowledge instruct
 f|diagonally|query_yn
-g|southeast diagonally 'til you get to the "t" of the telephone box|reply_y instruct
+g|southeast diagonally 'til you get to the t of the telephone box|reply_y instruct
 f|above it below it beside it|query_w
-g|below it just below the "t" of the telephone box right|reply_w align
+g|below it just below the t of the telephone box right|reply_w align
 f|right|reply_y
-g|and then go straight round the bottom of the wording where it says telephone box to the "x" and round the side of the "x" and up and and kind of up the way|instruct
+g|and then go straight round the bottom of the wording where it says telephone box to the x and round the side of the x and up and and kind of up the way|instruct
 f|how far|query_w
 g|about er four centimetres five centimetres|reply_w
 f|level with the top of the box|query_yn
@@ -17690,7 +17690,7 @@ g|above it er to your is it to your left yeah|query_yn
 f|mmhmm|reply_y
 g|right do you have a secret valley|acknowledge query_yn
 f|mmhmm|reply_y
-g|well you go straight down to the left well slope slightly to the left of the secret valley and curve round to the bottom of it yeah and to the "s" right go down to the "s" of secret|ready instruct
+g|well you go straight down to the left well slope slightly to the left of the secret valley and curve round to the bottom of it yeah and to the s right go down to the s of secret|ready instruct
 f|right|acknowledge
 g|you're just underneath that yeah and along five centimetres and that's finish|align instruct
 f|what to the right|query_yn
@@ -17702,16 +17702,16 @@ g|oh right have you got starting right up the top left a diamond|acknowledge que
 f|yeah mmhmm|reply_y
 g|mine right well just sort of go down follow it round sort of square go down then just take a right|ready instruct
 f|to there's i'm under the|check
-g|and end up at the "e" of the diamond mine know what i mean just go straight down and round it|instruct instruct
+g|and end up at the e of the diamond mine know what i mean just go straight down and round it|instruct instruct
 f|right|acknowledge
-g|and stop at the "e" er have you got springboks|instruct query_yn
+g|and stop at the e er have you got springboks|instruct query_yn
 f|right no i haven't|acknowledge reply_n
 g|have you got highest viewpoint|query_yn
 f|yes|reply_y
 g|well from where are just now just go straight right|instruct
 f|right|acknowledge
-g|and then just end up just go horizontally and just sort of eh end up just before the "h" in highest viewpoint|instruct
-f|so i'm under the "h"|check
+g|and then just end up just go horizontally and just sort of eh end up just before the h in highest viewpoint|instruct
+f|so i'm under the h|check
 g|just before just before it|reply_w
 f|on the same level as the diamond mine|check
 g|aye|reply_y
@@ -17724,7 +17724,7 @@ g|mmhmm just go|reply_y instruct
 f|to the|check
 g|just go right over the side of it and sort of leave about a centimetre gap and then just come round down it just come down|instruct
 f|down to the bottom right|check
-g|aye just stop at the "t" right|reply_y instruct ready
+g|aye just stop at the t right|reply_y instruct ready
 f|right|acknowledge
 g|have you got safari truck|query_yn
 f|i have|reply_y
@@ -17742,12 +17742,12 @@ g|right have you got field station|ready query_yn
 f|no|reply_n
 g|have you got banana tree|query_yn
 f|mmhmm|reply_y
-g|well go to just end up i don't know how you get there just get see the "s" of safari truck|ready instruct align
+g|well go to just end up i don't know how you get there just get see the s of safari truck|ready instruct align
 f|mmhmm|reply_y
 g|just sort of end up to the bottom left of that|instruct
 f|going round to the left or the right|query_w
 g|to the left doesnae really matter but to the left|reply_w
-f|right i'm on the "s" of safari truck|explain
+f|right i'm on the s of safari truck|explain
 g|right now just go down a bit so that you're sort of level with the top of the banana tree|acknowledge instruct
 f|right|acknowledge
 g|and then go straight across to the top left of the banana tree just sort of skirting the top of it 'cause there's a field station here|instruct explain
@@ -17782,19 +17782,19 @@ g|where are they|query_w
 f|just under the right-hand side of the rope bridge|reply_w
 g|well avoid them and then just go right round then go round the|instruct
 f|avoid them to the right or the left|query_w
-g|er it doesn't really matter as long as you end up on the right of the giraffes and come round the bottom of the giraffes and end up sort of like underneath the "g"|reply_w clarify
+g|er it doesn't really matter as long as you end up on the right of the giraffes and come round the bottom of the giraffes and end up sort of like underneath the g|reply_w clarify
 f|okay|acknowledge
 g|and then sort of eh have you great lake|instruct query_yn
 f|yes|reply_y
-g|well just go left from there and go right round underneath the great lake and just sort of stop at the "g" again|instruct
+g|well just go left from there and go right round underneath the great lake and just sort of stop at the g again|instruct
 f|yeah wait a minute so i've got to avoid the disused warehouse here|acknowledge explain
 g|well i've got nothing there well just avoid it somehow|explain instruct
-f|right so i'm under the "g"|explain
+f|right so i'm under the g|explain
 g|right|acknowledge
 f|right|align
 g|and then see the gap in between the great lake and the rock fall|ready align
 f|mmhmm|reply_y
-g|right well you're going to go up about a oh jesus trying to explain this erm are you just underneath the "g"|align instruct explain align
+g|right well you're going to go up about a oh jesus trying to explain this erm are you just underneath the g|align instruct explain align
 f|mmhmm|reply_y
 g|well go about three centimetres to the left and then go up about another four centimetres|instruct
 f|right|acknowledge
@@ -18099,15 +18099,15 @@ g|then have you got a telephone box|query_yn
 f|nope|reply_n
 g|no ehm right down and right diagonally|acknowledge ready instruct
 f|have you got the level crossing oh i have got the telephone box|query_yn explain
-g|phone box oh ehm go from where you are to directly 'til you're below the "t" of the telephone box|acknowledge instruct
+g|phone box oh ehm go from where you are to directly 'til you're below the t of the telephone box|acknowledge instruct
 f|mmhmm right have you not got the level crossing|acknowledge acknowledge query_yn
 g|nope|reply_n
 f|well anyway so|ready
 g|i've not got that|reply_n
 f|i go from|check
 g|go from|clarify
-f|below the parked van straight down to the "t" of the|check
-g|below the "t" of the telephone box|clarify
+f|below the parked van straight down to the t of the|check
+g|below the t of the telephone box|clarify
 f|right okay|acknowledge acknowledge
 g|okay then along below the words telephone box|ready instruct
 f|uh-huh|acknowledge
@@ -18250,7 +18250,7 @@ f|well which which|ready query_w
 g|right okay you see my boat house is to the left of the concealed hideout|ready explain
 f|well mine's to the right and below it|ready explain
 g|right okay sorry that's the wrong one you don't wanna go anywhere near that one right|ready explain instruct align
-f|right so will i do a "u"-turn|acknowledge query_yn
+f|right so will i do a u-turn|acknowledge query_yn
 g|uh-huh just just scrub that bit out then and go back up to the concealed hideout|reply_y instruct
 f|okay|acknowledge
 g|right so so we'll say we're at the bottom right-hand corner of the concealed hideout|ready align
@@ -18292,7 +18292,7 @@ f|ah you still i still don't know where your boat house is|reply_w
 g|uh-huh but right have oh god right where are you now again|acknowledge ready query_w
 f|i'm right crane bay there's two sort of little inlets in it at the top of it|align
 g|mmhmm|reply_y
-f|above bay and above the "c" of crane right|align
+f|above bay and above the c of crane right|align
 g|mmhmm|reply_y
 f|see where i mean|align
 g|right|reply_y
@@ -18305,7 +18305,7 @@ g|to the left|reply_w
 f|right|acknowledge
 g|straight down and then left|reply_w
 f|mmhmm mmhmm|acknowledge acknowledge
-g|okay so you're you're sort of on on the corner on the bit that juts out now above the "c" of crane|ready align
+g|okay so you're you're sort of on on the corner on the bit that juts out now above the c of crane|ready align
 f|right|reply_y
 g|is that right|align
 f|uh-huh|reply_y
@@ -18355,7 +18355,7 @@ g|right have you got the parked van|ready query_yn
 f|no|reply_n
 g|no|check
 f|yeah sorry i have i have yeah|reply_y
-g|below it right ehm from the start go down down the left-hand side of the camera shop and down the left-hand side of the parked van 'til you're below the "p" in the parked van|check ready instruct
+g|below it right ehm from the start go down down the left-hand side of the camera shop and down the left-hand side of the parked van 'til you're below the p in the parked van|check ready instruct
 f|oh no i don't have the parked i've got a different parked van|explain
 g|does it say parked van|query_yn
 f|not down here no|reply_n
@@ -18405,7 +18405,7 @@ g|okay right again by about three centimetres|align instruct
 f|mmhmm|acknowledge
 g|okay got the telephone box|align query_yn
 f|yeah|reply_y
-g|okay from where you are go diagonally down 'til you're directly below the "t" in telephone box|ready instruct
+g|okay from where you are go diagonally down 'til you're directly below the t in telephone box|ready instruct
 f|right|acknowledge
 g|okay|align
 f|got you|reply_y
@@ -18419,7 +18419,7 @@ g|right ehm go up about four centimetres 'til you've just cleared the top of the
 f|mmhmm|acknowledge
 g|okay then up and left diagonally about four centimetres okay|align instruct align
 f|right|acknowledge
-g|then straight up 'til you're you're 'til you're below the "k" in lake but ehm about a centimetre from the edge of the lake|ready instruct
+g|then straight up 'til you're you're 'til you're below the k in lake but ehm about a centimetre from the edge of the lake|ready instruct
 f|right|acknowledge
 g|okay|align
 f|uh-huh|reply_y
@@ -18437,7 +18437,7 @@ f|right go down down the left-hand side of the extinct volcano|acknowledge check
 g|uh-huh|reply_y
 f|right along and down 'til i'm about a centimetre below it|acknowledge check
 g|uh-huh|reply_y
-f|that's about just down from the "e" down and along from the "e"|check
+f|that's about just down from the e down and along from the e|check
 g|uh-huh that's right|reply_y
 f|okay|acknowledge
 g|and then do you have a tribal settlement|ready query_yn
@@ -18569,7 +18569,7 @@ g|and the diamond mine|query_yn
 f|in the up at uh-huh up at the top to the left of the diamond mind|check reply_y check
 g|yeah|reply_y
 f|mine right|acknowledge
-g|ah right if you come down to the just below the "d" in the diamond|acknowledge instruct
+g|ah right if you come down to the just below the d in the diamond|acknowledge instruct
 f|okay straight down|acknowledge check
 g|yeah and then along do you have the springboks|reply_y instruct query_yn
 f|no|reply_n
@@ -18581,7 +18581,7 @@ g|uh-huh yeah|reply_y
 f|right|acknowledge
 g|yeah|acknowledge
 f|so i'm right|check acknowledge
-g|ehm from the "e" in mine|instruct
+g|ehm from the e in mine|instruct
 f|uh-huh|acknowledge
 g|i go another maybe six centimetres in the same direction|instruct
 f|mmhmm|acknowledge
@@ -18661,7 +18661,7 @@ g|and then move vertically down to the giraffes|instruct
 f|right okay so i'm at the the right of the giraffes|acknowledge ready align
 g|mmhmm|reply_y
 f|okay so what do i do now|ready query_w
-g|ehm you you should be around about at the "s" in giraffe about a centimetre below it|instruct
+g|ehm you you should be around about at the s in giraffe about a centimetre below it|instruct
 f|okay|acknowledge
 g|and then curve round slightly for about four five centimetres|instruct
 f|what going going left|query_yn
@@ -18683,7 +18683,7 @@ g|mm that's about okay|acknowledge
 f|right|acknowledge
 g|if you come down so you're about a centimetre below the great lake and just move underneath the great lake|instruct
 f|so i'm going back down again oh right go underneath it so just straight across then to the left|check acknowledge check
-g|straight across until you get to the "g"|reply_y instruct
+g|straight across until you get to the g|reply_y instruct
 f|i'll just score that wee bit out then uh-huh|explain acknowledge
 g|and if you curve up to the left ehm about five centimetres do you have the rock fall|instruct query_yn
 f|uh-huh|reply_y

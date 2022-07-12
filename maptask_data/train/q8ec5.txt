@@ -4,8 +4,8 @@ g|no left|reply_n
 f|okay|acknowledge
 g|right erm burnt forest right|ready align
 f|yeah right beside the start|reply_y explain
-g|go down diagonally so you're just next to the "b"|instruct
-f|just next to the "b" okay|acknowledge
+g|go down diagonally so you're just next to the b|instruct
+f|just next to the b okay|acknowledge
 g|right|align
 f|diagonally|check
 g|yeah right|reply_y ready
@@ -25,7 +25,7 @@ f|yeah|reply_y
 g|right we're going to the cross between vertical down start and horizontal right|acknowledge instruct align
 f|right|reply_y
 g|right|acknowledge
-f|from the start down to the "b" of the burnt forest right|check
+f|from the start down to the b of the burnt forest right|check
 g|right then we're going to curve round to where the bottom of the ravine and the vertical from the start meet|reply_y clarify
 f|which direction curve round|query_yn acknowledge
 g|okay|align
@@ -72,9 +72,9 @@ g|the right hand side|align
 f|yeah|reply_y
 g|that's where we're trying to go okay|instruct align
 f|okay|reply_y
-g|so if you sort of curve round an inverted "s" shape|ready instruct
-f|an inverted "s"|acknowledge
-g|yeah well it's like a "2" right|instruct align
+g|so if you sort of curve round an inverted s shape|ready instruct
+f|an inverted s|acknowledge
+g|yeah well it's like a 2 right|instruct align
 f|right|reply_y
 g|so that you miss the avalanche|instruct
 f|miss the avalanche okay|acknowledge
@@ -82,30 +82,30 @@ g|and end up at the bottom of the concealed well the side of the concealed hideo
 f|okay|acknowledge
 g|okay|align
 f|right yeah|reply_y
-g|now curve round until you're under the "c" of concealed hideout|ready instruct
-f|curve round 'til er i'm just under the "c"|acknowledge
+g|now curve round until you're under the c of concealed hideout|ready instruct
+f|curve round 'til er i'm just under the c|acknowledge
 g|right then two centimetres further left|align instruct
 f|yeah further left|reply_y acknowledge
 g|right|align
 f|okay left to whereabouts|reply_y check
-g|now so you're now two centimetres to the left of "c" just about underneath it|ready ready clarify clarify
-f|oh "c"|acknowledge
+g|now so you're now two centimetres to the left of c just about underneath it|ready ready clarify clarify
+f|oh c|acknowledge
 g|okay|align
-f|is this along to my left directly along two centimetres along from the "c"|check
+f|is this along to my left directly along two centimetres along from the c|check
 g|yeah|reply_y
 f|okay|reply_y
 g|okay|align
 f|yeah|reply_y
 g|right now see crane bay right|acknowledge ready align
 f|yes|reply_y
-g|there's a there's a curved bit just above the letters crane er "e" "b" alright|align
+g|there's a there's a curved bit just above the letters crane er e b alright|align
 f|yeah|reply_y
-g|the curved bit right and see the peninsula around where "r" is above "r" the corner|align
+g|the curved bit right and see the peninsula around where r is above r the corner|align
 f|yeah|reply_y
-g|go vertically down and then follow the curve round until you get above "r"|instruct
+g|go vertically down and then follow the curve round until you get above r|instruct
 f|okay|acknowledge
-g|the "r" bit okay|align
-f|okay right above "r"|reply_y acknowledge
+g|the r bit okay|align
+f|okay right above r|reply_y acknowledge
 g|right well on the on the on land you're still on land aren't you|ready instruct align
 f|yeah yeah it's alright i'm on land yeah|reply_y
 g|you shouldn't be in the sea yet no right do you have a coconut palm|align query_yn

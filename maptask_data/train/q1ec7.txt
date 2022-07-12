@@ -4,7 +4,7 @@ g|okay|align
 f|mmhmm|reply_y
 g|right and we're going to go and straight down south with the caravan park on your right-hand side|ready instruct
 f|okay|acknowledge
-g|okay and you're going to go down and then you're going to do a "u" shape|align instruct
+g|okay and you're going to go down and then you're going to do a u shape|align instruct
 f|uh-huh|acknowledge
 g|and we're going to come up and we're going to have the old|instruct
 f|ehm are we just going are we going to go below the picket fence|query_yn
@@ -24,13 +24,13 @@ g|but continue past that|instruct
 f|so i'm going down below the picket fence|check
 g|right we've come down from a caravan park|ready align
 f|mmhmm|reply_y
-g|and we're doing a "u" shape|align
+g|and we're doing a u shape|align
 f|mmhmm|reply_y
 g|okay on the and then you're going to proceed north right|align
-f|hang on where's the "u" shape just underneath the mill just underneath the caravan park|query_yn query_yn
+f|hang on where's the u shape just underneath the mill just underneath the caravan park|query_yn query_yn
 g|no no yeah|reply_n reply_y
 f|right|acknowledge
-g|the caravan park is directly above the the base of the "u"|explain
+g|the caravan park is directly above the the base of the u|explain
 f|above right you're okay right|acknowledge acknowledge
 g|right okay|align
 f|right right|reply_y
@@ -62,7 +62,7 @@ g|and then turn and keep it on your left-hand side and the abandoned cottage|ins
 f|right|acknowledge
 g|okay|align
 f|uh-huh|reply_y
-g|and then when you get to the abandoned cottage do a slight sort of "c" shape round the top of the abandoned cottage|instruct instruct
+g|and then when you get to the abandoned cottage do a slight sort of c shape round the top of the abandoned cottage|instruct instruct
 f|uh-huh uh-huh|acknowledge acknowledge
 g|okay|align
 f|uh-huh|reply_y
@@ -72,28 +72,28 @@ g|yeah|reply_y
 f|right|acknowledge
 g|uh-huh|acknowledge
 f|mmhmm|acknowledge
-g|right and then turn that "c" shape right so you're coming down come slightly down sort of south|acknowledge ready instruct align instruct
+g|right and then turn that c shape right so you're coming down come slightly down sort of south|acknowledge ready instruct align instruct
 f|mmhmm|acknowledge
 g|southwest or just slightly and then you're going to pass above a fenced meadow do you have a fenced meadow|instruct instruct query_yn
 f|and my fenced meadow is away down the right-hand corner below the forest|reply_w
 g|so you only have one fenced meadow|check
 f|uh-huh|reply_y
-g|right okay well just continue on that right you've done that "c" shape right and as if you're going to do a very wide "u" now okay|ready instruct align instruct align
+g|right okay well just continue on that right you've done that c shape right and as if you're going to do a very wide u now okay|ready instruct align instruct align
 f|right okay|reply_y
 g|and just ignore if you've not got a fenced meadow there then that's okay i do|explain
 f|right there's nothing on my left i've there's nothing to my left of the abandoned cottage|ready explain
-g|right okay right but just do that "c" that "c"|acknowledge ready instruct
-f|the "c" over the cottage|check
+g|right okay right but just do that c that c|acknowledge ready instruct
+f|the c over the cottage|check
 g|yeah|reply_y
 f|right|acknowledge
-g|and then turn round and almost in a sort of big wide "u" and go back up again|ready instruct
+g|and then turn round and almost in a sort of big wide u and go back up again|ready instruct
 f|right uh-huh right|acknowledge acknowledge
 g|and you're going to come up and you're going to have a west lake|instruct query_yn
 f|uh-huh|acknowledge
 g|right so you're going to almost follow the course of that right that west lake to the east the east side of it you're going to follow the the course of it|ready instruct
 f|just just coming in at the base of it then|check
-g|yeah just at the base and then follow the course of it round sort of a "u" an "s" shape|reply_y clarify
-f|as if it's a very very big wide "u" so i'm going to avoid|check
+g|yeah just at the base and then follow the course of it round sort of a u an s shape|reply_y clarify
+f|as if it's a very very big wide u so i'm going to avoid|check
 g|yeah|reply_y
 f|so that i so i'm avoiding something at the|check
 g|well you've got a trig point do you have a trig point|ready query_yn
@@ -106,14 +106,14 @@ g|so you're going to do a sort of and just follow the contour of that lake round
 f|mmhmm|reply_y
 g|until you're almost at the top of the east hand coast right|instruct align
 f|mmhmm|reply_y
-g|and then turn back round again in another sort of "c" or top of the "u"|instruct
+g|and then turn back round again in another sort of c or top of the u|instruct
 f|mmhmm|acknowledge
 g|right and then you're going to come straight down at forty-five degrees|ready instruct
 f|mmhmm|acknowledge
 g|sort of southeast|instruct
 f|see see sorry where i where i leave the top the east of the west lake|align
 g|right|reply_y
-f|i'm doing a "c" shape and i'm am i going over the top of the farmed land|align query_yn
+f|i'm doing a c shape and i'm am i going over the top of the farmed land|align query_yn
 g|you're going over the no no no you're staying well below that|reply_w reply_n clarify
 f|oh right|acknowledge
 g|so in between it would be in between farmed land and i have a trig point|clarify
@@ -132,7 +132,7 @@ g|relationship line okay|instruct align
 f|right|reply_y
 g|and then you come to that monument|instruct
 f|right|acknowledge
-g|and turn round that monument in a "u" shape|instruct
+g|and turn round that monument in a u shape|instruct
 f|eh er just underneath it then|check
 g|yeah just|reply_y
 f|right|acknowledge
@@ -140,7 +140,7 @@ g|yeah keeping the monument on your inside|reply_y clarify
 f|right okay|acknowledge
 g|okay and then above the monument you have well i have a nuclear test site|acknowledge explain
 f|no i don't|reply_n explain
-g|no you don't right okay er what you want to do is a a very slight "s"-shaped curve just above the monument right|acknowledge ready instruct align
+g|no you don't right okay er what you want to do is a a very slight s-shaped curve just above the monument right|acknowledge ready instruct align
 f|okay|reply_y
 g|well just curve round you have the monument don't you|ready instruct check
 f|yeah|reply_y

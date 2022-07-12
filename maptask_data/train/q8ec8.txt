@@ -4,16 +4,16 @@ g|oh right have you got starting right up the top left a diamond|acknowledge que
 f|yeah mmhmm|reply_y
 g|mine right well just sort of go down follow it round sort of square go down then just take a right|ready instruct
 f|to there's i'm under the|check
-g|and end up at the "e" of the diamond mine know what i mean just go straight down and round it|instruct instruct
+g|and end up at the e of the diamond mine know what i mean just go straight down and round it|instruct instruct
 f|right|acknowledge
-g|and stop at the "e" er have you got springboks|instruct query_yn
+g|and stop at the e er have you got springboks|instruct query_yn
 f|right no i haven't|acknowledge reply_n
 g|have you got highest viewpoint|query_yn
 f|yes|reply_y
 g|well from where are just now just go straight right|instruct
 f|right|acknowledge
-g|and then just end up just go horizontally and just sort of eh end up just before the "h" in highest viewpoint|instruct
-f|so i'm under the "h"|check
+g|and then just end up just go horizontally and just sort of eh end up just before the h in highest viewpoint|instruct
+f|so i'm under the h|check
 g|just before just before it|reply_w
 f|on the same level as the diamond mine|check
 g|aye|reply_y
@@ -26,7 +26,7 @@ g|mmhmm just go|reply_y instruct
 f|to the|check
 g|just go right over the side of it and sort of leave about a centimetre gap and then just come round down it just come down|instruct
 f|down to the bottom right|check
-g|aye just stop at the "t" right|reply_y instruct ready
+g|aye just stop at the t right|reply_y instruct ready
 f|right|acknowledge
 g|have you got safari truck|query_yn
 f|i have|reply_y
@@ -44,12 +44,12 @@ g|right have you got field station|ready query_yn
 f|no|reply_n
 g|have you got banana tree|query_yn
 f|mmhmm|reply_y
-g|well go to just end up i don't know how you get there just get see the "s" of safari truck|ready instruct align
+g|well go to just end up i don't know how you get there just get see the s of safari truck|ready instruct align
 f|mmhmm|reply_y
 g|just sort of end up to the bottom left of that|instruct
 f|going round to the left or the right|query_w
 g|to the left doesnae really matter but to the left|reply_w
-f|right i'm on the "s" of safari truck|explain
+f|right i'm on the s of safari truck|explain
 g|right now just go down a bit so that you're sort of level with the top of the banana tree|acknowledge instruct
 f|right|acknowledge
 g|and then go straight across to the top left of the banana tree just sort of skirting the top of it 'cause there's a field station here|instruct explain
@@ -84,19 +84,19 @@ g|where are they|query_w
 f|just under the right-hand side of the rope bridge|reply_w
 g|well avoid them and then just go right round then go round the|instruct
 f|avoid them to the right or the left|query_w
-g|er it doesn't really matter as long as you end up on the right of the giraffes and come round the bottom of the giraffes and end up sort of like underneath the "g"|reply_w clarify
+g|er it doesn't really matter as long as you end up on the right of the giraffes and come round the bottom of the giraffes and end up sort of like underneath the g|reply_w clarify
 f|okay|acknowledge
 g|and then sort of eh have you great lake|instruct query_yn
 f|yes|reply_y
-g|well just go left from there and go right round underneath the great lake and just sort of stop at the "g" again|instruct
+g|well just go left from there and go right round underneath the great lake and just sort of stop at the g again|instruct
 f|yeah wait a minute so i've got to avoid the disused warehouse here|acknowledge explain
 g|well i've got nothing there well just avoid it somehow|explain instruct
-f|right so i'm under the "g"|explain
+f|right so i'm under the g|explain
 g|right|acknowledge
 f|right|align
 g|and then see the gap in between the great lake and the rock fall|ready align
 f|mmhmm|reply_y
-g|right well you're going to go up about a oh jesus trying to explain this erm are you just underneath the "g"|align instruct explain align
+g|right well you're going to go up about a oh jesus trying to explain this erm are you just underneath the g|align instruct explain align
 f|mmhmm|reply_y
 g|well go about three centimetres to the left and then go up about another four centimetres|instruct
 f|right|acknowledge

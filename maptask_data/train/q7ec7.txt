@@ -2,7 +2,7 @@ g|okey-dokey right so your start's away up in the top you got you got a wee cros
 f|uh-huh|reply_y
 g|right have you got the diamond mine|ready query_yn
 f|yes i have|reply_y
-g|well if you come down down the west side of that and hang a left right underneath it right underneath the "d" of the diamond|ready instruct
+g|well if you come down down the west side of that and hang a left right underneath it right underneath the d of the diamond|ready instruct
 f|right to what point will i draw a|acknowledge query_w
 g|eh go along you've not got the graveyard sure you've not|reply_w query_yn
 f|no|reply_n
@@ -52,10 +52,10 @@ g|yeah well you go right you're you're at your totem pole on your map i think it
 f|uh-huh at the bottom i'm below the trout farm|reply_y explain
 g|yeah right well if you go along underneath your totem pole for about an inch it may aye may be just over an inch|acknowledge instruct
 f|until the other side of the totem pole|check
-g|mmhmm then head up towards the trout farm with your line coming down there going up to the "t" the first "t" then have you've not got the fort sure you haven't the cavalry|reply_y instruct query_yn
+g|mmhmm then head up towards the trout farm with your line coming down there going up to the t the first t then have you've not got the fort sure you haven't the cavalry|reply_y instruct query_yn
 f|no no|reply_n reply_n
 g|well if you go along after the trout farm if you|ready instruct
-f|right i'll go up to how far from the "t"|ready check
+f|right i'll go up to how far from the t|ready check
 g|right right underneath it|reply_w
 f|right|acknowledge
 g|now i'd say if you go along east about two inches then|ready instruct ready
@@ -64,10 +64,10 @@ g|eh if you move it higher up give it a wee bit further than that|reply_w
 f|right okay|acknowledge
 g|then you've got the cattle stockade|ready query_yn
 f|uh-huh away down the bottom|reply_y explain
-g|yeah well if you go straight down passing that on the east side just right until you come to the "e"|ready instruct
+g|yeah well if you go straight down passing that on the east side just right until you come to the e|ready instruct
 f|right|acknowledge
-g|then go westerly under it until you come to the "c" the "c" in cattle|ready instruct
-f|oh the "c" of cattle|acknowledge
+g|then go westerly under it until you come to the c the c in cattle|ready instruct
+f|oh the c of cattle|acknowledge
 g|yeah right i'd presume that you've got something between the bandit territory and the cattle stockade|acknowledge ready query_w
 f|yes a parched river bed|reply_y reply_w
 g|judging yeah well if you drive over the top of that just over the top of it and then come down the other side underneath the bandit territory then have you got the wee cross for your finish|query_w acknowledge ready instruct ready query_yn
@@ -75,7 +75,7 @@ f|no|reply_n
 g|no well about an inch to the left of the wee tree an inch and a half to the left of the wee tree that the bandit's lying up against|acknowledge ready explain
 f|mmhmm|acknowledge
 g|your wee your finish sign's there eh if you go under your bandit territory and up to it|explain instruct
-f|right i'm under the "b" of bandit just now|ready explain
+f|right i'm under the b of bandit just now|ready explain
 g|you just go straight up to your wee cross|instruct
 f|about how far up about an uh an inch|query_w
 g|it's about prr an inch inch or so|reply_w

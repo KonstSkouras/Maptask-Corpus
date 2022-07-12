@@ -1,6 +1,6 @@
 g|right neil erm at the bottom right-hand corner of your map do you have a missionary camp|ready query_yn
 f|yeah|reply_y
-g|about half an inch above it we've got an "x" marking start have you got that|explain query_yn
+g|about half an inch above it we've got an x marking start have you got that|explain query_yn
 f|yes yes|reply_y reply_y
 g|right erm now i want you to take a route about one inch directly west if the top of the page is north and the left-hand side of the page is west i want you to go about one inch west|acknowledge instruct explain instruct
 f|okay|acknowledge
@@ -192,7 +192,7 @@ g|the same distance now you're going into a curve have you got a soft furnishing
 f|no|reply_n
 g|well that's directly below the white mountain about an inch so we've got about an inch to play with here|explain
 f|right|acknowledge
-g|so i want you to curve round underneath the white mountain and then when when your curve is underneath the "n" of mountain make it into a straight line eh going left about two inches|instruct instruct
+g|so i want you to curve round underneath the white mountain and then when when your curve is underneath the n of mountain make it into a straight line eh going left about two inches|instruct instruct
 f|uh-huh so going left straight horizontal left two inches|acknowledge check
 g|yeah until you're under the base of the white mountain|reply_y clarify
 f|right|acknowledge
@@ -207,7 +207,7 @@ f|right|acknowledge
 g|now go straight down about three inches|instruct
 f|okay|acknowledge
 g|and curve round to the right just just a small curve the the length of the curve should be about two centimetres|instruct
-f|right is it an an a "u"-turn or a|acknowledge query_w
+f|right is it an an a u-turn or a|acknowledge query_w
 g|well have you got gazelles on yours|query_yn
 f|yeah|reply_y
 g|right okay curve round the left-hand side of the gazelles|acknowledge instruct

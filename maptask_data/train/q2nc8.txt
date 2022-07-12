@@ -121,7 +121,7 @@ g|now on my map that should be that's like up from the stile|explain
 f|right|acknowledge
 g|okay now if you're at that point do you have a a dead tree it's an elm tree down to your|align query_yn
 f|yeah right over the other side of the page|reply_y check
-g|okay now see there the letter "d"|acknowledge align
+g|okay now see there the letter d|acknowledge align
 f|mmhmm|reply_y
 g|that one oh i've got dead tree you've got elm tree|explain
 f|i've got dutch elm|explain
@@ -145,9 +145,9 @@ g|up the way so that see the third branch from the left|reply_y clarify align
 f|uh-huh|reply_y
 g|until you're say above that that's your half circle|clarify
 f|okay|acknowledge
-g|okay you've done a "u" turn now if you draw like a kind let's see see where you have the east lake at the top|align ready instruct ready align
+g|okay you've done a u turn now if you draw like a kind let's see see where you have the east lake at the top|align ready instruct ready align
 f|yeah|reply_y
-g|right if you draw a line if you go from the "e" in lake down the way okay|instruct align
+g|right if you draw a line if you go from the e in lake down the way okay|instruct align
 f|okay|reply_y
 g|on to the edge of the lake|instruct
 f|right|acknowledge

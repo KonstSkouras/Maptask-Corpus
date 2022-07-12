@@ -29,8 +29,8 @@ g|right go east and go north west of the old you know go north just to the west 
 f|do you go go right go to the right|check check
 g|ah yeah and go up to the left of the north temple of the old temple go north to the left of the old temple|reply_y clarify
 f|right|acknowledge
-g|go keep going up 'til you're about an inch below the "x" marks finish which i don't know if you have|instruct explain
-f|i don't have "x" marks finished how far above the old temple|explain query_w
+g|go keep going up 'til you're about an inch below the x marks finish which i don't know if you have|instruct explain
+f|i don't have x marks finished how far above the old temple|explain query_w
 g|right can you see the remote village|acknowledge align
 f|yeah|reply_y
 g|do you have the remote village|query_yn
@@ -107,5 +107,5 @@ g|come down just past the remote village|instruct
 f|right|acknowledge
 g|and go to your right|instruct
 f|how far|query_w
-g|just past the remote village and mark "x" 'cause that's us finished a complete trial|reply_w instruct
+g|just past the remote village and mark x 'cause that's us finished a complete trial|reply_w instruct
 f|right right right that's it|acknowledge acknowledge acknowledge

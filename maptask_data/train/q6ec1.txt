@@ -106,7 +106,7 @@ g|sort of nearly the middle of the wood but not quite down a bit in the middle|i
 f|mmhmm|acknowledge
 g|right now go down and round the forked stream|ready instruct
 f|quite a lot|query_yn
-g|round the forked stream 'til you come to like about the "m" in stream now do you have farmed land|reply_w ready query_yn
+g|round the forked stream 'til you come to like about the m in stream now do you have farmed land|reply_w ready query_yn
 f|nope|reply_n
 g|do you have a dead tree|query_yn
 f|yeah|reply_y

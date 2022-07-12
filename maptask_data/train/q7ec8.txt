@@ -1,6 +1,6 @@
 g|you done this one before|query_yn
 f|no|reply_n
-g|oh super you'll have no chapel okay "a" "q" "7" "c" "8" plus minus "4" "u" david|acknowledge explain explain
+g|oh super you'll have no chapel okay a q 7 c 8 plus minus 4 u david|acknowledge explain explain
 f|and mark|explain
 g|right you've got the start point|ready align
 f|yeah|reply_y
@@ -16,7 +16,7 @@ g|well take about a couple of inches well about an inch a couple of inches just 
 f|so you go if i curve from the start round to|check
 g|so you're doing it's like a it's like|clarify clarify
 f|just along and|check
-g|a backwards "c"|clarify
+g|a backwards c|clarify
 f|mm|acknowledge
 g|just beside the haystack meets the haystack just about about half a centimetre from the haystack and comes out to below the start line just below the level of the carpenter's house right you've got|clarify ready instruct
 f|you got the|acknowledge
@@ -45,7 +45,7 @@ f|so we're down below the carpenter's house about half a centimetre|check
 g|on the level yeah but across below the start see what i mean|instruct reply_y clarify align
 f|oh away round here below the start|check
 g|yeah so it's that's the level you're going to|reply_y clarify
-f|ah right so it sort of curves round like that backwards "c" as you've said|acknowledge check
+f|ah right so it sort of curves round like that backwards c as you've said|acknowledge check
 g|it's not it's just to the it's to the left of the haystack it's just a really shallow thing|reply_n clarify
 f|doesn't sound like what i've got|explain
 g|right you right we'll start again then you've got the start line right|ready clarify ready instruct align
@@ -112,9 +112,9 @@ g|well right from the start you're starting directly below the start point is wh
 f|right shallow curve i've got i go down just and curve round the haystack|ready reply_y check
 g|well not round you want to finish below the starting point you go down you curve past you curve past the haystack|reply_n clarify
 f|so just a wee|check
-g|it's like a an inverted "c"|clarify
+g|it's like a an inverted c|clarify
 f|so i'm curving back like|check
-g|it's like a "c" the wrong way round|clarify
+g|it's like a c the wrong way round|clarify
 f|well i'm just curving back in|check
 g|yeah you're coming round to to below the start point which is also on a level below the carpenter's house that's to tell you where to stop|reply_y clarify
 f|all right so i'm actually i'm starting here and i'm finishing|acknowledge check
@@ -156,17 +156,17 @@ g|not an inch above them well you want to be about call it half an inch above th
 f|right so i'll just|acknowledge
 g|right|align
 f|right okay|reply_y
-g|and from that point there you want to go about it's just off south to below the "s" in seven beeches|instruct
+g|and from that point there you want to go about it's just off south to below the s in seven beeches|instruct
 f|just off south|acknowledge
-g|it's southeast you want to be going right just below the "s"|align
-f|southeast mmhmm right down that way just below the "s" wait a minute|reply_y explain
+g|it's southeast you want to be going right just below the s|align
+f|southeast mmhmm right down that way just below the s wait a minute|reply_y explain
 g|right|align
-f|just below the "s"|acknowledge
+f|just below the s|acknowledge
 g|now eh you've got reclaimed fields down below that|ready query_yn
 f|yeah i have|reply_y
 g|down below well in between the seven beeches and the reclaimed fields i've got a chapel okay|acknowledge ready explain align
 f|mm right i don't have that|reply_y explain
-g|so eh what i need to do is i need to go round it again an inverted "c" well it's no an inverted "c" it's the other way about opposite "c"|ready instruct
+g|so eh what i need to do is i need to go round it again an inverted c well it's no an inverted c it's the other way about opposite c|ready instruct
 f|right|acknowledge
 g|and you need to go around it so eh|instruct
 f|so i sort of curve underneath seven beeches and round and then over to back to where i started from|check
@@ -182,32 +182,32 @@ g|well eh we'll call it just about two inches maybe a bit more call it two and a
 f|mmhmm|acknowledge
 g|and that's where you want to finish up|instruct
 f|right|acknowledge
-g|so to do that you'll need to take from the "s" and go round like from twelve o'clock to three o'clock|instruct
+g|so to do that you'll need to take from the s and go round like from twelve o'clock to three o'clock|instruct
 f|yeah around|acknowledge
 g|and go out an inch|instruct
 f|and then and then back in again|explain explain
-g|from the "s" and then back into that point i told you|instruct instruct
+g|from the s and then back into that point i told you|instruct instruct
 f|yeah|acknowledge
 g|right|align
 f|got that|reply_y
 g|now you want to go like the end of a test tube like that way you want to go round the reclaimed fields like that have you got crane bay|ready instruct query_yn
 f|crane bay yeah|reply_y
-g|you see the the most northerly tip above the "b"|align
+g|you see the the most northerly tip above the b|align
 f|over the right yeah|reply_y
-g|well you want to come round the test round the reclaimed fields and the test tube sort of shape to about oh i don't know about an inch and a half above the "b"|ready instruct
-f|an inch above the "b"|acknowledge check
-g|above the "b" yeah well|reply_y ready
+g|well you want to come round the test round the reclaimed fields and the test tube sort of shape to about oh i don't know about an inch and a half above the b|ready instruct
+f|an inch above the b|acknowledge check
+g|above the b yeah well|reply_y ready
 f|so the point right|acknowledge
 g|no above the point sorry above the tip|reply_n reply_w reply_w
 f|have you got whitewashed cottage|query_yn
 g|no|reply_n
 f|no so i'll have to miss that so if i come round in my curve and then i'm going along and then curving back round the same way|acknowledge explain ready check
 g|yeah so the shape will be you'll be going east and then you'll be going down|reply_y clarify
-f|a kind of inverted in a "s" a backwards "s"|check
+f|a kind of inverted in a s a backwards s|check
 g|it's not well|reply_n clarify
 f|sort of|ready
 g|it's just like that shape you want to do so you're going east and then you're going that curve and then you're going west until you're above that tip|clarify clarify
-f|ah well the whole thing in together like from the seven beeches round it's like an "c" and then and it's like a normal "c" sort of right i'll try and an inch and a half above there i'll have to draw it a bit squint so i'm so i'm coming down on the right-hand the left-hand side of the reclaimed fields|ready explain explain check
+f|ah well the whole thing in together like from the seven beeches round it's like an c and then and it's like a normal c sort of right i'll try and an inch and a half above there i'll have to draw it a bit squint so i'm so i'm coming down on the right-hand the left-hand side of the reclaimed fields|ready explain explain check
 g|yeah|reply_y
 f|and i've sort of curved round to about there|check
 g|so you've got you've gone round the reclaimed fields|check
@@ -240,7 +240,7 @@ g|that's right|reply_y
 f|right|acknowledge
 g|so it's about that sort of angle|clarify
 f|uh-huh|acknowledge
-g|now you want to go due west until you're above the "a" in attractive cliffs|ready instruct
+g|now you want to go due west until you're above the a in attractive cliffs|ready instruct
 f|right|acknowledge
 g|and then take it down about about the same angle as you took from the south to the west tip take that down to the bottom just on the same level as attractive cliffs so you're doing down that angle and it's about an inch long shall we say|instruct instruct
 f|right right|acknowledge acknowledge

@@ -53,7 +53,7 @@ f|okay|acknowledge
 g|okay do you come to another fenced meadow|align query_yn
 f|does that not i'm going to be crossing my path see when it see when you said the abandoned cottage|check explain align
 g|yes|reply_y
-f|so you go round the the side of the abandoned cottage where the "a" of the abandoned is|check
+f|so you go round the the side of the abandoned cottage where the a of the abandoned is|check
 g|yeah no you're round the other|reply_y reply_n explain
 f|the other side oh dear|acknowledge
 g|the abandoned cottage should always be on your left|explain

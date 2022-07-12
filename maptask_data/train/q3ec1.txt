@@ -120,7 +120,7 @@ g|uh-huh|reply_y
 f|directly directly west of your cattle stockade|query_yn
 g|correct|reply_y
 f|that's in the middle of the two|reply_w
-g|right my map deviates here so i presume that's why you must have an obstacle so what i want you to do is go west as far left as the just the edge of the "c" of the cattle stockade|acknowledge explain instruct
+g|right my map deviates here so i presume that's why you must have an obstacle so what i want you to do is go west as far left as the just the edge of the c of the cattle stockade|acknowledge explain instruct
 f|mmhmm|reply_y
 g|then do you have to go up to avoid the|query_yn
 f|well if there's a very very thin line i i can go up though yes|reply_w
@@ -164,5 +164,5 @@ g|understand what i mean|align
 f|right so basically just due north to the level of the|check
 g|correct|reply_y
 f|right|acknowledge
-g|and that's your "x" that's your finish|explain
+g|and that's your x that's your finish|explain
 f|is it|check

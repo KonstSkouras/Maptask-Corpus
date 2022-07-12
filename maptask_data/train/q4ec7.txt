@@ -106,7 +106,7 @@ g|right so if you go over the top of the crevasse and down the side of it then u
 f|you want me to draw underneath the saxon barn|check
 g|yes|reply_y
 f|uh-huh okay where will i stop|reply_y query_w
-g|and stop ehm beside the "s"|reply_w
+g|and stop ehm beside the s|reply_w
 f|of saxon|check
 g|saxon|reply_y
 f|okay|acknowledge
@@ -158,7 +158,7 @@ g|that's in the top left-hand corner yeah|reply_w
 f|okay okay right|acknowledge acknowledge
 g|kind of are you over the mountain|align
 f|you want me to go over it|check
-g|just go over it and stop at the other side and curve right round underneath it so that you're about a centimetre underneath the "s"|clarify
+g|just go over it and stop at the other side and curve right round underneath it so that you're about a centimetre underneath the s|clarify
 f|mmhmm|acknowledge
 g|and you got a secret valley|query_yn
 f|yeah|reply_y
@@ -166,10 +166,10 @@ g|can you go down from there down the left-hand side of the secret valley|instru
 f|mmhmm|acknowledge
 g|and are you underneath the secret valley|align
 f|hold on you want me to be underneath the secret valley|check
-g|go draw a straight line to the end of just about a centimetre away from the "y" and that's the finish|clarify
+g|go draw a straight line to the end of just about a centimetre away from the y and that's the finish|clarify
 f|underneath it|check
-g|underneath the "y" of secret valley|clarify
-f|a centimetre down from the "y" yeah|check
+g|underneath the y of secret valley|clarify
+f|a centimetre down from the y yeah|check
 g|mmhmm|reply_y
 f|okay|acknowledge
 g|that's it|explain

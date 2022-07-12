@@ -98,7 +98,7 @@ f|have you got the alpine garden|query_yn
 g|uh-huh but over the top of it and curve down like to like see where the writing disused monastery is|reply_y clarify align
 f|right|reply_y
 g|go to your like don't draw anything here right just go to your left a wee bit over|instruct
-f|i've got it right i'm just at the "d" right i'm not drawing|acknowledge explain
+f|i've got it right i'm just at the d right i'm not drawing|acknowledge explain
 g|and then just go about two centimetres over|instruct
 f|right|acknowledge
 g|right so where you are other side of disused monastery right you curve round|ready instruct
@@ -183,10 +183,10 @@ g|no have you got youth hostel no|reply_n query_yn
 f|nope|reply_n
 g|right|acknowledge
 f|i'll need to go round the youth hostel now right i'm over the top alpine garden|explain
-g|right above the "d" sort of the "d" of alpine garden it just goes|ready instruct
-f|i'm actually above well by the "n" but it doesnae matter it doesnae make that accurate|explain
+g|right above the d sort of the d of alpine garden it just goes|ready instruct
+f|i'm actually above well by the n but it doesnae matter it doesnae make that accurate|explain
 g|well you need to go round the youth hostel so you go straight up the top right no no straight up and then|ready instruct
-f|from the "d"|check
+f|from the d|check
 g|mmhmm|reply_y
 f|right i'll go back a bit then how far you got the picket fence|acknowledge explain query_w query_yn
 g|uh-huh|reply_y
@@ -211,11 +211,11 @@ g|aye right|reply_y
 f|you've got the disused monastery|explain
 g|aye so i have right right from where you are go|reply_y acknowledge acknowledge instruct
 f|diagonally|query_yn
-g|southeast diagonally 'til you get to the "t" of the telephone box|reply_y instruct
+g|southeast diagonally 'til you get to the t of the telephone box|reply_y instruct
 f|above it below it beside it|query_w
-g|below it just below the "t" of the telephone box right|reply_w align
+g|below it just below the t of the telephone box right|reply_w align
 f|right|reply_y
-g|and then go straight round the bottom of the wording where it says telephone box to the "x" and round the side of the "x" and up and and kind of up the way|instruct
+g|and then go straight round the bottom of the wording where it says telephone box to the x and round the side of the x and up and and kind of up the way|instruct
 f|how far|query_w
 g|about er four centimetres five centimetres|reply_w
 f|level with the top of the box|query_yn

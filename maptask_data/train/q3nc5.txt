@@ -10,10 +10,10 @@ g|well it's eh gosh|acknowledge
 f|how many inches down from the forest fire should i go|query_w
 g|well it's a couple of inches from the bottom of the page|reply_w
 f|right 'kay|acknowledge acknowledge
-g|so ehm i want you to do a "u" round it|clarify
-f|do a "u" round it|check
+g|so ehm i want you to do a u round it|clarify
+f|do a u round it|check
 g|yeah to come back up ehm on the right-hand side of it okay|reply_y clarify align
-f|so are you going down the way the way i would normally write a "u"|check
+f|so are you going down the way the way i would normally write a u|check
 g|am i what|query_w
 f|are you underneath it or above it|check
 g|well if you started off and you came down the page you went underneath it and go back up the other side of it upwards|reply_y

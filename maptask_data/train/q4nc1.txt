@@ -54,11 +54,11 @@ g|have you got a collapsed shelter|query_yn
 f|yes i have that's|reply_y
 g|right you're going to go along until you're underneath the collapsed shelter|ready reply_w
 f|right i'll be underneath it by about two or three centimetres|check
-g|uh-huh just a little below the "o" actually|reply_y
+g|uh-huh just a little below the o actually|reply_y
 f|right okay|acknowledge
 g|okay then you're going to start going up north again|ready instruct
 f|okay|acknowledge
-g|and put your line through the "o"|instruct
+g|and put your line through the o|instruct
 f|okay|acknowledge
 g|and you're going to go up there for about about ehm let me see about ten centimetres up|instruct
 f|okay past the crevasse on the right on the left have you not got a crevasse|acknowledge check query_yn
@@ -72,8 +72,8 @@ g|you know if you go up and then come back down and have you got a saxon barn|in
 f|okay yes|reply_y
 g|right well you're just going to go up and come down underneath the words saxon barn|acknowledge instruct
 f|so do a sort of semicircle to the saxon barn|check
-g|uh-huh yeah that'd be so you've just drawn your line just under the "s" of the saxon bar|reply_y align
-f|okay just under the "s"|reply_y check
+g|uh-huh yeah that'd be so you've just drawn your line just under the s of the saxon bar|reply_y align
+f|okay just under the s|reply_y check
 g|uh-huh and have you got pelicans|reply_y query_yn
 f|i haven't no i've not|reply_n
 g|right so you're going to go down ehm south|acknowledge instruct
@@ -171,8 +171,8 @@ f|okay|acknowledge
 g|and then can you see you just draw a straight line to the finish|align
 f|to the finish no i've not got a finish|reply_n explain
 g|well the finish is actually you know where it says secret valley it's just about a centimetre along from that and down a wee bit that's where the|instruct align instruct
-f|right from the edge of the letter "y"|reply_y query_yn
-g|uh-huh it's about a centimetre along from the letter "y" and about a centimetre down that's your finishing cross|reply_y instruct
+f|right from the edge of the letter y|reply_y query_yn
+g|uh-huh it's about a centimetre along from the letter y and about a centimetre down that's your finishing cross|reply_y instruct
 f|right okay|acknowledge
 g|and that's the end|instruct
 f|that's the end|acknowledge

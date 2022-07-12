@@ -4,7 +4,7 @@ g|okay ehm shall we call eh north ehm the top of the page|acknowledge query_yn
 f|right okay that's fine|reply_y
 g|okay ehm go straight down south past the diamond mine 'til you get just to where the words diamond mine start|acknowledge instruct
 f|mm okay|acknowledge
-g|go round ehm horizontally underneath diamond mine and along past the graveyard sort of up in a sort of slightly diagonal line to where the "d" is in the graveyard okay|instruct align
+g|go round ehm horizontally underneath diamond mine and along past the graveyard sort of up in a sort of slightly diagonal line to where the d is in the graveyard okay|instruct align
 f|eh graveyard|acknowledge
 g|have you got the graveyard written down|query_yn
 f|no i don't have a graveyard on this one|reply_n

@@ -14,7 +14,7 @@ g|go west|instruct
 f|okey-dokey|acknowledge
 g|until you've just got past the edge of the crest falls|instruct
 f|right|acknowledge
-g|and then come down until you reach a an angle maybe just past south towards west slightly past until you reach the bottom of crest falls and a level with the "c" and maybe about an inch to west of the "c"|ready instruct
+g|and then come down until you reach a an angle maybe just past south towards west slightly past until you reach the bottom of crest falls and a level with the c and maybe about an inch to west of the c|ready instruct
 f|mm okey-dokey|acknowledge acknowledge
 g|right and then go due west until about two centimetres from the edge of the paper|align instruct
 f|right|acknowledge
@@ -58,7 +58,7 @@ g|and then back down at the same angle to well the opposite angle anyway to get 
 f|right|acknowledge
 g|and then go straight across the bottom of the abandoned truck|instruct
 f|mmhmm|acknowledge
-g|until you're just below the "a"|instruct
+g|until you're just below the a|instruct
 f|right|acknowledge
 g|now have you got baboons|ready query_yn
 f|no|reply_n
@@ -70,7 +70,7 @@ g|and then due west for about two inches uh then|ready instruct ready
 f|right|acknowledge
 g|do you have a white mountain further up|query_yn
 f|yes uh-huh|reply_y reply_y
-g|right now well the best thing to do first of all would be come back up to where you were at the "a" and the come up to make that a "u" shape|acknowledge ready instruct
+g|right now well the best thing to do first of all would be come back up to where you were at the a and the come up to make that a u shape|acknowledge ready instruct
 f|mmhmm|acknowledge
 g|and then draw a line straight between this point and maybe about half a centimetre to the west of the bottom of the white mountain|ready instruct
 f|right|acknowledge
@@ -98,7 +98,7 @@ g|right below the pyramid there's a cobbled street and|ready explain
 f|directly below it|query_yn
 g|ehm it's below the western side of the pyramid|reply_w
 f|right so it'll be mmhmm|acknowledge acknowledge
-g|now from where you are just now draw a curved line 'til you're below the "d" of pyramid|ready instruct
+g|now from where you are just now draw a curved line 'til you're below the d of pyramid|ready instruct
 f|right|acknowledge
 g|and then straight across until you're just below the point of the pyramid at the western tip|instruct
 f|right|acknowledge
@@ -110,11 +110,11 @@ g|and just to where the the thick lines at the remote village drawing are|instru
 f|yeah|acknowledge
 g|just about a centimetre to the west of the thick line and stop there|instruct
 f|right|acknowledge
-g|now curve round draw a curve until you're below the "r" of remote|ready instruct
+g|now curve round draw a curve until you're below the r of remote|ready instruct
 f|mmhmm|acknowledge
-g|and then straight across until you're below the "e"|ready instruct
-f|the "e" in remote|query_yn
-g|the "e" in village sorry|explain
-f|"e" in village right|acknowledge acknowledge
+g|and then straight across until you're below the e|ready instruct
+f|the e in remote|query_yn
+g|the e in village sorry|explain
+f|e in village right|acknowledge acknowledge
 g|and then go straight across another inch and that's the finish|ready instruct
 f|okey-dokey there we go have i missed anything|acknowledge query_yn

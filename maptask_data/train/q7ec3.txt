@@ -36,7 +36,7 @@ g|right|acknowledge
 f|and i've got a waterfall to the left of the granite quarry|explain
 g|i've got a waterfall as well|explain
 f|so you want to go round it|check
-g|well you curve right round it and then down so it's like a "u"-shape curve you curve round and down over the top of the granite quarry|clarify
+g|well you curve right round it and then down so it's like a u-shape curve you curve round and down over the top of the granite quarry|clarify
 f|round right|check acknowledge
 g|and then|instruct
 f|to the bottom of the waterfall|query_yn
@@ -62,7 +62,7 @@ g|right then you're going north|acknowledge instruct
 f|uh right|acknowledge
 g|you miss it by about two inches then you go have you got cornfields at the top of the page|instruct query_yn
 f|yeah|reply_y
-g|you go along to about the word the letter "n" below the cornfields|instruct
+g|you go along to about the word the letter n below the cornfields|instruct
 f|how far below them should i be about an inch|query_yn
 g|er about an inch and a half somewhere around there er and then you you cut down about er southeast across the page|reply_w instruct
 f|to where lion country|query_yn
@@ -116,10 +116,10 @@ g|to that to that line and then a cut up north past the the limestone cliffs and
 f|so from fallen cairn you want me to go north|ready check
 g|you want to get north somehow up to about|reply_y instruct
 f|yeah i can do that|acknowledge
-g|i start going parallel along i mean skirting along east lake about the line comes up to about the "a" below the "a" and where the east lake's written and then go i skirt along the lake to the finish|instruct instruct
+g|i start going parallel along i mean skirting along east lake about the line comes up to about the a below the a and where the east lake's written and then go i skirt along the lake to the finish|instruct instruct
 f|yeah so north up to the bottom right-hand corner of east lake if i can do that yeah|acknowledge check
-g|mm up to about the "k" whenever you can get there|reply_w
-f|so right i'm not going through the lion country that way so it's just off north for me right i'm at just below the "k" and i skirt along east lake|ready explain ready check
+g|mm up to about the k whenever you can get there|reply_w
+f|so right i'm not going through the lion country that way so it's just off north for me right i'm at just below the k and i skirt along east lake|ready explain ready check
 g|uh skirt along east lake to the finish which is just|reply_y
 f|just|acknowledge
 g|right|align

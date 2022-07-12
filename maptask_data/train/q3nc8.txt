@@ -64,7 +64,7 @@ g|and when you get to that curve of crane bay stick closely to it|instruct
 f|okay|acknowledge
 g|for until you get to that corner|instruct
 f|which corner|query_w
-g|you see where the just opposite the "c" of crane bay diagonally opposite|clarify
+g|you see where the just opposite the c of crane bay diagonally opposite|clarify
 f|towards the north of it or to the|check
 g|uh-huh|reply_y
 f|right|acknowledge

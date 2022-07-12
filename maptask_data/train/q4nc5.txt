@@ -38,12 +38,12 @@ g|uh-huh okay|acknowledge align
 f|okay right|reply_y
 g|and it's a vertical line yeah|check
 f|yeah mmhmm okay|reply_y acknowledge
-g|yeah right that's good and then you you draw horizontally just and stop where the "t" is of forest okay|acknowledge instruct align
+g|yeah right that's good and then you you draw horizontally just and stop where the t is of forest okay|acknowledge instruct align
 f|forest oh right okay|check acknowledge
 g|burnt forest|clarify
 f|so okay fine|acknowledge
 g|okay and then|align ready
-f|so i'm level with ravine and coming across to to the "t" of forest|check
+f|so i'm level with ravine and coming across to to the t of forest|check
 g|uh-huh that's right and then|reply_y
 f|okay|acknowledge
 g|you go up|instruct
@@ -84,14 +84,14 @@ g|uh-huh|reply_y
 f|the pine grove|check
 g|uh-huh okay|reply_y align
 f|and then whereabouts after that|query_w
-g|you go down until just underneath right see "p" of pine grove|instruct align
+g|you go down until just underneath right see p of pine grove|instruct align
 f|yeah|reply_y
 g|just go down|instruct
 f|so i don't i'm going down the left-hand side of pine grove|check
 g|uh-huh that's right|reply_y
-f|and to to the "p"|check
+f|and to to the p|check
 g|uh-huh okay|reply_y
-f|so i want to be right at the "p"|check
+f|so i want to be right at the p|check
 g|well sort of|reply_w
 f|right okay|acknowledge
 g|about a centimetre away from it okay|clarify
@@ -135,11 +135,11 @@ f|yeah|reply_y
 g|have you got one just|query_yn
 f|it's directly below me now it's to the right of the concealed hideout|reply_w
 g|eh|acknowledge
-f|i'm i'm just i'll tell you where i am i'm at the "t" of concealed hideout|explain
+f|i'm i'm just i'll tell you where i am i'm at the t of concealed hideout|explain
 g|uh-huh good good right well i've got two boathouses right i think you you've only got one 'cause lynn only had one|acknowledge acknowledge explain
 f|i've got one and it's on the right-hand side of the page ehm which|explain query_w
 g|is it just below concealed hideout|query_yn
-f|it's it's directly it's it's directly below the "t" of concealed hideout|reply_y
+f|it's it's directly it's it's directly below the t of concealed hideout|reply_y
 g|quite a bit down|query_yn
 f|ehm not that far it's about i don't know|reply_n
 g|how many|query_w
@@ -168,16 +168,16 @@ g|uh-huh|reply_y
 f|see if i go down to the bay|query_yn
 g|uh-huh|acknowledge
 f|and just go along the shore will i miss everything|query_yn
-g|right i'll tell you what right you're you're under "t" just now|ready align
-f|yeah i'm just at "t" uh-huh|reply_y
+g|right i'll tell you what right you're you're under t just now|ready align
+f|yeah i'm just at t uh-huh|reply_y
 g|okay|acknowledge
 f|yeah|reply_y
-g|well right see the "b" of bay|align
-f|the "b" of bay|check
+g|well right see the b of bay|align
+f|the b of bay|check
 g|uh-huh|reply_y
 f|okay|reply_y
 g|right go up right just go oh right|ready instruct
-f|head for "b" of bay|check
+f|head for b of bay|check
 g|no no no no no no no no|reply_n
 f|oh|acknowledge
 g|right ehm go underneath the word concealed bay just draw a horizontal line underneath it okay|ready instruct align
@@ -192,8 +192,8 @@ g|and then draw ehm go over another two centimetres|instruct
 f|okay|acknowledge
 g|okay and stop|align instruct
 f|one two right okay|acknowledge
-g|okay and then go right down and you should be like vertical with the "b" of bay|ready instruct
-f|right that's yeah that's where i am okay right so i'm coming straight straight down to the "b" of|reply_y check
+g|okay and then go right down and you should be like vertical with the b of bay|ready instruct
+f|right that's yeah that's where i am okay right so i'm coming straight straight down to the b of|reply_y check
 g|oh that's great that's great uh-huh|acknowledge reply_y
 f|bay right okay|acknowledge
 g|but not go through not go uu-uu|clarify
@@ -219,7 +219,7 @@ f|i want to go to the tilled land that looks quite cool|explain
 g|the what|query_w
 f|the tilled land have you got tilled land it's away up the top somewhere|reply_w query_yn
 g|oh right it's just totally out of nowhere right what you could do is you could just follow right go you know your bump know how i've told you to draw that curve|acknowledge reply_w ready instruct ready align
-f|yeah uh-huh there's a bump just above "c"|reply_y explain
+f|yeah uh-huh there's a bump just above c|reply_y explain
 g|uh-huh uh-huh|acknowledge acknowledge
 f|right okay|acknowledge acknowledge
 g|right just draw round it|ready instruct
@@ -247,11 +247,11 @@ f|yeah|reply_y
 g|ehm it's like|explain
 f|level with them|query_yn
 g|level with them|acknowledge
-f|on the shore below is it below any of the letters in pebbled shore like the "p" maybe|query_yn query_yn
-g|ehm it's underneath the uh-huh the "p" or the it's underneath the the "e" and the "b"|reply_w
+f|on the shore below is it below any of the letters in pebbled shore like the p maybe|query_yn query_yn
+g|ehm it's underneath the uh-huh the p or the it's underneath the the e and the b|reply_w
 f|aye i'm going to just|acknowledge
 g|so that's where the finish is|explain
-f|going to i'm just going to dodge this i'm going to do a wee "s" round here|explain
+f|going to i'm just going to dodge this i'm going to do a wee s round here|explain
 g|right okay|align acknowledge
 f|and go down to the|explain
 g|you go but don't right see your washed stones|ready align
@@ -270,7 +270,7 @@ g|uh-huh|acknowledge
 f|yeah yeah|acknowledge
 g|but you go round your washed stones|clarify
 f|washed stones right|explain acknowledge
-g|"e" they should be to the right|clarify
+g|e they should be to the right|clarify
 f|okay|acknowledge
 g|so you should have like you take a wide line do you know what i mean|clarify align
 f|yeah yeah i've got it uh-huh|reply_y

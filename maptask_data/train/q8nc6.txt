@@ -4,7 +4,7 @@ g|right have you got the parked van|ready query_yn
 f|no|reply_n
 g|no|check
 f|yeah sorry i have i have yeah|reply_y
-g|below it right ehm from the start go down down the left-hand side of the camera shop and down the left-hand side of the parked van 'til you're below the "p" in the parked van|check ready instruct
+g|below it right ehm from the start go down down the left-hand side of the camera shop and down the left-hand side of the parked van 'til you're below the p in the parked van|check ready instruct
 f|oh no i don't have the parked i've got a different parked van|explain
 g|does it say parked van|query_yn
 f|not down here no|reply_n
@@ -54,7 +54,7 @@ g|okay right again by about three centimetres|align instruct
 f|mmhmm|acknowledge
 g|okay got the telephone box|align query_yn
 f|yeah|reply_y
-g|okay from where you are go diagonally down 'til you're directly below the "t" in telephone box|ready instruct
+g|okay from where you are go diagonally down 'til you're directly below the t in telephone box|ready instruct
 f|right|acknowledge
 g|okay|align
 f|got you|reply_y
@@ -68,7 +68,7 @@ g|right ehm go up about four centimetres 'til you've just cleared the top of the
 f|mmhmm|acknowledge
 g|okay then up and left diagonally about four centimetres okay|align instruct align
 f|right|acknowledge
-g|then straight up 'til you're you're 'til you're below the "k" in lake but ehm about a centimetre from the edge of the lake|ready instruct
+g|then straight up 'til you're you're 'til you're below the k in lake but ehm about a centimetre from the edge of the lake|ready instruct
 f|right|acknowledge
 g|okay|align
 f|uh-huh|reply_y

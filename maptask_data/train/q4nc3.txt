@@ -57,7 +57,7 @@ f|right i get what you mean now at the top of the burnt right okay right|acknowl
 g|mmhmm and you finish your curve at where's the start you know parallel ehm just parallel no no no no just down from start|reply_y clarify
 f|right okay okay i've got it i've got it i've got it|reply_y
 g|okay and it's like parallel to the ravine the bottom of it is like well not parallel but on the same line as the ravine|align align
-f|ah right on the straight line i've it's kind of like as though it's just dubbed directly above the "a"|acknowledge explain
+f|ah right on the straight line i've it's kind of like as though it's just dubbed directly above the a|acknowledge explain
 g|what|query_w
 f|sorry on you go right i've drawn this line|reply_w explain
 g|right is it is it stopping just down from start in a straight line from start|acknowledge align
@@ -72,13 +72,13 @@ g|it should stop at you know doing the just in a straight line from the ravine r
 f|right i've got it|acknowledge
 g|in a straight line to like a straight line across like|instruct
 f|towards the pine grove you got a pine grove|check query_yn
-g|no uh-huh yeah yeah no not across to there vertical right a vertical line this is quite good vertical line and stop just where the "r" is in forest down from forest do you know what i mean|reply_y reply_n clarify align
+g|no uh-huh yeah yeah no not across to there vertical right a vertical line this is quite good vertical line and stop just where the r is in forest down from forest do you know what i mean|reply_y reply_n clarify align
 f|oh wait a minute a vertical line|check
 g|mmhmm|reply_y
 f|you mean i'm going down towards the ravine i'll be in the ravine|check
 g|oh no no a horizontal line right a vertical a horizontal line mmhmm|reply_n clarify clarify reply_y
 f|towards the right and where do i stop|check query_w
-g|just down from where the "r" is okay|reply_w align
+g|just down from where the r is okay|reply_w align
 f|from pine grove|check
 g|mmhmm|reply_y
 f|right okay|acknowledge
@@ -87,12 +87,12 @@ f|oh i'm not allowed to move right|explain explain
 g|go up again ehm you know how you got the ravine just go up and past the ravine have you got the remote village no|instruct query_yn
 f|i'm i'm really past the ravine by now i'm at the pine grove i'm at at towards the right-hand side of the page|explain explain
 g|well go back don't pass the don't pass the ravine|instruct
-f|oh the "r" of the ravine|check
+f|oh the r of the ravine|check
 g|pardon|query_w
-f|i thought you meant the "r" of the pine grove|clarify
+f|i thought you meant the r of the pine grove|clarify
 g|no|reply_n
 f|right wait a|instruct
-g|don't pass the ravine okay it's the "r" of the burnt forest i was talking about|instruct explain
+g|don't pass the ravine okay it's the r of the burnt forest i was talking about|instruct explain
 f|oh so you this line was only about two centimetres long|check
 g|uh-huh yeah|reply_y
 f|right right i'm not past the ravine|acknowledge ready explain
@@ -127,12 +127,12 @@ f|can you do this aye|query_yn reply_y
 g|i think you can|reply_y
 f|right|acknowledge
 g|right vertically down 'til you're like in a straight okay|instruct align
-f|right i'm at right i know what you mean now right i'm at the ravine and then i go along to where it says "r" of the ravine|ready explain reply_y explain check
-g|no you go along to where it says "r" of the burnt forest|reply_n clarify
+f|right i'm at right i know what you mean now right i'm at the ravine and then i go along to where it says r of the ravine|ready explain reply_y explain check
+g|no you go along to where it says r of the burnt forest|reply_n clarify
 f|oh right|acknowledge
 g|a horizontal line okay|clarify align
 f|right okay|reply_y
-g|just in line with the "r" of the burnt forest|clarify
+g|just in line with the r of the burnt forest|clarify
 f|oh right i've got you now right i've got that|acknowledge
 g|and then you go up a vertical line|instruct
 f|to the top of the ravine|check
@@ -193,7 +193,7 @@ f|to your right|check
 g|uh-huh go round it and include it in the line|reply_y clarify
 f|right i'm just drawing my line underneath the word concealed hideout now|explain
 g|oh good right you have you done that yeah drawn it underneath|acknowledge align
-f|uh-huh i've drawn my line and it's just i'm just at the down below the "t" of concealed hideout|reply_y clarify clarify
+f|uh-huh i've drawn my line and it's just i'm just at the down below the t of concealed hideout|reply_y clarify clarify
 g|oh right okay well draw a a horizontal line over have you got the boat house|acknowledge instruct query_yn
 f|uh-huh|reply_y
 g|over to the boat house right|instruct align
@@ -220,11 +220,11 @@ g|okay that's good right draw it over to the other have you got another boat hou
 f|i've only got one boat house|reply_w
 g|oh right well i've got two i've got one parallel to the concealed hideout well just about|acknowledge explain explain
 f|oh right i've not|acknowledge explain
-g|well what you could do is draw a line underneath the concealed hideout until you get right see the "b" of crane bay|instruct align
+g|well what you could do is draw a line underneath the concealed hideout until you get right see the b of crane bay|instruct align
 f|uh-huh|reply_y
-g|well until you stop at the "b"|instruct
+g|well until you stop at the b|instruct
 f|oh right i've gone along too far then|acknowledge explain
-g|uh-huh stop at the "b"|acknowledge instruct
+g|uh-huh stop at the b|acknowledge instruct
 f|right okay|acknowledge
 g|and then go right down horizontal i mean vertical go right down you know how you've got that have you got the crane bay have you got the actual outline of it|instruct query_yn
 f|to what uh-huh|query_w reply_y

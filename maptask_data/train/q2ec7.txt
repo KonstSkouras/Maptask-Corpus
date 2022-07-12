@@ -52,13 +52,13 @@ g|and the lagoon on the other the lagoon right|query_yn
 f|yes|reply_y
 g|well on the you're on the side of the mountain stream aren't you|ready align
 f|yeah yeah|reply_y
-g|right well i want you to do a a backwards "c" as if you're you're going round farmland and cutting the river cutting across the stream just below the dead tree|ready instruct
+g|right well i want you to do a a backwards c as if you're you're going round farmland and cutting the river cutting across the stream just below the dead tree|ready instruct
 f|right okay|acknowledge acknowledge
 g|so that stop when you get to the bottom of the dead tree|instruct
 f|so remind me what i'm i'm i've got to go underneath the dead tree|check
 g|no from where you are right just at the fork before the fork of the river|reply_n clarify clarify
 f|yeah yes|acknowledge acknowledge
-g|i want you to do a a backwards "c"|clarify
+g|i want you to do a a backwards c|clarify
 f|right|reply_y
 g|right cutting just at don't cross the river the other way from the river|align clarify
 f|yeah okay|acknowledge
@@ -104,11 +104,11 @@ g|right now beside the pirate ship i've got a cross like for the finish|ready ex
 f|beside the pirate ship|check
 g|yeah just to the left of the|reply_y clarify
 f|so do i have to go round the outside of green bay|query_yn
-g|no what you do is you do an "l" shape in the water|reply_n instruct
+g|no what you do is you do an l shape in the water|reply_n instruct
 f|in the water|check
 g|to get to it just to get to the pirate ship|instruct
 f|by the so i'm going to the pirate ship|check
-g|you're going you're doing an "l" shape to the pirate ship|clarify
+g|you're going you're doing an l shape to the pirate ship|clarify
 f|yeah i've got you okay|acknowledge
 g|there that's the finish|clarify
 f|is that that's the end right|check

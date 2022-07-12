@@ -56,4 +56,4 @@ g|so you you've you've come due south and then you've come east to the right of 
 f|yeah so now in the middle i'm actually directly under the remote village at the moment|reply_y explain explain
 g|go about an inch past it|instruct
 f|mmhmm|acknowledge
-g|and "x" marks the spot|instruct
+g|and x marks the spot|instruct

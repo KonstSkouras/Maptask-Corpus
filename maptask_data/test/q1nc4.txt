@@ -116,7 +116,7 @@ g|but not don't go down just go along don't go don't go down where it it really 
 f|right okay|acknowledge acknowledge
 g|so you're at the top left-hand side of crane bay right just northwest of where it says crane|align
 f|uh-huh|reply_y
-g|or the where the "c" is|align
+g|or the where the c is|align
 f|uh-huh|reply_y
 g|i've got wheatfields in line with where it says bay okay about an inch or so to the left of crane bay itself just in line in fact beneath where the other wheatfields were that i that i was telling you about|explain
 f|mmhmm right okay|acknowledge acknowledge

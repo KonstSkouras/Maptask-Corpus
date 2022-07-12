@@ -40,7 +40,7 @@ g|yeah you're going to actually go through the rift valley like the rift valley'
 f|yeah|reply_y
 g|you're going to go and you're going to come right through you're going to like intersect right almost at the midpoint of the rift valley|instruct
 f|right go through the centre i'll just take it up and go through the centre yeah|ready check acknowledge
-g|yeah like right through the sort of midpoint like through the it's like a "u" and you're going right through the midpoint you want to be down into the "u" as though you were going if you know what i mean|reply_y clarify
+g|yeah like right through the sort of midpoint like through the it's like a u and you're going right through the midpoint you want to be down into the u as though you were going if you know what i mean|reply_y clarify
 f|right okay erm i'm not that so i should be below there when i'm taking the line up|acknowledge query_yn
 g|yeah below and then like into the rift valley|reply_y clarify
 f|okay right|ready
@@ -54,7 +54,7 @@ g|right you've got in you're above the rift valley first of all right|ready alig
 f|was i|query_w
 g|yeah above the rift valley you go above the rift valley and then you start coming down as in into the rift valley and you intersect like the line of the rift valley in the midpoint|reply_y clarify instruct
 f|right mm that's not where i am now right so where hang on right so|acknowledge explain query_w
-g|your rift valley is "u"-shaped yeah|align
+g|your rift valley is u-shaped yeah|align
 f|yeah in a like as the two ends are pointing up towards top of the page|reply_y align
 g|yeah|reply_y
 f|right and i was supposed to start above it there and come down through it|ready check
@@ -133,7 +133,7 @@ f|mmhmm i'm well i've got it at the moment i'm slightly below it but|reply_y rep
 g|you've got a gold mine a gold mine you got a gold mine below that|check
 f|yeah|reply_y
 g|far below it directly below it|query_yn query_yn
-f|not directly below it just just below the "u" if you take it down from the hideout er that that's just that's just at the left-hand side|reply_n explain
+f|not directly below it just just below the u if you take it down from the hideout er that that's just that's just at the left-hand side|reply_n explain
 g|aye that'll be where my that'll be where my stone labs that'll be where my stone slabs are|ready explain explain
 f|but are your stone slabs not kind of at the other side of that|check
 g|i would imagine|explain

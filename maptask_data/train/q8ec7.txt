@@ -82,7 +82,7 @@ g|above it er to your is it to your left yeah|query_yn
 f|mmhmm|reply_y
 g|right do you have a secret valley|acknowledge query_yn
 f|mmhmm|reply_y
-g|well you go straight down to the left well slope slightly to the left of the secret valley and curve round to the bottom of it yeah and to the "s" right go down to the "s" of secret|ready instruct
+g|well you go straight down to the left well slope slightly to the left of the secret valley and curve round to the bottom of it yeah and to the s right go down to the s of secret|ready instruct
 f|right|acknowledge
 g|you're just underneath that yeah and along five centimetres and that's finish|align instruct
 f|what to the right|query_yn

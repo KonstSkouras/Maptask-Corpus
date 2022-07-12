@@ -54,7 +54,7 @@ g|it sort of curves round|reply_w
 f|curves round okay right|acknowledge
 g|and then then|instruct
 f|along to your right|check
-g|it's like an "s" shape right but not like a steep "s" shape like a sort of er sort of stretched out "s" shape|instruct
+g|it's like an s shape right but not like a steep s shape like a sort of er sort of stretched out s shape|instruct
 f|right|acknowledge
 g|a wee bit ehm 'til you're about er halfway down the page when you get to the bottom curve that comes back out the way|instruct
 f|erm do i go along right|query_yn
@@ -144,9 +144,9 @@ g|well it's sort of directly above the alpine garden except a bit to the right s
 f|slightly to the right okay directly above it how much|acknowledge query_w
 g|well where are you just now|ready query_w
 f|erm about one centimetre from the side of the alpine garden that's above it and along one|reply_w
-g|right go along a wee bit until see the "d" of the alpine garden on the in between the "d" of the see where it says alpine garden|ready instruct align
+g|right go along a wee bit until see the d of the alpine garden on the in between the d of the see where it says alpine garden|ready instruct align
 f|yeah|reply_y
-g|right just look at that the in between the "d" and "e" just put a straight line straight above that right|ready instruct align
+g|right just look at that the in between the d and e just put a straight line straight above that right|ready instruct align
 f|okay right|reply_y
 g|about er maybe ffffphhhhh ten centimetres|instruct
 f|right ten centimetres okay and|acknowledge ready

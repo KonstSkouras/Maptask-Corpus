@@ -99,10 +99,10 @@ f|carved wooden pole stone creek flat rocks|explain
 g|right okay right what you do then is you go south from the walled city|ready instruct
 f|right|acknowledge
 g|and you follow a sort of curve ehm how do you describe the last south sort of from go in a|instruct query_yn instruct
-f|an "s"|explain
-g|sort of "c" shape to cover the bottom of a "c" right from when you pass down below the walled city|instruct align instruct
+f|an s|explain
+g|sort of c shape to cover the bottom of a c right from when you pass down below the walled city|instruct align instruct
 f|right i right wait|acknowledge
-g|go in a "c"-shaped curve|instruct
+g|go in a c-shaped curve|instruct
 f|right from|check
 g|right and then go between the flat rocks and the stone creek okay can you do that you pass in a pass|align instruct align instruct
 f|right i i'm at the walled city right|acknowledge explain
@@ -170,18 +170,18 @@ g|below the buffalo|acknowledge
 f|right|acknowledge
 g|right at about at the level of the top of the fort right in line with the top of the fort|align instruct
 f|okay pass straight across|acknowledge query_yn
-g|no don't pass straight across right just curve downwards in a a "u" slight "u" a very very very slight curve and then pass upwards in a like an upside-down "u" because you want to avoid the cattle ranch which lies between the fort and the buffalo there's a cattle there's a cattle ranch|reply_n instruct explain
+g|no don't pass straight across right just curve downwards in a a u slight u a very very very slight curve and then pass upwards in a like an upside-down u because you want to avoid the cattle ranch which lies between the fort and the buffalo there's a cattle there's a cattle ranch|reply_n instruct explain
 f|right there's a cattle ranch between your buffalo and your fort|ready check
 g|that's right|reply_y
-f|right so i've got to go along and uh over a "u" shape right|ready check
+f|right so i've got to go along and uh over a u shape right|ready check
 g|you've go up and over the cattle ranch|clarify
 f|and then to the along to the fort|check
 g|then down uh-huh that's right|clarify reply_y
-f|right hang on hang on right right i'm doing my "u" now right|acknowledge explain
+f|right hang on hang on right right i'm doing my u now right|acknowledge explain
 g|right and then down underneath the fort sort of um to your left|acknowledge instruct
 f|right|acknowledge
 g|mmhmm over the cattle ranch right|align
-f|over the over the "u" right down and then down to the left and then south|check reply_y check
+f|over the over the u right down and then down to the left and then south|check reply_y check
 g|and then travel south and then|clarify
 f|before i reach the fort or on the other side|check
 g|before you reach the fort|clarify

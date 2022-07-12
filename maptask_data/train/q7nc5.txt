@@ -68,7 +68,7 @@ g|right so if you can take up where you left off and|ready instruct
 f|right the granite quarry|acknowledge
 g|go to the left and sort of go under the waterfall about an inch below the waterfall|instruct
 f|in a curve or just straight|query_w
-g|sort of in a slight curve below it and then up again past the "w" right up to the top of the the waterfall keeping to the sort of left of the waterfall|reply_w instruct
+g|sort of in a slight curve below it and then up again past the w right up to the top of the the waterfall keeping to the sort of left of the waterfall|reply_w instruct
 f|past oh right okay|acknowledge
 g|and can you sort of stop just above the waterfall|instruct
 f|right yeah that's where i stopped so|acknowledge explain

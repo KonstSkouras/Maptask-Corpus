@@ -16,7 +16,7 @@ g|curve round it draw one in|instruct instruct
 f|where is it|query_w
 g|it's at the bottom of the map the bottom left-hand corner and if you go underneath that|reply_w instruct
 f|okay|ready
-g|underneath it and come back up to the other side of it in a "u" shape|instruct
+g|underneath it and come back up to the other side of it in a u shape|instruct
 f|right|acknowledge
 g|then go up past the the left of the adventure playground|instruct
 f|right|acknowledge
@@ -38,13 +38,13 @@ g|right and stop and then go up northwards|instruct instruct
 f|right|acknowledge
 g|straight up for a wee bit 'til you get to the granite quarry okay|instruct
 f|right|acknowledge
-g|granite is it names and everything again okay right this is melanie and valerie and the number is "n" "a" "q" three "c" three minus plus one "a" "f" right so we're at the start|clarify query_w ready explain instruct
+g|granite is it names and everything again okay right this is melanie and valerie and the number is n a q three c three minus plus one a f right so we're at the start|clarify query_w ready explain instruct
 f|mmhmm|reply_y
 g|and head down towards the bottom of the page going past the left of the site of forest fire|instruct
 f|right|acknowledge
 g|go down and go underneath the picnic site|instruct
 f|uh-huh|acknowledge
-g|and come back up the other side making a "u" round it|instruct
+g|and come back up the other side making a u round it|instruct
 f|mmhmm|acknowledge
 g|and then keep going up past the left-hand side of the adventure playground|instruct
 f|mmhmm|acknowledge

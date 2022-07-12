@@ -148,7 +148,7 @@ g|brrrr see where ehm the very bottom curve of it is|align
 f|uh-huh|reply_y
 g|can you make it like see where you are now you're about an inch away from the abandoned cottage right can you make a sort of a wide circle sort of a half circle towards the ehm bottom of that point that curve of west lake|instruct align instruct
 f|mmhmm|reply_y
-g|right see where the "e" is in west lake|align
+g|right see where the e is in west lake|align
 f|mmhmm|reply_y
 g|in lake eh go it's right underneath there you know i'm talking about that point where it starts to curve like it's to there eh you need a kind of wide a half circle|align instruct align instruct
 f|yes a|reply_y query_w
@@ -174,7 +174,7 @@ g|okay|align
 f|right i've done that|reply_y
 g|so you've and like you follow the curve of west lake right see where that see where i told you to go to stop at|align ready align
 f|you know so i'm like i'm really kind of doubling back on myself a bit|ready check
-g|uh-huh you've got you're following to the to the right-hand side you're going right round the right-hand side see right see when you come to the right see right imagine you're at the that point okay underneath the "e"|reply_y instruct
+g|uh-huh you've got you're following to the to the right-hand side you're going right round the right-hand side see right see when you come to the right see right imagine you're at the that point okay underneath the e|reply_y instruct
 f|right i've done|ready explain
 g|right|align
 f|yes|reply_y
@@ -260,17 +260,17 @@ g|so go straight draw the line to you know where your see that curve that you're
 f|mmhmm|reply_y
 g|right|align
 f|ah i went a bit further 'cause i thought you said|explain
-g|uh-huh right and just and go from there go straight up towards the east lake so you should be directly under the the "e" in lake|acknowledge ready instruct
+g|uh-huh right and just and go from there go straight up towards the east lake so you should be directly under the the e in lake|acknowledge ready instruct
 f|no my monument's more to the right of the page than that the east lake's|reply_n explain
-g|uh-huh see the "e" in the word lake|acknowledge align
-f|oh the word the "e" in the word|acknowledge
-g|the word "e"|align
+g|uh-huh see the e in the word lake|acknowledge align
+f|oh the word the e in the word|acknowledge
+g|the word e|align
 f|right|reply_y
 g|in the lake right see directly underneath that on the on the coast line of that if you know what i mean the edge of it|align align
 f|mmhmm|reply_y
 g|make a dot there right|instruct
-f|directly underneath the "e"|check check
-g|underneath the "e" underneath the "e" make a dot right beside the lake and from the monument the guy's hand on the monument draw a line from that okay to the east lake and then just follow the curve of the east lake|clarify reply_y clarify instruct align instruct
+f|directly underneath the e|check check
+g|underneath the e underneath the e make a dot right beside the lake and from the monument the guy's hand on the monument draw a line from that okay to the east lake and then just follow the curve of the east lake|clarify reply_y clarify instruct align instruct
 f|right|acknowledge
 g|so you follow the curve of the east lake to the left sorry i've thought it was to the left|instruct explain
 f|right right|acknowledge acknowledge
@@ -278,14 +278,14 @@ g|right so eh you know the bottom left of the east lake|align ready align
 f|uh-huh|reply_y
 g|about in a centimetre away from that keep drawing a line and then finish it okay|instruct align
 f|the say that again|query_w instruct
-g|see the "e" in the east|align
+g|see the e in the east|align
 f|yes|reply_y
 g|the letter the word east underneath that draw a line about an inch away from that okay keep following the coast line but don't don't go up don't go up vertically|align clarify clarify
 f|right don't go up|acknowledge acknowledge
 g|you just go straight along that except carry the line on|clarify
 f|uh-huh how far|acknowledge query_w
 g|for about another centimetre and just draw a cross|reply_w instruct
-f|a centimetre from the "e"|check
+f|a centimetre from the e|check
 g|mmhmm|reply_y
 f|is that all right|check acknowledge
 g|mmhmm but see where the east lake is see that that kind of line you followed|reply_y align

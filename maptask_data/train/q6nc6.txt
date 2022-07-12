@@ -80,7 +80,7 @@ g|right now you want to keep curving down to well basically keep curving down 't
 f|a what|query_w
 g|you've not got a swan pond|check
 f|no|reply_n
-g|right well you want to keep curving down you're at the bottom right of the noose you want to curve down so you're just ehm sort of a few centimetres five centimetres from maybe above the end you know the writing at the bottom the "n" "a" "q" "c" "6" stuff|ready instruct align
+g|right well you want to keep curving down you're at the bottom right of the noose you want to curve down so you're just ehm sort of a few centimetres five centimetres from maybe above the end you know the writing at the bottom the n a q c 6 stuff|ready instruct align
 f|yeah|reply_y
 g|you want to be just above that and your level is about roughly the middle of the saloon bar has your level|instruct
 f|right i'm there|acknowledge
@@ -97,5 +97,5 @@ f|right|acknowledge
 g|and from there you want to curve eh so you're underneath the saloon bar|instruct
 f|underneath it|check
 g|yeah|reply_y
-f|right i'm underneath the "o"|acknowledge explain
-g|and then right you're underneath the "o" right well basically this is the bit i messed up a bit last time the finish is just keeping going to your left and curving up past the saloon bar and it's a few it's about three or maybe four centimetres out five centimetres out from the left-hand side of your page and it's just above the roof of the saloon bar and that's the finish|ready acknowledge ready explain instruct
+f|right i'm underneath the o|acknowledge explain
+g|and then right you're underneath the o right well basically this is the bit i messed up a bit last time the finish is just keeping going to your left and curving up past the saloon bar and it's a few it's about three or maybe four centimetres out five centimetres out from the left-hand side of your page and it's just above the roof of the saloon bar and that's the finish|ready acknowledge ready explain instruct

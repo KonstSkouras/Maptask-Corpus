@@ -75,12 +75,12 @@ f|how how long do you want that diagonal to be|query_w
 g|ah well it has to go east right about two inches and then come down about an inch and a half|ready reply_w
 f|right an inch and a half|acknowledge
 g|so it it doesn't go directly from it's sort of like more like a slope|ready clarify
-f|so almost like half a "zed" shape you know like a letter "zed"|ready check check
+f|so almost like half a zed shape you know like a letter zed|ready check check
 g|mmhmm|reply_y
 f|right okay i've done that|acknowledge
-g|you mean "zee"|query_yn
-f|yeah i mean "zed"|reply_y
-g|"zed" okay|acknowledge
+g|you mean zee|query_yn
+f|yeah i mean zed|reply_y
+g|zed okay|acknowledge
 f|to me eh|reply_y
 g|so now so alright here we are|ready align
 f|right|acknowledge
@@ -226,7 +226,7 @@ g|and then you drop down about an inch and a half|instruct
 f|uh-huh|acknowledge
 g|then you go to the right about an inch and a little bloop up|instruct instruct
 f|what right|query_w acknowledge
-g|then you just go bloop and like about tiny tiny bit up and draw an "x" and we're done it should be right to the left of the chestnut tree|instruct
+g|then you just go bloop and like about tiny tiny bit up and draw an x and we're done it should be right to the left of the chestnut tree|instruct
 f|oh|acknowledge
 g|you're making me pick my nose|explain
 f|well we we might be in the chestnut trees might be in different position is it a bloop like a kind of round bit|explain check
@@ -250,7 +250,7 @@ g|is the eh is the spaceship right to the left of the tree|query_yn
 f|no it's just above the tree|reply_n reply_w
 g|oh no you should be|reply_n
 f|it's above it's well my tree might be different than your tree|explain
-g|okay well just just go to the right about an inch and then draw an "x" and we'll be done|acknowledge ready instruct
+g|okay well just just go to the right about an inch and then draw an x and we'll be done|acknowledge ready instruct
 f|right|acknowledge
 g|i got to see your map|explain
 f|right|acknowledge

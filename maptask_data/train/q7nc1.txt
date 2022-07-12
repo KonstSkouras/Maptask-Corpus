@@ -62,14 +62,14 @@ g|yeah it's just come down 'til you're about ehm two two to three inches above t
 f|right|acknowledge
 g|okay|align
 f|right|reply_y
-g|ehm go along to like level with the "b" from the bandit territory|instruct
+g|ehm go along to like level with the b from the bandit territory|instruct
 f|okay|acknowledge
 g|if you know what i mean if you just walk up and then start going back up the way again to the outside of a gold mine have you got a gold mine|instruct instruct query_yn
 f|i've got a i've got right i've came down to an inch two inches above the great rock right|reply_w ready explain
 g|right|acknowledge
 f|to the right of the great rock and then above the great rock i've got a totem pole and then i've got a gold mine|explain reply_w
 g|right go right up to like beside the gold mine|acknowledge instruct
-f|right but see what about the "b" what did you say about the "b" in the bandit territory|acknowledge query_w
+f|right but see what about the b what did you say about the b in the bandit territory|acknowledge query_w
 g|sort of curved out the way i just meant like that was how far out you were to go to|instruct reply_w
 f|oh above the great rock|check
 g|yeah|reply_y

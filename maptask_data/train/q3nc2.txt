@@ -22,7 +22,7 @@ g|right you've you've come from vast meadow right|ready reply_w align
 f|mmhmm|reply_y
 g|and there's an outcrop of land well you're not going quite on to that|instruct
 f|right|acknowledge
-g|right you're going up to the next corner above vast meadow just sort of diagonally opposite the "c" of crane bay right you've got to turn to your left up the way do you want me to run by that one again|align instruct ready clarify query_yn
+g|right you're going up to the next corner above vast meadow just sort of diagonally opposite the c of crane bay right you've got to turn to your left up the way do you want me to run by that one again|align instruct ready clarify query_yn
 f|yeah if you could|reply_y
 g|right where've we got to vast meadow|align
 f|uh-huh|reply_y
@@ -44,7 +44,7 @@ g|uh-huh towards the coast|reply_y
 f|right|acknowledge
 g|it's not really towards the coast it's sort of what would it be northeastwards no it wouldn't be northeastwards if you were coming that way it would be northwestwards|clarify
 f|right|acknowledge
-g|ehm along above where it says crane bay you keep quite close to the coast and above the "e" of crane bay you're making a ninety degree turn to your left again|instruct
+g|ehm along above where it says crane bay you keep quite close to the coast and above the e of crane bay you're making a ninety degree turn to your left again|instruct
 f|right|acknowledge
 g|towards the reclaimed fields|instruct
 f|right|acknowledge
@@ -68,7 +68,7 @@ g|that's just a habit of mine to start at the bottom of a map and work my way up
 f|right|ready
 g|okay okay|ready ready
 f|bit young for a missus|explain
-g|yes right this is lindsey and melanie number "n" "a" "q" three "c" two plus minus four "d" "u" right if you'd like to start at the beginning|acknowledge explain instruct
+g|yes right this is lindsey and melanie number n a q three c two plus minus four d u right if you'd like to start at the beginning|acknowledge explain instruct
 f|at at the start|check
 g|at the start which is above the haystack|clarify
 f|okay|acknowledge
@@ -126,7 +126,7 @@ g|ehm head down at a southwesterly angle towards vast meadow and the attractive 
 f|yes|acknowledge
 g|right you should be in between them you head down in a straight line between vast meadow and attractive cliffs|align instruct
 f|a straight line between them|check
-g|uh-huh until about the "a" of vast meadow|reply_y instruct
+g|uh-huh until about the a of vast meadow|reply_y instruct
 f|what okay|query_w acknowledge
 g|right and again the same sort of southwesterly angle down to where it says attractive cliffs|align instruct
 f|okay|acknowledge

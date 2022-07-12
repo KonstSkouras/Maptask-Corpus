@@ -88,14 +88,14 @@ g|now you should be going along the bottom of the paper now|align
 f|yes|reply_y
 g|now do you is there a cattle ranch|query_yn
 f|no|reply_n
-g|"o" "k" corral no|query_yn acknowledge
+g|o k corral no|query_yn acknowledge
 f|no|reply_n
 g|well there's obviously you've no got a cattle ranch|ready explain
 f|mmhmm|reply_y
 g|so you head for the fort|instruct
 f|head for the fort|acknowledge
 g|uh-huh|acknowledge
-f|for the "u" "s" cavalry|explain
+f|for the u s cavalry|explain
 g|i think the apaches will be after you so you better hurry|explain
 f|okay|acknowledge
 g|right and the buffalo and all|ready explain

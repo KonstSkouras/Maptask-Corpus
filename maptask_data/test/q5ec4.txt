@@ -44,8 +44,8 @@ g|well you slope down with the pine forest on your right|instruct
 f|pine forest on my right|check
 g|aha so don't go round the pine forest just like pass down by it|instruct
 f|so i'm cut right okay|check acknowledge
-g|right and then just where the word pine forest is just stop at the "p"|align align instruct
-f|right right stop at the "p" right|acknowledge acknowledge acknowledge
+g|right and then just where the word pine forest is just stop at the p|align align instruct
+f|right right stop at the p right|acknowledge acknowledge acknowledge
 g|right and then sort of loop round a wee bit more don't don't draw your line in the same angle sort of make it a bit flatter and then draw another wee loop|align instruct
 f|a bit flatter what on the same does this have have i to cross a stream|check query_yn
 g|what|query_w
@@ -74,13 +74,13 @@ g|all right right just come in two centimetres towards the middle|acknowledge re
 f|okay|acknowledge
 g|from the bakery|instruct
 f|right|acknowledge
-g|right and then are you sort of above the "e" in crane bay|align
+g|right and then are you sort of above the e in crane bay|align
 f|yes|reply_y
 g|right well go down towards the coast|acknowledge instruct
 f|alright|acknowledge
 g|right and then follow the crane bay round the coast|align instruct
 f|okay what's the direction|acknowledge query_w
-g|to the to the left it's towards the "c" of crane bay|clarify
+g|to the to the left it's towards the c of crane bay|clarify
 f|okay right|acknowledge
 g|right and eh then it's sort of have you got wheatfields|align instruct query_yn
 f|yes but they're up the top|reply_y explain

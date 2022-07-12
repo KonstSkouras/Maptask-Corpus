@@ -151,5 +151,5 @@ f|uh-huh right|acknowledge acknowledge
 g|should have come to the finish|instruct
 f|i think so|acknowledge
 g|yeah|acknowledge
-f|looks like your route home from the "q" "m" on a thursday night that's that i think then|explain acknowledge
+f|looks like your route home from the q m on a thursday night that's that i think then|explain acknowledge
 g|yeah|acknowledge

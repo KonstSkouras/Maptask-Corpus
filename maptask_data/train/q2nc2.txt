@@ -194,14 +194,14 @@ g|excellent eh no i don't have a rocket launch pad on mine but i don't think tha
 f|no|acknowledge
 g|right okay do you have east lake written on the east lake|acknowledge ready query_yn
 f|uh-huh yeah|reply_y
-g|yeah see where the "e" is|check align
+g|yeah see where the e is|check align
 f|uh-huh|reply_y
-g|erm if you draw a line if you are just about directly beneath that "e"|instruct
+g|erm if you draw a line if you are just about directly beneath that e|instruct
 f|mmhmm|acknowledge
-g|okay draw a line up to the water's edge maybe just to the right of that "e"|instruct
+g|okay draw a line up to the water's edge maybe just to the right of that e|instruct
 f|straight up|check
 g|straight up yeah|reply_y
-f|just slightly to the right of the "e"|check
+f|just slightly to the right of the e|check
 g|mmhmm until you're just like virtually on the water's edge|reply_y clarify
 f|mmhmm|acknowledge
 g|okay|align
@@ -214,6 +214,6 @@ g|yeah if if your line is pointing you're not we're not going to take it that fa
 f|uh-huh|acknowledge
 g|and you're still underneath the east lake then that's you|explain
 f|right right got you|acknowledge acknowledge
-g|"x" marks the spot and we're finished|explain
+g|x marks the spot and we're finished|explain
 f|so where am i going now to the great viewpoint|check
 g|that's you no that's you|explain explain

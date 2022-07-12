@@ -88,9 +88,9 @@ g|right what you you do is go about two centimetres up diagonally from where you
 f|mmhmm|acknowledge
 g|right go up about two centimetres diagonally|ready instruct
 f|mmhmm|acknowledge
-g|and then 'til and then straight up to the lake you should be just about under the "e" of the lake|ready instruct
-f|under the "e" of the lake|check
-g|under "e" it says east lake|clarify
+g|and then 'til and then straight up to the lake you should be just about under the e of the lake|ready instruct
+f|under the e of the lake|check
+g|under e it says east lake|clarify
 f|okay yeah fine|acknowledge
 g|right at the bottom of the lake|ready instruct
 f|mmhmm|acknowledge

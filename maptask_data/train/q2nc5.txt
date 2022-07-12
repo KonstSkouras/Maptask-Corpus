@@ -70,7 +70,7 @@ g|yeah my route kind of circles round nothing in particular so i i assume that's
 f|mmhmm|acknowledge
 g|erm i suppose you'll be curving round eh well head towards the bottom left-hand corner the of the page for about an inch|instruct
 f|mmhmm|acknowledge
-g|and then perform a "u"-turn as it were about and head eh|instruct
+g|and then perform a u-turn as it were about and head eh|instruct
 f|okay round the flamingoes|acknowledge check
 g|yeah|reply_y
 f|okay|acknowledge

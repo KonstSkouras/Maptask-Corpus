@@ -4,7 +4,7 @@ g|and the diamond mine|query_yn
 f|in the up at uh-huh up at the top to the left of the diamond mind|check reply_y check
 g|yeah|reply_y
 f|mine right|acknowledge
-g|ah right if you come down to the just below the "d" in the diamond|acknowledge instruct
+g|ah right if you come down to the just below the d in the diamond|acknowledge instruct
 f|okay straight down|acknowledge check
 g|yeah and then along do you have the springboks|reply_y instruct query_yn
 f|no|reply_n
@@ -16,7 +16,7 @@ g|uh-huh yeah|reply_y
 f|right|acknowledge
 g|yeah|acknowledge
 f|so i'm right|check acknowledge
-g|ehm from the "e" in mine|instruct
+g|ehm from the e in mine|instruct
 f|uh-huh|acknowledge
 g|i go another maybe six centimetres in the same direction|instruct
 f|mmhmm|acknowledge
@@ -96,7 +96,7 @@ g|and then move vertically down to the giraffes|instruct
 f|right okay so i'm at the the right of the giraffes|acknowledge ready align
 g|mmhmm|reply_y
 f|okay so what do i do now|ready query_w
-g|ehm you you should be around about at the "s" in giraffe about a centimetre below it|instruct
+g|ehm you you should be around about at the s in giraffe about a centimetre below it|instruct
 f|okay|acknowledge
 g|and then curve round slightly for about four five centimetres|instruct
 f|what going going left|query_yn
@@ -118,7 +118,7 @@ g|mm that's about okay|acknowledge
 f|right|acknowledge
 g|if you come down so you're about a centimetre below the great lake and just move underneath the great lake|instruct
 f|so i'm going back down again oh right go underneath it so just straight across then to the left|check acknowledge check
-g|straight across until you get to the "g"|reply_y instruct
+g|straight across until you get to the g|reply_y instruct
 f|i'll just score that wee bit out then uh-huh|explain acknowledge
 g|and if you curve up to the left ehm about five centimetres do you have the rock fall|instruct query_yn
 f|uh-huh|reply_y
