@@ -15,7 +15,7 @@ Train set
 - Number of utterances: 14712
 Test set
 - Number of dialogues: 13
-- Max dialogue length: 228
+- Max dialogue length: 
 - Mean dialogue length: 151.08
 - Min dialogue length: 98
 - Number of utterances: 1964
